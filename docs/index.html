@@ -141,10 +141,10 @@
 
         const FileSelector = ({ onFileUpload, setFileName }) => {
           const availableFiles = [
-            { value: '', label: 'Selecteer een bestand...' },
+            { value: '', label: 'Selecteer ...' },
             { value: 'ROM.13.json', label: 'Romeinen 13' },
             { value: 'RUT.1.json', label: 'Ruth 1' },
-            { value: 'MRK.16.json', label: 'Marcus 16' }
+            { value: 'MRK.16.json', label: 'Markus 16' }
           ];
 
           const handleSelectChange = useCallback(async (event) => {
@@ -168,7 +168,7 @@
           return (
             <div className="w-full p-6 border-2 border-gray-300 rounded-lg bg-white">
               <label htmlFor="file-select" className="block text-lg font-semibold text-sky-600 mb-3 text-center">
-                Selecteer een bestand
+                Kies een voorbeeld
               </label>
               <select
                 id="file-select"
@@ -616,7 +616,7 @@
                       Welkom
                     </h2>
                     <p className="mt-4 text-lg text-gray-600 mb-8">
-                      Selecteer een bestand uit de lijst of upload een JSON-bestand om de vertalingen te vergelijken en te beoordelen.
+                      Kies een voorbeeld uit de lijst of upload een JSON-bestand om de vertalingen te vergelijken en te beoordelen.
                     </p>
                     <div className="grid md:grid-cols-2 gap-6">
                       <FileSelector
