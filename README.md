@@ -2,6 +2,8 @@
 
 This repository contains pilot data for the agentic modernization of the **Statenvertaling 1657** (SV1657) into modern Dutch.
 
+**[View the interactive web portal →](https://wmotte.github.io/sv1657_pilot/)**
+
 ## Overview
 
 The Statenvertaling is a historic Dutch translation of the Bible completed in 1637. This pilot project explores the use of LLM agents to modernize the language of the 1657 printing, making it more accessible to contemporary Dutch readers while preserving the integrity and meaning of the original text.
