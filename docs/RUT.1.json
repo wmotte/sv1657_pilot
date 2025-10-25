@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "book": "Ruth",
+    "book_code": "RUT",
+    "chapter": 1,
+    "translation_policy": "Statenvertaling 1657 → Hedendaags Nederlands (definitieve redactie)",
+    "source_language": "Hebreeuws (BHS)",
+    "notes": "Definitieve redactie voltooid door de virtuele editor, met de nadruk op trouw aan de brontekst."
+  },
+  "introduction": {
+    "original": "Elimelech vertreckt, dieren tijts halven, van Bethlehem na het lant der Moabiten, ende sterft aldaer, vers 1, et c. Sijne twee sonen nemen Moabitische wijven, ende sterven oock, 4. Naomi, weduwe van Elimelech, hoorende dat de dierte ophieldt, begeeft haer met de twee schoondochters, Orpa ende Ruth, op de reyse na Bethlehem, 6. Naomi vermaent beyde schoondochters weder te keeren, 8. Orpa laet haer geseggen, ende treckt te rugge na haer lant, maer Ruth wil Naomi geensins verlaten, 14. komen alsoo beyde te Bethlehem, 19.",
+    "final": "Elimelech vertrekt vanwege de hongersnood van Betlehem naar het land van de Moabieten en sterft daar (vers 1 e.v.). Zijn twee zonen trouwen met Moabitische vrouwen en sterven ook (vs. 4). Naomi, de weduwe van Elimelech, hoort dat de hongersnood voorbij is en gaat met haar twee schoondochters, Orpa en Ruth, op reis naar Betlehem (vs. 6). Naomi spoort beide schoondochters aan om terug te keren (vs. 8). Orpa laat zich overtuigen en trekt terug naar haar land, maar Ruth wil Naomi beslist niet verlaten (vs. 14). Zo komen beiden aan in Betlehem (vs. 19)."
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "original_text": "In de dagen, als de <Siet Iudic. 2. op vers 16.> Richters richteden, soo geschiedde ’t, datter honger in den <Canaan. Vergel. Iudic. 6.4, 6.> lande was: daerom toogh een man van <Siet Iudic. 12. op vers 8.> Bethlehem Iuda, om als vreemdelingh te verkeeren in de <D. in’t lant der Moabiten, die van Lot afkomstigh waren, Deut. 2.9. Dit lant was gelegen in het Oosten, over de Iordane, hebbende vele vlacke velden. Siet Deut. cap. 34. v ersen 1, 8.> velden Moabs, hy, ende sijne huysvrouwe, ende sijne twee sonen.",
+      "final_text": "In de dagen dat de <Zie $Ri. 2:16$.> rechters rechtspraken, gebeurde het dat er honger was in het <Kanaän. Vergelijk $Ri. 6:4, 6$.> land. Daarom vertrok een man uit <Zie $Ri. 12:8$.> Betlehem in Juda om als vreemdeling te verblijven in de <D.w.z. in het land van de Moabieten, die van Lot afkomstig waren, $Deut. 2:9$. Dit land lag in het oosten, aan de overkant van de Jordaan, en had vele vlakke velden. Zie $Deut. 34:1, 8$.> velden van Moab: hij, zijn vrouw en zijn twee zonen.",
+      "source_text": "וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מֹואָ֔ב ה֥וּא וְאִשְׁתֹּ֖ו וּשְׁנֵ֥י בָנָֽיו׃ "
+    },
+    {
+      "verse_number": 2,
+      "original_text": "De naem nu deses mans was Elimelech, ende de naem sijner huysvrouwe, <Siet ond. vers 20.> Naomi, ende de naem sijner twee sonen, Machlon ende Chiljon, <Bethlehem Iuda was eertijts oock genoemt Ephrata, Genes. 35.19. Van gelijcken het lant, daer in Bethlehem lagh, Mich. 5. vers 1. hier van worden sy genoemt Ephraters.> Ephraters, van Bethlehem Iuda: ende sy quamen in de velden Moabs, ende <Hebr. waren.> bleven aldaer.",
+      "final_text": "De naam van deze man was Elimelech, de naam van zijn vrouw <Zie vers 20.> Naomi, en de namen van zijn twee zonen Machlon en Kiljon, <Betlehem in Juda werd vroeger ook Efratha genoemd, $Gen. 35:19$. Zo ook het land waarin Betlehem lag, $Mi. 5:1$. Daarom worden zij Efrathieten genoemd.> Efrathieten, uit Betlehem in Juda. Zij kwamen in de velden van Moab en <Hebr. waren.> bleven daar.",
+      "source_text": "וְשֵׁ֣ם הָאִ֣ישׁ אֱֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתֹּ֨ו נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו׀ מַחְלֹ֤ון וְכִלְיֹון֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מֹואָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ "
+    },
+    {
+      "verse_number": 3,
+      "original_text": "Ende Elimelech, de man van Naomi, sterf: maer sy wert over gelaten, met hare twee sonen.",
+      "final_text": "En Elimelech, de man van Naomi, stierf. Maar zij bleef achter met haar twee zonen.",
+      "source_text": "וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ "
+    },
+    {
+      "verse_number": 4,
+      "original_text": "Die namen sich <Het welcke hen geoorlooft was te doen, indien dese vrouwen bekeert waren, anders niet: want Canaanitische vrouwen te nemen was verboden om dese reden, op datse Godts volck niet mochten verleyden tot afgoderije, welcke reden oock plaetse hadde in de Moabitische afgodische vrouwen. siet Ezr. 9. vers 1. Nehem. 13. vers 23. Dat Ruth bekeert zy, daer van blijckt onder vers 16. ende 2.12.> Moabitische wijven; de naem der eene was, Orpa, ende de naem der andere, Ruth: ende sy bleven aldaer ontrent tien jaren.",
+      "final_text": "Zij trouwden met <Dit was hun geoorloofd als deze vrouwen bekeerd waren, anders niet. Want het was verboden Kanaänitische vrouwen te trouwen, opdat zij Gods volk niet zouden verleiden tot afgoderij. Deze reden gold ook voor de afgodische Moabitische vrouwen. Zie $Ezr. 9:1$; $Neh. 13:23$. Dat Ruth bekeerd is, blijkt uit vers 16 en $Rut. 2:12$.> Moabitische vrouwen; de naam van de ene was Orpa en de naam van de andere Ruth. En zij bleven daar ongeveer tien jaar.",
+      "source_text": "וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיֹּ֔ות שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ "
+    },
+    {
+      "verse_number": 5,
+      "original_text": "Ende die twee, Machlon ende Chiljon storven oock: also wert <Naomi.> dese vrouwe over gelaten, na hare twee sonen, ende na haren man.",
+      "final_text": "En die twee, Machlon en Kiljon, stierven ook. Zo bleef <Naomi.> deze vrouw alleen achter, zonder haar twee zonen en haar man.",
+      "source_text": "וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְלֹ֣ון וְכִלְיֹ֑ון וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ "
+    },
+    {
+      "verse_number": 6,
+      "original_text": "Doe maeckte sy haer op met hare schoondochteren, ende keerde weder <Om te trecken na Bethlehem Iuda, vers 19.> uyt de velden Moabs: want sy hadde gehoort in den lande Moabs, dat de HEERE sijn volck <Siet Genes. 21. op vers 1.> besocht hadde, gevende hen <Dat is, koorn, ende voorts allen nootdruft tot onderhoudinge des menschelicken levens noodigh: soo dat de honger ende dierte ophielden.> broot.",
+      "final_text": "Toen stond zij met haar schoondochters op om terug te keren <Om naar Betlehem in Juda te trekken, vers 19.> uit de velden van Moab. Want zij had in het land van Moab gehoord dat de HEERE Zijn volk <Zie $Gen. 21:1$.> bezocht had door hun <D.w.z. graan en verder alles wat nodig was om te leven, zodat de hongersnood voorbij was.> brood te geven.",
+      "source_text": "וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מֹואָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מֹואָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמֹּ֔ו לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ "
+    },
+    {
+      "verse_number": 7,
+      "original_text": "Daerom gingh sy uyt van de plaetse, daer sy geweest was, ende hare twee schoon-dochters met haer: als sy nu gingen op den wegh, om <Verstaet dit ten aensien van Naomi, die in het lant Iuda te voren gewoont hadde, ende van hare schoondochteren (die daer niet geweest noch gewoont hadden) in’t wederkeeren wert vergeselschapt. siet vers 10. ende cap. 2. vers 6.> weder te keeren na het lant Iuda;",
+      "final_text": "Daarom ging zij weg van de plaats waar zij geweest was, en haar twee schoondochters met haar. Terwijl zij op weg gingen om <Dit slaat op Naomi, die vroeger in Juda woonde. Op haar terugreis werd ze vergezeld door haar schoondochters (die daar nooit eerder waren geweest). Zie vers 10 en $Rut. 2:6$.> terug te keren naar het land Juda,",
+      "source_text": "וַתֵּצֵ֗א מִן־הַמָּקֹום֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ "
+    },
+    {
+      "verse_number": 8,
+      "original_text": "Soo seyde Naomi tot hare twee schoondochteren; Gaet henen, keert weder, eene yegelicke tot haers <Ofte, om dat de vader van Orpa overleden mocht zijn, ofte, om dat de moeders de dochteren gemeenlick meest beminnen. Van Ruth wort geseyt Cap. 2. vers 11. datse haren vader verlaten heeft.> moeders huys: de HEERE doe by u weldadigheyt, gelijck als ghy gedaen hebt by de <Verstaet Machlon ende Chiljon, sonen van Naomi, ende harer schoondochteren gewesene mannen.> doode, ende by my.",
+      "final_text": "zei Naomi tegen haar twee schoondochters: ‘Ga, keer terug, ieder naar het huis van haar <Of omdat de vader van Orpa overleden was, of omdat moeders hun dochters doorgaans het meest liefhebben. Van Ruth wordt in $Rut. 2:11$ gezegd dat zij haar vader verlaten heeft.> moeder. Moge de HEERE u goedertierenheid bewijzen, zoals u die bewezen hebt aan de <D.w.z. Machlon en Kiljon, zonen van Naomi en de overleden mannen van haar schoondochters.> overledenen en aan mij.",
+      "source_text": "וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ <QR>יַ֣עַשׂ <qr>יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ "
+    },
+    {
+      "verse_number": 9,
+      "original_text": "De HEERE geve u, dat ghy <Siet onder 3. vers 1.> ruste vindet, eene yegelicke in haers <Die ghy sult mogen trouwen.> mans huys: ende als sy’se <Om afscheydt van haer te nemen. siet Genes. c. 29. op vers 11.> kuste, hieven sy hare stemme op, ende weenden:",
+      "final_text": "Moge de HEERE geven dat u <Zie $Rut. 3:1$.> rust vindt, ieder in het huis van haar <Die u zult mogen trouwen.> man.’ En toen zij hen <Om afscheid van hen te nemen. Zie $Gen. 29:11$.> kuste, begonnen zij luidkeels te huilen.",
+      "source_text": "יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קֹולָ֖ן וַתִּבְכֶּֽינָה׃ "
+    },
+    {
+      "verse_number": 10,
+      "original_text": "Ende sy seyden tot haer: Wy sullen sekerlick met u <D. wy sullen u, die ghy tot u volck weder keert, vergeselschappen, ende met u gaen.> weder keeren tot u volck.",
+      "final_text": "En zij zeiden tegen haar: ‘Wij zullen zeker met u <D.w.z. wij zullen u, die naar uw volk terugkeert, vergezellen en met u meegaan.> terugkeren naar uw volk.’",
+      "source_text": "וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ "
+    },
+    {
+      "verse_number": 11,
+      "original_text": "Maer Naomi seyde; Keert weder, mijne dochters; waerom soudet ghy met my gaen? heb ick noch sonen in mijnen <Hebr. ingewant.> lijve, dat sy u <Na de wet, Deut. 25.5.> tot mannen souden zijn?",
+      "final_text": "Maar Naomi zei: ‘Keer terug, mijn dochters. Waarom zou u met mij meegaan? Heb ik nog zonen in mijn <Hebr. ingewanden.> schoot, die uw <Volgens de wet, $Deut. 25:5$.> mannen zouden kunnen worden?",
+      "source_text": "וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֹֽוד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ "
+    },
+    {
+      "verse_number": 12,
+      "original_text": "Keert weder, mijne dochters, gaet henen; want ick ben te <Hebr. Ick ben ouder geworden, dan dat ick eenen manne soude gevvorden.> oudt om eenen man te hebben: wanneer ick al seyde; Ick heb hope, of ick oock in desen nacht <Hebr. eenen man gewerde, T.w. ter vrouwe, ofte by eenen man desen nacht lage.> eenen man hadde, ja oock sonen baerde,",
+      "final_text": "Keer terug, mijn dochters, ga maar. Want ik ben te <Hebr. Ik ben ouder geworden dan dat ik een man zou worden.> oud om een man te hebben. Zelfs als ik zou zeggen: “Ik heb hoop”, of zelfs als ik vannacht <Hebr. een man zou krijgen, d.w.z. als vrouw, of bij een man zou liggen.> een man zou hebben en ook zonen zou baren,",
+      "source_text": "שֹׁ֤בְנָה בְנֹתַי֙ لֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְיֹ֣ות לְאִ֑ישׁ כִּ֤י אָמַ֤רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֨יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃ "
+    },
+    {
+      "verse_number": 13,
+      "original_text": "Soudet ghy daer na wachten, tot dat sy souden groot geworden zijn; soudet ghy daer na opgehouden worden, om <Hebr. geenen manne soudet geworden.> geenen man te nemen? Niet, mijne dochters, want <Te weten, dat ick van u scheyden moet: Ofte, dewijle ick nu oudt zijnde mijnen man ende kinderen verloren hebbe, ende ghy noch van toekomstige mannen ende kinderen troost sult konnen genieten. And. het is my seer bitter, om uvvent vville, ofte, van uvvent vvegen: om dat ghy uwe mannen hebt verloren, ende nu soo ongeern van my oock sult worden afgetrocken.> het is my veel bitterer als u; maer de <Als of sy seyde: Dewijle het Godes slagh, plage, ende werck is, dat ick van mijnen man, ende mijne beyde sonen berooft ben, ende nu oock u geselschap sal verliesen, soo moet ick my in sijnen wille gerust stellen: alsoo moet ghy oock doen.> hant des HEEREN is tegen my uytgegaen.",
+      "final_text": "zou u dan wachten totdat zij groot zouden zijn geworden? Zou u zich daarom opsluiten om <Hebr. geen man te worden.> geen man te nemen? Nee, mijn dochters, want <Namelijk, dat ik van u moet scheiden. Of: omdat ik nu oud ben en mijn man en kinderen verloren heb, en u nog troost zult kunnen vinden bij toekomstige mannen en kinderen. Anders: het is mij zeer bitter, omwille van u, omdat u uw mannen hebt verloren en nu zo ongaarne van mij zult worden weggetrokken.> het is voor mij veel bitterder dan voor u, want de <Alsof zij zei: Omdat het Gods slag, plaag en werk is dat ik van mijn man en mijn beide zonen beroofd ben en nu ook uw gezelschap zal verliezen, moet ik mij in Zijn wil berusten. Zo moet u ook doen.> HEERE heeft Zich tegen mij gekeerd.",
+      "source_text": "הֲלָהֵ֣ן׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱיֹ֣ות לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃ "
+    },
+    {
+      "verse_number": 14,
+      "original_text": "Doe hieven sy hare stemme op, ende weenden wederom: ende Orpa kuste hare <Verstaet, Naomi, nemende daer mede haer afscheyt, ende wederkeerende na hare woonplaetse. siet het volgende vers, ende boven op vers 9.> schoonmoeder, maer Ruth <Dat is, sy wilde van Naomi niet scheyden, maer bleef by haer, ende trock met haer voort, als in het volgende verhaelt wort.> kleefde haer aen.",
+      "final_text": "Toen begonnen zij opnieuw luidkeels te huilen. En Orpa kuste haar <D.w.z. Naomi, waarmee zij afscheid nam en terugkeerde naar haar woonplaats. Zie het volgende vers en vers 9.> schoonmoeder, maar Ruth <D.w.z. zij wilde niet van Naomi scheiden, maar bleef bij haar en trok met haar verder, zoals in het volgende wordt verhaald.> klampte zich aan haar vast.",
+      "source_text": "וַתִּשֶּׂ֣נָה קֹולָ֔ן וַתִּבְכֶּ֖ינָה עֹ֑וד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמֹותָ֔הּ וְר֖ות דָּ֥בְקָה בָּֽהּ׃ "
+    },
+    {
+      "verse_number": 15,
+      "original_text": "Daerom seyde <Naomi.> sy; Siet uwe <Hebr. uvves broeders vrouvve, dat is hier, die uwes mans broeder gehadt heeft.> swagerinne is weder gekeert tot haer volck, ende tot <Ofte, haren Godt, te weten, den afgodt der Moabiten, genoemt Camos. Siet Iudic. cap. 11. op vers 24.> hare goden: keert ghy oock weder uwe swagerinne na.",
+      "final_text": "Daarom zei <Naomi.> zij: ‘Zie, uw <Hebr. de vrouw van uw broer, d.w.z. hier, degene die de broer van uw man tot man heeft gehad.> schoonzus is teruggekeerd naar haar volk en naar <Of: haar god, namelijk de afgod van de Moabieten, Kamos genaamd. Zie $Ri. 11:24$.> haar goden. Keer ook terug en volg uw schoonzus.’",
+      "source_text": "וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ "
+    },
+    {
+      "verse_number": 16,
+      "original_text": "Maer Ruth seyde; En valt my niet tegen, dat ick u soude verlaten, om van achter u weder te keeren: want waer ghy sult henen gaen, sal ick oock henen gaen, ende waer ghy sult vernachten, sal ick vernachten; <Hier mede toont sy hare bekeeringe tot den waren Godt, ende de gemeenschap sijner Kercke: waer inne het schijnt, dat Naomi haer met de voorgaende redenen, van het exempel harer swagerinne, hadde willen beproeven. Vergelijckt Iosu. cap. 24. vers 18.> u volck is mijn volck, ende uwe Godt mijn Godt:",
+      "final_text": "Maar Ruth zei: ‘Dring er bij mij niet op aan u te verlaten en terug te keren, door u niet meer te volgen. Want waar u heengaat, zal ik ook heengaan, en waar u overnacht, zal ik overnachten. <Hiermee toont zij haar bekering tot de ware God en de gemeenschap van Zijn Kerk. Hierin schijnt het dat Naomi haar met de voorgaande redenen, naar het voorbeeld van haar schoonzus, op de proef had willen stellen. Vergelijk $Joz. 24:18$.> Uw volk is mijn volk, en uw God is mijn God.",
+      "source_text": "וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֨ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ "
+    },
+    {
+      "verse_number": 17,
+      "original_text": "Waer ghy sult sterven, sal ick sterven, ende aldaer sal ick begraven worden: <Dat is, de Heere straffe my alsoo, ende ga voort in sijne straffe, ofte vermeerdere deselve, indien ick het anders meyne, ofte anders doe, als ick gesproken hebbe. Het is eene maniere van eedtsweeren, waer inne het quaet verswegen wort, dat sy hen selven toedachten ende toewenschten, ofte oock Godts oordeel bevalen. Vergelijckt Genes. 14 op vers 23. ende 1.Reg. cap. 19. op vers 2.> alsoo doe my de HEERE, ende alsoo doe hyder toe; soo niet de doot [alleen] sal scheydinge maken tusschen my ende tusschen u.",
+      "final_text": "Waar u sterft, zal ik sterven, en daar zal ik begraven worden. <D.w.z. moge de HEERE mij zo straffen en doorgaan met Zijn straf, of die vermeerderen, als ik het anders meen of anders doe dan ik gezegd heb. Het is een manier van eedzwering, waarin het kwaad verzwegen wordt dat zij zichzelf toedachten en toewensten, of ook aan Gods oordeel overgaven. Vergelijk $Gen. 14:23$ en $1 Kon. 19:2$.> Moge de HEERE mij zeer zwaar straffen, als iets anders dan de dood [alleen] scheiding maakt tussen mij en u.’",
+      "source_text": "בַּאֲשֶׁ֤ר תָּמ֨וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖ד בֵּינִ֥י וּבֵינֵֽךְ׃ "
+    },
+    {
+      "verse_number": 18,
+      "original_text": "Als sy nu sagh, dat sy vastelick voorgenomen hadde met haer te gaen, soo hielt sy op tot haer te spreken.",
+      "final_text": "Toen Naomi zag dat Ruth vastbesloten was met haar mee te gaan, drong zij niet langer bij haar aan.",
+      "source_text": "וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃ "
+    },
+    {
+      "verse_number": 19,
+      "original_text": "Alsoo gingen die beyde, tot dat sy te Bethlehem quamen: ende het geschiedde, als sy te Bethlehem in quamen, dat de gantsche stadt over haer beroert wert, ende <De vrouwen te Bethlehem.> sy seyden; Is dit Naomi?",
+      "final_text": "Zo gingen die beiden verder, totdat zij in Betlehem kwamen. En het gebeurde, toen zij in Betlehem aankwamen, dat de hele stad vanwege hen in beroering raakte, en <De vrouwen van Betlehem.> de vrouwen zeiden: ‘Is dit Naomi?’",
+      "source_text": "וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֨נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃ "
+    },
+    {
+      "verse_number": 20,
+      "original_text": "Maer sy seyde tot haer-lieden; En noemt my niet, <D. mijne lieflickheyt, genoeghlickheyt, mijn plaisier.> Naomi, noemt my, <D. bittere, ofte, bitterheyt.> Mara; want de <Hebr. Schaddai. Siet Genes. 17. op vers 1.> Almachtige heeft my <My beroovende van mijnen man, ende mijne beyde sonen.> groote bitterheyt aengedaen.",
+      "final_text": "Maar zij zei tegen hen: ‘Noem mij niet <D.w.z. mijn lieflijkheid, mijn genoegen, mijn plezier.> Naomi, noem mij <D.w.z. bittere, of bitterheid.> Mara, want de <Hebr. Sjaddai. Zie $Gen. 17:1$.> Almachtige heeft mij <Mij berovend van mijn man en mijn beide zonen.> grote bitterheid aangedaan.",
+      "source_text": "וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃ "
+    },
+    {
+      "verse_number": 21,
+      "original_text": "<Hebbende in het leven mijnen man, ende mijne twee sonen, met genoeghsame middelen om van te leven.> Vol toogh ick wech, maer <Berooft van mijnen man, ende mijne twee sonen, ende middelen. siet ond. 2. vers 18.> ledigh heeft my de HEERE doen weder keeren: waerom soudt ghy my, Naomi, noemen, daer de HEERE tegen my <D. heeft sich tegen my aengestelt, als een wederpartijder, ofte, heeft door sijne plagen tegen my sijnen toorn betuyght, ende my van mijne sonden overtuyght. Vergelijckt Iob 10.17. ende 16.8. Malach. 3.5. Iacob. 5.3.> getuyght, ende de Almachtige my <And. my neder gedruckt, ofte, verslagen heeft, D. heeft my tegenspoet, elende, ende verdriet toegesonden. Siet Genes. 19. op vers 19.> quaet aengedaen heeft?",
+      "final_text": "<Toen ik nog mijn man en mijn twee zonen had, met voldoende middelen om van te leven.> ‘Vol ben ik weggegaan, maar met lege handen heeft de HEERE mij laten terugkeren. <Beroofd van mijn man, mijn twee zonen en mijn middelen. Zie $Rut. 2:18$.> Waarom zou u mij Naomi noemen, nu de HEERE tegen mij <D.w.z. heeft Zich tegen mij gekeerd als een tegenstander, of heeft door Zijn plagen Zijn toorn tegen mij betuigd en mij van mijn zonden overtuigd. Vergelijk $Job 10:17$; $16:8$; $Mal. 3:5$; $Jak. 5:3$.> heeft getuigd, en de Almachtige mij <Anders: mij neergedrukt of verslagen heeft. D.w.z. Hij heeft mij tegenspoed, ellende en verdriet toegezonden. Zie $Gen. 19:19$.> kwaad heeft aangedaan?’",
+      "source_text": "אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַ֥ע לִֽי׃ "
+    },
+    {
+      "verse_number": 22,
+      "original_text": "Alsoo quam Naomi weder, ende Ruth, de Moabitische, hare schoondochter, met haer, die uyt de velden Moabs <Dat is, Naomi in het wederkomen vergeselschapte, als bov. versen 7, 10.> weder quam: ende sy quamen te Bethlehem in het begin des gersten-oogsts.",
+      "final_text": "Zo kwam Naomi terug, samen met haar schoondochter Ruth, de Moabitische, die met haar was teruggekeerd uit de velden van Moab. <D.w.z. zij vergezelde Naomi bij haar terugkeer, zoals boven in vers 7 en 10.> En zij kwamen in Betlehem aan, bij het begin van de gerstenoogst.",
+      "source_text": "וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמֹּואֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מֹואָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ "
+    }
+  ],
+  "epilogue": {
+    "original": null,
+    "final": null
+  }
+}
