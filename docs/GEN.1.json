@@ -1,6 +1,12 @@
 {
-  "book": "GEN",
-  "chapter": 1,
+  "metadata": {
+    "book": "Genesis",
+    "book_code": "GEN",
+    "chapter": 1,
+    "translation_policy": "Statenvertaling 1657 → Hedendaags Nederlands (definitieve redactie)",
+    "source_language": "Hebreeuws (BHS)",
+    "notes": "Definitieve redactie voltooid door de virtuele editor, met de nadruk op trouw aan de brontekst."
+  },
   "introduction": {
     "original": "Godt schept den Hemel ende de Aerde, vers en 1, 2. ende het Licht, op den eersten dagh, 3. Op den tweeden, het Uytspansel, met scheydinge der onderste ende bovenste wateren, 6. Op den derden scheydt hy het Drooge ende de Wateren, 9. Schept Gras ende vruchtbare Boomen, 11. Op den vierden, de Sonne, Mane, ende Sterren, 14. Op den vijfden, kleyne ende groote Visschen, mitsgaders ’t Gevogelte, met zegeninge, 20. Op den sesten, het Gedierte der aerden, 24. Ende op’t laetste, den Mensche, Man ende Wijf, na sijn beeldt, gevende hen heerschappije, ende sijnen zegen, 26. Oock onderscheydende de spijse des Menschen, ende der Gedierten, 29. Kent alle sijne schepselen voor goet, 31.",
     "final": "God schept de hemel en de aarde, vers 1 en 2, en het licht op de eerste dag, vers 3. Op de tweede het uitspansel, met scheiding van de onderste en bovenste wateren, vers 6. Op de derde scheidt Hij het droge en de wateren, vers 9. Hij schept gras en vruchtbare bomen, vers 11. Op de vierde de zon, maan en sterren, vers 14. Op de vijfde kleine en grote vissen, alsook de vogels, met een zegening, vers 20. Op de zesde de dieren van de aarde, vers 24. En ten slotte de mens, man en vrouw, naar Zijn beeld, en geeft hun heerschappij en Zijn zegen, vers 26. Ook wijst Hij voedsel toe aan de mens en de dieren, vers 29. Hij ziet dat al Zijn schepselen goed zijn, vers 31."
