@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Statenvertaling Modernisatie - Taalkundige Feedback</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Lora:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      body {
+        font-family: 'Inter', sans-serif;
+        background-color: #f3f4f6;
+        color: #1f2937;
+      }
+      .verse-text {
+        font-family: 'Lora', serif;
+        line-height: 1.6;
+      }
+      sup {
+        line-height: 0;
+        position: relative;
+        vertical-align: baseline;
+        top: -0.5em;
+        font-size: 0.75em;
+        padding: 0 0.1em;
+        font-weight: normal;
+      }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        table-layout: fixed;
+      }
+      th, td {
+        border: 1px solid #e5e7eb;
+        padding: 12px;
+        vertical-align: top;
+      }
+      th {
+        background-color: #f9fafb;
+        font-weight: 500;
+        text-transform: uppercase;
+        font-size: 0.75rem;
+        color: #6b7280;
+      }
+      td {
+        font-size: 0.875rem;
+      }
+      .verse-col {
+        width: 60px;
+      }
+      .text-col {
+        width: calc(33% - 20px);
+      }
+      .suggestion-card {
+        background-color: #fffbeb;
+        border-left: 4px solid #fbbf24;
+        padding: 12px;
+        border-radius: 4px;
+        margin-bottom: 8px;
+        font-size: 0.75rem;
+      }
+      .suggestion-card-title {
+        font-weight: 600;
+        color: #92400e;
+        margin-bottom: 8px;
+      }
+      .suggestion-label {
+        font-weight: 500;
+        color: #374151;
+        display: block;
+        margin-top: 8px;
+      }
+      .suggestion-current {
+        color: #4b5563;
+        font-style: italic;
+        margin-top: 4px;
+      }
+      .suggestion-proposed {
+        color: #065f46;
+        font-weight: 500;
+        margin-top: 4px;
+      }
+      .suggestion-reason {
+        color: #4b5563;
+        margin-top: 4px;
+      }
+      .hidden {
+        display: none;
+      }
+      .header {
+        background-color: rgba(255, 255, 255, 0.8);
+        backdrop-filter: blur(10px);
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        border-bottom: 1px solid #e5e7eb;
+      }
+      .header-content {
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 0 1rem;
+        height: 64px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      .header-title {
+        font-size: 1.25rem;
+        font-weight: 700;
+        color: #0ea5e9;
+      }
+      .file-badge {
+        margin-left: 1rem;
+        font-size: 0.875rem;
+        font-weight: 500;
+        color: #4b5563;
+        background-color: #e5e7eb;
+        padding: 0.25rem 0.75rem;
+        border-radius: 9999px;
+      }
+      .main-content {
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 2rem 1rem;
+      }
+      .upload-box {
+        background-color: white;
+        border: 2px solid #d1d5db;
+        border-radius: 8px;
+        padding: 2rem;
+        text-align: center;
+      }
+      .upload-button {
+        display: inline-block;
+        padding: 0.75rem 1.5rem;
+        font-size: 1rem;
+        font-weight: 500;
+        color: white;
+        background-color: #0ea5e9;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: background-color 0.2s;
+      }
+      .upload-button:hover {
+        background-color: #0284c7;
+      }
+      .load-new-btn:hover {
+        background-color: #d1d5db;
+      }
+      .content-box {
+        background-color: white;
+        border: 1px solid #e5e7eb;
+        border-radius: 8px;
+        padding: 1.5rem;
+        margin-bottom: 2rem;
+      }
+      .section-title {
+        text-align: center;
+        font-size: 1.125rem;
+        font-weight: 600;
+        color: #374151;
+        margin-bottom: 1rem;
+      }
+      .book-title {
+        text-align: center;
+        font-size: 2.25rem;
+        font-weight: 700;
+        color: #111827;
+      }
+      .translation-policy {
+        text-align: center;
+        margin-top: 0.5rem;
+        color: #6b7280;
+      }
+      .intro-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+        margin-bottom: 1.5rem;
+      }
+      .intro-label {
+        font-size: 0.75rem;
+        font-weight: 500;
+        color: #6b7280;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin-bottom: 0.5rem;
+      }
+      .suggestions-header {
+        display: flex;
+        align-items: center;
+        font-size: 0.875rem;
+        font-weight: 600;
+        color: #92400e;
+        margin: 1.5rem 0 1rem 0;
+        padding-top: 1rem;
+        border-top: 1px solid #e5e7eb;
+      }
+      .info-icon {
+        width: 20px;
+        height: 20px;
+        margin-right: 8px;
+        fill: currentColor;
+      }
+      @media (max-width: 768px) {
+        .intro-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div style="display: flex; align-items: center;">
+                    <h1 class="header-title">
+                        Statenvertaling Modernisatie - Taalkundige Feedback
+                    </h1>
+                    <span id="file-badge" class="file-badge hidden"></span>
+                </div>
+                <button id="load-new-btn" class="load-new-btn hidden" style="padding: 0.5rem 1rem; font-size: 0.875rem; font-weight: 500; color: #374151; background-color: #e5e7eb; border: none; border-radius: 6px; cursor: pointer; transition: background-color 0.2s;">
+                    Nieuw Bestand
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- File Selector -->
+            <div id="file-selector">
+                <div class="upload-box">
+                    <h2 style="font-size: 1.5rem; font-weight: 700; color: #111827; margin-bottom: 1rem;">Welkom</h2>
+                    <p style="color: #4b5563; margin-bottom: 1.5rem;">Kies een hoofdstuk uit het menu of upload een eigen JSON-bestand</p>
+                    
+                    <!-- Dropdown Menu -->
+                    <div style="margin-bottom: 1.5rem;">
+                        <label for="chapter-select" style="display: block; font-size: 1rem; font-weight: 600; color: #0ea5e9; margin-bottom: 0.5rem;">
+                            Selecteer een hoofdstuk:
+                        </label>
+                        <select id="chapter-select" style="width: 100%; max-width: 400px; padding: 0.75rem; font-size: 1rem; border: 1px solid #d1d5db; border-radius: 6px; background-color: white; color: #374151; cursor: pointer;">
+                            <option value="">Kies een hoofdstuk...</option>
+                            <option value="interim/1SA_1.json">1 Samuel 1</option>
+                            <option value="interim/1SA_2.json">1 Samuel 2</option>
+                            <option value="interim/1SA_3.json">1 Samuel 3</option>
+                            <!-- <option value="interim/1SA_4.json">1 Samuel 4</option>
+                            <option value="interim/1SA_5.json">1 Samuel 5</option>
+                            <option value="interim/1SA_6.json">1 Samuel 6</option>
+                            <option value="interim/1SA_7.json">1 Samuel 7</option>
+                            <option value="interim/1SA_8.json">1 Samuel 8</option>
+                            <option value="interim/1SA_9.json">1 Samuel 9</option>
+                            <option value="interim/1SA_10.json">1 Samuel 10</option>
+                            <option value="interim/1SA_11.json">1 Samuel 11</option>
+                            <option value="interim/1SA_12.json">1 Samuel 12</option>
+                            <option value="interim/1SA_13.json">1 Samuel 13</option>
+                            <option value="interim/1SA_14.json">1 Samuel 14</option>
+                            <option value="interim/1SA_15.json">1 Samuel 15</option> -->
+                        </select>
+                    </div>
+                    
+                    <div style="margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #e5e7eb;">
+                        <p style="color: #6b7280; font-size: 0.875rem; margin-bottom: 0.75rem;">Of upload een eigen bestand:</p>
+                        <label class="upload-button">
+                            Upload JSON-bestand
+                            <input type="file" id="file-upload" accept=".json" style="display: none;" />
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Content Area -->
+            <div id="content" class="hidden">
+                <!-- Metadata -->
+                <div class="content-box">
+                    <h2 id="book-title" class="book-title"></h2>
+                    <p id="translation-policy" class="translation-policy"></p>
+                </div>
+
+                <!-- Introduction -->
+                <div id="introduction-section" class="content-box hidden">
+                    <h3 class="section-title">Inleiding</h3>
+                    <div class="intro-grid">
+                        <div>
+                            <h4 class="intro-label">Statenvertaling 1657</h4>
+                            <p id="intro-original" class="verse-text" style="color: #374151; font-style: italic;"></p>
+                        </div>
+                        <div>
+                            <h4 class="intro-label">Gemoderniseerde Versie</h4>
+                            <p id="intro-modernized" class="verse-text" style="color: #111827; font-weight: 700; font-style: italic;"></p>
+                        </div>
+                    </div>
+                    <div id="intro-suggestions" class="hidden">
+                        <div class="suggestions-header">
+                            <svg class="info-icon" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd" />
+                            </svg>
+                            Taalkundige Suggesties
+                        </div>
+                        <div id="intro-suggestions-list"></div>
+                    </div>
+                </div>
+
+                <!-- Verses Table -->
+                <div style="background-color: white; border: 1px solid #e5e7eb; border-radius: 8px; overflow-x: auto;">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th class="verse-col">Vers</th>
+                                <th class="text-col">Statenvertaling 1657</th>
+                                <th class="text-col">Gemoderniseerde Versie</th>
+                                <th class="text-col">Taalkundige Feedback</th>
+                            </tr>
+                        </thead>
+                        <tbody id="verses-body">
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Epilogue -->
+                <div id="epilogue-section" class="content-box hidden" style="margin-top: 2rem;">
+                    <h3 class="section-title">Nawoord</h3>
+                    <div class="intro-grid">
+                        <div>
+                            <h4 class="intro-label">Statenvertaling 1657</h4>
+                            <p id="epilogue-original" class="verse-text" style="color: #374151; font-style: italic;"></p>
+                        </div>
+                        <div>
+                            <h4 class="intro-label">Gemoderniseerde Versie</h4>
+                            <p id="epilogue-modernized" class="verse-text" style="color: #111827; font-weight: 700; font-style: italic;"></p>
+                        </div>
+                    </div>
+                    <div id="epilogue-suggestions" class="hidden">
+                        <div class="suggestions-header">
+                            <svg class="info-icon" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd" />
+                            </svg>
+                            Taalkundige Suggesties
+                        </div>
+                        <div id="epilogue-suggestions-list"></div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        let currentData = null;
+
+        // Format text with annotations
+        function formatText(text) {
+            if (!text) return '';
+            
+            // Process footnotes <...> which may contain references $...$
+            text = text.replace(/<([^>]+)>/g, (match, content) => {
+                // Within footnotes, process any $...$ references to orange superscript
+                const processedContent = content.replace(/\$([^$]+)\$/g, '<sup style="color: #f97316;">$1</sup>');
+                return `<span style="font-weight: normal; color: #6b7280; font-style: italic;">(${processedContent})</span>`;
+            });
+            
+            // Process standalone references $...$ (outside of footnotes)
+            text = text.replace(/\$([^$]+)\$/g, '<sup style="color: #f97316;">$1</sup>');
+            
+            return text;
+        }
+
+        // Create suggestion card
+        function createSuggestionCard(suggestion) {
+            return `
+                <div class="suggestion-card">
+                    <div class="suggestion-card-title">${suggestion.issue}</div>
+                    <span class="suggestion-label">Huidig:</span>
+                    <div class="suggestion-current">"${suggestion.current}"</div>
+                    <span class="suggestion-label">Voorstel:</span>
+                    <div class="suggestion-proposed">"${suggestion.suggested}"</div>
+                    <span class="suggestion-label">Reden:</span>
+                    <div class="suggestion-reason">${suggestion.reason}</div>
+                </div>
+            `;
+        }
+
+        // Load and display data
+        function displayData(data) {
+            currentData = data;
+            
+            // Show content area and hide selector
+            document.getElementById('content').classList.remove('hidden');
+            document.getElementById('file-selector').classList.add('hidden');
+            
+            // Show "New File" button
+            document.getElementById('load-new-btn').classList.remove('hidden');
+            
+            // Display metadata
+            document.getElementById('book-title').textContent = 
+                `${data.metadata.book} ${data.metadata.chapter}`;
+            document.getElementById('translation-policy').textContent = 
+                data.metadata.translation_policy;
+            document.getElementById('file-badge').textContent = 
+                `${data.metadata.book_code}_${data.metadata.chapter}`;
+            document.getElementById('file-badge').classList.remove('hidden');
+
+            // Display introduction
+            if (data.introduction.original || data.introduction.modernized) {
+                document.getElementById('introduction-section').classList.remove('hidden');
+                document.getElementById('intro-original').innerHTML = 
+                    formatText(data.introduction.original);
+                document.getElementById('intro-modernized').innerHTML = 
+                    formatText(data.introduction.modernized);
+                
+                if (data.introduction.language_review.has_suggestions) {
+                    document.getElementById('intro-suggestions').classList.remove('hidden');
+                    document.getElementById('intro-suggestions-list').innerHTML = 
+                        data.introduction.language_review.suggestions
+                            .map(s => createSuggestionCard(s)).join('');
+                }
+            }
+
+            // Display verses
+            const versesBody = document.getElementById('verses-body');
+            versesBody.innerHTML = data.verses.map(verse => {
+                const hasSuggestions = verse.language_review.has_suggestions;
+                const suggestionsHtml = hasSuggestions ? 
+                    verse.language_review.suggestions.map(s => createSuggestionCard(s)).join('') :
+                    '<p style="font-size: 0.75rem; color: #6b7280; font-style: italic;">Geen suggesties</p>';
+
+                return `
+                    <tr style="background-color: white;">
+                        <td style="font-weight: 500; color: #111827;">${verse.verse_number}</td>
+                        <td>
+                            <div class="verse-text" style="color: #374151; word-wrap: break-word;">
+                                ${formatText(verse.original_text)}
+                            </div>
+                        </td>
+                        <td>
+                            <div class="verse-text" style="color: #111827; font-weight: 700; word-wrap: break-word;">
+                                ${formatText(verse.modernized_text)}
+                            </div>
+                        </td>
+                        <td>${suggestionsHtml}</td>
+                    </tr>
+                `;
+            }).join('');
+
+            // Display epilogue
+            if (data.epilogue.original || data.epilogue.modernized) {
+                document.getElementById('epilogue-section').classList.remove('hidden');
+                document.getElementById('epilogue-original').innerHTML = 
+                    formatText(data.epilogue.original);
+                document.getElementById('epilogue-modernized').innerHTML = 
+                    formatText(data.epilogue.modernized);
+                
+                if (data.epilogue.language_review.has_suggestions) {
+                    document.getElementById('epilogue-suggestions').classList.remove('hidden');
+                    document.getElementById('epilogue-suggestions-list').innerHTML = 
+                        data.epilogue.language_review.suggestions
+                            .map(s => createSuggestionCard(s)).join('');
+                }
+            }
+        }
+
+        // Handle dropdown selection
+        document.getElementById('chapter-select').addEventListener('change', async (e) => {
+            const filename = e.target.value;
+            if (!filename) return;
+            
+            try {
+                const response = await fetch(filename);
+                if (!response.ok) {
+                    throw new Error('Bestand kon niet worden geladen');
+                }
+                const data = await response.json();
+                displayData(data);
+            } catch (error) {
+                console.error('Fout bij het laden van JSON:', error);
+                alert('Fout bij het laden van het bestand: ' + error.message + '\n\nZorg ervoor dat het bestand in dezelfde map staat als deze HTML.');
+            }
+        });
+
+        // Handle file upload
+        document.getElementById('file-upload').addEventListener('change', (e) => {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = (event) => {
+                try {
+                    const data = JSON.parse(event.target.result);
+                    displayData(data);
+                    // Update the badge with filename
+                    document.getElementById('file-badge').textContent = file.name;
+                } catch (error) {
+                    console.error('Fout bij het parsen van JSON:', error);
+                    alert('Ongeldig JSON-bestand: ' + error.message);
+                }
+            };
+            reader.readAsText(file);
+        });
+
+        // Handle "New File" button
+        document.getElementById('load-new-btn').addEventListener('click', () => {
+            // Hide content and button
+            document.getElementById('content').classList.add('hidden');
+            document.getElementById('load-new-btn').classList.add('hidden');
+            document.getElementById('file-badge').classList.add('hidden');
+            
+            // Show selector
+            document.getElementById('file-selector').classList.remove('hidden');
+            
+            // Reset dropdown
+            document.getElementById('chapter-select').value = '';
+            
+            // Reset file input
+            document.getElementById('file-upload').value = '';
+        });
+    </script>
+</body>
+</html>

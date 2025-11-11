@@ -1,0 +1,398 @@
+{
+  "metadata": {
+    "book": "1 Samuel",
+    "book_code": "1SA",
+    "chapter": 2,
+    "translation_policy": "Statenvertaling 1657 → Hedendaags Nederlands (renovatie)",
+    "source_language": "Hebreeuws (BHS)",
+    "notes": "Geen inhoud toegevoegd/verwijderd; alle kanttekeningen en referenties gemoderniseerd."
+  },
+  "introduction": {
+    "original": "",
+    "modernized": "",
+    "language_review": {
+      "has_suggestions": false,
+      "suggestions": []
+    }
+  },
+  "verses": [
+    {
+      "verse_number": 11,
+      "original_text": "Daerna gingh Elkana na Rama in sijn huys, maer de jongelingh was den HEERE dienende voor het aenschijn des Priesters Eli.",
+      "modernized_text": "Daarna ging Elkana naar zijn huis in Rama, maar de jongeman diende de HEERE onder toezicht van de priester Eli.",
+      "source_text": "וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל־בֵּיתֹ֑ו וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת־יְהוָ֔ה אֶת־פְּנֵ֖י עֵלִ֥י הַכֹּהֵֽן׃ ",
+      "changes": [
+        {
+          "type": "spelling",
+          "from": "Daerna",
+          "to": "Daarna",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "spelling",
+          "from": "gingh",
+          "to": "ging",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "syntax",
+          "from": "na Rama in sijn huys",
+          "to": "naar zijn huis in Rama",
+          "reason": "Modernere en natuurlijkere woordvolgorde en spelling."
+        },
+        {
+          "type": "spelling",
+          "from": "maer",
+          "to": "maar",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "lexicon",
+          "from": "jongelingh",
+          "to": "jongeman",
+          "reason": "Archaïsch woord vervangen door een hedendaags equivalent."
+        },
+        {
+          "type": "syntax",
+          "from": "was den HEERE dienende",
+          "to": "diende de HEERE",
+          "reason": "Verouderde constructie met een deelwoord vervangen door een moderne werkwoordsvorm."
+        },
+        {
+          "type": "lexicon",
+          "from": "voor het aenschijn des Priesters Eli",
+          "to": "onder toezicht van de priester Eli",
+          "reason": "Archaïsche uitdrukking en naamval gemoderniseerd naar een hedendaagse, begrijpelijke formulering."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": false,
+        "suggestions": []
+      }
+    },
+    {
+      "verse_number": 12,
+      "original_text": "Doch de sonen Eli waren <Siet Deut. 13. vers 13.> kinderen Belials: sy en kenden den HEERE niet.",
+      "modernized_text": "De zonen van Eli waren echter <Zie Dt. 13:13> kinderen van Belial: zij kenden de HEERE niet.",
+      "source_text": "וּבְנֵ֥י עֵלִ֖י בְּנֵ֣י בְלִיָּ֑עַל לֹ֥א יָדְע֖וּ אֶת־יְהוָֽה׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Doch",
+          "to": "echter",
+          "reason": "Archaïsch voegwoord vervangen door een modern equivalent, en verplaatst voor een natuurlijke zinsbouw."
+        },
+        {
+          "type": "grammar",
+          "from": "de sonen Eli",
+          "to": "De zonen van Eli",
+          "reason": "Verouderde constructie zonder voorzetsel gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<Siet Deut. 13. vers 13.>",
+          "to": "<Zie Dt. 13:13>",
+          "reason": "Referentie gestandaardiseerd en gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "kinderen Belials",
+          "to": "kinderen van Belial",
+          "reason": "Archaïsche genitief-naamval vervangen door een moderne constructie met 'van'."
+        },
+        {
+          "type": "grammar",
+          "from": "sy en kenden",
+          "to": "zij kenden",
+          "reason": "Verouderde dubbele ontkenning ('en') verwijderd en persoonlijk voornaamwoord gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Formele woordkeuze",
+            "current": "De zonen van Eli waren echter",
+            "suggested": "Maar de zonen van Eli waren",
+            "reason": "'Maar' is een directere en natuurlijkere vertaling van het oorspronkelijke 'Doch' dan het formelere 'echter' in deze zinsconstructie."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 13,
+      "original_text": "Want <Hebr. Misphat, het recht: welck woort een gewoonte ofte gebruyck somtijts beteeckent, niet alleen een goet ende prijselick, maer oock een quaet ende misprijselick gebruyck, ofte wijse.> de wijse dier Priesteren met den volcke was, dat, [wanneer] yemant een offerhande <D. brachte om geoffert te worden. alsoo vers 15.> offerde, des Priesters jonge quam, dewijle het vleesch koockte, met eenen drietandigen krauwel in sijne hant,",
+      "modernized_text": "Want <Hebreeuws: Mispat, het recht. Dit woord betekent soms een gewoonte of gebruik, niet alleen een goed en prijzenswaardig, maar ook een slecht en afkeurenswaardig gebruik, of manier.> de gewoonte van de priesters tegenover het volk was dat, [wanneer] iemand een offer <Dat is, bracht om geofferd te worden; zo ook vers 15.> offerde, de dienaar van de priester kwam, terwijl het vlees kookte, met een drietandige vork in zijn hand,",
+      "source_text": "וּמִשְׁפַּ֥ט הַכֹּהֲנִ֖ים אֶת־הָעָ֑ם כָּל־אִ֞ישׁ זֹבֵ֣חַ זֶ֗בַח וּבָ֨א נַ֤עַר הַכֹּהֵן֙ כְּבַשֵּׁ֣ל הַבָּשָׂ֔ר וְהַמַּזְלֵ֛ג שְׁלֹ֥שׁ־הַשִּׁנַּ֖יִם בְּיָדֹֽו׃ ",
+      "changes": [
+        {
+          "type": "annotation",
+          "from": "<Hebr. Misphat, het recht: welck woort een gewoonte ofte gebruyck somtijts beteeckent, niet alleen een goet ende prijselick, maer oock een quaet ende misprijselick gebruyck, ofte wijse.>",
+          "to": "<Hebreeuws: Mispat, het recht. Dit woord betekent soms een gewoonte of gebruik, niet alleen een goed en prijzenswaardig, maar ook een slecht en afkeurenswaardig gebruik, of manier.>",
+          "reason": "Kanttekening volledig gemoderniseerd qua spelling, woordkeus en interpunctie."
+        },
+        {
+          "type": "lexicon",
+          "from": "de wijse dier Priesteren met den volcke",
+          "to": "de gewoonte van de priesters tegenover het volk",
+          "reason": "Archaïsche termen ('wijse', 'dier', 'den volcke') en naamvallen vervangen door moderne equivalenten."
+        },
+        {
+          "type": "spelling",
+          "from": "yemant",
+          "to": "iemand",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "lexicon",
+          "from": "offerhande",
+          "to": "offer",
+          "reason": "Archaïsch woord vervangen door een hedendaags equivalent."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. brachte om geoffert te worden. alsoo vers 15.>",
+          "to": "<Dat is, bracht om geofferd te worden; zo ook vers 15.>",
+          "reason": "Kanttekening gemoderniseerd, afkorting uitgeschreven en spelling aangepast."
+        },
+        {
+          "type": "grammar",
+          "from": "des Priesters jonge quam",
+          "to": "de dienaar van de priester kwam",
+          "reason": "Genitief-naamval en archaïsch woord ('jonge') vervangen door moderne constructie en lexicon."
+        },
+        {
+          "type": "lexicon",
+          "from": "dewijle",
+          "to": "terwijl",
+          "reason": "Archaïsch voegwoord vervangen."
+        },
+        {
+          "type": "spelling",
+          "from": "koockte",
+          "to": "kookte",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "lexicon",
+          "from": "met eenen drietandigen krauwel",
+          "to": "met een drietandige vork",
+          "reason": "Archaïsch woord ('krauwel') en naamval ('eenen') vervangen."
+        },
+        {
+          "type": "grammar",
+          "from": "in sijne hant",
+          "to": "in zijn hand",
+          "reason": "Verouderde naamval en spelling gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Ongebruikelijke interpunctie",
+            "current": "was dat, [wanneer] iemand een offer",
+            "suggested": "was dat [wanneer] iemand een offer",
+            "reason": "De komma na 'dat' is in hedendaags Nederlands ongebruikelijk en verstoort de leesflow. Het verwijderen ervan maakt de zin natuurlijker."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 14,
+      "original_text": "Ende sloech in de teyle, of in den ketel, of in de panne, of in den pot, <Godt hadde de Priesteren sekere deelen of stucken der beesten, die geoffert wierden, tot hare spijse gegeven: Te weten, de borst, ende de rechter schouder, Exod. 29.27, 28. ende Lev. 7.21, 32, 33. maer sy en mochten niet nemen wat haer beliefde, of wat de gaffel haer gaf: oock moeste het deel, het welck de Priesteren toequam, eerst voor den Heere opgeheven ende beweeght worden, Levit. 7.34.> al wat de krauwel optrock, dat nam de Priester <Ofte, daer mede, Te weten, met de krauwel.> voor hem: alsoo deden sy <Hebr. al Israël.> allen den Israëliten die daer te Silo quamen.",
+      "modernized_text": "En hij stak die in de schaal, of in de ketel, of in de pan, of in de pot. <God had de priesters bepaalde delen of stukken van de dieren die geofferd werden, tot voedsel gegeven, te weten: de borst en de rechterschouder, Ex. 29:27-28 en Lv. 7:21, 32-33. Maar zij mochten niet nemen wat hun behaagde, of wat de vork hun gaf. Ook moest het deel dat de priesters toekwam, eerst voor de HEERE opgeheven en bewogen worden, Lv. 7:34.> Alles wat de vork omhoogtrok, nam de priester <Of: daarmee, te weten, met de vork.> voor zichzelf. Zo deden zij met alle Israëlieten die daar in Silo kwamen.",
+      "source_text": "וְהִכָּ֨ה בַכִּיֹּ֜ור אֹ֣ו בַדּ֗וּד אֹ֤ו בַקַּלַּ֨חַת֙ אֹ֣ו בַפָּר֔וּר כֹּ֚ל אֲשֶׁ֣ר יַעֲלֶ֣ה הַמַּזְלֵ֔ג יִקַּ֥ח הַכֹּהֵ֖ן בֹּ֑ו כָּ֚כָה יַעֲשׂ֣וּ לְכָל־יִשְׂרָאֵ֔ל הַבָּאִ֥ים שָׁ֖ם בְּשִׁלֹֽה׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Ende sloech",
+          "to": "En hij stak die",
+          "reason": "Modernere en specifiekere vertaling van de handeling. Het onderwerp 'hij' en lijdend voorwerp 'die' (de vork) zijn toegevoegd voor de duidelijkheid."
+        },
+        {
+          "type": "lexicon",
+          "from": "teyle",
+          "to": "schaal",
+          "reason": "Archaïsch woord vervangen door een hedendaags equivalent."
+        },
+        {
+          "type": "grammar",
+          "from": "den ketel... de panne... den pot",
+          "to": "de ketel... de pan... de pot",
+          "reason": "Lidwoorden gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<Godt hadde de Priesteren sekere deelen of stucken der beesten, die geoffert wierden, tot hare spijse gegeven: Te weten, de borst, ende de rechter schouder, Exod. 29.27, 28. ende Lev. 7.21, 32, 33. maer sy en mochten niet nemen wat haer beliefde, of wat de gaffel haer gaf: oock moeste het deel, het welck de Priesteren toequam, eerst voor den Heere opgeheven ende beweeght worden, Levit. 7.34.>",
+          "to": "<God had de priesters bepaalde delen of stukken van de dieren die geofferd werden, tot voedsel gegeven, te weten: de borst en de rechterschouder, Ex. 29:27-28 en Lv. 7:21, 32-33. Maar zij mochten niet nemen wat hun behaagde, of wat de vork hun gaf. Ook moest het deel dat de priesters toekwam, eerst voor de HEERE opgeheven en bewogen worden, Lv. 7:34.>",
+          "reason": "Kanttekening volledig gemoderniseerd qua spelling, woordkeus, interpunctie en referentienotatie."
+        },
+        {
+          "type": "syntax",
+          "from": "al wat de krauwel optrock, dat nam de Priester",
+          "to": "Alles wat de vork omhoogtrok, nam de priester",
+          "reason": "Zinsbouw en woordkeus gemoderniseerd voor een vlottere lezing."
+        },
+        {
+          "type": "annotation",
+          "from": "<Ofte, daer mede, Te weten, met de krauwel.>",
+          "to": "<Of: daarmee, te weten, met de vork.>",
+          "reason": "Kanttekening gemoderniseerd qua spelling en woordkeus."
+        },
+        {
+          "type": "lexicon",
+          "from": "voor hem",
+          "to": "voor zichzelf",
+          "reason": "Duidelijker gemaakt dat het voor eigen gebruik was."
+        },
+        {
+          "type": "lexicon",
+          "from": "alsoo",
+          "to": "Zo",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "spelling",
+          "from": "sy",
+          "to": "zij",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. al Israël.>",
+          "to": "<Hebreeuws: heel Israël.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "allen den Israëliten die daer te Silo quamen",
+          "to": "met alle Israëlieten die daar in Silo kwamen",
+          "reason": "Naamval en voorzetselgebruik gemoderniseerd voor een natuurlijke constructie."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Formele formulering in kanttekening",
+            "current": "Maar zij mochten niet nemen wat hun behaagde",
+            "suggested": "Maar zij mochten niet zomaar nemen wat ze wilden",
+            "reason": "'Wat hun behaagde' is een formele en ietwat verouderde uitdrukking. 'Wat ze wilden' is directer en natuurlijker. De toevoeging 'zomaar' versterkt de ongeoorloofde aard van de handeling."
+          },
+          {
+            "issue": "Ontbrekende kanttekening",
+            "current": "Zo deden zij met alle Israëlieten die daar in Silo kwamen.",
+            "suggested": "Zo deden zij <Hebreeuws: heel Israël.> met alle Israëlieten die daar in Silo kwamen.",
+            "reason": "De gemoderniseerde kanttekening '<Hebreeuws: heel Israël.>' is per abuis weggelaten in de hoofdtekst. Deze moet worden hersteld op de juiste positie, zoals in de brontekst."
+          },
+          {
+            "issue": "Onnauwkeurig voorzetselgebruik",
+            "current": "Zo deden zij met alle Israëlieten",
+            "suggested": "Zo deden zij bij alle Israëlieten",
+            "reason": "Het voorzetsel 'met' kan suggereren dat ze het samen deden. 'Bij' geeft duidelijker aan dat de handeling gericht was op de Israëlieten, wat de bedoeling van de tekst is ('dit was hun handelwijze jegens')."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 15,
+      "original_text": "Oock eer sy ’t vet <Siet Levit. 3. vers 3, et c.> aenstaken, quam des Priesters jonge, ende seyde tot den man, die offerde, Geeft dat vleesch om te braden voor den Priester: want <Nochtans nam de Priester oock wel gekoockt vleesch, als te sien is vers 13. Hier wort te kennen gegeven, dat hy liever raeuw vleesch hadde, dan gekoockt.> hy en sal geen gekoockt vleesch van u nemen, maer <Hebr. levendigh.> raeuw.",
+      "modernized_text": "Ook, voordat zij het vet <Zie Lv. 3:3, enz.> in rook lieten opgaan, kwam de dienaar van de priester en zei tegen de man die offerde: 'Geef dat vlees om te braden voor de priester, want <Nochtans nam de priester ook wel gekookt vlees, zoals te zien is in vers 13. Hier wordt te kennen gegeven dat hij liever rauw vlees had dan gekookt.> hij zal geen gekookt vlees van u aannemen, maar <Hebreeuws: levend.> rauw.'",
+      "source_text": "גַּם֮ בְּטֶרֶם֮ יַקְטִר֣וּן אֶת־הַחֵלֶב֒ וּבָ֣א׀ נַ֣עַר הַכֹּהֵ֗ן וְאָמַר֙ לָאִ֣ישׁ הַזֹּבֵ֔חַ תְּנָ֣ה בָשָׂ֔ר לִצְלֹ֖ות לַכֹּהֵ֑ן וְלֹֽא־יִקַּ֧ח מִמְּךָ֛ בָּשָׂ֥ר מְבֻשָּׁ֖ל כִּ֥י אִם־חָֽי׃ ",
+      "changes": [
+        {
+          "type": "syntax",
+          "from": "Oock eer sy ’t vet",
+          "to": "Ook, voordat zij het vet",
+          "reason": "Archaïsche samentrekking en woordkeus vervangen door een moderne formulering."
+        },
+        {
+          "type": "annotation",
+          "from": "<Siet Levit. 3. vers 3, et c.>",
+          "to": "<Zie Lv. 3:3, enz.>",
+          "reason": "Referentie gestandaardiseerd en gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "aenstaken",
+          "to": "in rook lieten opgaan",
+          "reason": "Archaïsch werkwoord vervangen door een term die de offerhandeling nauwkeuriger beschrijft."
+        },
+        {
+          "type": "grammar",
+          "from": "quam des Priesters jonge",
+          "to": "kwam de dienaar van de priester",
+          "reason": "Genitief-naamval en archaïsch woord ('jonge') vervangen door moderne constructie en lexicon."
+        },
+        {
+          "type": "lexicon",
+          "from": "ende seyde tot den man",
+          "to": "en zei tegen de man",
+          "reason": "Spelling en naamval gemoderniseerd."
+        },
+        {
+          "type": "punctuation",
+          "from": "Geeft dat vleesch...",
+          "to": "'Geef dat vlees...'",
+          "reason": "Aanhalingstekens toegevoegd om de directe rede aan te geven en spelling gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "voor den Priester",
+          "to": "voor de priester",
+          "reason": "Lidwoord gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<Nochtans nam de Priester oock wel gekoockt vleesch, als te sien is vers 13. Hier wort te kennen gegeven, dat hy liever raeuw vleesch hadde, dan gekoockt.>",
+          "to": "<Nochtans nam de priester ook wel gekookt vlees, zoals te zien is in vers 13. Hier wordt te kennen gegeven dat hij liever rauw vlees had dan gekookt.>",
+          "reason": "Kanttekening volledig gemoderniseerd qua spelling en woordkeus."
+        },
+        {
+          "type": "grammar",
+          "from": "hy en sal",
+          "to": "hij zal",
+          "reason": "Verouderde dubbele ontkenning ('en') verwijderd en persoonlijk voornaamwoord gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "van u nemen",
+          "to": "van u aannemen",
+          "reason": "Werkwoord 'aannemen' past beter in de context van ontvangen."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. levendigh.>",
+          "to": "<Hebreeuws: levend.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "spelling",
+          "from": "raeuw",
+          "to": "rauw",
+          "reason": "Moderne spelling."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Formele en passieve constructie in kanttekening",
+            "current": "<Nochtans nam de priester ook wel gekookt vlees, zoals te zien is in vers 13. Hier wordt te kennen gegeven dat hij liever rauw vlees had dan gekookt.>",
+            "suggested": "<Toch nam de priester ook wel gekookt vlees, zoals te zien is in vers 13. Hieruit blijkt dat hij liever rauw vlees had dan gekookt.>",
+            "reason": "'Nochtans' is verouderd; 'Toch' is een modern equivalent. 'Hier wordt te kennen gegeven' is een stijve, passieve formulering; 'Hieruit blijkt' is actiever en natuurlijker."
+          }
+        ]
+      }
+    }
+  ],
+  "epilogue": {
+    "original": "",
+    "modernized": "",
+    "language_review": {
+      "has_suggestions": false,
+      "suggestions": []
+    }
+  }
+}
