@@ -1,0 +1,3097 @@
+{
+  "metadata": {
+    "book": "1 Samuel",
+    "book_code": "1SA",
+    "chapter": 2,
+    "translation_policy": "Statenvertaling 1657 → Hedendaags Nederlands (definitieve redactie)",
+    "source_language": "Hebreeuws (BHS)",
+    "notes": "Definitieve redactie voltooid door de virtuele editor, met de nadruk op trouw aan de brontekst."
+  },
+  "introduction": {
+    "original": "Lofsangh Hannae , in welcken sy de weldadigheyt des Heeren roemt, soo in het gemeen, als in ’t besonder, vers 1, et c. Dreygende de hooghmoedige met een eyndelick verderf, 3. De moetwillige boosheyt der sonen Eli wort verhaelt, 12. ende ter contrarie hoewel sich Samuel in sijnen dienst gequeten heeft, 18. Hanna baert meer kinderen, 21. Eli berispt wel sijne sonen over hare boose stucken, maer niet met sulcke gestrengigheyt als het behoorde, 22. De Heere laet door eenen Propheet Eli aenseggen, dat hy met sijn gantsche huys jammerlick soude omkomen, 27.",
+    "modernized": "Lofzang van Hanna, waarin zij de weldadigheid van de Heere roemt, zowel in het algemeen als in het bijzonder, vers 1, enz. Zij dreigt de hoogmoedigen met een uiteindelijk verderf, 3. De moedwillige boosheid van de zonen van Eli wordt verhaald, 12. En daarentegen hoe Samuel zich in zijn dienst gekweten heeft, 18. Hanna baart meer kinderen, 21. Eli berispt wel zijn zonen over hun boze daden, maar niet met de strengheid die nodig was, 22. De Heere laat door een profeet aan Eli aanzeggen dat hij met zijn hele huis jammerlijk zou omkomen, 27.",
+    "language_review": {
+      "has_suggestions": true,
+      "suggestions": [
+        {
+          "issue": "Passieve en verouderde formulering",
+          "current": "De moedwillige boosheid van de zonen van Eli wordt verhaald",
+          "suggested": "De moedwillige boosheid van de zonen van Eli wordt verteld",
+          "reason": "'Verhalen' is in deze passieve vorm wat verouderd; 'wordt verteld' is gangbaarder."
+        },
+        {
+          "issue": "Formele en verouderde uitdrukking",
+          "current": "hoe Samuel zich in zijn dienst gekweten heeft",
+          "suggested": "hoe Samuel zijn dienstwerk trouw vervulde",
+          "reason": "'Zich kwijten van' is een formele en verouderde uitdrukking. 'Zijn dienstwerk trouw vervullen' is duidelijker en natuurlijker."
+        }
+      ]
+    }
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "original_text": "DOe badt Hanna ende seyde: $1.46$ Mijn herte springht op van vreughde <T.w. dewijle hy my dese groote weldaet bewesen heeft, dat hy my desen sone gegeven heeft.> in den HEERE, <D. ick hebbe als een nieuwe kracht van den Heere ontfangen, ick ben nu wel gemoet ende onvertsaeght. ’t Is een gelijckenisse genomen van de gehoornde beesten, die hare meeste sterckte, ende oock haer verciersel in de hoornen hebben. siet Psal. 92.11.> mijn hoorn is verhooght in den HEERE: <Als of sy seyde, Nu my de Heere desen sone gegeve n heeft, nu durf ick met openen monde spreken tegen mijne vyanden, insonderheyt tegen Peninna, hare kinderen, ende vrienden, die my mijne onvruchtbaerheyt verweten hebben.> mijn mont is wijt op gedaen over mijne vyanden, <Anders, want ghy hebt my verheught mits u heyl.> want ick verheuge my <D. in de gelucksaligheyt, die ghy my gedaen hebt, ô Heere.> in u heyl.",
+      "modernized_text": "Toen bad Hanna en zei: $1Sm. 1:46$ Mijn hart springt op van vreugde <Te weten: omdat hij mij deze grote weldaad bewezen heeft, dat hij mij deze zoon gegeven heeft.> in de HEERE. <Dat is, ik heb als het ware een nieuwe kracht van de Heere ontvangen; ik ben nu welgemoed en onversaagd. Het is een gelijkenis, genomen van de gehoornde beesten, die hun grootste sterkte en ook hun versiering in de hoorns hebben. Zie Ps. 92:11.> Mijn hoorn is verhoogd in de HEERE. <Alsof zij zei: Nu de Heere mij deze zoon gegeven heeft, durf ik met open mond spreken tegen mijn vijanden, in het bijzonder tegen Peninna, haar kinderen en vrienden, die mij mijn onvruchtbaarheid verweten hebben.> Mijn mond is wijd opengedaan tegenover mijn vijanden, <Of: want u hebt mij verheugd door uw heil.> want ik verheug mij <Dat is, in de gelukzaligheid die u mij gegeven hebt, o Heere.> in uw heil.",
+      "source_text": "וַתִּתְפַּלֵּ֤ל חַנָּה֙ וַתֹּאמַ֔ר עָלַ֤ץ לִבִּי֙ בַּֽיהוָ֔ה רָ֥מָה קַרְנִ֖י בַּֽיהוָ֑ה רָ֤חַב פִּי֙ עַל־אֹ֣ויְבַ֔י כִּ֥י שָׂמַ֖חְתִּי בִּישׁוּעָתֶֽךָ׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "DOe badt",
+          "to": "Toen bad",
+          "reason": "Archaïsch woord en spelling gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "ende seyde",
+          "to": "en zei",
+          "reason": "Archaïsch voegwoord en werkwoordsvorm gemoderniseerd."
+        },
+        {
+          "type": "reference",
+          "from": "$1.46$",
+          "to": "$1Sm. 1:46$",
+          "reason": "Impliciete verwijzing naar huidig boek expliciet gemaakt en gestandaardiseerd."
+        },
+        {
+          "type": "spelling",
+          "from": "herte springht",
+          "to": "hart springt",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<T.w. dewijle hy my dese groote weldaet bewesen heeft, dat hy my desen sone gegeven heeft.>",
+          "to": "<Te weten: omdat hij mij deze grote weldaad bewezen heeft, dat hij mij deze zoon gegeven heeft.>",
+          "reason": "Kanttekening gemoderniseerd: afkorting voluit geschreven, spelling en naamvallen aangepast."
+        },
+        {
+          "type": "grammar",
+          "from": "in den HEERE",
+          "to": "in de HEERE",
+          "reason": "Verouderde naamval gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. ick hebbe als een nieuwe kracht van den Heere ontfangen, ick ben nu wel gemoet ende onvertsaeght. ’t Is een gelijckenisse genomen van de gehoornde beesten, die hare meeste sterckte, ende oock haer verciersel in de hoornen hebben. siet Psal. 92.11.>",
+          "to": "<Dat is, ik heb als het ware een nieuwe kracht van de Heere ontvangen; ik ben nu welgemoed en onversaagd. Het is een gelijkenis, genomen van de gehoornde beesten, die hun grootste sterkte en ook hun versiering in de hoorns hebben. Zie Ps. 92:11.>",
+          "reason": "Kanttekening volledig gemoderniseerd qua spelling, grammatica, interpunctie en referentie."
+        },
+        {
+          "type": "spelling",
+          "from": "verhooght",
+          "to": "verhoogd",
+          "reason": "Spelling van voltooid deelwoord gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<Als of sy seyde, Nu my de Heere desen sone gegeve n heeft, nu durf ick met openen monde spreken tegen mijne vyanden, insonderheyt tegen Peninna, hare kinderen, ende vrienden, die my mijne onvruchtbaerheyt verweten hebben.>",
+          "to": "<Alsof zij zei: Nu de Heere mij deze zoon gegeven heeft, durf ik met open mond spreken tegen mijn vijanden, in het bijzonder tegen Peninna, haar kinderen en vrienden, die mij mijn onvruchtbaarheid verweten hebben.>",
+          "reason": "Kanttekening volledig gemoderniseerd qua spelling, grammatica en woordkeus."
+        },
+        {
+          "type": "spelling",
+          "from": "mont",
+          "to": "mond",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "syntax",
+          "from": "wijt op gedaen over mijne vyanden",
+          "to": "wijd opengedaan tegenover mijn vijanden",
+          "reason": "Spelling gemoderniseerd en voorzetsel 'over' vervangen door 'tegenover' voor een natuurlijkere uitdrukking."
+        },
+        {
+          "type": "annotation",
+          "from": "<Anders, want ghy hebt my verheught mits u heyl.>",
+          "to": "<Of: want u hebt mij verheugd door uw heil.>",
+          "reason": "Kanttekening gemoderniseerd: 'Anders' naar 'Of:', 'ghy' naar 'u', en 'mits' naar 'door'."
+        },
+        {
+          "type": "spelling",
+          "from": "ick verheuge my",
+          "to": "ik verheug mij",
+          "reason": "Spelling van persoonlijk voornaamwoord gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. in de gelucksaligheyt, die ghy my gedaen hebt, ô Heere.>",
+          "to": "<Dat is, in de gelukzaligheid die u mij gegeven hebt, o Heere.>",
+          "reason": "Kanttekening gemoderniseerd: afkorting, spelling, voornaamwoord en 'gedaen hebt' naar het contextueel passender 'gegeven hebt'."
+        },
+        {
+          "type": "register",
+          "from": "in u heyl",
+          "to": "in uw heil",
+          "reason": "Bezittelijk voornaamwoord gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Incorrecte referentie",
+            "current": "$1Sm. 1:46$",
+            "suggested": "$Lk. 1:46$",
+            "reason": "De originele SV-kanttekening verwijst naar de lofzang van Maria in het Nieuwe Testament (Lucas 1:46), niet naar een vers in 1 Samuel. De modernisering heeft de impliciete verwijzing onjuist naar het huidige boek omgezet."
+          },
+          {
+            "issue": "Archaïsche woordkeus in kanttekening",
+            "current": "ik ben nu welgemoed en onversaagd",
+            "suggested": "ik ben nu vol goede moed en onbevreesd",
+            "reason": "'Welgemoed' en 'onversaagd' zijn verouderde woorden. 'Vol goede moed en onbevreesd' is hedendaags en drukt dezelfde betekenis uit."
+          },
+          {
+            "issue": "Onnatuurlijke formulering in kanttekening",
+            "current": "Het is een gelijkenis, genomen van de gehoornde beesten, die hun grootste sterkte en ook hun versiering in de hoorns hebben.",
+            "suggested": "Het is een beeldspraak, ontleend aan dieren met hoorns, die hun grootste kracht en sieraad in hun hoorns hebben.",
+            "reason": "'Gelijkenis genomen van' is een wat houterige constructie. 'Beeldspraak ontleend aan' is vloeiender. 'Gehoornde beesten' is formeel; 'dieren met hoorns' is natuurlijker. 'Versiering' is correct, maar 'sieraad' past hier beter in de poëtische context."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 2,
+      "original_text": "Daer en is niemant heylich gelijck de HEERE, want $Deut. 3.24, Deut. 86.8$ daer en is niemant dan ghy, ende <D. daer en is niemant daer men sich sekerlick op verlaten mach, dan op u, Heere. siet Deut. 32.4.> daer en is geen <De stercke Godt wort oock een steenrotze genoemt, Deu. cap. 32. vers 15. ende elders meer.> rotzsteen, gelijck onse Godt.",
+      "modernized_text": "Er is niemand heilig zoals de HEERE, want $Dt. 3:24; Dt. 86:8$ er is niemand dan u, en <Dat is, er is niemand op wie men zich zeker kan verlaten, dan op u, Heere. Zie Dt. 32:4.> er is geen <De sterke God wordt ook een rots genoemd, Dt. 32:15 en elders meer.> rots, zoals onze God.",
+      "source_text": "אֵין־קָדֹ֥ושׁ כַּיהוָ֖ה כִּ֣י אֵ֣ין בִּלְתֶּ֑ךָ וְאֵ֥ין צ֖וּר כֵּאלֹהֵֽינוּ׃ ",
+      "changes": [
+        {
+          "type": "syntax",
+          "from": "Daer en is",
+          "to": "Er is",
+          "reason": "Archaïsche dubbele negatie 'daer en is' gemoderniseerd naar 'er is'."
+        },
+        {
+          "type": "lexicon",
+          "from": "heylich gelijck",
+          "to": "heilig zoals",
+          "reason": "Spelling en archaïsch woord gemoderniseerd."
+        },
+        {
+          "type": "reference",
+          "from": "$Deut. 3.24, Deut. 86.8$",
+          "to": "$Dt. 3:24; Dt. 86:8$",
+          "reason": "Referenties gestandaardiseerd naar moderne notatie en afkorting."
+        },
+        {
+          "type": "register",
+          "from": "dan ghy",
+          "to": "dan u",
+          "reason": "Archaïsch persoonlijk voornaamwoord gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. daer en is niemant daer men sich sekerlick op verlaten mach, dan op u, Heere. siet Deut. 32.4.>",
+          "to": "<Dat is, er is niemand op wie men zich zeker kan verlaten, dan op u, Heere. Zie Dt. 32:4.>",
+          "reason": "Kanttekening volledig gemoderniseerd qua zinsbouw, spelling, woordkeus en referentie."
+        },
+        {
+          "type": "annotation",
+          "from": "<De stercke Godt wort oock een steenrotze genoemt, Deu. cap. 32. vers 15. ende elders meer.>",
+          "to": "<De sterke God wordt ook een rots genoemd, Dt. 32:15 en elders meer.>",
+          "reason": "Kanttekening volledig gemoderniseerd qua spelling, woordkeus en referentie."
+        },
+        {
+          "type": "lexicon",
+          "from": "rotzsteen",
+          "to": "rots",
+          "reason": "Archaïsch woord vervangen door modern equivalent."
+        },
+        {
+          "type": "spelling",
+          "from": "onse",
+          "to": "onze",
+          "reason": "Spelling gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Incorrecte referentie",
+            "current": "$Dt. 86:8$",
+            "suggested": "$Ps. 86:8$",
+            "reason": "Het boek Deuteronomium heeft geen 86 hoofdstukken. De verwijzing in de originele Statenvertaling is naar Psalm 86:8, wat inhoudelijk goed aansluit. Dit is een drukfout die gecorrigeerd dient te worden."
+          },
+          {
+            "issue": "Formele formulering in kanttekening",
+            "current": "er is niemand op wie men zich zeker kan verlaten",
+            "suggested": "er is niemand die men volledig kan vertrouwen",
+            "reason": "'Zich zeker verlaten op' is een wat formele en omslachtige constructie. 'Volledig kunnen vertrouwen' is directer en natuurlijker."
+          },
+          {
+            "issue": "Onnatuurlijke formulering in kanttekening",
+            "current": "en elders meer.",
+            "suggested": "en op meer plaatsen.",
+            "reason": "'Elders meer' is een ongebruikelijke en wat vage formulering in hedendaags Nederlands. 'En op meer plaatsen' is duidelijker en idiomatischer."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 3,
+      "original_text": "En maecktet niet te veel dat <Hanna spreeckt hier Peninna aen (siet boven 1.6, 7.) mitsgaders alle trotze, vermetene menschen.> ghy hooge, hooge soudet spreken, dat yet <Ofte, het oude. Dat is, gelijck ghy voor desen pleeght te doen.> harts uyt uwen monde soude gaen: want de Heere is een Godt <D. van alle, of groote wetenschap. Vergel. Prov. 1.20. met de aenteeck.> der wetenschappen, ende <Vergel. Ezech. 18.25. And. de daden, of, wercken, worden van hem bestiert, of, gevvogen. Sommige aldus: En zijn sijne vvercken [niet] recht gemaeckt ?> sijne daden, zijn recht gedaen.",
+      "modernized_text": "Spreek niet al te veel <Hanna spreekt hier Peninna aan (zie boven 1:6, 7), en daarnaast alle trotse, vermetele mensen.> hoge, hoge woorden, en laat niets <Of: het oude. Dat is, zoals u voorheen placht te doen.> hards uit uw mond gaan, want de Heere is een God <Dat is, van alle, of grote wetenschap. Vergelijk Sp. 1:20 met de aantekening.> van wetenschappen, en <Vergelijk Ez. 18:25. Anders: de daden, of werken, worden door hem bestuurd, of gewogen. Sommigen vertalen zo: En zijn zijn werken [niet] recht gemaakt?> zijn daden zijn recht gedaan.",
+      "source_text": "אַל־תַּרְבּ֤וּ תְדַבְּרוּ֙ גְּבֹהָ֣ה גְבֹהָ֔ה יֵצֵ֥א עָתָ֖ק מִפִּיכֶ֑ם כִּ֣י אֵ֤ל דֵּעֹות֙ יְהוָ֔ה וְלֹ֥ו נִתְכְּנ֖וּ עֲלִלֹֽות׃ ",
+      "changes": [
+        {
+          "type": "syntax",
+          "from": "En maecktet niet te veel dat ghy hooge, hooge soudet spreken",
+          "to": "Spreek niet al te veel hoge, hoge woorden",
+          "reason": "Archaïsche zinsconstructie volledig herschreven naar een natuurlijke, moderne Nederlandse zin."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hanna spreeckt hier Peninna aen (siet boven 1.6, 7.) mitsgaders alle trotze, vermetene menschen.>",
+          "to": "<Hanna spreekt hier Peninna aan (zie boven 1:6, 7), en daarnaast alle trotse, vermetele mensen.>",
+          "reason": "Kanttekening gemoderniseerd qua spelling, woordkeus en referentie."
+        },
+        {
+          "type": "syntax",
+          "from": "dat yet ... soude gaen",
+          "to": "en laat niets ... gaan",
+          "reason": "Zinsconstructie gemoderniseerd voor betere leesbaarheid en aansluiting."
+        },
+        {
+          "type": "annotation",
+          "from": "<Ofte, het oude. Dat is, gelijck ghy voor desen pleeght te doen.>",
+          "to": "<Of: het oude. Dat is, zoals u voorheen placht te doen.>",
+          "reason": "Kanttekening gemoderniseerd qua spelling, woordkeus en voornaamwoord."
+        },
+        {
+          "type": "lexicon",
+          "from": "harts uyt uwen monde",
+          "to": "hards uit uw mond",
+          "reason": "Spelling en bezittelijk voornaamwoord gemoderniseerd."
+        },
+        {
+          "type": "spelling",
+          "from": "Godt",
+          "to": "God",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. van alle, of groote wetenschap. Vergel. Prov. 1.20. met de aenteeck.>",
+          "to": "<Dat is, van alle, of grote wetenschap. Vergelijk Sp. 1:20 met de aantekening.>",
+          "reason": "Kanttekening gemoderniseerd qua afkorting, spelling en referentie."
+        },
+        {
+          "type": "grammar",
+          "from": "der wetenschappen",
+          "to": "van wetenschappen",
+          "reason": "Verouderde genitief-naamval gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<Vergel. Ezech. 18.25. And. de daden, of, wercken, worden van hem bestiert, of, gevvogen. Sommige aldus: En zijn sijne vvercken [niet] recht gemaeckt ?>",
+          "to": "<Vergelijk Ez. 18:25. Anders: de daden, of werken, worden door hem bestuurd, of gewogen. Sommigen vertalen zo: En zijn zijn werken [niet] recht gemaakt?>",
+          "reason": "Kanttekening volledig gemoderniseerd qua spelling, woordkeus en referentie."
+        },
+        {
+          "type": "grammar",
+          "from": "sijne daden, zijn recht gedaen",
+          "to": "zijn daden zijn recht gedaan",
+          "reason": "Bezittelijk voornaamwoord gemoderniseerd en archaïsche woordkeus aangepast."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Archaïsche woordkeus in kanttekening",
+            "current": "vermetele mensen",
+            "suggested": "overmoedige mensen",
+            "reason": "'Vermetel' is een verouderd woord. 'Overmoedig' is een goed hedendaags equivalent dat de betekenis van trots en driestheid dekt."
+          },
+          {
+            "issue": "Archaïsche uitdrukking in kanttekening",
+            "current": "zoals u voorheen placht te doen",
+            "suggested": "zoals u vroeger gewoon was te doen",
+            "reason": "'Placht te doen' is een archaïsche grammaticale constructie. 'Gewoon was te doen' is de gangbare hedendaagse uitdrukking."
+          },
+          {
+            "issue": "Verwarrende, letterlijke vertaling",
+            "current": "want de Heere is een God van wetenschappen",
+            "suggested": "want de Heere is een God van kennis",
+            "reason": "'Wetenschappen' wordt in hedendaags Nederlands geassocieerd met exacte wetenschappen (fysica, biologie etc.), wat hier niet bedoeld wordt. 'Kennis' (Hebreeuws: 'de'ot') is een correctere en duidelijkere vertaling in deze context."
+          },
+          {
+            "issue": "Onnatuurlijke en vage formulering",
+            "current": "zijn daden zijn recht gedaan.",
+            "suggested": "door Hem worden daden gewogen.",
+            "reason": "'Recht gedaan' is een vage en onnatuurlijke uitdrukking. De alternatieve vertaling in de kanttekening ('worden ... gewogen') is een veelvoorkomende en duidelijkere interpretatie van de Hebreeuwse tekst en sluit beter aan bij het beeld van God als een rechtvaardige rechter."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 4,
+      "original_text": "De boge der stercken is <Hebr. de bogen zijn gebroken. siet gelijcke veranderinge van getal Iob 29.10. And. de stercke [met] den boge zijn gebroken.> gebroken: ende die <T.w. soo uyt swackheyt des lichaems, als uyt kleynmoedigheyt.> struyckelden zijn met sterckte omgordet.",
+      "modernized_text": "De boog van de sterken is <Hebreeuws: de bogen zijn gebroken. Zie een gelijke verandering van getal in Jb. 29:10. Anders: de sterke [met] de boog is gebroken.> gebroken, en zij die <Te weten: zowel uit zwakheid van het lichaam, als uit kleinmoedigheid.> struikelden, zijn met sterkte omgord.",
+      "source_text": "קֶ֥שֶׁת גִּבֹּרִ֖ים חַתִּ֑ים וְנִכְשָׁלִ֖ים אָ֥זְרוּ חָֽיִל׃ ",
+      "changes": [
+        {
+          "type": "grammar",
+          "from": "De boge der stercken",
+          "to": "De boog van de sterken",
+          "reason": "Spelling en verouderde genitief-naamval gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. de bogen zijn gebroken. siet gelijcke veranderinge van getal Iob 29.10. And. de stercke [met] den boge zijn gebroken.>",
+          "to": "<Hebreeuws: de bogen zijn gebroken. Zie een gelijke verandering van getal in Jb. 29:10. Anders: de sterke [met] de boog is gebroken.>",
+          "reason": "Kanttekening volledig gemoderniseerd qua afkorting, spelling, grammatica en referentie."
+        },
+        {
+          "type": "punctuation",
+          "from": "gebroken:",
+          "to": "gebroken,",
+          "reason": "Dubbele punt vervangen door komma voor een betere zinsflow."
+        },
+        {
+          "type": "lexicon",
+          "from": "ende die",
+          "to": "en zij die",
+          "reason": "Woord 'zij' toegevoegd voor een natuurlijkere zinsconstructie."
+        },
+        {
+          "type": "annotation",
+          "from": "<T.w. soo uyt swackheyt des lichaems, als uyt kleynmoedigheyt.>",
+          "to": "<Te weten: zowel uit zwakheid van het lichaam, als uit kleinmoedigheid.>",
+          "reason": "Kanttekening gemoderniseerd qua afkorting, spelling, grammatica en woordkeus."
+        },
+        {
+          "type": "spelling",
+          "from": "struyckelden",
+          "to": "struikelden",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "sterckte omgordet",
+          "to": "sterkte omgord",
+          "reason": "Spelling gemoderniseerd en voltooid deelwoord aangepast."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Formele formulering in kanttekening",
+            "current": "Zie een gelijke verandering van getal",
+            "suggested": "Zie eenzelfde wisseling in getal",
+            "reason": "'Gelijke verandering van getal' is een wat formele en technische omschrijving. 'Eenzelfde wisseling in getal' is natuurlijker en vloeit beter."
+          },
+          {
+            "issue": "Archaïsche woordkeus in kanttekening",
+            "current": "als uit kleinmoedigheid",
+            "suggested": "als uit ontmoediging",
+            "reason": "'Kleinmoedigheid' is een verouderd woord. 'Ontmoediging' of 'gebrek aan moed' is een gangbaarder hedendaags alternatief."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 5,
+      "original_text": "Die $Deut. 34.11, Thren. 5.6, Thren. 1.53$ verzadight waren <D. sy zijn soo arm geworden, dat sy haer hebben moeten verhueren, op dat sy den kost krijgen mochten.> hebben haer verhuert om broot, ende die <Vergel. Iob 18. op vers 12.> hongerigh waren <Hebr. hebben opgehouden, T.w. te zijn. ofte hongerigh te zijn.> en zijn het niet meer: tot dat de onvruchtbare <D. vele, als Ruth 4.15. siet ond. vers 21.> seven heeft gebaert, ende die veel kinderen hadde, <T.w. om kinderen te ontfangen ende te baren.> krachteloos is geworden.",
+      "modernized_text": "Zij die $Dt. 34:11; Kl. 5:6; Kl. 1:53$ verzadigd waren, <Dat is, zij zijn zo arm geworden dat zij zich hebben moeten verhuren, opdat zij de kost konden krijgen.> hebben zich verhuurd voor brood, en zij die <Vergelijk Jb. 18:12> hongerig waren, <Hebreeuws: hebben opgehouden, te weten: te zijn, of: hongerig te zijn.> zijn het niet meer. Totdat de onvruchtbare <Dat is, vele, zoals in Ru. 4:15. Zie onder, vers 21.> er zeven heeft gebaard, en zij die veel kinderen had, <Te weten: om kinderen te ontvangen en te baren.> is krachteloos geworden.",
+      "source_text": "שְׂבֵעִ֤ים בַּלֶּ֨חֶם֙ נִשְׂכָּ֔רוּ וּרְעֵבִ֖ים חָדֵ֑לּוּ עַד־עֲקָרָה֙ יָלְדָ֣ה שִׁבְעָ֔ה וְרַבַּ֥ת בָּנִ֖ים אֻמְלָֽלָה׃ ",
+      "changes": [
+        {
+          "type": "syntax",
+          "from": "Die",
+          "to": "Zij die",
+          "reason": "Woord 'Zij' toegevoegd voor een duidelijkere en natuurlijkere zinsaanloop."
+        },
+        {
+          "type": "reference",
+          "from": "$Deut. 34.11, Thren. 5.6, Thren. 1.53$",
+          "to": "$Dt. 34:11; Kl. 5:6; Kl. 1:53$",
+          "reason": "Referenties gestandaardiseerd naar moderne notatie en afkortingen."
+        },
+        {
+          "type": "spelling",
+          "from": "verzadight",
+          "to": "verzadigd",
+          "reason": "Spelling van voltooid deelwoord gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. sy zijn soo arm geworden, dat sy haer hebben moeten verhueren, op dat sy den kost krijgen mochten.>",
+          "to": "<Dat is, zij zijn zo arm geworden dat zij zich hebben moeten verhuren, opdat zij de kost konden krijgen.>",
+          "reason": "Kanttekening volledig gemoderniseerd qua spelling, grammatica en woordkeus."
+        },
+        {
+          "type": "syntax",
+          "from": "hebben haer verhuert om broot",
+          "to": "hebben zich verhuurd voor brood",
+          "reason": "Wederkerend voornaamwoord en voorzetsel gemoderniseerd voor een natuurlijke uitdrukking."
+        },
+        {
+          "type": "annotation",
+          "from": "<Vergel. Iob 18. op vers 12.>",
+          "to": "<Vergelijk Jb. 18:12>",
+          "reason": "Kanttekening gemoderniseerd qua afkorting en referentie-notatie."
+        },
+        {
+          "type": "spelling",
+          "from": "hongerigh",
+          "to": "hongerig",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. hebben opgehouden, T.w. te zijn. ofte hongerigh te zijn.>",
+          "to": "<Hebreeuws: hebben opgehouden, te weten: te zijn, of: hongerig te zijn.>",
+          "reason": "Kanttekening gemoderniseerd qua afkortingen en spelling."
+        },
+        {
+          "type": "grammar",
+          "from": "en zijn het niet meer",
+          "to": "zijn het niet meer",
+          "reason": "Archaïsche dubbele negatie 'en ... niet' gemoderniseerd naar enkele negatie."
+        },
+        {
+          "type": "syntax",
+          "from": "tot dat",
+          "to": "Totdat",
+          "reason": "Spelling gemoderniseerd en hoofdletter toegevoegd na dubbele punt."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. vele, als Ruth 4.15. siet ond. vers 21.>",
+          "to": "<Dat is, vele, zoals in Ru. 4:15. Zie onder, vers 21.>",
+          "reason": "Kanttekening volledig gemoderniseerd qua afkortingen, woordkeus en referentie-notatie."
+        },
+        {
+          "type": "syntax",
+          "from": "seven heeft gebaert",
+          "to": "er zeven heeft gebaard",
+          "reason": "Woord 'er' toegevoegd voor een natuurlijkere zinsbouw en spelling gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "hadde",
+          "to": "had",
+          "reason": "Werkwoordsvorm gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<T.w. om kinderen te ontfangen ende te baren.>",
+          "to": "<Te weten: om kinderen te ontvangen en te baren.>",
+          "reason": "Kanttekening gemoderniseerd qua afkorting en spelling."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Incorrecte en onmogelijke referenties",
+            "current": "$Dt. 34:11; Kl. 5:6; Kl. 1:53$",
+            "suggested": "$Ps. 34:11; Kl. 5:6; Kl. 1:11$",
+            "reason": "De referentie naar Dt. 34:11 is contextueel onwaarschijnlijk; de SV verwijst hier naar Ps. 34:11. De referentie Kl. 1:53 is onmogelijk, aangezien Klaagliederen 1 maar 22 verzen heeft; de SV verwijst hier naar Kl. 1:11. Dit zijn fouten die gecorrigeerd moeten worden."
+          },
+          {
+            "issue": "Onnatuurlijke formulering in kanttekening",
+            "current": "opdat zij de kost konden krijgen",
+            "suggested": "om in hun levensonderhoud te kunnen voorzien",
+            "reason": "'De kost krijgen' is een wat onnatuurlijke uitdrukking. 'In hun levensonderhoud voorzien' of 'om aan de kost te komen' is idiomatischer."
+          },
+          {
+            "issue": "Cryptische formulering in kanttekening",
+            "current": "Hebreeuws: hebben opgehouden, te weten: te zijn, of: hongerig te zijn.",
+            "suggested": "Hebreeuws: zijn opgehouden, namelijk met hongerig te zijn.",
+            "reason": "De toelichting 'te weten: te zijn' is erg onduidelijk. De suggestie 'namelijk met hongerig te zijn' verheldert de betekenis van 'ophouden' in deze context."
+          },
+          {
+            "issue": "Onnatuurlijke zinsbouw en woordkeus",
+            "current": "Totdat de onvruchtbare er zeven heeft gebaard",
+            "suggested": "Zelfs de onvruchtbare heeft zeven kinderen gebaard",
+            "reason": "'Totdat' suggereert een chronologisch gevolg dat hier niet bedoeld is. De tekst beschrijft een ommekeer van situaties. 'Zelfs' past beter bij deze contrastieve betekenis. 'Kinderen' toevoegen maakt de zin completer."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 6,
+      "original_text": "De $Deut. 32.39, Deut. 11, Deut. 12$ HEERE <D. hy sendt den menschen groote benauwtheyt ende elenden toe, die met de doot te vergelijcken zijn.> doodet ende <D. hy verlost de treurige wederom uyt hare benauwtheyt ende anghst.> maeckt levendigh: <D. hy brenght in de uyterste verachtinge ende smaet.> Hy doet ter <D. in de uyterste benauwtheyt. siet Genes. 37. op vers 3.> helle neder dalen, ende hy doet [weder] opkomen.",
+      "modernized_text": "De $Dt. 32:39; Dt. 11; Dt. 12$ HEERE <Dat is, Hij zendt de mensen grote benauwdheid en ellende toe, die met de dood te vergelijken zijn.> doodt en <Dat is, Hij verlost de treurenden weer uit hun benauwdheid en angst.> maakt levend; <Dat is, Hij brengt [iemand] tot de uiterste verachting en smaad.> Hij laat neerdalen naar het <Dat is, in de uiterste benauwdheid. Zie Gn. 37:3.> dodenrijk, en Hij laat [weer] opkomen.",
+      "source_text": "יְהוָ֖ה מֵמִ֣ית וּמְחַיֶּ֑ה מֹורִ֥ד שְׁאֹ֖ול וַיָּֽעַל׃ ",
+      "changes": [
+        {
+          "type": "reference",
+          "from": "$Deut. 32.39, Deut. 11, Deut. 12$",
+          "to": "$Dt. 32:39; Dt. 11; Dt. 12$",
+          "reason": "Gestandaardiseerde afkorting en notatie volgens lijst."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. hy sendt den menschen groote benauwtheyt ende elenden toe, die met de doot te vergelijcken zijn.>",
+          "to": "<Dat is, Hij zendt de mensen grote benauwdheid en ellende toe, die met de dood te vergelijken zijn.>",
+          "reason": "Kanttekening gemoderniseerd (afkorting, grammatica, spelling)."
+        },
+        {
+          "type": "lexicon",
+          "from": "doodet",
+          "to": "doodt",
+          "reason": "Moderne werkwoordsvorm."
+        },
+        {
+          "type": "lexicon",
+          "from": "ende",
+          "to": "en",
+          "reason": "Archaïsch voegwoord vervangen."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. hy verlost de treurige wederom uyt hare benauwtheyt ende anghst.>",
+          "to": "<Dat is, Hij verlost de treurenden weer uit hun benauwdheid en angst.>",
+          "reason": "Kanttekening gemoderniseerd (afkorting, grammatica, spelling)."
+        },
+        {
+          "type": "lexicon",
+          "from": "maeckt levendigh",
+          "to": "maakt levend",
+          "reason": "Moderne werkwoordsvorm en spelling."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. hy brenght in de uyterste verachtinge ende smaet.>",
+          "to": "<Dat is, Hij brengt [iemand] tot de uiterste verachting en smaad.>",
+          "reason": "Kanttekening gemoderniseerd (afkorting, grammatica, spelling)."
+        },
+        {
+          "type": "syntax",
+          "from": "Hy doet ter helle neder dalen",
+          "to": "Hij laat neerdalen naar het dodenrijk",
+          "reason": "Archaïsche naamval 'ter helle' vervangen door moderne constructie met 'naar het dodenrijk' (Sheol) en 'doet neder dalen' gemoderniseerd naar 'laat neerdalen'."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. in de uyterste benauwtheyt. siet Genes. 37. op vers 3.>",
+          "to": "<Dat is, in de uiterste benauwdheid. Zie Gn. 37:3.>",
+          "reason": "Kanttekening gemoderniseerd en referentie gestandaardiseerd."
+        },
+        {
+          "type": "spelling",
+          "from": "hy",
+          "to": "Hij",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "lexicon",
+          "from": "doet [weder] opkomen",
+          "to": "laat [weer] opkomen",
+          "reason": "Hedendaagse werkwoordskeuze en spelling."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Formele woordkeuze in kanttekening",
+            "current": "Hij zendt de mensen grote benauwdheid en ellende toe",
+            "suggested": "Hij brengt de mensen in grote benauwdheid en ellende",
+            "reason": "De uitdrukking 'iets toezenden' is in deze context wat formeel en ongebruikelijk. 'Iemand in een toestand brengen' is een natuurlijkere en gangbaardere formulering."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 7,
+      "original_text": "De HEERE maeckt arm ende maeckt rijck, hy vernedert, oock verhooght hy.",
+      "modernized_text": "De HEERE maakt arm en maakt rijk, Hij vernedert, en Hij verhoogt ook.",
+      "source_text": "יְהוָ֖ה מֹורִ֣ישׁ וּמַעֲשִׁ֑יר מַשְׁפִּ֖יל אַף־מְרֹומֵֽם׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "maeckt",
+          "to": "maakt",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "lexicon",
+          "from": "ende",
+          "to": "en",
+          "reason": "Archaïsch voegwoord vervangen."
+        },
+        {
+          "type": "spelling",
+          "from": "hy",
+          "to": "Hij",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "syntax",
+          "from": "oock verhooght hy",
+          "to": "en Hij verhoogt ook",
+          "reason": "Archaïsche inversie en woordkeuze gemoderniseerd voor een natuurlijke zinsbouw."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": false,
+        "suggestions": []
+      }
+    },
+    {
+      "verse_number": 8,
+      "original_text": "$Iob 36.15, Psal. 113.7, Psal. 8, Psal. 1.52$ Hy verheft den geringen uyt den stof, [ende] den nootdruftigen verhooght hy <Ofte, uyt den misthoop.> uyt den dreck, om te doen sitten by de Vorsten, dat hyse den stoel der eere doe be-erven: $Psal. 24.2, Psal. 102.26, Psal. 104.5$ want de grontvesten des aerdtrijcks zijn des HEEREN, ende hy heeft de werelt daer op gesett.",
+      "modernized_text": "$Jb. 36:15; Ps. 113:7; Ps. 8; Ps. 1:52$ Hij verheft de geringe uit het stof, [en] de behoeftige verhoogt Hij <Of: uit de mesthoop.> uit het slijk, om hen te laten zitten bij de vorsten, zodat Hij hun de erezetel laat beërven. $Ps. 24:2; Ps. 102:26; Ps. 104:5$ Want de fundamenten van de aarde zijn van de HEERE, en Hij heeft de wereld daarop gezet.",
+      "source_text": "מֵקִ֨ים מֵעָפָ֜ר דָּ֗ל מֵֽאַשְׁפֹּת֙ יָרִ֣ים אֶבְיֹ֔ון לְהֹושִׁיב֙ עִם־נְדִיבִ֔ים וְכִסֵּ֥א כָבֹ֖וד יַנְחִלֵ֑ם כִּ֤י לַֽיהוָה֙ מְצֻ֣קֵי אֶ֔רֶץ וַיָּ֥שֶׁת עֲלֵיהֶ֖ם תֵּבֵֽל׃ ",
+      "changes": [
+        {
+          "type": "reference",
+          "from": "$Iob 36.15, Psal. 113.7, Psal. 8, Psal. 1.52$",
+          "to": "$Jb. 36:15; Ps. 113:7; Ps. 8; Ps. 1:52$",
+          "reason": "Gestandaardiseerde afkorting en notatie volgens lijst."
+        },
+        {
+          "type": "spelling",
+          "from": "Hy",
+          "to": "Hij",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "grammar",
+          "from": "den geringen uyt den stof",
+          "to": "de geringe uit het stof",
+          "reason": "Archaïsche naamvalconstructie gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "[ende]",
+          "to": "[en]",
+          "reason": "Archaïsch voegwoord vervangen."
+        },
+        {
+          "type": "grammar",
+          "from": "den nootdruftigen",
+          "to": "de behoeftige",
+          "reason": "Archaïsche naamval en lexicon ('nootdruftige') gemoderniseerd."
+        },
+        {
+          "type": "syntax",
+          "from": "verhooght hy",
+          "to": "verhoogt Hij",
+          "reason": "Inversie gecorrigeerd naar moderne woordvolgorde."
+        },
+        {
+          "type": "annotation",
+          "from": "<Ofte, uyt den misthoop.>",
+          "to": "<Of: uit de mesthoop.>",
+          "reason": "Kanttekening gemoderniseerd (afkorting, spelling)."
+        },
+        {
+          "type": "grammar",
+          "from": "uyt den dreck",
+          "to": "uit het slijk",
+          "reason": "Archaïsche naamval en lexicon ('dreck') gemoderniseerd."
+        },
+        {
+          "type": "syntax",
+          "from": "om te doen sitten by de Vorsten",
+          "to": "om hen te laten zitten bij de vorsten",
+          "reason": "Archaïsche constructie vervangen door modern equivalent, impliciet lijdend voorwerp 'hen' toegevoegd voor duidelijkheid."
+        },
+        {
+          "type": "syntax",
+          "from": "dat hyse den stoel der eere doe be-erven",
+          "to": "zodat Hij hun de erezetel laat beërven",
+          "reason": "Samengesteld voornaamwoord 'hyse' en archaïsche constructies 'den stoel der eere' en 'doe be-erven' gemoderniseerd."
+        },
+        {
+          "type": "reference",
+          "from": "$Psal. 24.2, Psal. 102.26, Psal. 104.5$",
+          "to": "$Ps. 24:2; Ps. 102:26; Ps. 104:5$",
+          "reason": "Gestandaardiseerde afkorting en notatie volgens lijst."
+        },
+        {
+          "type": "grammar",
+          "from": "de grontvesten des aerdtrijcks",
+          "to": "de fundamenten van de aarde",
+          "reason": "Archaïsch lexicon ('grontvesten') en genitiefconstructie ('des aerdtrijcks') gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "zijn des HEEREN",
+          "to": "zijn van de HEERE",
+          "reason": "Genitiefconstructie gemoderniseerd."
+        },
+        {
+          "type": "spelling",
+          "from": "hy",
+          "to": "Hij",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "spelling",
+          "from": "gesett",
+          "to": "gezet",
+          "reason": "Moderne spelling."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Onwaarschijnlijke Bijbelverwijzing",
+            "current": "Ps. 1:52",
+            "suggested": "Lk. 1:52",
+            "reason": "De verwijzing 'Ps. 1:52' is ongeldig, omdat Psalm 1 maar 6 verzen heeft. Gezien de context (het verhogen van de geringe) is dit zeer waarschijnlijk een verschrijving voor 'Lk. 1:52', waar een vergelijkbare uitspraak staat in de lofzang van Maria. Dit is waarschijnlijk een fout in de originele Statenvertaling die correctie behoeft."
+          },
+          {
+            "issue": "Licht onnatuurlijke formulering",
+            "current": "zodat Hij hun de erezetel laat beërven.",
+            "suggested": "en hun de erezetel in bezit geeft.",
+            "reason": "'laten beërven' is een wat letterlijke en daardoor ongebruikelijke constructie in modern Nederlands. 'in bezit geeft' is natuurlijker en drukt de betekenis van het Hebreeuwse werkwoord (het verkrijgen als bezit/erfdeel) goed uit."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 9,
+      "original_text": "Hy sal de voeten sijner gunstgenooten bewaren, maer de godtloose <Of, sullen uytgeroeyt vvorden [ende geworpen] in de duysternisse.> sullen swijgen in duysternisse: want een man en vermagh niet door kracht.",
+      "modernized_text": "Hij zal de voeten van zijn gunstgenoten bewaren, maar de goddelozen <Of: zullen uitgeroeid worden [en geworpen] in de duisternis.> zullen zwijgen in de duisternis; want een mens overwint niet door kracht.",
+      "source_text": "רַגְלֵ֤י חֲסִידָיו֙ יִשְׁמֹ֔ר וּרְשָׁעִ֖ים בַּחֹ֣שֶׁךְ יִדָּ֑מּוּ כִּֽי־לֹ֥א בְכֹ֖חַ יִגְבַּר־אִֽישׁ׃ ",
+      "changes": [
+        {
+          "type": "spelling",
+          "from": "Hy",
+          "to": "Hij",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "grammar",
+          "from": "sijner gunstgenooten",
+          "to": "van zijn gunstgenoten",
+          "reason": "Genitiefconstructie gemoderniseerd."
+        },
+        {
+          "type": "spelling",
+          "from": "godtloose",
+          "to": "goddelozen",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "annotation",
+          "from": "<Of, sullen uytgeroeyt vvorden [ende geworpen] in de duysternisse.>",
+          "to": "<Of: zullen uitgeroeid worden [en geworpen] in de duisternis.>",
+          "reason": "Kanttekening gemoderniseerd (afkorting, grammatica, spelling)."
+        },
+        {
+          "type": "grammar",
+          "from": "sullen swijgen in duysternisse",
+          "to": "zullen zwijgen in de duisternis",
+          "reason": "Moderne werkwoordsvorm en naamvalconstructie."
+        },
+        {
+          "type": "syntax",
+          "from": "want een man en vermagh niet door kracht",
+          "to": "want een mens overwint niet door kracht",
+          "reason": "Generaliserend 'man' vervangen door 'mens', archaïsche dubbele negatie 'en...niet' en werkwoord 'vermagh' vervangen door een modern en betekenisgetrouw equivalent."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Archaïsche woordkeuze",
+            "current": "Hij zal de voeten van zijn gunstgenoten bewaren",
+            "suggested": "Hij zal de voeten van zijn getrouwen beschermen",
+            "reason": "Het woord 'bewaren' in de betekenis van 'beschermen' is verouderd. 'Beschermen' is de gangbare term. Daarnaast is 'gunstgenoten' wat verouderd; 'getrouwen' is een moderner alternatief dat de betekenis van het Hebreeuwse 'chasidav' (vromen, toegewijden) beter weergeeft."
+          },
+          {
+            "issue": "Zwakke woordkeuze",
+            "current": "zullen zwijgen in de duisternis",
+            "suggested": "zullen verstommen in de duisternis",
+            "reason": "'Zwijgen' kan te passief klinken. 'Verstommen' is krachtiger en suggereert een plotseling en gedwongen einde, wat goed past bij de context van oordeel en de dubbele betekenis (stil worden/vergaan) van het Hebreeuwse werkwoord."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 10,
+      "original_text": "Die met den HEERE twisten, sullen verplettert werden; $1.Sam. 7.10$ hy sal in den hemel over hen donderen: de HEERE sal <D. oock die, die aen de uyterste eynden der werelt zijn.> de eynden der aerde richten, ende sal <T.w. Christo, den welcken hy heeft verordineert, ende den welcken hy ter bestemder tijt senden sal.> sijnen $1.Sam. 2.6, 1.Sam. 89.25$ Koningh sterckte geven, ende den hoorn <D. Christi. siet Psalm 2.2.> sijnes gesalfden verhoogen.",
+      "modernized_text": "Zij die met de HEERE twisten, zullen verpletterd worden; $1Sm. 7:10$ Hij zal vanuit de hemel over hen donderen. De HEERE zal <Dat is, ook zij die aan de uiterste einden van de wereld zijn.> de einden van de aarde oordelen, en zal <Te weten: Christus, die Hij heeft verordend, en die Hij op de bestemde tijd zenden zal.> zijn $1Sm. 2:6; 1Sm. 89:25$ Koning sterkte geven, en de hoorn <Dat is, van Christus. Zie Ps. 2:2.> van zijn gezalfde verhogen.",
+      "source_text": "יְהוָ֞ה יֵחַ֣תּוּ מְרִיבָ֗יו עָלָיו֙ בַּשָּׁמַ֣יִם יַרְעֵ֔ם יְהוָ֖ה יָדִ֣ין אַפְסֵי־אָ֑רֶץ וְיִתֶּן־עֹ֣ז לְמַלְכֹּ֔ו וְיָרֵ֖ם קֶ֥רֶן מְשִׁיחֹֽו׃ פ ",
+      "changes": [
+        {
+          "type": "syntax",
+          "from": "Die met den HEERE twisten",
+          "to": "Zij die met de HEERE twisten",
+          "reason": "Modernere inleiding van de betrekkelijke bijzin."
+        },
+        {
+          "type": "grammar",
+          "from": "sullen verplettert werden",
+          "to": "zullen verpletterd worden",
+          "reason": "Moderne werkwoordsvormen."
+        },
+        {
+          "type": "reference",
+          "from": "$1.Sam. 7.10$",
+          "to": "$1Sm. 7:10$",
+          "reason": "Gestandaardiseerde afkorting en notatie volgens lijst."
+        },
+        {
+          "type": "spelling",
+          "from": "hy sal",
+          "to": "Hij zal",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "grammar",
+          "from": "in den hemel",
+          "to": "vanuit de hemel",
+          "reason": "Archaïsche naamvalconstructie vervangen door modern voorzetselgebruik."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. oock die, die aen de uyterste eynden der werelt zijn.>",
+          "to": "<Dat is, ook zij die aan de uiterste einden van de wereld zijn.>",
+          "reason": "Kanttekening gemoderniseerd (afkorting, grammatica, spelling)."
+        },
+        {
+          "type": "syntax",
+          "from": "de eynden der aerde richten",
+          "to": "de einden van de aarde oordelen",
+          "reason": "Archaïsche genitief ('der aerde') en werkwoord ('richten') gemoderniseerd naar hedendaagse equivalenten."
+        },
+        {
+          "type": "lexicon",
+          "from": "ende sal",
+          "to": "en zal",
+          "reason": "Archaïsch voegwoord vervangen."
+        },
+        {
+          "type": "annotation",
+          "from": "<T.w. Christo, den welcken hy heeft verordineert, ende den welcken hy ter bestemder tijt senden sal.>",
+          "to": "<Te weten: Christus, die Hij heeft verordend, en die Hij op de bestemde tijd zenden zal.>",
+          "reason": "Kanttekening gemoderniseerd (afkorting, grammatica, spelling)."
+        },
+        {
+          "type": "grammar",
+          "from": "sijnen Koningh",
+          "to": "zijn Koning",
+          "reason": "Archaïsche naamvalsvorm vervangen."
+        },
+        {
+          "type": "reference",
+          "from": "$1.Sam. 2.6, 1.Sam. 89.25$",
+          "to": "$1Sm. 2:6; 1Sm. 89:25$",
+          "reason": "Gestandaardiseerde afkorting en notatie volgens lijst. Inhoud van de referentie (incl. mogelijke fouten) is ongewijzigd gelaten."
+        },
+        {
+          "type": "spelling",
+          "from": "sterckte",
+          "to": "sterkte",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "lexicon",
+          "from": "ende den hoorn",
+          "to": "en de hoorn",
+          "reason": "Archaïsch voegwoord en lidwoord gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. Christi. siet Psalm 2.2.>",
+          "to": "<Dat is, van Christus. Zie Ps. 2:2.>",
+          "reason": "Kanttekening gemoderniseerd en referentie gestandaardiseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "sijnes gesalfden",
+          "to": "van zijn gezalfde",
+          "reason": "Genitiefconstructie gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Onwaarschijnlijke Bijbelverwijzing",
+            "current": "1Sm. 89:25",
+            "suggested": "Ps. 89:25",
+            "reason": "De verwijzing '1Sm. 89:25' is ongeldig, omdat 1 Samuel maar 31 hoofdstukken heeft. Gezien de context (God die Zijn koning sterkte geeft) is dit zeer waarschijnlijk een verschrijving voor 'Ps. 89:25', waar een vergelijkbare belofte staat. Dit is waarschijnlijk een fout in de originele Statenvertaling die correctie behoeft."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 11,
+      "original_text": "Daerna gingh Elkana na Rama in sijn huys, maer de jongelingh was den HEERE dienende voor het aenschijn des Priesters Eli.",
+      "modernized_text": "Daarna ging Elkana naar zijn huis in Rama, maar de jongeman diende de HEERE onder toezicht van de priester Eli.",
+      "source_text": "וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל־בֵּיתֹ֑ו וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת־יְהוָ֔ה אֶת־פְּנֵ֖י עֵלִ֥י הַכֹּהֵֽן׃ ",
+      "changes": [
+        {
+          "type": "spelling",
+          "from": "Daerna",
+          "to": "Daarna",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "spelling",
+          "from": "gingh",
+          "to": "ging",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "syntax",
+          "from": "na Rama in sijn huys",
+          "to": "naar zijn huis in Rama",
+          "reason": "Modernere en natuurlijkere woordvolgorde en spelling."
+        },
+        {
+          "type": "spelling",
+          "from": "maer",
+          "to": "maar",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "lexicon",
+          "from": "jongelingh",
+          "to": "jongeman",
+          "reason": "Archaïsch woord vervangen door een hedendaags equivalent."
+        },
+        {
+          "type": "syntax",
+          "from": "was den HEERE dienende",
+          "to": "diende de HEERE",
+          "reason": "Verouderde constructie met een deelwoord vervangen door een moderne werkwoordsvorm."
+        },
+        {
+          "type": "lexicon",
+          "from": "voor het aenschijn des Priesters Eli",
+          "to": "onder toezicht van de priester Eli",
+          "reason": "Archaïsche uitdrukking en naamval gemoderniseerd naar een hedendaagse, begrijpelijke formulering."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": false,
+        "suggestions": []
+      }
+    },
+    {
+      "verse_number": 12,
+      "original_text": "Doch de sonen Eli waren <Siet Deut. 13. vers 13.> kinderen Belials: sy en kenden den HEERE niet.",
+      "modernized_text": "De zonen van Eli waren echter <Zie Dt. 13:13> kinderen van Belial: zij kenden de HEERE niet.",
+      "source_text": "וּבְנֵ֥י עֵלִ֖י בְּנֵ֣י בְלִיָּ֑עַל לֹ֥א יָדְע֖וּ אֶת־יְהוָֽה׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Doch",
+          "to": "echter",
+          "reason": "Archaïsch voegwoord vervangen door een modern equivalent, en verplaatst voor een natuurlijke zinsbouw."
+        },
+        {
+          "type": "grammar",
+          "from": "de sonen Eli",
+          "to": "De zonen van Eli",
+          "reason": "Verouderde constructie zonder voorzetsel gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<Siet Deut. 13. vers 13.>",
+          "to": "<Zie Dt. 13:13>",
+          "reason": "Referentie gestandaardiseerd en gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "kinderen Belials",
+          "to": "kinderen van Belial",
+          "reason": "Archaïsche genitief-naamval vervangen door een moderne constructie met 'van'."
+        },
+        {
+          "type": "grammar",
+          "from": "sy en kenden",
+          "to": "zij kenden",
+          "reason": "Verouderde dubbele ontkenning ('en') verwijderd en persoonlijk voornaamwoord gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Formele woordkeuze",
+            "current": "De zonen van Eli waren echter",
+            "suggested": "Maar de zonen van Eli waren",
+            "reason": "'Maar' is een directere en natuurlijkere vertaling van het oorspronkelijke 'Doch' dan het formelere 'echter' in deze zinsconstructie."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 13,
+      "original_text": "Want <Hebr. Misphat, het recht: welck woort een gewoonte ofte gebruyck somtijts beteeckent, niet alleen een goet ende prijselick, maer oock een quaet ende misprijselick gebruyck, ofte wijse.> de wijse dier Priesteren met den volcke was, dat, [wanneer] yemant een offerhande <D. brachte om geoffert te worden. alsoo vers 15.> offerde, des Priesters jonge quam, dewijle het vleesch koockte, met eenen drietandigen krauwel in sijne hant,",
+      "modernized_text": "Want <Hebreeuws: Mispat, het recht. Dit woord betekent soms een gewoonte of gebruik, niet alleen een goed en prijzenswaardig, maar ook een slecht en afkeurenswaardig gebruik, of manier.> de gewoonte van de priesters tegenover het volk was dat, [wanneer] iemand een offer <Dat is, bracht om geofferd te worden; zo ook vers 15.> offerde, de dienaar van de priester kwam, terwijl het vlees kookte, met een drietandige vork in zijn hand,",
+      "source_text": "וּמִשְׁפַּ֥ט הַכֹּהֲנִ֖ים אֶת־הָעָ֑ם כָּל־אִ֞ישׁ זֹבֵ֣חַ זֶ֗בַח וּבָ֨א נַ֤עַר הַכֹּהֵן֙ כְּבַשֵּׁ֣ל הַבָּשָׂ֔ר וְהַמַּזְלֵ֛ג שְׁלֹ֥שׁ־הַשִּׁנַּ֖יִם בְּיָדֹֽו׃ ",
+      "changes": [
+        {
+          "type": "annotation",
+          "from": "<Hebr. Misphat, het recht: welck woort een gewoonte ofte gebruyck somtijts beteeckent, niet alleen een goet ende prijselick, maer oock een quaet ende misprijselick gebruyck, ofte wijse.>",
+          "to": "<Hebreeuws: Mispat, het recht. Dit woord betekent soms een gewoonte of gebruik, niet alleen een goed en prijzenswaardig, maar ook een slecht en afkeurenswaardig gebruik, of manier.>",
+          "reason": "Kanttekening volledig gemoderniseerd qua spelling, woordkeus en interpunctie."
+        },
+        {
+          "type": "lexicon",
+          "from": "de wijse dier Priesteren met den volcke",
+          "to": "de gewoonte van de priesters tegenover het volk",
+          "reason": "Archaïsche termen ('wijse', 'dier', 'den volcke') en naamvallen vervangen door moderne equivalenten."
+        },
+        {
+          "type": "spelling",
+          "from": "yemant",
+          "to": "iemand",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "lexicon",
+          "from": "offerhande",
+          "to": "offer",
+          "reason": "Archaïsch woord vervangen door een hedendaags equivalent."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. brachte om geoffert te worden. alsoo vers 15.>",
+          "to": "<Dat is, bracht om geofferd te worden; zo ook vers 15.>",
+          "reason": "Kanttekening gemoderniseerd, afkorting uitgeschreven en spelling aangepast."
+        },
+        {
+          "type": "grammar",
+          "from": "des Priesters jonge quam",
+          "to": "de dienaar van de priester kwam",
+          "reason": "Genitief-naamval en archaïsch woord ('jonge') vervangen door moderne constructie en lexicon."
+        },
+        {
+          "type": "lexicon",
+          "from": "dewijle",
+          "to": "terwijl",
+          "reason": "Archaïsch voegwoord vervangen."
+        },
+        {
+          "type": "spelling",
+          "from": "koockte",
+          "to": "kookte",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "lexicon",
+          "from": "met eenen drietandigen krauwel",
+          "to": "met een drietandige vork",
+          "reason": "Archaïsch woord ('krauwel') en naamval ('eenen') vervangen."
+        },
+        {
+          "type": "grammar",
+          "from": "in sijne hant",
+          "to": "in zijn hand",
+          "reason": "Verouderde naamval en spelling gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Ongebruikelijke interpunctie",
+            "current": "was dat, [wanneer] iemand een offer",
+            "suggested": "was dat [wanneer] iemand een offer",
+            "reason": "De komma na 'dat' is in hedendaags Nederlands ongebruikelijk en verstoort de leesflow. Het verwijderen ervan maakt de zin natuurlijker."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 14,
+      "original_text": "Ende sloech in de teyle, of in den ketel, of in de panne, of in den pot, <Godt hadde de Priesteren sekere deelen of stucken der beesten, die geoffert wierden, tot hare spijse gegeven: Te weten, de borst, ende de rechter schouder, Exod. 29.27, 28. ende Lev. 7.21, 32, 33. maer sy en mochten niet nemen wat haer beliefde, of wat de gaffel haer gaf: oock moeste het deel, het welck de Priesteren toequam, eerst voor den Heere opgeheven ende beweeght worden, Levit. 7.34.> al wat de krauwel optrock, dat nam de Priester <Ofte, daer mede, Te weten, met de krauwel.> voor hem: alsoo deden sy <Hebr. al Israël.> allen den Israëliten die daer te Silo quamen.",
+      "modernized_text": "En hij stak die in de schaal, of in de ketel, of in de pan, of in de pot. <God had de priesters bepaalde delen of stukken van de dieren die geofferd werden, tot voedsel gegeven, te weten: de borst en de rechterschouder, Ex. 29:27-28 en Lv. 7:21, 32-33. Maar zij mochten niet nemen wat hun behaagde, of wat de vork hun gaf. Ook moest het deel dat de priesters toekwam, eerst voor de HEERE opgeheven en bewogen worden, Lv. 7:34.> Alles wat de vork omhoogtrok, nam de priester <Of: daarmee, te weten, met de vork.> voor zichzelf. Zo deden zij met alle Israëlieten die daar in Silo kwamen.",
+      "source_text": "וְהִכָּ֨ה בַכִּיֹּ֜ור אֹ֣ו בַדּ֗וּד אֹ֤ו בַקַּלַּ֨חַת֙ אֹ֣ו בַפָּר֔וּר כֹּ֚ל אֲשֶׁ֣ר יַעֲלֶ֣ה הַמַּזְלֵ֔ג יִקַּ֥ח הַכֹּהֵ֖ן בֹּ֑ו כָּ֚כָה יַעֲשׂ֣וּ לְכָל־יִשְׂרָאֵ֔ל הַבָּאִ֥ים שָׁ֖ם בְּשִׁלֹֽה׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Ende sloech",
+          "to": "En hij stak die",
+          "reason": "Modernere en specifiekere vertaling van de handeling. Het onderwerp 'hij' en lijdend voorwerp 'die' (de vork) zijn toegevoegd voor de duidelijkheid."
+        },
+        {
+          "type": "lexicon",
+          "from": "teyle",
+          "to": "schaal",
+          "reason": "Archaïsch woord vervangen door een hedendaags equivalent."
+        },
+        {
+          "type": "grammar",
+          "from": "den ketel... de panne... den pot",
+          "to": "de ketel... de pan... de pot",
+          "reason": "Lidwoorden gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<Godt hadde de Priesteren sekere deelen of stucken der beesten, die geoffert wierden, tot hare spijse gegeven: Te weten, de borst, ende de rechter schouder, Exod. 29.27, 28. ende Lev. 7.21, 32, 33. maer sy en mochten niet nemen wat haer beliefde, of wat de gaffel haer gaf: oock moeste het deel, het welck de Priesteren toequam, eerst voor den Heere opgeheven ende beweeght worden, Levit. 7.34.>",
+          "to": "<God had de priesters bepaalde delen of stukken van de dieren die geofferd werden, tot voedsel gegeven, te weten: de borst en de rechterschouder, Ex. 29:27-28 en Lv. 7:21, 32-33. Maar zij mochten niet nemen wat hun behaagde, of wat de vork hun gaf. Ook moest het deel dat de priesters toekwam, eerst voor de HEERE opgeheven en bewogen worden, Lv. 7:34.>",
+          "reason": "Kanttekening volledig gemoderniseerd qua spelling, woordkeus, interpunctie en referentienotatie."
+        },
+        {
+          "type": "syntax",
+          "from": "al wat de krauwel optrock, dat nam de Priester",
+          "to": "Alles wat de vork omhoogtrok, nam de priester",
+          "reason": "Zinsbouw en woordkeus gemoderniseerd voor een vlottere lezing."
+        },
+        {
+          "type": "annotation",
+          "from": "<Ofte, daer mede, Te weten, met de krauwel.>",
+          "to": "<Of: daarmee, te weten, met de vork.>",
+          "reason": "Kanttekening gemoderniseerd qua spelling en woordkeus."
+        },
+        {
+          "type": "lexicon",
+          "from": "voor hem",
+          "to": "voor zichzelf",
+          "reason": "Duidelijker gemaakt dat het voor eigen gebruik was."
+        },
+        {
+          "type": "lexicon",
+          "from": "alsoo",
+          "to": "Zo",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "spelling",
+          "from": "sy",
+          "to": "zij",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. al Israël.>",
+          "to": "<Hebreeuws: heel Israël.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "allen den Israëliten die daer te Silo quamen",
+          "to": "met alle Israëlieten die daar in Silo kwamen",
+          "reason": "Naamval en voorzetselgebruik gemoderniseerd voor een natuurlijke constructie."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Formele formulering in kanttekening",
+            "current": "Maar zij mochten niet nemen wat hun behaagde",
+            "suggested": "Maar zij mochten niet zomaar nemen wat ze wilden",
+            "reason": "'Wat hun behaagde' is een formele en ietwat verouderde uitdrukking. 'Wat ze wilden' is directer en natuurlijker. De toevoeging 'zomaar' versterkt de ongeoorloofde aard van de handeling."
+          },
+          {
+            "issue": "Ontbrekende kanttekening",
+            "current": "Zo deden zij met alle Israëlieten die daar in Silo kwamen.",
+            "suggested": "Zo deden zij <Hebreeuws: heel Israël.> met alle Israëlieten die daar in Silo kwamen.",
+            "reason": "De gemoderniseerde kanttekening '<Hebreeuws: heel Israël.>' is per abuis weggelaten in de hoofdtekst. Deze moet worden hersteld op de juiste positie, zoals in de brontekst."
+          },
+          {
+            "issue": "Onnauwkeurig voorzetselgebruik",
+            "current": "Zo deden zij met alle Israëlieten",
+            "suggested": "Zo deden zij bij alle Israëlieten",
+            "reason": "Het voorzetsel 'met' kan suggereren dat ze het samen deden. 'Bij' geeft duidelijker aan dat de handeling gericht was op de Israëlieten, wat de bedoeling van de tekst is ('dit was hun handelwijze jegens')."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 15,
+      "original_text": "Oock eer sy ’t vet <Siet Levit. 3. vers 3, et c.> aenstaken, quam des Priesters jonge, ende seyde tot den man, die offerde, Geeft dat vleesch om te braden voor den Priester: want <Nochtans nam de Priester oock wel gekoockt vleesch, als te sien is vers 13. Hier wort te kennen gegeven, dat hy liever raeuw vleesch hadde, dan gekoockt.> hy en sal geen gekoockt vleesch van u nemen, maer <Hebr. levendigh.> raeuw.",
+      "modernized_text": "Ook, voordat zij het vet <Zie Lv. 3:3, enz.> in rook lieten opgaan, kwam de dienaar van de priester en zei tegen de man die offerde: 'Geef dat vlees om te braden voor de priester, want <Nochtans nam de priester ook wel gekookt vlees, zoals te zien is in vers 13. Hier wordt te kennen gegeven dat hij liever rauw vlees had dan gekookt.> hij zal geen gekookt vlees van u aannemen, maar <Hebreeuws: levend.> rauw.'",
+      "source_text": "גַּם֮ בְּטֶרֶם֮ יַקְטִר֣וּן אֶת־הַחֵלֶב֒ וּבָ֣א׀ נַ֣עַר הַכֹּהֵ֗ן וְאָמַר֙ לָאִ֣ישׁ הַזֹּבֵ֔חַ תְּנָ֣ה בָשָׂ֔ר לִצְלֹ֖ות לַכֹּהֵ֑ן וְלֹֽא־יִקַּ֧ח מִמְּךָ֛ בָּשָׂ֥ר מְבֻשָּׁ֖ל כִּ֥י אִם־חָֽי׃ ",
+      "changes": [
+        {
+          "type": "syntax",
+          "from": "Oock eer sy ’t vet",
+          "to": "Ook, voordat zij het vet",
+          "reason": "Archaïsche samentrekking en woordkeus vervangen door een moderne formulering."
+        },
+        {
+          "type": "annotation",
+          "from": "<Siet Levit. 3. vers 3, et c.>",
+          "to": "<Zie Lv. 3:3, enz.>",
+          "reason": "Referentie gestandaardiseerd en gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "aenstaken",
+          "to": "in rook lieten opgaan",
+          "reason": "Archaïsch werkwoord vervangen door een term die de offerhandeling nauwkeuriger beschrijft."
+        },
+        {
+          "type": "grammar",
+          "from": "quam des Priesters jonge",
+          "to": "kwam de dienaar van de priester",
+          "reason": "Genitief-naamval en archaïsch woord ('jonge') vervangen door moderne constructie en lexicon."
+        },
+        {
+          "type": "lexicon",
+          "from": "ende seyde tot den man",
+          "to": "en zei tegen de man",
+          "reason": "Spelling en naamval gemoderniseerd."
+        },
+        {
+          "type": "punctuation",
+          "from": "Geeft dat vleesch...",
+          "to": "'Geef dat vlees...'",
+          "reason": "Aanhalingstekens toegevoegd om de directe rede aan te geven en spelling gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "voor den Priester",
+          "to": "voor de priester",
+          "reason": "Lidwoord gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<Nochtans nam de Priester oock wel gekoockt vleesch, als te sien is vers 13. Hier wort te kennen gegeven, dat hy liever raeuw vleesch hadde, dan gekoockt.>",
+          "to": "<Nochtans nam de priester ook wel gekookt vlees, zoals te zien is in vers 13. Hier wordt te kennen gegeven dat hij liever rauw vlees had dan gekookt.>",
+          "reason": "Kanttekening volledig gemoderniseerd qua spelling en woordkeus."
+        },
+        {
+          "type": "grammar",
+          "from": "hy en sal",
+          "to": "hij zal",
+          "reason": "Verouderde dubbele ontkenning ('en') verwijderd en persoonlijk voornaamwoord gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "van u nemen",
+          "to": "van u aannemen",
+          "reason": "Werkwoord 'aannemen' past beter in de context van ontvangen."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. levendigh.>",
+          "to": "<Hebreeuws: levend.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "spelling",
+          "from": "raeuw",
+          "to": "rauw",
+          "reason": "Moderne spelling."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Formele en passieve constructie in kanttekening",
+            "current": "<Nochtans nam de priester ook wel gekookt vlees, zoals te zien is in vers 13. Hier wordt te kennen gegeven dat hij liever rauw vlees had dan gekookt.>",
+            "suggested": "<Toch nam de priester ook wel gekookt vlees, zoals te zien is in vers 13. Hieruit blijkt dat hij liever rauw vlees had dan gekookt.>",
+            "reason": "'Nochtans' is verouderd; 'Toch' is een modern equivalent. 'Hier wordt te kennen gegeven' is een stijve, passieve formulering; 'Hieruit blijkt' is actiever en natuurlijker."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 16,
+      "original_text": "Wanneer nu die man tot hem seyde, Sy sullen dat vet als heden gantschelick <Hebr. aenstekende aensteken.> aensteken, soo neemt dan voor u gelijck als het uwe ziele lusten sal: soo seyde hy tot hem, Nu sult ghy het immers geven, ende soo niet, ick sal ’t met gewelt nemen.",
+      "modernized_text": "Wanneer die man dan tegen hem zei: 'Zij zullen het vet vandaag nog volledig <Hebreeuws: een nadrukkelijke vorm van 'in rook laten opgaan'.> in rook laten opgaan. Neem dan voor uzelf wat uw ziel begeert', dan zei hij tegen hem: 'Nee, u moet het nu meteen geven, en zo niet, dan neem ik het met geweld.'",
+      "source_text": "וַיֹּ֨אמֶר אֵלָ֜יו הָאִ֗ישׁ קַטֵּ֨ר יַקְטִיר֤וּן כַּיֹּום֙ הַחֵ֔לֶב וְקַ֨ח־לְךָ֔ כַּאֲשֶׁ֥ר תְּאַוֶּ֖ה נַפְשֶׁ֑ךָ וְאָמַ֥ר׀ לֹא֙ כִּ֚י עַתָּ֣ה תִתֵּ֔ן וְאִם־לֹ֖א לָקַ֥חְתִּי בְחָזְקָֽה׃ ",
+      "changes": [
+        {
+          "type": "syntax",
+          "from": "Wanneer nu die man tot hem seyde",
+          "to": "Wanneer die man dan tegen hem zei",
+          "reason": "Modernisering van woordvolgorde en woordkeus voor een natuurlijke zinsbouw."
+        },
+        {
+          "type": "spelling",
+          "from": "Sy sullen",
+          "to": "Zij zullen",
+          "reason": "Moderne spelling van voornaamwoord."
+        },
+        {
+          "type": "lexicon",
+          "from": "als heden",
+          "to": "vandaag nog",
+          "reason": "Archaïsche uitdrukking vervangen door hedendaags equivalent."
+        },
+        {
+          "type": "lexicon",
+          "from": "gantschelick aensteken",
+          "to": "volledig in rook laten opgaan",
+          "reason": "Archaïsche term voor offeren vervangen door een begrijpelijke moderne omschrijving."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. aenstekende aensteken.>",
+          "to": "<Hebreeuws: een nadrukkelijke vorm van 'in rook laten opgaan'.>",
+          "reason": "Modernisering van de kanttekening en de uitleg van de Hebreeuwse intensieve vorm."
+        },
+        {
+          "type": "syntax",
+          "from": "soo neemt dan voor u gelijck als het uwe ziele lusten sal",
+          "to": "Neem dan voor uzelf wat uw ziel begeert",
+          "reason": "Archaïsche zinsconstructie en woordkeus vervangen door een vloeiende, moderne formulering."
+        },
+        {
+          "type": "syntax",
+          "from": "soo seyde hy tot hem",
+          "to": "dan zei hij tegen hem",
+          "reason": "Moderne zinsbouw en woordkeus."
+        },
+        {
+          "type": "lexicon",
+          "from": "Nu sult ghy het immers geven",
+          "to": "Nee, u moet het nu meteen geven",
+          "reason": "Modernisering van 'Nu' als ontkenning ('Nee'), 'sult ghy' naar 'u moet', en 'immers' als versterking van directheid."
+        },
+        {
+          "type": "lexicon",
+          "from": "ende soo niet",
+          "to": "en zo niet",
+          "reason": "Archaïsch voegwoord vervangen."
+        },
+        {
+          "type": "syntax",
+          "from": "ick sal ’t met gewelt nemen",
+          "to": "dan neem ik het met geweld",
+          "reason": "Toevoeging van 'dan' voor een natuurlijker zinsverband en modernisering van 'ick'."
+        },
+        {
+          "type": "punctuation",
+          "from": "...",
+          "to": "'...' en ','",
+          "reason": "Toevoeging van aanhalingstekens en komma's om de dialoog duidelijker te structureren."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Onnatuurlijke zinsbouw",
+            "current": "Wanneer die man dan tegen hem zei:",
+            "suggested": "Als die man dan tegen hem zei:",
+            "reason": "'Wanneer... dan' is een wat stijve en formele constructie. 'Als' is in deze context natuurlijker en vloeit beter."
+          },
+          {
+            "issue": "Archaïsche formulering",
+            "current": "wat uw ziel begeert",
+            "suggested": "wat u maar verlangt",
+            "reason": "'Wat uw ziel begeert' is een archaïsche uitdrukking. 'Wat u maar verlangt' is een moderner, maar nog steeds respectvol alternatief dat de betekenis behoudt."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 17,
+      "original_text": "Alsoo was de sonde <T.w. der sonen Eli.> deser jongelingen seer groot voor ’t aengesichte des HEEREN: want <Hy wil seggen, Als het volck sagh dat de sonen Eli de offerhande n soo schandelick misbruyckten tot hare wellusten, soo wierden sy daer door afgekeert van den Godtsdienst, alsoo dat sy niet meer spijs-offeren tot den Heere en brachten.> de lieden verachteden het spijs-offer des HEEREN.",
+      "modernized_text": "Zo was de zonde van deze jongemannen <Te weten: van de zonen van Eli.> zeer groot voor het aangezicht van de HEERE, want <Dit wil zeggen: toen het volk zag dat de zonen van Eli de offergaven zo schandelijk misbruikten voor hun eigen genot, werden zij daardoor afgekeerd van de godsdienst, zodat zij geen graanoffers meer voor de Heere brachten.> de mensen verachtten het graanoffer van de HEERE.",
+      "source_text": "וַתְּהִ֨י חַטַּ֧את הַנְּעָרִ֛ים גְּדֹולָ֥ה מְאֹ֖ד אֶת־פְּנֵ֣י יְהוָ֑ה כִּ֤י נִֽאֲצוּ֙ הָֽאֲנָשִׁ֔ים אֵ֖ת מִנְחַ֥ת יְהוָֽה׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Alsoo",
+          "to": "Zo",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "grammar",
+          "from": "deser jongelingen",
+          "to": "van deze jongemannen",
+          "reason": "Vervanging van genitiefconstructie en modernisering van 'jongelingen'."
+        },
+        {
+          "type": "annotation",
+          "from": "<T.w. der sonen Eli.>",
+          "to": "<Te weten: van de zonen van Eli.>",
+          "reason": "Afkorting voluit geschreven en naamval gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "voor ’t aengesichte des HEEREN",
+          "to": "voor het aangezicht van de HEERE",
+          "reason": "Moderne spelling en vervanging van genitief."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hy wil seggen... Heere en brachten.>",
+          "to": "<Dit wil zeggen: toen het volk zag dat de zonen van Eli de offergaven zo schandelijk misbruikten voor hun eigen genot, werden zij daardoor afgekeerd van de godsdienst, zodat zij geen graanoffers meer voor de Heere brachten.>",
+          "reason": "Volledige modernisering van de kanttekening: spelling, woordkeus en grammatica."
+        },
+        {
+          "type": "lexicon",
+          "from": "de lieden",
+          "to": "de mensen",
+          "reason": "Archaïsch woord vervangen door hedendaags equivalent."
+        },
+        {
+          "type": "grammar",
+          "from": "verachteden",
+          "to": "verachtten",
+          "reason": "Moderne werkwoordsvervoeging."
+        },
+        {
+          "type": "lexicon",
+          "from": "spijs-offer des HEEREN",
+          "to": "graanoffer van de HEERE",
+          "reason": "Vervanging van 'spijs-offer' door de modernere term 'graanoffer' en modernisering van de genitief."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Stijve, letterlijke vertaling",
+            "current": "voor het aangezicht van de HEERE",
+            "suggested": "in de ogen van de HEERE",
+            "reason": "'Voor het aangezicht van' is een zeer letterlijke en formele vertaling van de Hebreeuwse uitdrukking. 'In de ogen van' is een veelgebruikt en natuurlijk Nederlands idioom met dezelfde betekenis."
+          },
+          {
+            "issue": "Onnodige passieve constructie in kanttekening",
+            "current": "werden zij daardoor afgekeerd van de godsdienst",
+            "suggested": "keerden zij zich daardoor af van de godsdienst",
+            "reason": "De actieve vorm ('zij keerden zich af') is directer en natuurlijker dan de passieve constructie ('zij werden afgekeerd')."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 18,
+      "original_text": "Doch Samuel diende voor het aengesichte des HEEREN, zijnde een jongelingh, omgordet met den linnen <Hebr. Ephod. Vergel. 2.Sam. 6.14.> lijfrock.",
+      "modernized_text": "Maar Samuel, die een jongeman was, diende voor het aangezicht van de HEERE, omgord met een linnen <Hebreeuws: Efod. Vergelijk 2Sm. 6:14.> lijfrok.",
+      "source_text": "וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת־פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפֹ֥וד בָּֽד׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Doch",
+          "to": "Maar",
+          "reason": "Modern voegwoord."
+        },
+        {
+          "type": "lexicon",
+          "from": "voor het aengesichte des HEEREN",
+          "to": "voor het aangezicht van de HEERE",
+          "reason": "Moderne spelling en vervanging van genitief."
+        },
+        {
+          "type": "syntax",
+          "from": "zijnde een jongelingh",
+          "to": "die een jongeman was",
+          "reason": "Archaïsche participiumconstructie ('zijnde') vervangen door een moderne bijzin."
+        },
+        {
+          "type": "lexicon",
+          "from": "jongelingh",
+          "to": "jongeman",
+          "reason": "Archaïsch woord vervangen."
+        },
+        {
+          "type": "grammar",
+          "from": "omgordet met den linnen",
+          "to": "omgord met een linnen",
+          "reason": "Moderne werkwoordsvorm en lidwoord."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. Ephod. Vergel. 2.Sam. 6.14.>",
+          "to": "<Hebreeuws: Efod. Vergelijk 2Sm. 6:14.>",
+          "reason": "Modernisering van afkortingen en referentieformaat."
+        },
+        {
+          "type": "spelling",
+          "from": "lijfrock",
+          "to": "lijfrok",
+          "reason": "Moderne spelling."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Houterige zinsbouw",
+            "current": "Maar Samuel, die een jongeman was, diende",
+            "suggested": "Maar de jonge Samuel diende",
+            "reason": "De constructie met een bijzin ('die een jongeman was') is omslachtig. 'De jonge Samuel' is een vlottere, stijlvollere en natuurlijkere formulering die dezelfde informatie overbrengt."
+          },
+          {
+            "issue": "Formele, letterlijke vertaling",
+            "current": "diende voor het aangezicht van de HEERE",
+            "suggested": "diende de HEERE",
+            "reason": "'Voor het aangezicht van' is een letterlijke weergave die 'in de aanwezigheid van' betekent en formeel klinkt. 'Diende de HEERE' is een directere en in het Nederlands gangbaardere uitdrukking voor dienst in het heiligdom."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 19,
+      "original_text": "Ende sijne moeder maeckte hem eenen kleynen rock, ende brachte hem dien <Hebr. van dagen tot dagen.> van jaer tot jaer, als sy op quam met haren man, om het <Hebr. het offer der dagen.> jaerlicksche offer te offeren.",
+      "modernized_text": "En zijn moeder maakte voor hem een klein manteltje en bracht dat <Hebreeuws: van dagen tot dagen.> jaarlijks voor hem mee, wanneer zij met haar man opkwam om het <Hebreeuws: het offer van de dagen.> jaarlijkse offer te brengen.",
+      "source_text": "וּמְעִ֤יל קָטֹן֙ תַּעֲשֶׂה־לֹּ֣ו אִמֹּ֔ו וְהַעַלְתָ֥ה לֹ֖ו מִיָּמִ֣ים׀ יָמִ֑ימָה בַּֽעֲלֹותָהּ֙ אֶת־אִישָׁ֔הּ לִזְבֹּ֖חַ אֶת־זֶ֥בַח הַיָּמִֽים׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Ende",
+          "to": "En",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "syntax",
+          "from": "sijne moeder maeckte hem eenen kleynen rock",
+          "to": "zijn moeder maakte voor hem een klein manteltje",
+          "reason": "Modernisering van bezittelijk voornaamwoord, woordkeus ('rock' -> 'manteltje') en zinsbouw."
+        },
+        {
+          "type": "syntax",
+          "from": "brachte hem dien",
+          "to": "bracht dat ... voor hem mee",
+          "reason": "Natuurlijker zinsbouw in modern Nederlands."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. van dagen tot dagen.>",
+          "to": "<Hebreeuws: van dagen tot dagen.>",
+          "reason": "Modernisering van afkorting."
+        },
+        {
+          "type": "lexicon",
+          "from": "van jaer tot jaer",
+          "to": "jaarlijks",
+          "reason": "Archaïsche uitdrukking vervangen door een modern bijwoord."
+        },
+        {
+          "type": "syntax",
+          "from": "als sy op quam met haren man",
+          "to": "wanneer zij met haar man opkwam",
+          "reason": "Modernisering van voegwoord, voornaamwoorden en woordvolgorde."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. het offer der dagen.>",
+          "to": "<Hebreeuws: het offer van de dagen.>",
+          "reason": "Modernisering van afkorting en naamval."
+        },
+        {
+          "type": "syntax",
+          "from": "om het jaerlicksche offer te offeren",
+          "to": "om het jaarlijkse offer te brengen",
+          "reason": "Modernisering van spelling en het vermijden van woordherhaling ('offeren')."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": false,
+        "suggestions": []
+      }
+    },
+    {
+      "verse_number": 20,
+      "original_text": "<D. hy als Hoogepriester hadde haer veel gelucks gewenscht.> Ende Eli zegende Elkana ende sijne huysvrouwe, ende seyde, De HEERE geve u <D. kinderen.> zaet uyt dese vrouwe <D. voor den afgebedenen, ende nu Gode gegevene n sone.> voor de bede die <Hebr. hy Siet diergelijcke verwisselinge van het vrouwelick ende mannelick geslachte Genes. c. 24. vers 14. Exo. 31. vers 15. Levit. 2.8. 1.Sam. 25. vers 27. 2.Reg. c. 3. vers 26. Hos. 14.7. Ruth 1. versen 8, 9, 11, 19, 22. Anders, die men den HEERE afgebeden heeft, ofte, die men voor den HEERE gebeden, ofte, begeert heeft. Het is als of hy seyde, Sy en heeft desen sone niet voor haer selven, ofte tot haer voordeel begeert ende den Heere afgebeden: maer op dat sy den selven den Heere soude toe-eygenen tot sijnen dienste.> sy den HEERE afgebeden heeft: ende sy gingen na <Te weten, na Elkanae plaetse.> sijne plaetse.",
+      "modernized_text": "<Dat is: hij als hogepriester had hun veel geluk gewenst.> En Eli zegende Elkana en zijn vrouw, en zei: 'Moge de HEERE u nageslacht <Dat is: kinderen.> geven uit deze vrouw, in plaats van de gave <Dat is: voor de afgesmeekte, en nu aan God gegeven zoon.> die zij <Hebreeuws: 'hij'. Zie dergelijke verwisselingen van het vrouwelijk en mannelijk geslacht in Gn. 24:14; Ex. 31:15; Lv. 2:8; 1Sm. 25:27; 2Kn. 3:26; Hs. 14:7; Ru. 1:8, 9, 11, 19, 22. Anders: die men van de HEERE heeft afgesmeekt, of die men voor de HEERE heeft gebeden of begeerd. Het is alsof hij wilde zeggen: Zij heeft deze zoon niet voor zichzelf of tot haar eigen voordeel begeerd en van de Heere afgesmeekt, maar opdat zij hem aan de Heere zou toewijden voor Zijn dienst.> van de HEERE heeft afgesmeekt.' En zij gingen naar hun woonplaats <Te weten: naar Elkana's woonplaats.>",
+      "source_text": "וּבֵרְַ֨ךְ עֵלִ֜י אֶת־אֶלְקָנָ֣ה וְאֶת־אִשְׁתֹּ֗ו וְאָמַר֙ יָשֵׂם֩ יְהוָ֨ה לְךָ֥ זֶ֨רַע֙ מִן־הָאִשָּׁ֣ה הַזֹּ֔את תַּ֚חַת הַשְּׁאֵלָ֔ה אֲשֶׁ֥ר שָׁאַ֖ל לַֽיהוָ֑ה וְהָלְכ֖וּ לִמְקֹמֹֽו׃ ",
+      "changes": [
+        {
+          "type": "annotation",
+          "from": "<D. hy als Hoogepriester hadde haer veel gelucks gewenscht.>",
+          "to": "<Dat is: hij als hogepriester had hun veel geluk gewenst.>",
+          "reason": "Volledige modernisering van de kanttekening."
+        },
+        {
+          "type": "lexicon",
+          "from": "Ende",
+          "to": "En",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "lexicon",
+          "from": "sijne huysvrouwe",
+          "to": "zijn vrouw",
+          "reason": "Modernisering van bezittelijk voornaamwoord en 'huysvrouwe'."
+        },
+        {
+          "type": "lexicon",
+          "from": "seyde",
+          "to": "zei",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "syntax",
+          "from": "De HEERE geve u",
+          "to": "Moge de HEERE u ... geven",
+          "reason": "Modernisering van de aanvoegende wijs (conjunctief)."
+        },
+        {
+          "type": "lexicon",
+          "from": "zaet",
+          "to": "nageslacht",
+          "reason": "Archaïsch woord vervangen door hedendaags equivalent."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. kinderen.>",
+          "to": "<Dat is: kinderen.>",
+          "reason": "Afkorting voluit geschreven."
+        },
+        {
+          "type": "lexicon",
+          "from": "voor de bede",
+          "to": "in plaats van de gave",
+          "reason": "Modernisering van de uitdrukking die 'in ruil voor' betekent, en 'bede' vervangen door het modernere 'gave' in deze context."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. voor den afgebedenen, ende nu Gode gegevene n sone.>",
+          "to": "<Dat is: voor de afgesmeekte, en nu aan God gegeven zoon.>",
+          "reason": "Volledige modernisering van de kanttekening."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. hy Siet... sijnen dienste.>",
+          "to": "<Hebreeuws: 'hij'. Zie dergelijke verwisselingen van het vrouwelijk en mannelijk geslacht in Gn. 24:14; Ex. 31:15; Lv. 2:8; 1Sm. 25:27; 2Kn. 3:26; Hs. 14:7; Ru. 1:8, 9, 11, 19, 22. Anders: die men van de HEERE heeft afgesmeekt, of die men voor de HEERE heeft gebeden of begeerd. Het is alsof hij wilde zeggen: Zij heeft deze zoon niet voor zichzelf of tot haar eigen voordeel begeerd en van de Heere afgesmeekt, maar opdat zij hem aan de Heere zou toewijden voor Zijn dienst.>",
+          "reason": "Volledige modernisering van een lange, complexe kanttekening, inclusief standaardisatie van alle Bijbelverwijzingen."
+        },
+        {
+          "type": "syntax",
+          "from": "sy den HEERE afgebeden heeft",
+          "to": "zij van de HEERE heeft afgesmeekt",
+          "reason": "Modernisering van voornaamwoord, voorzetselgebruik en werkwoordsvorm."
+        },
+        {
+          "type": "syntax",
+          "from": "ende sy gingen na sijne plaetse",
+          "to": "En zij gingen naar hun woonplaats",
+          "reason": "Modernisering van 'ende', 'sy' en de archaïsche constructie 'na sijne plaetse' naar het logischer 'naar hun woonplaats'."
+        },
+        {
+          "type": "annotation",
+          "from": "<Te weten, na Elkanae plaetse.>",
+          "to": "<Te weten: naar Elkana's woonplaats.>",
+          "reason": "Modernisering van spelling en naamval."
+        },
+        {
+          "type": "punctuation",
+          "from": "..., [quote]: ...",
+          "to": "...: '...' ...",
+          "reason": "Toevoeging van aanhalingstekens om de directe rede te markeren en de interpunctie te moderniseren."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Onnatuurlijke woordcombinatie",
+            "current": "in plaats van de gave die zij van de HEERE heeft afgesmeekt",
+            "suggested": "in plaats van de zoon die zij van de HEERE heeft afgesmeekt",
+            "reason": "De combinatie 'een gave afsmeken' is onnatuurlijk Nederlands. Door het abstracte 'gave' te vervangen door het concrete 'zoon' (zoals de context en kanttekeningen aangeven) wordt de zin vlotter en duidelijker."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 21,
+      "original_text": "Want de HEERE <Bevestigende den zegen van Eli, dien sy vertrouwt hadden, dat de Heere volbrengen soude.> besocht Hanna, ende sy wert bevrucht, ende <Welverstaende tot verscheydene drachten.> baerde drie sonen ende twee dochteren, ende de jongelingh Samuel <Verstaet dit van den wasdom des lichaems in grootte, ende der ziele in wijsheyt ende kennisse. siet Luce 1.80. ende 2.40, 52.> wert groot <Anders, voor, ofte, met den Heere.> by den HEERE.",
+      "modernized_text": "Want de HEERE <Dit bevestigde de zegen van Eli, waarvan zij vertrouwd hadden dat de HEERE die zou volbrengen.> zag om naar Hanna, en zij werd zwanger en <Wel te verstaan, in verschillende zwangerschappen.> baarde drie zonen en twee dochters. En de jongeman Samuel <Begrijp dit als de groei van het lichaam in grootte, en van de ziel in wijsheid en kennis. Zie Lk. 1:80 en 2:40, 52.> groeide op <Anders: voor, of: met de HEERE.> bij de HEERE.",
+      "source_text": "כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־חַנָּ֔ה וַתַּ֛הַר וַתֵּ֥לֶד שְׁלֹשָֽׁה־בָנִ֖ים וּשְׁתֵּ֣י בָנֹ֑ות וַיִּגְדַּ֛ל הַנַּ֥עַר שְׁמוּאֵ֖ל עִם־יְהוָֽה׃ ס ",
+      "changes": [
+        {
+          "type": "annotation",
+          "from": "Bevestigende den zegen van Eli, dien sy vertrouwt hadden, dat de Heere volbrengen soude.",
+          "to": "Dit bevestigde de zegen van Eli, waarvan zij vertrouwd hadden dat de HEERE die zou volbrengen.",
+          "reason": "Participiumconstructie, naamvallen en verouderde werkwoordsvormen in de kanttekening gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "besocht Hanna",
+          "to": "zag om naar Hanna",
+          "reason": "Archaïsche betekenis van 'bezoeken' (omzien naar, zorgen voor) vervangen door een modern equivalent."
+        },
+        {
+          "type": "lexicon",
+          "from": "ende",
+          "to": "en",
+          "reason": "Archaïsch voegwoord vervangen."
+        },
+        {
+          "type": "syntax",
+          "from": "sy wert bevrucht",
+          "to": "zij werd zwanger",
+          "reason": "Verouderde formulering en woordkeus vervangen door hedendaagse, natuurlijke zinsbouw."
+        },
+        {
+          "type": "annotation",
+          "from": "Welverstaende tot verscheydene drachten.",
+          "to": "Wel te verstaan, in verschillende zwangerschappen.",
+          "reason": "Participiumconstructie en archaïsche woorden in de kanttekening gemoderniseerd."
+        },
+        {
+          "type": "spelling",
+          "from": "baerde",
+          "to": "baarde",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "jongelingh",
+          "to": "jongeman",
+          "reason": "Archaïsch woord vervangen."
+        },
+        {
+          "type": "annotation",
+          "from": "Verstaet dit van den wasdom des lichaems in grootte, ende der ziele in wijsheyt ende kennisse. siet Luce 1.80. ende 2.40, 52.",
+          "to": "Begrijp dit als de groei van het lichaam in grootte, en van de ziel in wijsheid en kennis. Zie Lk. 1:80 en 2:40, 52.",
+          "reason": "Kanttekening volledig gemoderniseerd qua woordkeus, grammatica en referentiestandaard."
+        },
+        {
+          "type": "lexicon",
+          "from": "wert groot",
+          "to": "groeide op",
+          "reason": "Verouderde uitdrukking vervangen door een hedendaags equivalent."
+        },
+        {
+          "type": "annotation",
+          "from": "Anders, voor, ofte, met den Heere.",
+          "to": "Anders: voor, of: met de HEERE.",
+          "reason": "Kanttekening gemoderniseerd (woordkeus, naamval)."
+        },
+        {
+          "type": "grammar",
+          "from": "by den HEERE",
+          "to": "bij de HEERE",
+          "reason": "Verouderde naamval en spelling gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Formele zinsbouw in kanttekening",
+            "current": "waarvan zij vertrouwd hadden dat de HEERE die zou volbrengen.",
+            "suggested": "ze vertrouwden erop dat de HEERE die zou vervullen.",
+            "reason": "De bijzin met 'waarvan' is formeel en complex. Een directere formulering is natuurlijker. 'Vervullen' past beter bij 'zegen' dan 'volbrengen'."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 22,
+      "original_text": "Doch Eli was seer oudt, ende hoorde al wat sijne sonen aen gantsch Israël deden, ende dat sy sliepen by de wijven, die <Siet de aenteeckeninge op Exod. cap. 38. vers 8.> met hoopen t’samen quamen <Dat is, tot voor de Tente, want in de Tente en mochten sy niet komen.> aen de deure der Tente der t’samenkomste.",
+      "modernized_text": "Eli was echter zeer oud, en hoorde alles wat zijn zonen heel Israël aandeden, en dat zij sliepen bij de vrouwen die <Zie de aantekening bij Ex. 38:8.> in groten getale samenkwamen <Dat is, tot vóór de tent, want in de tent mochten zij niet komen.> aan de deur van de tent van de samenkomst.",
+      "source_text": "וְעֵלִ֖י זָקֵ֣ן מְאֹ֑ד וְשָׁמַ֗ע אֵת֩ כָּל־אֲשֶׁ֨ר יַעֲשׂ֤וּן בָּנָיו֙ לְכָל־יִשְׂרָאֵ֔ל וְאֵ֤ת אֲשֶֽׁר־יִשְׁכְּבוּן֙ אֶת־הַנָּשִׁ֔ים הַצֹּ֣בְאֹ֔ות פֶּ֖תַח אֹ֥הֶל מֹועֵֽד׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Doch",
+          "to": "echter",
+          "reason": "Archaïsch voegwoord vervangen."
+        },
+        {
+          "type": "spelling",
+          "from": "seer oudt",
+          "to": "zeer oud",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "al wat",
+          "to": "alles wat",
+          "reason": "Hedendaagse formulering."
+        },
+        {
+          "type": "syntax",
+          "from": "sijne sonen aen gantsch Israël deden",
+          "to": "zijn zonen heel Israël aandeden",
+          "reason": "Modernisering van bezittelijk voornaamwoord, woordkeus en werkwoord voor een natuurlijker zinsbouw."
+        },
+        {
+          "type": "spelling",
+          "from": "sy",
+          "to": "zij",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "wijven",
+          "to": "vrouwen",
+          "reason": "Archaïsch en tegenwoordig denigrerend woord vervangen door een neutraal equivalent."
+        },
+        {
+          "type": "annotation",
+          "from": "Siet de aenteeckeninge op Exod. cap. 38. vers 8.",
+          "to": "Zie de aantekening bij Ex. 38:8.",
+          "reason": "Kanttekening gemoderniseerd en referentie gestandaardiseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "met hoopen t’samen quamen",
+          "to": "in groten getale samenkwamen",
+          "reason": "Archaïsche uitdrukking en werkwoordsvorm vervangen."
+        },
+        {
+          "type": "annotation",
+          "from": "Dat is, tot voor de Tente, want in de Tente en mochten sy niet komen.",
+          "to": "Dat is, tot vóór de tent, want in de tent mochten zij niet komen.",
+          "reason": "Grammatica (dubbele ontkenning) en spelling in kanttekening gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "aen de deure der Tente der t’samenkomste",
+          "to": "aan de deur van de tent van de samenkomst",
+          "reason": "Verouderde naamvallen en spelling gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": false,
+        "suggestions": []
+      }
+    },
+    {
+      "verse_number": 23,
+      "original_text": "Ende hy seyde tot hen, Waerom doet ghy alsulcke dingen, dat ick dese uwe boose stucken hoore van desen gantschen volcke?",
+      "modernized_text": "En hij zei tegen hen: \"Waarom doet u zulke dingen? Ik hoor deze slechte daden van u van dit hele volk.",
+      "source_text": "וַיֹּ֣אמֶר לָהֶ֔ם לָ֥מָּה תַעֲשׂ֖וּן כַּדְּבָרִ֣ים הָאֵ֑לֶּה אֲשֶׁ֨ר אָנֹכִ֤י שֹׁמֵ֨עַ֙ אֶת־דִּבְרֵיכֶ֣ם רָעִ֔ים מֵאֵ֖ת כָּל־הָעָ֥ם אֵֽלֶּה׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Ende hy seyde tot hen",
+          "to": "En hij zei tegen hen",
+          "reason": "Archaïsche spelling en woordkeus gemoderniseerd."
+        },
+        {
+          "type": "punctuation",
+          "from": ",",
+          "to": ": \"",
+          "reason": "Interpunctie aangepast om een directe rede aan te geven."
+        },
+        {
+          "type": "register",
+          "from": "ghy",
+          "to": "u",
+          "reason": "Verouderd persoonlijk voornaamwoord vervangen door de moderne formele vorm."
+        },
+        {
+          "type": "lexicon",
+          "from": "alsulcke",
+          "to": "zulke",
+          "reason": "Archaïsch woord vervangen."
+        },
+        {
+          "type": "syntax",
+          "from": "dat ick dese uwe boose stucken hoore",
+          "to": "Ik hoor deze slechte daden van u",
+          "reason": "Archaïsche grammaticale constructie ('dat ick...') en woordkeus ('dese uwe boose stucken') vervangen door een modernere en directere zinsbouw."
+        },
+        {
+          "type": "grammar",
+          "from": "van desen gantschen volcke",
+          "to": "van dit hele volk",
+          "reason": "Verouderde naamvallen en spelling gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Onnatuurlijke zinsbouw",
+            "current": "Ik hoor deze slechte daden van u van dit hele volk.",
+            "suggested": "Ik hoor van het hele volk over uw slechte daden.",
+            "reason": "De opeenvolging 'van u van dit hele volk' is zeer onnatuurlijk. De voorgestelde zin is grammaticaal correct en vloeit beter in hedendaags Nederlands."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 24,
+      "original_text": "<D. het en betaemt u niet alsoo te handelen.> Niet mijne sonen: want dit en is geen goet geruchte, dat ick hoore, ghy maeckt dat het volck des HEEREN <Te weten, het bevel des offers. siet boven vers 17.> overtreedt.",
+      "modernized_text": "<Dat is, het past u niet zo te handelen.> Niet zo, mijn zonen, want dit is geen goed gerucht dat ik hoor. U zorgt ervoor dat het volk van de HEERE <Te weten: het gebod van het offer. Zie vers 17 hierboven.> overtreedt.",
+      "source_text": "אַ֖ל בָּנָ֑י כִּ֠י לֹֽוא־טֹובָ֤ה הַשְּׁמֻעָה֙ אֲשֶׁ֣ר אָנֹכִ֣י שֹׁמֵ֔עַ מַעֲבִרִ֖ים עַם־יְהוָֽה׃ ",
+      "changes": [
+        {
+          "type": "annotation",
+          "from": "D. het en betaemt u niet alsoo te handelen.",
+          "to": "Dat is, het past u niet zo te handelen.",
+          "reason": "Afkorting voluit geschreven en verouderde grammatica ('en betaemt niet') en woordkeus ('alsoo') in de kanttekening gemoderniseerd."
+        },
+        {
+          "type": "syntax",
+          "from": "Niet mijne sonen:",
+          "to": "Niet zo, mijn zonen,",
+          "reason": "De abrupte ontkenning 'Niet' is verduidelijkt naar 'Niet zo' voor betere leesbaarheid. Naamval gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "dit en is geen",
+          "to": "dit is geen",
+          "reason": "Verouderde dubbele ontkenning verwijderd."
+        },
+        {
+          "type": "spelling",
+          "from": "goet",
+          "to": "goed",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "spelling",
+          "from": "ick hoore",
+          "to": "ik hoor",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "syntax",
+          "from": "ghy maeckt dat",
+          "to": "U zorgt ervoor dat",
+          "reason": "Verouderd voornaamwoord vervangen en de zinsconstructie natuurlijker gemaakt."
+        },
+        {
+          "type": "grammar",
+          "from": "volck des HEEREN",
+          "to": "volk van de HEERE",
+          "reason": "Verouderde genitief-naamval vervangen."
+        },
+        {
+          "type": "annotation",
+          "from": "Te weten, het bevel des offers. siet boven vers 17.",
+          "to": "Te weten: het gebod van het offer. Zie vers 17 hierboven.",
+          "reason": "Naamval en woordkeus in de kanttekening gemoderniseerd, en de impliciete referentie verduidelijkt."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Formele woordkeus in kanttekening",
+            "current": "Te weten:",
+            "suggested": "Namelijk:",
+            "reason": "'Namelijk' is een gangbaarder en iets minder formeel alternatief voor 'te weten' in toelichtingen."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 25,
+      "original_text": "Wanneer <Hebr. een man.> een mensche tegen een mensche sondight, soo sullen de <Anders, de Overigheyt, de Richters. siet Exod. 21.6. ende de aenteeck. aldaer.> Goden hem oordeelen, maer wanneer een mensche tegen den HEERE <T.w. opsettelick, ende met moetwilligheyt.> sondigt, wie sal voor hem bidden? doch sy en hoorden de stemme hares vaders niet, <Daerom en gaf haer de Heere de genade niet, dat sy haer bekeerden, maer hy heeftse meer ende meer verlaten, ende heeftse rechtveerdelick overgegeven in eenen verkeerden sin, ten verderve.> want de HEERE wildese dooden.",
+      "modernized_text": "Wanneer <Hebreeuws: een man.> een mens tegen een mens zondigt, dan zullen de <Anders: de overheid, de rechters. Zie Ex. 21:6 en de aantekening daar.> rechters hem oordelen, maar wanneer een mens tegen de HEERE <Te weten: opzettelijk, en met moedwilligheid.> zondigt, wie zal voor hem bidden? Maar zij luisterden niet naar de stem van hun vader, <Daarom gaf de HEERE hun de genade niet om zich te bekeren, maar Hij heeft hen meer en meer verlaten, en heeft hen rechtvaardig overgegeven aan een verkeerde gezindheid, tot hun verderf.> want de HEERE wilde hen doden.",
+      "source_text": "אִם־יֶחֱטָ֨א אִ֤ישׁ לְאִישׁ֙ וּפִֽלְלֹ֣ו אֱלֹהִ֔ים וְאִ֤ם לַֽיהוָה֙ יֶֽחֱטָא־אִ֔ישׁ מִ֖י יִתפַּלֶּל־לֹ֑ו וְלֹ֤א יִשְׁמְעוּ֙ לְקֹ֣ול אֲבִיהֶ֔ם כִּֽי־חָפֵ֥ץ יְהוָ֖ה לַהֲמִיתָֽם׃ ",
+      "changes": [
+        {
+          "type": "annotation",
+          "from": "Hebr. een man.",
+          "to": "Hebreeuws: een man.",
+          "reason": "Afkorting in kanttekening gemoderniseerd."
+        },
+        {
+          "type": "spelling",
+          "from": "mensche",
+          "to": "mens",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "spelling",
+          "from": "sondight",
+          "to": "zondigt",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "soo",
+          "to": "dan",
+          "reason": "Archaïsch voegwoord vervangen."
+        },
+        {
+          "type": "annotation",
+          "from": "Anders, de Overigheyt, de Richters. siet Exod. 21.6. ende de aenteeck. aldaer.",
+          "to": "Anders: de overheid, de rechters. Zie Ex. 21:6 en de aantekening daar.",
+          "reason": "Kanttekening gemoderniseerd qua spelling, woordkeus en referentiestandaard."
+        },
+        {
+          "type": "lexicon",
+          "from": "Goden",
+          "to": "rechters",
+          "reason": "Vertaalkeuze verduidelijkt op basis van de context en de kanttekening van de SV zelf, die 'Richters' als alternatief geeft."
+        },
+        {
+          "type": "grammar",
+          "from": "tegen den HEERE",
+          "to": "tegen de HEERE",
+          "reason": "Verouderde naamval gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "T.w. opsettelick, ende met moetwilligheyt.",
+          "to": "Te weten: opzettelijk, en met moedwilligheid.",
+          "reason": "Afkorting en spelling in kanttekening gemoderniseerd."
+        },
+        {
+          "type": "syntax",
+          "from": "doch sy en hoorden de stemme hares vaders niet",
+          "to": "Maar zij luisterden niet naar de stem van hun vader",
+          "reason": "Archaïsche woordkeus ('doch'), grammatica (dubbele ontkenning) en naamval ('hares vaders') gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "Daerom en gaf haer de Heere de genade niet, dat sy haer bekeerden, maer hy heeftse meer ende meer verlaten, ende heeftse rechtveerdelick overgegeven in eenen verkeerden sin, ten verderve.",
+          "to": "Daarom gaf de HEERE hun de genade niet om zich te bekeren, maar Hij heeft hen meer en meer verlaten, en heeft hen rechtvaardig overgegeven aan een verkeerde gezindheid, tot hun verderf.",
+          "reason": "Lange kanttekening volledig gemoderniseerd qua grammatica, zinsbouw en woordkeus."
+        },
+        {
+          "type": "grammar",
+          "from": "wildese",
+          "to": "wilde hen",
+          "reason": "Samentrekking van werkwoord en voornaamwoord opgelost en gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Verouderde woordkeus in kanttekening",
+            "current": "en met moedwilligheid.",
+            "suggested": "en met kwade opzet.",
+            "reason": "'Moedwilligheid' is een verouderd woord. 'Met kwade opzet' drukt dezelfde betekenis van een welbewuste, kwaadaardige intentie uit in hedendaags Nederlands."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 26,
+      "original_text": "$1.Sam. 2.52$ Ende de jongelingh Samuel <Hebr. gingh. Vergel. Genes. 26.13. met de aenteeck.> nam toe, en de wert groot ende <Hebr. goet.> aengenaem beyde by den HEERE, ende oock by de menschen.",
+      "modernized_text": "$1Sm. 2:52$ En de jongeman Samuel ontwikkelde zich <Hebreeuws: ging. Vergelijk Gn. 26:13 met de aantekening.> en werd groot en geliefd, <Hebreeuws: goed.> zowel bij de HEERE als bij de mensen.",
+      "source_text": "וְהַנַּ֣עַר שְׁמוּאֵ֔ל הֹלֵ֥ךְ וְגָדֵ֖ל וָטֹ֑וב גַּ֚ם עִם־יְהוָ֔ה וְגַ֖ם עִם־אֲנָשִֽׁים׃ ס ",
+      "changes": [
+        {
+          "type": "reference",
+          "from": "$1.Sam. 2.52$",
+          "to": "$1Sm. 2:52$",
+          "reason": "Referentie gestandaardiseerd volgens lijst en modern formaat."
+        },
+        {
+          "type": "lexicon",
+          "from": "Ende",
+          "to": "En",
+          "reason": "Archaïsch voegwoord vervangen."
+        },
+        {
+          "type": "lexicon",
+          "from": "jongelingh",
+          "to": "jongeman",
+          "reason": "Archaïsch woord vervangen door modern equivalent."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. gingh. Vergel. Genes. 26.13. met de aenteeck.>",
+          "to": "<Hebreeuws: ging. Vergelijk Gn. 26:13 met de aantekening.>",
+          "reason": "Kanttekening gemoderniseerd qua spelling, afkortingen en referentieformaat."
+        },
+        {
+          "type": "lexicon",
+          "from": "nam toe",
+          "to": "ontwikkelde zich",
+          "reason": "Archaïsche uitdrukking vervangen door een modern, passend equivalent."
+        },
+        {
+          "type": "spelling",
+          "from": "wert",
+          "to": "werd",
+          "reason": "Archaïsche werkwoordsvorm gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "aengenaem",
+          "to": "geliefd",
+          "reason": "Archaïsch woord vervangen door een passender modern equivalent, geïnspireerd door NBV21."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. goet.>",
+          "to": "<Hebreeuws: goed.>",
+          "reason": "Kanttekening gemoderniseerd qua spelling en afkorting."
+        },
+        {
+          "type": "syntax",
+          "from": "beyde by den HEERE, ende oock by de menschen",
+          "to": "zowel bij de HEERE als bij de mensen",
+          "reason": "Archaïsche constructie vervangen door de moderne 'zowel ... als' structuur."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Mogelijk onjuiste referentie",
+            "current": "$1Sm. 2:52$",
+            "suggested": "$Lk. 2:52$",
+            "reason": "De formulering 'ontwikkelde zich en werd groot en geliefd' is een duidelijke parallel met Lukas 2:52 ('En Jezus nam toe in wijsheid en in grootte en in genade bij God en de mensen'). De referentie in de Statenvertaling is hier dan ook naar Lukas. De huidige referentie naar 1 Samuel is waarschijnlijk een fout in de brongegevens."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 27,
+      "original_text": "En de daer quam <D. een Propheet des Heeren, als 2.Petr. 1. vers 21. 1.Timoth. 6. vers 11. en 2.Timoth. 3.17. Wie dese Propheet geweest zy is ons onbekent. siet de aent. Iudic. 13. op vers 6.> een man Godes tot Eli, ende seyde tot hem, Soo seyt de HEERE, <Ofte, ben ick niet, et c. Hebr. openbarende geopenbaert.> Hebbe ick my niet klaerlick geopenbaert den huyse <T.w. Aarons, van welcken Eli afkomstigh was door Ithamar.> uwes vaders, $1.Sam. 7.25$ doe <T.w. de kinderen Israëls.> sy in Egypten waren, in ’t <D. doe sy noch waren onder de heerschappije ende tyrannije van Pharao.> huys van Pharao?",
+      "modernized_text": "En er kwam <Dat is, een profeet van de Heere, zoals 2Pt. 1:21; 1Tm. 6:11 en 2Tm. 3:17. Wie deze profeet is geweest, is ons onbekend. Zie de aantekening bij Ri. 13:6.> een man van God naar Eli en zei tegen hem: \"Zo zegt de HEERE: <Of: ben ik niet, enz. Hebreeuws: openbarende geopenbaard.> Heb Ik Mij niet duidelijk geopenbaard aan het huis <Te weten: van Aäron, van wie Eli afkomstig was via Ithamar.> van uw vader, $1Sm. 7:25$ toen <Te weten: de kinderen van Israël.> zij in Egypte waren, in het <Dat is, toen zij nog onder de heerschappij en tirannie van de farao waren.> huis van de farao?",
+      "source_text": "וַיָּבֹ֥א אִישׁ־אֱלֹהִ֖ים אֶל־עֵלִ֑י וַיֹּ֣אמֶר אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה הֲנִגְלֹ֤ה נִגְלֵ֨יתִי֙ אֶל־בֵּ֣ית אָבִ֔יךָ בִּֽהְיֹותָ֥ם בְּמִצְרַ֖יִם לְבֵ֥ית פַּרְעֹֽה׃ ",
+      "changes": [
+        {
+          "type": "syntax",
+          "from": "En de daer quam",
+          "to": "En er kwam",
+          "reason": "Archaïsche zinsconstructie gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. een Propheet des Heeren, als 2.Petr. 1. vers 21. 1.Timoth. 6. vers 11. en 2.Timoth. 3.17. Wie dese Propheet geweest zy is ons onbekent. siet de aent. Iudic. 13. op vers 6.>",
+          "to": "<Dat is, een profeet van de Heere, zoals 2Pt. 1:21; 1Tm. 6:11 en 2Tm. 3:17. Wie deze profeet is geweest, is ons onbekend. Zie de aantekening bij Ri. 13:6.>",
+          "reason": "Kanttekening volledig gemoderniseerd (afkortingen, naamvallen, spelling, grammatica en referentieformaat)."
+        },
+        {
+          "type": "grammar",
+          "from": "een man Godes",
+          "to": "een man van God",
+          "reason": "Genitiefconstructie vervangen door moderne voorzetselconstructie."
+        },
+        {
+          "type": "lexicon",
+          "from": "tot Eli",
+          "to": "naar Eli",
+          "reason": "Voorzetsel gemoderniseerd voor een natuurlijkere klank."
+        },
+        {
+          "type": "lexicon",
+          "from": "ende seyde tot hem",
+          "to": "en zei tegen hem",
+          "reason": "Archaïsche woorden vervangen."
+        },
+        {
+          "type": "lexicon",
+          "from": "Soo seyt",
+          "to": "Zo zegt",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "punctuation",
+          "from": "hem, Soo seyt de HEERE,",
+          "to": "hem: \"Zo zegt de HEERE:",
+          "reason": "Interpunctie gemoderniseerd voor directe rede."
+        },
+        {
+          "type": "annotation",
+          "from": "<Ofte, ben ick niet, et c. Hebr. openbarende geopenbaert.>",
+          "to": "<Of: ben ik niet, enz. Hebreeuws: openbarende geopenbaard.>",
+          "reason": "Kanttekening gemoderniseerd (spelling, afkortingen)."
+        },
+        {
+          "type": "syntax",
+          "from": "Hebbe ick my niet klaerlick geopenbaert",
+          "to": "Heb Ik Mij niet duidelijk geopenbaard",
+          "reason": "Woordvolgorde, spelling en lexicon gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "den huyse uwes vaders",
+          "to": "aan het huis van uw vader",
+          "reason": "Naamvalconstructie vervangen door moderne voorzetselconstructie."
+        },
+        {
+          "type": "annotation",
+          "from": "<T.w. Aarons, van welcken Eli afkomstigh was door Ithamar.>",
+          "to": "<Te weten: van Aäron, van wie Eli afkomstig was via Ithamar.>",
+          "reason": "Kanttekening gemoderniseerd (afkortingen, spelling, naamgeving)."
+        },
+        {
+          "type": "reference",
+          "from": "$1.Sam. 7.25$",
+          "to": "$1Sm. 7:25$",
+          "reason": "Referentie gestandaardiseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "doe sy",
+          "to": "toen zij",
+          "reason": "Archaïsch voegwoord en voornaamwoord gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<T.w. de kinderen Israëls.>",
+          "to": "<Te weten: de kinderen van Israël.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "spelling",
+          "from": "Egypten",
+          "to": "Egypte",
+          "reason": "Plaatsnaam gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "in ’t huys van Pharao",
+          "to": "in het huis van de farao",
+          "reason": "Spelling en gebruik van lidwoord/hoofdletter gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. doe sy noch waren onder de heerschappije ende tyrannije van Pharao.>",
+          "to": "<Dat is, toen zij nog onder de heerschappij en tirannie van de farao waren.>",
+          "reason": "Kanttekening volledig gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Formele formulering in kanttekening",
+            "current": "Wie deze profeet is geweest, is ons onbekend.",
+            "suggested": "Wie deze profeet was, is onbekend.",
+            "reason": "De constructie 'is geweest' is onnodig complex en formeel. 'Was' is directer en natuurlijker hedendaags Nederlands."
+          },
+          {
+            "issue": "Vermoedelijk incorrecte referentie",
+            "current": "$1Sm. 7:25$",
+            "suggested": "",
+            "reason": "De originele Statenvertaling bevat op deze positie in de zin geen kruisverwijzing. Deze referentie lijkt een datafout te zijn en kan het beste worden verwijderd."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 28,
+      "original_text": "Ende ick hebbe <T.w. Aaron.> hem uyt alle stammen Israëls my ten Priester verkoren, om te offeren op mijnen altaer, om het reuckwerck aen te steken, om den Ephod voor mijn aengesichte te dragen: ende $1.Sam. 10.14$ hebbe den huyse uwes vaders gegeven <Verstaet, alle de stucken van de beesten, die in de offeren, op den altaer niet en moesten verbrant worden. Siet Levit. 7.34. ende Num. 18.18.> alle de vyer-offeren der kinderen Israëls.",
+      "modernized_text": "En Ik heb hem <Te weten: Aäron.> uit alle stammen van Israël voor Mij tot priester verkozen, om te offeren op Mijn altaar, om het reukwerk aan te steken, om de efod voor Mijn aangezicht te dragen. En Ik heb aan het huis van uw vader $1Sm. 10:14$ alle vuuroffers <Dat wil zeggen: alle stukken van de dieren die bij de offers niet op het altaar verbrand moesten worden. Zie Lv. 7:34 en Nm. 18:18.> van de kinderen van Israël gegeven.",
+      "source_text": "וּבָחֹ֣ר אֹ֠תֹו מִכָּל־שִׁבְטֵ֨י יִשְׂרָאֵ֥ל לִי֙ לְכֹהֵ֔ן לַעֲלֹ֣ות עַֽל־מִזְבְּחִ֗י לְהַקְטִ֥יר קְטֹ֛רֶת לָשֵׂ֥את אֵפֹ֖וד לְפָנָ֑י וָֽאֶתְּנָה֙ לְבֵ֣ית אָבִ֔יךָ אֶת־כָּל־אִשֵּׁ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃ ",
+      "changes": [
+        {
+          "type": "spelling",
+          "from": "Ende ick hebbe",
+          "to": "En Ik heb",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<T.w. Aaron.>",
+          "to": "<Te weten: Aäron.>",
+          "reason": "Afkorting uitgeschreven en naam gemoderniseerd (NBV21-spelling)."
+        },
+        {
+          "type": "grammar",
+          "from": "uyt alle stammen Israëls",
+          "to": "uit alle stammen van Israël",
+          "reason": "Genitiefconstructie en spelling gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "my ten Priester verkoren",
+          "to": "voor Mij tot priester verkozen",
+          "reason": "Archaïsche constructie vervangen en spelling werkwoord gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "op mijnen altaer",
+          "to": "op Mijn altaar",
+          "reason": "Bezittelijk voornaamwoord gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "reuckwerck aen te steken",
+          "to": "reukwerk aan te steken",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "den Ephod voor mijn aengesichte",
+          "to": "de efod voor Mijn aangezicht",
+          "reason": "Lidwoord en bezittelijk voornaamwoord gemoderniseerd, spelling aangepast."
+        },
+        {
+          "type": "punctuation",
+          "from": "dragen:",
+          "to": "dragen.",
+          "reason": "Zin gesplitst voor betere leesbaarheid; dubbele punt vervangen door punt."
+        },
+        {
+          "type": "syntax",
+          "from": "ende hebbe",
+          "to": "En Ik heb",
+          "reason": "Start van nieuwe zin met onderwerp voor duidelijkheid."
+        },
+        {
+          "type": "grammar",
+          "from": "den huyse uwes vaders",
+          "to": "aan het huis van uw vader",
+          "reason": "Naamvalconstructie vervangen door moderne voorzetselconstructie."
+        },
+        {
+          "type": "reference",
+          "from": "$1.Sam. 10.14$",
+          "to": "$1Sm. 10:14$",
+          "reason": "Referentie gestandaardiseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<Verstaet, alle de stucken van de beesten, die in de offeren, op den altaer niet en moesten verbrant worden. Siet Levit. 7.34. ende Num. 18.18.>",
+          "to": "<Dat wil zeggen: alle stukken van de dieren die bij de offers niet op het altaar verbrand moesten worden. Zie Lv. 7:34 en Nm. 18:18.>",
+          "reason": "Kanttekening volledig gemoderniseerd (woordkeus, spelling, grammatica, referentieformaat)."
+        },
+        {
+          "type": "lexicon",
+          "from": "vyer-offeren",
+          "to": "vuuroffers",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "der kinderen Israëls",
+          "to": "van de kinderen van Israël",
+          "reason": "Genitiefconstructie vervangen."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Mogelijk onjuiste referentie",
+            "current": "$1Sm. 10:14$",
+            "suggested": "$Lv. 10:14$",
+            "reason": "De Statenvertaling verwijst hier naar Leviticus 10:14, waar het aandeel van de priesters in de offers wordt besproken. De huidige referentie naar 1 Samuel 10:14 is contextueel incorrect en waarschijnlijk een datafout."
+          },
+          {
+            "issue": "Formele formulering in kanttekening",
+            "current": "Dat wil zeggen: alle stukken van de dieren die bij de offers niet op het altaar verbrand moesten worden.",
+            "suggested": "Hiermee worden alle stukken van de offerdieren bedoeld die niet op het altaar verbrand moesten worden.",
+            "reason": "'Dat wil zeggen' is correct, maar 'Hiermee worden bedoeld' is een iets vlottere manier om een definitie te introduceren. 'Offerdieren' is ook een compacter alternatief voor 'dieren die bij de offers'."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 29,
+      "original_text": "Waerom slaet <T.w. ghy Eli, ende uwe sonen.> ghylied en $Deut. 32.15$ achter uyt tegen mijn slacht-offer, en de tegen mijn spijs-offer, welck ick geboden hebbe [in] de <D. Tabernakel, ’t welck Godes wooninge was.> wooninge? ende <Den selven meer respect toedragende dan my, want ghy en durftse niet eens vertoornen, noch te dege berispen, veel min straffen na behooren, of van het Priesterdom afsette n, gelijck hare snoode boevestucken dat wel verdient hebben.> eert uwe sonen meer dan my, dat <T.w. ghy Eli soo wel als uwe sonen.> ghylieden u mestet van het voorneemste aller spijs-offeren mijnes volcks Israël?",
+      "modernized_text": "Waarom trapt <Te weten: u, Eli, en uw zonen.> u $Dt. 32:15$ tegen Mijn slachtoffer en tegen Mijn graanoffer, dat Ik geboden heb [in] de woning? <Dat is, de tabernakel, die Gods woning was.> En waarom <U toont hun meer respect dan Mij, want u durft hen niet eens boos te maken, noch hen degelijk te berispen, en nog veel minder hen naar behoren te straffen of uit het priesterambt te zetten, zoals hun schandelijke wandaden wel verdiend hebben.> eert u uw zonen meer dan Mij, zodat <Te weten: u, Eli, zowel als uw zonen.> u zich vetmest met het beste van alle graanoffers van Mijn volk Israël?",
+      "source_text": "לָ֣מָּה תִבְעֲט֗וּ בְּזִבְחִי֙ וּבְמִנְחָתִ֔י אֲשֶׁ֥ר צִוִּ֖יתִי מָעֹ֑ון וַתְּכַבֵּ֤ד אֶת־בָּנֶ֨יךָ֙ מִמֶּ֔נִּי לְהַבְרִֽיאֲכֶ֗ם מֵרֵאשִׁ֛ית כָּל־מִנְחַ֥ת יִשְׂrָאֵ֖ל לְעַמִּֽי׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Waerom slaet ... achter uyt tegen",
+          "to": "Waarom trapt ... tegen",
+          "reason": "Archaïsche uitdrukking ('achter uyt slaen') vervangen door een modern equivalent dat de betekenis ('schoppen tegen, verachten') behoudt."
+        },
+        {
+          "type": "annotation",
+          "from": "<T.w. ghy Eli, ende uwe sonen.>",
+          "to": "<Te weten: u, Eli, en uw zonen.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "register",
+          "from": "ghylieden",
+          "to": "u",
+          "reason": "Archaïsch voornaamwoord vervangen door modern 'u' (meervoud)."
+        },
+        {
+          "type": "reference",
+          "from": "$Deut. 32.15$",
+          "to": "$Dt. 32:15$",
+          "reason": "Referentie gestandaardiseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "spijs-offer",
+          "to": "graanoffer",
+          "reason": "Term gemoderniseerd naar de gangbare hedendaagse benaming."
+        },
+        {
+          "type": "grammar",
+          "from": "welck ick",
+          "to": "dat Ik",
+          "reason": "Betrekkelijk voornaamwoord en spelling persoonlijk voornaamwoord gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. Tabernakel, ’t welck Godes wooninge was.>",
+          "to": "<Dat is, de tabernakel, die Gods woning was.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "syntax",
+          "from": "ende eert",
+          "to": "En waarom eert u",
+          "reason": "Zinsdeel geherstructureerd voor een logischere en modernere vraagconstructie."
+        },
+        {
+          "type": "annotation",
+          "from": "<Den selven meer respect toedragende dan my, want ghy en durftse niet eens vertoornen, noch te dege berispen, veel min straffen na behooren, of van het Priesterdom afsette n, gelijck hare snoode boevestucken dat wel verdient hebben.>",
+          "to": "<U toont hun meer respect dan Mij, want u durft hen niet eens boos te maken, noch hen degelijk te berispen, en nog veel minder hen naar behoren te straffen of uit het priesterambt te zetten, zoals hun schandelijke wandaden wel verdiend hebben.>",
+          "reason": "Lange en complexe kanttekening volledig gemoderniseerd qua woordkeus, zinsbouw en grammatica."
+        },
+        {
+          "type": "grammar",
+          "from": "uwe sonen meer dan my",
+          "to": "uw zonen meer dan Mij",
+          "reason": "Spelling bezittelijk en persoonlijk voornaamwoord gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "dat ... u mestet",
+          "to": "zodat ... u zich vetmest",
+          "reason": "Woordkeus en werkwoordsvorm gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<T.w. ghy Eli soo wel als uwe sonen.>",
+          "to": "<Te weten: u, Eli, zowel als uw zonen.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "van het voorneemste aller spijs-offeren mijnes volcks Israël?",
+          "to": "met het beste van alle graanoffers van Mijn volk Israël?",
+          "reason": "Naamvalconstructies en archaïsche woorden vervangen."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Lange, complexe zin in kanttekening",
+            "current": "U toont hun meer respect dan Mij, want u durft hen niet eens boos te maken, noch hen degelijk te berispen, en nog veel minder hen naar behoren te straffen of uit het priesterambt te zetten, zoals hun schandelijke wandaden wel verdiend hebben.",
+            "suggested": "U toont hun meer respect dan Mij. U durft hen immers niet boos te maken, niet streng te berispen en al helemaal niet naar behoren te straffen of uit het priesterambt te zetten, wat hun schandelijke wandaden wel verdiend hadden.",
+            "reason": "De oorspronkelijke zin is erg lang. Door de zin op te splitsen wordt de tekst leesbaarder. 'Degelijk' is vervangen door 'streng' omdat dit beter past bij de ernst van de situatie. De nieuwe structuur maakt de opsomming krachtiger."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 30,
+      "original_text": "Daerom spreeckt de HEERE de Godt Israëls, <T.w. doe ick ’t Priesterlick-ampt in uwes vaders huys hebbe ingestelt.> Ick hadde <Hebr. ick hadde seggende geseyt.> wel klaerlick geseyt, U $Exod. 28.43, Exod. 29.9$ huys ende uwes vaders huys souden <D. het Priesterdom bedienen: verstaet hier by, indien sy in mijne geboden souden wandelen.> voor mijn aengesicht wandelen tot in eeuwigheyt: maer nu spreeckt de HEERE, <T.w. van wegen uwe ongehoorsaemheyt.> Dat zy verre van my, want die my eeren, sal ick eeren, maer die my versmaden, <Hebr. sullen licht vvorden.> sullen licht geachtt worden.",
+      "modernized_text": "Daarom spreekt de HEERE, de God van Israël: <Te weten: toen Ik het priesterambt in het huis van uw vader heb ingesteld.> Ik had <Hebreeuws: ik had zeggende gezegd.> uitdrukkelijk gezegd: \"Uw huis en het huis van uw vader $Ex. 28:43; Ex. 29:9$ zouden <Dat is, het priesterambt bedienen. Begrijp hierbij: indien zij in Mijn geboden zouden wandelen.> voor Mijn aangezicht wandelen tot in eeuwigheid.\" Maar nu spreekt de HEERE: <Te weten: vanwege uw ongehoorzaamheid.> \"Laat dat verre van Mij zijn! Want wie Mij eren, zal Ik eren, maar wie Mij verachten, zullen gering <Hebreeuws: zullen licht worden.> geacht worden.\"",
+      "source_text": "לָכֵ֗ן נְאֻם־יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ אָמֹ֣ור אָמַ֔רְתִּי בֵּֽיתְךָ֙ וּבֵ֣ית אָבִ֔יךָ יִתְהַלְּכ֥וּ לְפָנַ֖י עַד־עֹולָ֑ם וְעַתָּ֤ה נְאֻם־יְהוָה֙ חָלִ֣ילָה לִּ֔י כִּֽי־מְכַבְּדַ֥י אֲכַבֵּ֖ד וּבֹזַ֥י יֵקָֽלּוּ׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Daerom",
+          "to": "Daarom",
+          "reason": "Spelling gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "de Godt Israëls",
+          "to": "de God van Israël",
+          "reason": "Spelling en genitiefconstructie gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<T.w. doe ick ’t Priesterlick-ampt in uwes vaders huys hebbe ingestelt.>",
+          "to": "<Te weten: toen Ik het priesterambt in het huis van uw vader heb ingesteld.>",
+          "reason": "Kanttekening volledig gemoderniseerd."
+        },
+        {
+          "type": "syntax",
+          "from": "Ick hadde wel klaerlick geseyt",
+          "to": "Ik had uitdrukkelijk gezegd",
+          "reason": "Archaïsche formulering vervangen door een krachtiger en moderner equivalent dat de nadruk uit de kanttekening ('zeggende gezegd') reflecteert."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. ick hadde seggende geseyt.>",
+          "to": "<Hebreeuws: ik had zeggende gezegd.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "punctuation",
+          "from": "geseyt, U...",
+          "to": "gezegd: \"Uw...\"",
+          "reason": "Interpunctie gemoderniseerd met dubbele punt en aanhalingstekens voor directe rede."
+        },
+        {
+          "type": "grammar",
+          "from": "U huys ende uwes vaders huys",
+          "to": "Uw huis en het huis van uw vader",
+          "reason": "Spelling en naamval gemoderniseerd."
+        },
+        {
+          "type": "reference",
+          "from": "$Exod. 28.43, Exod. 29.9$",
+          "to": "$Ex. 28:43; Ex. 29:9$",
+          "reason": "Referenties gestandaardiseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. het Priesterdom bedienen: verstaet hier by, indien sy in mijne geboden souden wandelen.>",
+          "to": "<Dat is, het priesterambt bedienen. Begrijp hierbij: indien zij in Mijn geboden zouden wandelen.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "voor mijn aengesicht wandelen tot in eeuwigheyt:",
+          "to": "voor Mijn aangezicht wandelen tot in eeuwigheid.\"",
+          "reason": "Spelling, grammatica en interpunctie (afsluiten citaat) gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<T.w. van wegen uwe ongehoorsaemheyt.>",
+          "to": "<Te weten: vanwege uw ongehoorzaamheid.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "syntax",
+          "from": "Dat zy verre van my",
+          "to": "Laat dat verre van Mij zijn!",
+          "reason": "Archaïsche en letterlijke vertaling van een Hebreeuwse uitdrukking van afwijzing omgezet in een plechtige, maar begrijpelijke Nederlandse uitroep."
+        },
+        {
+          "type": "grammar",
+          "from": "die my eeren, sal ick eeren",
+          "to": "wie Mij eren, zal Ik eren",
+          "reason": "Voornaamwoorden en werkwoordsvormen gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "versmaden",
+          "to": "verachten",
+          "reason": "Archaïsch werkwoord vervangen."
+        },
+        {
+          "type": "lexicon",
+          "from": "sullen licht geachtt worden",
+          "to": "zullen gering geacht worden",
+          "reason": "Archaïsche uitdrukking vervangen door modern equivalent."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. sullen licht vvorden.>",
+          "to": "<Hebreeuws: zullen licht worden.>",
+          "reason": "Kanttekening gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Verouderde formulering in kanttekening",
+            "current": "Begrijp hierbij: indien zij in Mijn geboden zouden wandelen.",
+            "suggested": "Hierbij gold de voorwaarde dat zij in Mijn geboden zouden wandelen.",
+            "reason": "'Begrijp hierbij' is een directe, wat verouderde aansporing aan de lezer. De voorgestelde formulering integreert de voorwaarde op een natuurlijkere, meer verklarende manier in de tekst."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 31,
+      "original_text": "Siet de dagen komen, <Dat is, ick sal u berooven van uwe sterckte, Te weten, van uwe kinderen ende het Priesterlicke ampt, want doe het Hoogepriester-ampt van Eli ende de sijne genomen was, soo en vermochten sy gantsch niet. siet ond. vers 36. Het woort arm, voor sterckte, wort oock gebruyckt Iob 22.9. Psalm 37.17. ende elders meer.> dat ick uwen arm sal afhouwen, ende den arm van uwes vaders huys: datter geen oudt man in uwen huyse wesen sal.",
+      "modernized_text": "Zie, de dagen komen, <Dat is: Ik zal u beroven van uw sterkte, namelijk van uw kinderen en het priesterlijke ampt, want toen het hogepriesterambt van Eli en de zijnen afgenomen was, zo vermochten zij helemaal niets. Zie vers 36 hieronder. Het woord 'arm' voor 'sterkte' wordt ook gebruikt in Jb. 22:9; Ps. 37:17 en op meer andere plaatsen.> dat Ik uw arm zal afhouwen, en de arm van het huis van uw vader, zodat er geen oude man in uw huis zal zijn.",
+      "source_text": "הִנֵּה֙ יָמִ֣ים בָּאִ֔ים וְגָֽדַעְתִּי֙ אֶת־זְרֹ֣עֲךָ֔ וְאֶת־זְרֹ֖עַ בֵּ֣ית אָבִ֑יךָ מִֽהְיֹ֥ות זָקֵ֖ן בְּבֵיתֶֽךָ׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Siet",
+          "to": "Zie",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "annotation",
+          "from": "<Dat is, ick sal u berooven van uwe sterckte, Te weten, van uwe kinderen ende het Priesterlicke ampt, want doe het Hoogepriester-ampt van Eli ende de sijne genomen was, soo en vermochten sy gantsch niet. siet ond. vers 36. Het woort arm, voor sterckte, wort oock gebruyckt Iob 22.9. Psalm 37.17. ende elders meer.>",
+          "to": "<Dat is: Ik zal u beroven van uw sterkte, namelijk van uw kinderen en het priesterlijke ampt, want toen het hogepriesterambt van Eli en de zijnen afgenomen was, zo vermochten zij helemaal niets. Zie vers 36 hieronder. Het woord 'arm' voor 'sterkte' wordt ook gebruikt in Jb. 22:9; Ps. 37:17 en op meer andere plaatsen.>",
+          "reason": "Kanttekening volledig gemoderniseerd: afkortingen, spelling, grammatica, woordkeus en referenties."
+        },
+        {
+          "type": "spelling",
+          "from": "ick",
+          "to": "Ik",
+          "reason": "Moderne spelling en hoofdletter voor God als spreker."
+        },
+        {
+          "type": "grammar",
+          "from": "uwen arm",
+          "to": "uw arm",
+          "reason": "Modernisering van bezittelijk voornaamwoord."
+        },
+        {
+          "type": "spelling",
+          "from": "sal",
+          "to": "zal",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "lexicon",
+          "from": "ende",
+          "to": "en",
+          "reason": "Modern equivalent voor 'ende'."
+        },
+        {
+          "type": "grammar",
+          "from": "den arm van uwes vaders huys",
+          "to": "de arm van het huis van uw vader",
+          "reason": "Archaïsche naamvalconstructie gemoderniseerd."
+        },
+        {
+          "type": "syntax",
+          "from": ": datter",
+          "to": ", zodat er",
+          "reason": "Moderne zinsbouw en interpunctie."
+        },
+        {
+          "type": "spelling",
+          "from": "oudt man",
+          "to": "oude man",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "grammar",
+          "from": "in uwen huyse",
+          "to": "in uw huis",
+          "reason": "Modernisering van bezittelijk voornaamwoord en spelling."
+        },
+        {
+          "type": "syntax",
+          "from": "wesen sal",
+          "to": "zal zijn",
+          "reason": "Natuurlijke moderne woordvolgorde."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Archaïsche woordkeus in kanttekening",
+            "current": "zo vermochten zij helemaal niets",
+            "suggested": "konden zij helemaal niets meer",
+            "reason": "'Vermochten' is verouderd. 'Konden' is het hedendaagse equivalent en 'niets meer' is idiomatisch sterker dan 'helemaal niets' in deze context van verlies."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 32,
+      "original_text": "Ende ghy sult aenschouwen <Van de wechvoeringe der Arke uyt den Tabernakel, ofte wooninge, de nederlage Israëls, ende de gevangenisse der Arke, siet onder 4.11. Anders, ghy sult een tegenpartije in de vvooninge sien. Ghy, Dat is, uwe nakomelingen (want Eli is sijn leven langh Priester gebleven) maer naderhant sal der een ander (de uwe uytgestooten zijnde) in de plaetse der selver gestelt worden. siet 1.Reg. 2.27.> de benauwtheyt der wooninge [Godts] in <Anders, in alles vvaer mede hy Israël goet gedaen soude hebben.> plaetse van al het goede dat hy Israël soude gedaen hebben: ende daer en sal tot geenen dage een oudt man in uwen huyse zijn.",
+      "modernized_text": "En u zult de benauwdheid van de woning [van God] aanschouwen <Over de wegvoering van de ark uit de tabernakel, of woning, de nederlaag van Israël en de gevangenschap van de ark, zie 1Sm. 4:11. Of: u zult een tegenpartij in de woning zien. U, dat is, uw nakomelingen (want Eli is zijn leven lang priester gebleven), maar naderhand zal er een ander (nadat de uwen uitgestoten zijn) in diens plaats gesteld worden. Zie 1Kn. 2:27.> in de plaats van al het goede dat Hij Israël zou hebben gedaan, <Of: in alles waarmee Hij Israël goed gedaan zou hebben.> en er zal nooit meer een oude man in uw huis zijn.",
+      "source_text": "וְהִבַּטְתָּ֙ צַ֣ר מָעֹ֔ון בְּכֹ֥ל אֲשֶׁר־יֵיטִ֖יב אֶת־יִשְׂרָאֵ֑ל וְלֹֽא־יִהְיֶ֥ה זָקֵ֛ן בְּבֵיתְךָ֖ כָּל־הַיָּמִֽים׃ ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Ende",
+          "to": "En",
+          "reason": "Modern equivalent voor 'ende'."
+        },
+        {
+          "type": "register",
+          "from": "ghy sult",
+          "to": "u zult",
+          "reason": "Archaïsch voornaamwoord gemoderniseerd naar hedendaagse formele vorm."
+        },
+        {
+          "type": "annotation",
+          "from": "<Van de wechvoeringe der Arke uyt den Tabernakel, ofte wooninge, de nederlage Israëls, ende de gevangenisse der Arke, siet onder 4.11. Anders, ghy sult een tegenpartije in de vvooninge sien. Ghy, Dat is, uwe nakomelingen (want Eli is sijn leven langh Priester gebleven) maer naderhant sal der een ander (de uwe uytgestooten zijnde) in de plaetse der selver gestelt worden. siet 1.Reg. 2.27.>",
+          "to": "<Over de wegvoering van de ark uit de tabernakel, of woning, de nederlaag van Israël en de gevangenschap van de ark, zie 1Sm. 4:11. Of: u zult een tegenpartij in de woning zien. U, dat is, uw nakomelingen (want Eli is zijn leven lang priester gebleven), maar naderhand zal er een ander (nadat de uwen uitgestoten zijn) in diens plaats gesteld worden. Zie 1Kn. 2:27.>",
+          "reason": "Kanttekening volledig gemoderniseerd: spelling, grammatica, participiumconstructie, woordkeus en referenties."
+        },
+        {
+          "type": "grammar",
+          "from": "de benauwtheyt der wooninge [Godts]",
+          "to": "de benauwdheid van de woning [van God]",
+          "reason": "Archaïsche naamvalconstructie en spelling gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<Anders, in alles vvaer mede hy Israël goet gedaen soude hebben.>",
+          "to": "<Of: in alles waarmee Hij Israël goed gedaan zou hebben.>",
+          "reason": "Kanttekening volledig gemoderniseerd: spelling en woordkeus."
+        },
+        {
+          "type": "lexicon",
+          "from": "in plaetse van",
+          "to": "in de plaats van",
+          "reason": "Moderne uitdrukking."
+        },
+        {
+          "type": "syntax",
+          "from": "dat hy Israël soude gedaen hebben",
+          "to": "dat Hij Israël zou hebben gedaan",
+          "reason": "Moderne werkwoordsvormen, spelling en hoofdletter voor God."
+        },
+        {
+          "type": "syntax",
+          "from": "ende daer en sal tot geenen dage een oudt man in uwen huyse zijn",
+          "to": "en er zal nooit meer een oude man in uw huis zijn",
+          "reason": "Archaïsche constructie ('en...niet', 'tot geenen dage') gemoderniseerd naar een natuurlijke, hedendaagse formulering."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Formele, passieve constructie in kanttekening",
+            "current": "in diens plaats gesteld worden",
+            "suggested": "zijn plaats innemen",
+            "reason": "'Gesteld worden' is een passieve en formele constructie. 'Zijn plaats innemen' is actiever, natuurlijker en even correct."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 33,
+      "original_text": "<D. die aen den dienst des Altaers blijven sal.> Doch de man dien ick <Dat is, van den uwen.> unieten sal uytroeijen van mijnen altaer, <Dat is, waer’t dat ghy dan noch leefdet, ende alle dese dingen saeght, ghy soudet uwe oogen uytschreijen. Dit kan verstaen worden van het jammerlick vermoorden der Priesteren te Nobe, 1.Sam. 22.18. ofte oock wel van de schandelicke afsettinge Abjathars, 1.Reg. 2.26. daer de eerste woorden deses vers oock wel op passen.> soude zijn om uwe oogen te verteeren, ende om uwe ziele te bedroeven: ende <Dat is, meest al.> al de menighte uwes huyses sal sterven, <D. in het beste van haer leven.> mannen geworden zijnde.",
+      "modernized_text": "<Dat is: die aan de dienst van het altaar zal blijven.> Maar de man van u <Dat is: van de uwen.> die Ik niet zal uitroeien van mijn altaar, <Dat is: als u dan nog zou leven en al deze dingen zou zien, zou u uw ogen uitschreien. Dit kan begrepen worden als de jammerlijke moord op de priesters te Nob, 1Sm. 22:18, of ook als de schandelijke afzetting van Abjathar, 1Kn. 2:26, waar de eerste woorden van dit vers ook goed op passen.> zal er zijn om uw ogen te doen bezwijken en om uw ziel te bedroeven. En <Dat is: bijna allemaal.> de hele menigte van uw huis zal sterven, <Dat is: in de bloei van hun leven.> nadat zij mannen zijn geworden.",
+      "source_text": "וְאִ֗ישׁ לֹֽא־אַכְרִ֤ית לְךָ֙ מֵעִ֣ם מִזְבְּחִ֔י לְכַלֹּ֥ות אֶת־עֵינֶ֖יךָ וְלַאֲדִ֣יב אֶת־נַפְשֶׁ֑ךָ וְכָל־מַרְבִּ֥ית בֵּיתְךָ֖ יָמ֥וּתוּ אֲנָשִֽׁים׃ ",
+      "changes": [
+        {
+          "type": "annotation",
+          "from": "<D. die aen den dienst des Altaers blijven sal.>",
+          "to": "<Dat is: die aan de dienst van het altaar zal blijven.>",
+          "reason": "Kanttekening gemoderniseerd: afkorting, spelling en naamval."
+        },
+        {
+          "type": "lexicon",
+          "from": "Doch",
+          "to": "Maar",
+          "reason": "Modern equivalent voor 'doch'."
+        },
+        {
+          "type": "syntax",
+          "from": "de man dien ick unieten sal uytroeijen",
+          "to": "de man van u die Ik niet zal uitroeien",
+          "reason": "Zinsbouw gemoderniseerd voor betere leesbaarheid en modernisering van een veronderstelde verschrijving 'unieten' voor 'u niet en', met weglating van de archaïsche dubbele negatie."
+        },
+        {
+          "type": "annotation",
+          "from": "<Dat is, van den uwen.>",
+          "to": "<Dat is: van de uwen.>",
+          "reason": "Kanttekening gemoderniseerd: spelling en naamval."
+        },
+        {
+          "type": "grammar",
+          "from": "van mijnen altaer",
+          "to": "van mijn altaar",
+          "reason": "Modernisering van bezittelijk voornaamwoord."
+        },
+        {
+          "type": "annotation",
+          "from": "<Dat is, waer’t dat ghy dan noch leefdet, ende alle dese dingen saeght, ghy soudet uwe oogen uytschreijen. Dit kan verstaen worden van het jammerlick vermoorden der Priesteren te Nobe, 1.Sam. 22.18. ofte oock wel van de schandelicke afsettinge Abjathars, 1.Reg. 2.26. daer de eerste woorden deses vers oock wel op passen.>",
+          "to": "<Dat is: als u dan nog zou leven en al deze dingen zou zien, zou u uw ogen uitschreien. Dit kan begrepen worden als de jammerlijke moord op de priesters te Nob, 1Sm. 22:18, of ook als de schandelijke afzetting van Abjathar, 1Kn. 2:26, waar de eerste woorden van dit vers ook goed op passen.>",
+          "reason": "Kanttekening volledig gemoderniseerd: conjunctief, woordkeus, spelling, naamvallen en referenties."
+        },
+        {
+          "type": "lexicon",
+          "from": "soude zijn om uwe oogen te verteeren",
+          "to": "zal er zijn om uw ogen te doen bezwijken",
+          "reason": "Archaïsche uitdrukking vervangen door een hedendaags, betekenisgetrouw equivalent."
+        },
+        {
+          "type": "grammar",
+          "from": "om uwe ziele te bedroeven",
+          "to": "om uw ziel te bedroeven",
+          "reason": "Modernisering van bezittelijk voornaamwoord."
+        },
+        {
+          "type": "annotation",
+          "from": "<Dat is, meest al.>",
+          "to": "<Dat is: bijna allemaal.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "al de menighte uwes huyses",
+          "to": "de hele menigte van uw huis",
+          "reason": "Archaïsche naamvalconstructie en spelling gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. in het beste van haer leven.>",
+          "to": "<Dat is: in de bloei van hun leven.>",
+          "reason": "Kanttekening gemoderniseerd: afkorting en woordkeus."
+        },
+        {
+          "type": "syntax",
+          "from": "mannen geworden zijnde",
+          "to": "nadat zij mannen zijn geworden",
+          "reason": "Archaïsche participiumconstructie vervangen door een moderne bijzin."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Onnatuurlijke formulering",
+            "current": "Maar de man van u die Ik niet zal uitroeien van mijn altaar",
+            "suggested": "Maar de man uit uw familie die Ik niet zal uitroeien van Mijn altaar",
+            "reason": "'De man van u' is onnatuurlijk Nederlands en een te letterlijke vertaling. 'De man uit uw familie' is duidelijker en stilistisch beter."
+          },
+          {
+            "issue": "Vreemde woordkeus",
+            "current": "de hele menigte van uw huis",
+            "suggested": "het merendeel van uw familie",
+            "reason": "'De hele menigte van uw huis' is een ongebruikelijke en wat onhandige uitdrukking. 'Het merendeel van uw familie' sluit beter aan bij de kanttekening ('bijna allemaal') en klinkt natuurlijker."
+          },
+          {
+            "issue": "Licht formele formulering in kanttekening",
+            "current": "waar de eerste woorden van dit vers ook goed op passen.",
+            "suggested": "wat ook goed aansluit bij de eerste woorden van dit vers.",
+            "reason": "'Aansluiten bij' is een iets vlottere en natuurlijkere formulering dan 'goed op passen' in deze context."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 34,
+      "original_text": "Dit nu sal u een teecken zijn, ’t welck over uwe beyde sonen, over <Siet de vervullinge hier van onder 4.11.> Hophni ende Pinehas komen sal: op eenen dagh sullen sy beyde sterven.",
+      "modernized_text": "Dit nu zal voor u een teken zijn, dat over uw beide zonen, over <Zie de vervulling hiervan in 1Sm. 4:11.> Chofni en Pinechas, zal komen: op één dag zullen zij beiden sterven.",
+      "source_text": "וְזֶה־לְּךָ֣ הָאֹ֗ות אֲשֶׁ֤ר יָבֹא֙ אֶל־שְׁנֵ֣י בָנֶ֔יךָ אֶל־חָפְנִ֖י וּפִֽינְחָ֑ס בְּיֹ֥ום אֶחָ֖ד יָמ֥וּתוּ שְׁנֵיהֶֽם׃ ",
+      "changes": [
+        {
+          "type": "syntax",
+          "from": "sal u een teecken zijn",
+          "to": "zal voor u een teken zijn",
+          "reason": "Modernere en natuurlijkere formulering."
+        },
+        {
+          "type": "lexicon",
+          "from": "’t welck",
+          "to": "dat",
+          "reason": "Archaïsch betrekkelijk voornaamwoord vervangen."
+        },
+        {
+          "type": "grammar",
+          "from": "uwe beyde sonen",
+          "to": "uw beide zonen",
+          "reason": "Modernisering van bezittelijk voornaamwoord en spelling."
+        },
+        {
+          "type": "annotation",
+          "from": "<Siet de vervullinge hier van onder 4.11.>",
+          "to": "<Zie de vervulling hiervan in 1Sm. 4:11.>",
+          "reason": "Kanttekening gemoderniseerd en impliciete referentie naar huidig boek expliciet gemaakt."
+        },
+        {
+          "type": "spelling",
+          "from": "Hophni ende Pinehas",
+          "to": "Chofni en Pinechas",
+          "reason": "Spelling van eigennamen aangepast aan de NBV21-standaard."
+        },
+        {
+          "type": "grammar",
+          "from": "op eenen dagh",
+          "to": "op één dag",
+          "reason": "Archaïsche naamvalconstructie gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "sullen sy beyde",
+          "to": "zullen zij beiden",
+          "reason": "Moderne spelling."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Onnatuurlijke zinsbouw",
+            "current": "Dit nu zal voor u een teken zijn, dat over uw beide zonen, over Chofni en Pinechas, zal komen: op één dag zullen zij beiden sterven.",
+            "suggested": "En dit zal voor u het teken zijn: uw beide zonen, Chofni en Pinechas, zullen op één dag sterven.",
+            "reason": "De huidige constructie met 'dat ... zal komen' is omslachtig. De voorgestelde zin is directer, duidelijker en geeft de betekenis (dat de dood van de zonen het teken is) natuurlijker weer."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 35,
+      "original_text": "Ende ick sal my <Te weten, Zadok, die van den geslachte Eleazars was. siet de vervullinge, 1.Chron. 29.22.> eenen getrouwen Priester verwecken, die sal doen gelijck als <D. gelijck als my behaeght.> in mijn herte, ende in mijne ziele zijn sal: dien sal ick een <Hebr. een getrouvve huys. In Zadoks geslachte is het Hoogepriester-ampt lange gebleven, achtervolgens het gene dat Godt Pinehas den sone Eleazars belooft heeft, Num. 25.13.> bestandigh huys bouwen, ende <Verstaet hier by, ende sijne nakomelingen.> hy sal <Hebr. alle de dagen, T.w. sijnes levens.> altijt voor het aengesichte <D. voor den Koningh dien ick verkiesen sal, die oock een voorbeelt sal zijn van Christo, dien ick tot eenen Koningh over Zion mijnen heyligen bergh gesalft hebbe.> mijnes gesalfden <D. het Priester-ampt bedienen, als vers 30.> wandelen.",
+      "modernized_text": "En Ik zal voor Mij <Namelijk Zadok, die van het geslacht van Eleazar was. Zie de vervulling in 1Kr. 29:22.> een trouwe priester doen opstaan, die zal doen zoals het <Dat is: zoals het Mij behaagt.> in Mijn hart en in Mijn ziel is. Voor hem zal Ik een <Hebreeuws: een trouw huis. In Zadoks geslacht is het hogepriesterambt lang gebleven, overeenkomstig wat God Pinechas, de zoon van Eleazar, beloofd heeft, Nm. 25:13.> bestendig huis bouwen, en <Begrijp hierbij: en zijn nakomelingen.> hij zal <Hebreeuws: alle dagen, te weten: van zijn leven.> altijd voor het aangezicht <Dat is: voor de koning die Ik zal verkiezen, die ook een voorbeeld zal zijn van Christus, die Ik tot koning over Sion, Mijn heilige berg, gezalfd heb.> van Mijn gezalfde <Dat is: het priesterambt bedienen, zoals in vers 30.> wandelen.",
+      "source_text": "וַהֲקִימֹתִ֥י לִי֙ כֹּהֵ֣ן נֶאֱמָ֔ן כַּאֲשֶׁ֛ר בִּלְבָבִ֥י וּבְנַפְשִׁ֖י יַעֲשֶׂ֑ה וּבָנִ֤יתִי לֹו֙ בַּ֣יִת נֶאֱמָ֔ן וְהתְהַלֵּ֥ךְ לִפְנֵֽי־מְשִׁיחִ֖י כָּל־הַיָּמִֽים׃ ",
+      "changes": [
+        {
+          "type": "syntax",
+          "from": "Ende ick sal my ... eenen getrouwen Priester verwecken",
+          "to": "En Ik zal voor Mij ... een trouwe priester doen opstaan",
+          "reason": "Moderne woordvolgorde, spelling, grammatica en lexicon."
+        },
+        {
+          "type": "annotation",
+          "from": "<Te weten, Zadok, die van den geslachte Eleazars was. siet de vervullinge, 1.Chron. 29.22.>",
+          "to": "<Namelijk Zadok, die van het geslacht van Eleazar was. Zie de vervulling in 1Kr. 29:22.>",
+          "reason": "Kanttekening volledig gemoderniseerd: afkorting, naamval, woordkeus en referentie."
+        },
+        {
+          "type": "syntax",
+          "from": "die sal doen gelijck als in mijn herte, ende in mijne ziele zijn sal",
+          "to": "die zal doen zoals het in Mijn hart en in Mijn ziel is",
+          "reason": "Zinsbouw gemoderniseerd voor betere leesbaarheid en modernisering van grammatica en spelling."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. gelijck als my behaeght.>",
+          "to": "<Dat is: zoals het Mij behaagt.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "syntax",
+          "from": "dien sal ick een ... bestandigh huys bouwen",
+          "to": "Voor hem zal Ik een ... bestendig huis bouwen",
+          "reason": "Moderne woordvolgorde, spelling en lexicon."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. een getrouvve huys. In Zadoks geslachte is het Hoogepriester-ampt lange gebleven, achtervolgens het gene dat Godt Pinehas den sone Eleazars belooft heeft, Num. 25.13.>",
+          "to": "<Hebreeuws: een trouw huis. In Zadoks geslacht is het hogepriesterambt lang gebleven, overeenkomstig wat God Pinechas, de zoon van Eleazar, beloofd heeft, Nm. 25:13.>",
+          "reason": "Kanttekening volledig gemoderniseerd: afkorting, spelling, naamvallen, woordkeus en referentie."
+        },
+        {
+          "type": "annotation",
+          "from": "<Verstaet hier by, ende sijne nakomelingen.>",
+          "to": "<Begrijp hierbij: en zijn nakomelingen.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "spelling",
+          "from": "hy sal",
+          "to": "hij zal",
+          "reason": "Moderne spelling."
+        },
+        {
+          "type": "annotation",
+          "from": "<Hebr. alle de dagen, T.w. sijnes levens.>",
+          "to": "<Hebreeuws: alle dagen, te weten: van zijn leven.>",
+          "reason": "Kanttekening gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "voor het aengesichte mijnes gesalfden",
+          "to": "voor het aangezicht van Mijn gezalfde",
+          "reason": "Archaïsche naamvalconstructie en spelling gemoderniseerd."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. voor den Koningh dien ick verkiesen sal, die oock een voorbeelt sal zijn van Christo, dien ick tot eenen Koningh over Zion mijnen heyligen bergh gesalft hebbe.>",
+          "to": "<Dat is: voor de koning die Ik zal verkiezen, die ook een voorbeeld zal zijn van Christus, die Ik tot koning over Sion, Mijn heilige berg, gezalfd heb.>",
+          "reason": "Kanttekening volledig gemoderniseerd: afkorting, naamvallen, spelling en woordkeus."
+        },
+        {
+          "type": "lexicon",
+          "from": "wandelen",
+          "to": "wandelen",
+          "reason": "Woord behouden vanwege de ceremoniële/figuurlijke betekenis."
+        },
+        {
+          "type": "annotation",
+          "from": "<D. het Priester-ampt bedienen, als vers 30.>",
+          "to": "<Dat is: het priesterambt bedienen, zoals in vers 30.>",
+          "reason": "Kanttekening gemoderniseerd."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Onnatuurlijke zinsbouw en grammatica",
+            "current": "die zal doen zoals het in Mijn hart en in Mijn ziel is",
+            "suggested": "die zal handelen naar wat in Mijn hart en in Mijn ziel is",
+            "reason": "De constructie 'doen zoals het ... is' is grammaticaal en stilistisch onhandig. 'Handelen naar wat...' is een natuurlijkere en duidelijkere formulering die de bedoeling van de brontekst accuraat weergeeft."
+          }
+        ]
+      }
+    },
+    {
+      "verse_number": 36,
+      "original_text": "Ende het sal geschieden, dat al die van uwen huyse sal overigh zijn: <Siet de vervullinge, 1.Reg. 2.26. ende 2.Reg. 23.9. Siet oock merckteeckenen hier van, Ezech. cap. 44. vers 14.> sal komen, om sich voor <T.w. voor Zadok, ende sijne nakomelingen.> hem neder te buygen voor een stucksken gelts, ende een bolle broots, ende sal seggen, Neemt my doch aen tot eenige Priesterlicke bedieninge, dat ick een bete broots moge eten.",
+      "modernized_text": "En het zal gebeuren dat iedereen die van uw huis zal overblijven, <Zie de vervulling, 1Kn. 2:26 en 2Kn. 23:9. Zie ook tekenen hiervan, Ez. 44:14.> zal komen om zich voor <Te weten: voor Zadok, en zijn nakomelingen.> hem neer te buigen voor een geldstuk en een homp brood, en zal zeggen: 'Neem mij toch aan voor een priesterlijke bediening, zodat ik een stuk brood kan eten.'",
+      "source_text": "וְהָיָ֗ה כָּל־הַנֹּותָר֙ בְּבֵ֣יתְךָ֔ יָבֹוא֙ לְהִשְׁתַּחֲוֹ֣ת לֹ֔ו לַאֲגֹ֥ורַת כֶּ֖סֶף וְכִכַּר־לָ֑חֶם וְאָמַ֗ר סְפָחֵ֥נִי נָ֛א אֶל־אַחַ֥ת הַכְּהֻנֹּ֖ות לֶאֱכֹ֥ל פַּת־לָֽחֶם׃ ס ",
+      "changes": [
+        {
+          "type": "lexicon",
+          "from": "Ende",
+          "to": "En",
+          "reason": "Archaïsch voegwoord vervangen door modern equivalent."
+        },
+        {
+          "type": "grammar",
+          "from": "het sal geschieden",
+          "to": "het zal gebeuren",
+          "reason": "Modernisering van hulpwerkwoord en hoofdwerkwoord ('sal' -> 'zal', 'geschieden' -> 'gebeuren')."
+        },
+        {
+          "type": "syntax",
+          "from": "al die van uwen huyse sal overigh zijn",
+          "to": "iedereen die van uw huis zal overblijven",
+          "reason": "Zinsconstructie gemoderniseerd voor betere leesbaarheid en natuurlijke woordkeus."
+        },
+        {
+          "type": "annotation",
+          "from": "<Siet de vervullinge, 1.Reg. 2.26. ende 2.Reg. 23.9. Siet oock merckteeckenen hier van, Ezech. cap. 44. vers 14.>",
+          "to": "<Zie de vervulling, 1Kn. 2:26 en 2Kn. 23:9. Zie ook tekenen hiervan, Ez. 44:14.>",
+          "reason": "Kanttekening volledig gemoderniseerd: spelling, lexicon en referentieformaat."
+        },
+        {
+          "type": "grammar",
+          "from": "sal komen",
+          "to": "zal komen",
+          "reason": "Moderne hulpwerkwoordsvorm."
+        },
+        {
+          "type": "grammar",
+          "from": "om sich ... neder te buygen",
+          "to": "om zich ... neer te buigen",
+          "reason": "Wederkerend voornaamwoord en werkwoord gemoderniseerd ('sich' -> 'zich', 'neder te buygen' -> 'neer te buigen')."
+        },
+        {
+          "type": "annotation",
+          "from": "<T.w. voor Zadok, ende sijne nakomelingen.>",
+          "to": "<Te weten: voor Zadok, en zijn nakomelingen.>",
+          "reason": "Kanttekening gemoderniseerd: afkorting voluit geschreven, voegwoord en bezittelijk voornaamwoord gemoderniseerd."
+        },
+        {
+          "type": "lexicon",
+          "from": "een stucksken gelts",
+          "to": "een geldstuk",
+          "reason": "Archaïsche naamval (genitief) en verkleinwoord gemoderniseerd naar een hedendaags woord."
+        },
+        {
+          "type": "lexicon",
+          "from": "een bolle broots",
+          "to": "een homp brood",
+          "reason": "Archaïsche naamval (genitief) en woordkeus gemoderniseerd."
+        },
+        {
+          "type": "grammar",
+          "from": "sal seggen",
+          "to": "zal zeggen",
+          "reason": "Moderne werkwoordsvorm."
+        },
+        {
+          "type": "punctuation",
+          "from": ", Neemt ... eten.",
+          "to": ": 'Neem ... eten.'",
+          "reason": "Interpunctie voor directe rede gemoderniseerd met dubbele punt en aanhalingstekens."
+        },
+        {
+          "type": "syntax",
+          "from": "Neemt my doch aen",
+          "to": "Neem mij toch aan",
+          "reason": "Modernisering van de gebiedende wijs, spelling en woordvolgorde."
+        },
+        {
+          "type": "syntax",
+          "from": "tot eenige Priesterlicke bedieninge",
+          "to": "voor een priesterlijke bediening",
+          "reason": "Natuurlijker voorzetselgebruik ('tot' -> 'voor') en modernisering van 'eenige' en spelling."
+        },
+        {
+          "type": "syntax",
+          "from": "dat ick een bete broots moge eten",
+          "to": "zodat ik een stuk brood kan eten",
+          "reason": "Zinsconstructie en woordkeus gemoderniseerd voor een natuurlijke, hedendaagse uitdrukking."
+        }
+      ],
+      "language_review": {
+        "has_suggestions": true,
+        "suggestions": [
+          {
+            "issue": "Omslachtige zinsconstructie",
+            "current": "En het zal gebeuren dat iedereen die van uw huis zal overblijven, <Zie de vervulling, 1Kn. 2:26 en 2Kn. 23:9. Zie ook tekenen hiervan, Ez. 44:14.> zal komen om zich voor <Te weten: voor Zadok, en zijn nakomelingen.> hem neer te buigen voor een geldstuk en een homp brood, en zal zeggen: 'Neem mij toch aan voor een priesterlijke bediening, zodat ik een stuk brood kan eten.'",
+            "suggested": "Iedereen die van uw huis overblijft, <Zie de vervulling, 1Kn. 2:26 en 2Kn. 23:9. Zie ook tekenen hiervan, Ez. 44:14.> zal komen om zich voor <Te weten: voor Zadok, en zijn nakomelingen.> hem neer te buigen voor een geldstuk en een homp brood, en zal zeggen: 'Neem mij toch aan voor een priesterlijke bediening, zodat ik een stuk brood kan eten.'",
+            "reason": "De constructie 'Het zal gebeuren dat...' is een hebraïsme dat in het Nederlands omslachtig klinkt. Door de zin met het onderwerp ('Iedereen') te beginnen, wordt de structuur directer en krachtiger. 'Overblijft' is bovendien beknopter dan 'zal overblijven', terwijl de toekomende tijd al door de hoofdwerkwoorden wordt aangegeven."
+          }
+        ]
+      }
+    }
+  ],
+  "epilogue": {
+    "original": "",
+    "modernized": "",
+    "language_review": {
+      "has_suggestions": false,
+      "suggestions": []
+    }
+  }
+}
