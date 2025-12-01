@@ -207,11 +207,23 @@ Gebruik deze categorieën voor het `type`-veld in `changes`:
 - **Voorbeeld**: Als de originele tekst `[is]` bevat, en dit woord relevant blijft in de moderne zin, moet de `modernized_text` ook `[is]` bevatten. Als het woord zelf gemoderniseerd wordt (bv. een archaïsch woord binnen haken), blijven de haken rond het gemoderniseerde woord staan.
 - **Rationale**: Dit is belangrijke metatekst die de keuzes van de oorspronkelijke vertalers documenteert en moet behouden blijven.
 
+#### 1.5 Respecteer Originele Hoofdletters
+**BELANGRIJK**: Respecteer het hoofdlettergebruik van de SV1657 PRECIES.
+- **Actie**: Introduceer geen 'eerbiedshoofdletters'. Moderniseer `sijn` naar `zijn` (niet `Zijn`), `hy` naar `hij` (niet `Hij`), enzovoort, tenzij het woord in de originele tekst expliciet een hoofdletter heeft.
+- **KRITISCH - Behoud van bestaande hoofdletters**: Als een woord in de originele tekst een hoofdletter heeft, moet de gemoderniseerde versie ook een hoofdletter hebben.
+  - **Voorbeeld**: `Antichrist` → `Antichrist` (NIET `antichrist`)
+  - **Voorbeeld**: `Antichristen` → `Antichristen` (NIET `antichristen`)
+  - Dit geldt voor ALLE woorden, inclusief theologische termen, eigennamen, en andere zelfstandige naamwoorden.
+- **Uitzondering**: Theologische kerntermen zoals `HEERE` en `Heere` moeten ongewijzigd blijven zoals gespecificeerd in sectie 2.4. Deze regel is primair van toepassing op voornaamwoorden en andere zelfstandige naamwoorden waar de originele tekst geen hoofdletter gebruikt.
+- **Rationale**: Het verwijderen van hoofdletters is een inhoudelijke wijziging die de keuzes van de oorspronkelijke vertalers niet respecteert. Hoofdletters hebben vaak theologische of tekstuele betekenis.
+
 ---
 
 ### 2. LEXICALE MODERNISERING
 
 #### 2.1 Archaïsche woorden → Hedendaagse equivalenten
+
+**BELANGRIJK - Controleer kanttekeningen EERST**: Voordat je een archaïsch woord moderniseert, controleer of er een kanttekening bij dat woord staat met een alternatief (zoals "Ofte, ...", "Of:"). Als dat zo is, gebruik dan NIET dat alternatief in de hoofdtekst, maar kies een andere modernisering. Zie sectie 7 voor details.
 
 | Archaïsch (SV1657) | Hedendaags |
 |-------------------|-----------|
@@ -222,6 +234,7 @@ Gebruik deze categorieën voor het `type`-veld in `changes`:
 | desen, dese | deze, dit |
 | doch | echter, maar |
 | ende | en |
+| ergernisse | ergernis |
 | gelijck | zoals, evenals |
 | ghy, gij | u |
 | gijlieden | u (meervoud) |
@@ -236,6 +249,7 @@ Gebruik deze categorieën voor het `type`-veld in `changes`:
 | overmits | omdat |
 | sijnen, sijner | zijn |
 | soo | zo |
+| sonde | zonde |
 | sy | zij |
 | t'samen | tezamen, samen |
 | uwen, uwer | uw |
@@ -297,7 +311,7 @@ Behoud de volgende termen **exact** zoals in SV1657:
 - Heere (voor Adonai)
 - Almachtige / Schaddai
 - Namen van God (God, Elohim, enz.)
-- Messias, Christus
+- Messias, Christus, Antichrist, Satan
 - Apostel, discipel
 - Evangelie
 - Genade, heil, verlossing, rechtvaardigheid
@@ -462,6 +476,23 @@ Moderniseer **alle kanttekeningen** volledig volgens dezelfde principes:
 - **Aantal**: Het aantal kanttekeningen in de gemoderniseerde tekst moet exact overeenkomen met het aantal in de originele tekst. Geen enkele kanttekening mag worden verwijderd of samengevoegd.
 - **Inhoud**: Verwijzingen naar de brontekst (zoals `Gr.` voor Grieks of `Hebr.` voor Hebreeuws) moeten altijd behouden blijven en gemoderniseerd worden (bv. `Gr.` → `Grieks:`).
 
+**KRITISCH: Vermijd redundantie tussen hoofdtekst en kanttekeningen**
+- **Probleem**: Als een archaïsch woord in de hoofdtekst een alternatief heeft in de kanttekening (bijv. "Ofte, aenstoot"), en je moderniseert het hoofdwoord naar datzelfde alternatief, ontstaat redundantie.
+- **Voorbeeld van FOUT**:
+  - Origineel: "ergernisse" in hoofdtekst, kanttekening zegt "Ofte, aenstoot"
+  - FOUT: "aanstoot" in hoofdtekst, kanttekening zegt "Of: aanstoot" → **redundant!**
+- **Juiste aanpak**:
+  - **ALTIJD EERST CONTROLEREN**: Voordat je een archaïsch woord in de hoofdtekst moderniseert, controleer of de kanttekening alternatieven bevat (zoals "Ofte, ...", "Of:", etc.)
+  - **Als het woord een alternatief heeft in de kanttekening**: Gebruik NIET dat alternatief in de hoofdtekst. Kies in plaats daarvan:
+    1. Een andere moderne vorm van het woord (bijv. "ergernisse" → "ergernis" in plaats van "aanstoot"), OF
+    2. Een synoniem dat niet in de kanttekening voorkomt
+  - **Werk de kanttekening bij**: Moderniseer het alternatief in de kanttekening volgens de normale regels
+- **Voorbeeld van CORRECTE aanpak**:
+  - Origineel: "ergernisse" in hoofdtekst, kanttekening "Ofte, aenstoot"
+  - CORRECT: "ergernis" in hoofdtekst, kanttekening "Of: aanstoot"
+  - OF CORRECT: "struikelblok" in hoofdtekst, kanttekening "Of: aanstoot"
+- **Rationale**: De kanttekeningen bieden alternatieven en verdieping. Als de hoofdtekst en kanttekening hetzelfde woord gebruiken, verliest de kanttekening zijn toegevoegde waarde.
+
 #### 7.1 Afkortingen in kanttekeningen
 
 Behoud en moderniseer consistentie:
@@ -491,9 +522,25 @@ Behoud en moderniseer consistentie:
 
 ### 8. BIJBELVERWIJZINGEN (tussen `$...$`)
 
-#### 8.1 Standaardiseer volgens REFERENTIE-AFKORTINGEN
+This is the most critical part of your task. You must standardize all bible references with ZERO errors. You will be provided with two mapping files to ensure 100% accuracy.
 
-Gebruik **uitsluitend** de afkortingen uit de onderstaande lijst. Converteer alle oude afkortingen naar de nieuwe standaard.
+**FILE 1: MAPPING FROM OLD TO NEW (`bible_book_references.csv`)**
+This file maps various archaic abbreviations to their full Dutch book name. It has the following columns: `Old Dutch Abbreviation`, `Modern Dutch`, `Modern English`, `Full Name (Dutch)`, `Full Name (English)`.
+
+**FILE 2: OFFICIAL ABBREVIATION LIST (`afkortingen.csv`)**
+This file contains the official, standardized list of modern abbreviations. It has two columns: `Full Name (Dutch)` and `Modern Abbreviation`.
+
+#### 8.1 Two-Step Standardization Logic
+
+To convert an old reference (e.g., from `$Iudic. 2. op vers 16.$`), you MUST follow this two-step process:
+
+1.  **Find the Full Name:** Look up the old abbreviation (e.g., `Iudic.`) in the `Old Dutch Abbreviation` column of `bible_book_references.csv`. Find the corresponding value in the **`Full Name (Dutch)`** column.
+    *   Example: `Iudic.` -> `Rechters`
+
+2.  **Find the Standardized Abbreviation:** Look up the full name (`Rechters`) in the first column of `afkortingen.csv`. The value in the second column is the final, correct abbreviation you MUST use.
+    *   Example: `Rechters` -> `Ri.`
+
+**This two-step process is mandatory to prevent hallucinations and guarantee consistency.**
 
 #### 8.2 Referentieformaat
 
@@ -504,123 +551,36 @@ Gebruik **uitsluitend** de afkortingen uit de onderstaande lijst. Converteer all
 - `$Mt. 28:19$` (Mattheüs 28:19)
 - `$Rm. 13:1-7$` (Romeinen 13:1-7)
 - `$Ps. 23:1$` (Psalm 23:1)
+- Multiple references are separated by a semicolon and space: `$Rm. 3:1; 1Pt. 2:13$`
 
-#### 8.3 Oude → Nieuwe afkortingen
-
-Converteer verouderde referenties (bijv. "Genes. 21. op vers 1" → "Gn. 21:1")
+Convert older formats (e.g., using `.` between chapter and verse, `op vers`) to this modern format.
 
 **Voorbeeld conversie:**
 
 **Origineel:**
 ```
-$Siet Genes. 21. op vers 1.$
+$Siet Iudic. 2. op vers 16.$
+```
+**Modernized:**
+```
+$Zie Ri. 2:16$
 ```
 
-**Gemoderniseerd:**
-```
-$Zie Gn. 21:1$
-```
-
-#### 8.4 CRITICAL: PRESERVATION OF REFERENCE CONTENT
+#### 8.3 CRITICAL: PRESERVATION OF REFERENCE CONTENT
 
 **WARNING: This is a critical instruction. Failure to follow this will corrupt the data.**
 
-- You **MUST NOT** alter the content of the biblical references. The book name, chapter number, and verse number **MUST** remain identical to the original.
+- You **MUST NOT** alter the content of the biblical references. The book name, chapter number, and verse number **MUST** remain identical to the original. Your only job is to standardize the abbreviation and format.
 - **Example of a GRAVE ERROR:** `$Matth. 24.1$` becoming `$Luk. 24:1$`. This is a content change and is strictly forbidden. Another grave error is changing `$Matth. 28.1, Matth. 24.1, Matth. 20.1$` to `$Matth. 28:1; Luk. 24:1; Joh. 20:1$`. The books and verses must be preserved exactly.
-- The **ONLY** permitted changes to references are:
-    1.  **Standardizing the book abbreviation** according to the provided list (e.g., `Matth.` -> `Mt.`, `Iudic.` -> `Ri.`).
-    2.  **Standardizing the format** (e.g., `.` between chapter and verse becomes `:`, `op vers` is removed, `,` becomes `; ` for separating multiple references).
 - DO NOT attempt to "correct" what you perceive as an error in the original reference. Copy the book and numbers exactly as they appear, only changing the format and abbreviation.
 
-#### 8.5 Within-Book References (Implicit Book)
+#### 8.4 Within-Book References (Implicit Book)
 
 If a reference lacks a book name and only provides chapter and verse (e.g., `$3.1$`, `$15.4-5$`), it is an implicit reference to the **current book** being processed.
 
--   **Action:** You MUST prepend the correct standardized abbreviation for the current book.
+-   **Action:** You MUST prepend the correct standardized abbreviation for the current book. To find this, get the `book` (full name, e.g. "Ruth") from the metadata, find it in `afkortingen.csv` and use the corresponding abbreviation.
 -   **Example:** When processing the book **Romeinen** (book code `ROM`, abbreviation `Rm.`), a reference like `$13.1$` MUST be modernized to `$Rm. 13:1$`. A reference like `$3.1, 1.Petr. 2.13$` must become `$Rm. 3:1; 1Pt. 2:13$`.
 -   **CRITICAL:** Do NOT guess a book name. The book is always the one currently being processed.
-
----
-
-## REFERENTIE-AFKORTINGEN
-
-Gebruik **uitsluitend** deze afkortingen voor Bijbelboeken in referenties:
-
-### Oude Testament
-
-| Boek | Afkorting |
-|------|-----------|
-| Genesis | Gn. |
-| Exodus | Ex. |
-| Leviticus | Lv. |
-| Numeri | Nm. |
-| Deuteronomium | Dt. |
-| Jozua | Jz. |
-| Richteren | Ri. |
-| Ruth | Ru. |
-| 1 Samuel | 1Sm. |
-| 2 Samuel | 2Sm. |
-| 1 Koningen | 1Kn. |
-| 2 Koningen | 2Kn. |
-| 1 Kronieken | 1Kr. |
-| 2 Kronieken | 2Kr. |
-| Ezra | Ea. |
-| Nehemia | Ne. |
-| Esther | Es. |
-| Job | Jb. |
-| Psalmen | Ps. |
-| Spreuken | Sp. |
-| Prediker | Pr. |
-| Hooglied | Hl. |
-| Jesaja | Js. |
-| Jeremia | Jr. |
-| Klaagliederen | Kl. |
-| Ezechiël | Ez. |
-| Daniël | Dn. |
-| Hosea | Hs. |
-| Joel | Jl. |
-| Amos | Am. |
-| Obadja | Ob. |
-| Jona | Jn. |
-| Micha | Mc. |
-| Nahum | Na. |
-| Habakuk | Hk. |
-| Zefanja | Zf. |
-| Haggaï | Hg. |
-| Zacharia | Zc. |
-| Maleachi | Ml. |
-
-### Nieuwe Testament
-
-| Boek | Afkorting |
-|------|-----------|
-| Mattheüs | Mt. |
-| Markus | Mk. |
-| Lukas | Lk. |
-| Johannes | Jh. |
-| Handelingen | Hd. |
-| Romeinen | Rm. |
-| 1 Korinthe | 1Kor. |
-| 2 Korinthe | 2Kor. |
-| Galaten | Gl. |
-| Efeze | Ef. |
-| Filippenzen | Fp. |
-| Kolossenzen | Ko. |
-| 1 Thessalonicenzen | 1Th. |
-| 2 Thessalonicenzen | 2Th. |
-| 1 Timotheüs | 1Tm. |
-| 2 Timotheüs | 2Tm. |
-| Titus | Tt. |
-| Filemon | Fm. |
-| Hebreeën | Hb. |
-| Jakobus | Jk. |
-| 1 Petrus | 1Pt. |
-| 2 Petrus | 2Pt. |
-| 1 Johannes | 1Jh. |
-| 2 Johannes | 2Jh. |
-| 3 Johannes | 3Jh. |
-| Judas | Jd. |
-| Openbaring | Op. |
 
 ---
 

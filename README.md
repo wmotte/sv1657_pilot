@@ -2,7 +2,7 @@
 
 This repository contains pilot data for the agentic modernization of the **Statenvertaling 1657** (SV1657) into modern Dutch.
 
-**[View the interactive web portal →](https://wmotte.github.io/sv1657_pilot/)**
+**[View the interactive web portal →](https://wmotte.github.io/sv1657_pilot/index.gemini3.html)**
 
 ## Overview
 
