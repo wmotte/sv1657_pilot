@@ -501,6 +501,51 @@
           );
         };
 
+        /* ================= FeedbackControls ================= */
+
+        const FeedbackControls = ({ ratingData, onRatingChange, onCommentChange, className = '' }) => {
+          const handleRating = (newRating) => {
+            const currentRating = ratingData?.rating;
+            onRatingChange(currentRating === newRating ? null : newRating);
+          };
+
+          return (
+            <div className={`flex flex-col gap-2 ${className}`}>
+              <div className="flex items-center space-x-2">
+                <button
+                  onClick={() => handleRating('up')}
+                  className={`p-2 rounded-full transition-colors duration-200 ${
+                    ratingData?.rating === 'up'
+                      ? 'bg-green-500 text-white'
+                      : 'bg-gray-200 text-gray-500 hover:bg-green-100'
+                  }`}
+                  aria-label="Geef een goede beoordeling"
+                >
+                  <ThumbUpIcon className="w-5 h-5" />
+                </button>
+                <button
+                  onClick={() => handleRating('down')}
+                  className={`p-2 rounded-full transition-colors duration-200 ${
+                    ratingData?.rating === 'down'
+                      ? 'bg-red-500 text-white'
+                      : 'bg-gray-200 text-gray-500 hover:bg-red-100'
+                  }`}
+                  aria-label="Geef een slechte beoordeling"
+                >
+                  <ThumbDownIcon className="w-5 h-5" />
+                </button>
+              </div>
+              <textarea
+                value={ratingData?.comment || ''}
+                onChange={onCommentChange}
+                placeholder="Voeg een opmerking toe..."
+                className="w-full bg-white border border-gray-300 rounded-md p-2 text-sm text-gray-800 placeholder-gray-400 focus:ring-2 focus:ring-sky-500 focus:border-sky-500 transition"
+                rows={2}
+              />
+            </div>
+          );
+        };
+
         /* ================= VerseDisplay =================
            For each verse row:
            - measure both main text blocks
@@ -536,11 +581,10 @@
             };
           }, []);
 
-          const handleRating = (newRating) => {
-            const currentRating = ratingData?.rating;
+          const handleRatingChange = (rating) => {
             onRate(
               verse.verse_number,
-              currentRating === newRating ? null : newRating,
+              rating,
               ratingData?.comment || ''
             );
           };
@@ -574,7 +618,7 @@
                 />
               </td>
 
-              {/* right column (Hedendaagse Vertaling) */}
+              {/* right column (In hedendaagse taal) */}
               <td className="px-4 py-4 align-top">
                 <TextContent
                   textWithMarkers={final.textWithMarkers}
@@ -594,39 +638,12 @@
                 >
                   {verse.source_text}
                 </p>
-                <div className="flex flex-col gap-2 mt-4">
-                  <div className="flex items-center space-x-2">
-                    <button
-                      onClick={() => handleRating('up')}
-                      className={`p-2 rounded-full transition-colors duration-200 ${
-                        ratingData?.rating === 'up'
-                          ? 'bg-green-500 text-white'
-                          : 'bg-gray-200 text-gray-500 hover:bg-green-100'
-                      }`}
-                      aria-label="Geef een goede beoordeling"
-                    >
-                      <ThumbUpIcon className="w-5 h-5" />
-                    </button>
-                    <button
-                      onClick={() => handleRating('down')}
-                      className={`p-2 rounded-full transition-colors duration-200 ${
-                        ratingData?.rating === 'down'
-                          ? 'bg-red-500 text-white'
-                          : 'bg-gray-200 text-gray-500 hover:bg-red-100'
-                      }`}
-                      aria-label="Geef een slechte beoordeling"
-                    >
-                      <ThumbDownIcon className="w-5 h-5" />
-                    </button>
-                  </div>
-                  <textarea
-                    value={ratingData?.comment || ''}
-                    onChange={handleCommentChange}
-                    placeholder="Voeg een opmerking toe..."
-                    className="w-full bg-white border border-gray-300 rounded-md p-2 text-sm text-gray-800 placeholder-gray-400 focus:ring-2 focus:ring-sky-500 focus:border-sky-500 transition"
-                    rows={2}
-                  />
-                </div>
+                <FeedbackControls
+                  ratingData={ratingData}
+                  onRatingChange={handleRatingChange}
+                  onCommentChange={handleCommentChange}
+                  className="mt-4"
+                />
               </td>
             </tr>
           );
@@ -637,6 +654,8 @@
         const App = () => {
           const [bibleData, setBibleData] = useState(null);
           const [ratings, setRatings] = useState({});
+          const [introductionRating, setIntroductionRating] = useState({ rating: null, comment: '' });
+          const [epilogueRating, setEpilogueRating] = useState({ rating: null, comment: '' });
           const [fileName, setFileName] = useState(null);
           const [currentBook, setCurrentBook] = useState('1JN');
           const [currentChapter, setCurrentChapter] = useState(1);
@@ -660,6 +679,8 @@
                 setCurrentBook(bookAbbr);
                 setCurrentChapter(chapter);
                 setRatings({});
+                setIntroductionRating({ rating: null, comment: '' });
+                setEpilogueRating({ rating: null, comment: '' });
               } else {
                 throw new Error("Onverwachte bestandsstructuur");
               }
@@ -681,6 +702,8 @@
             if (data && data.metadata && data.verses) {
               setBibleData(data);
               setRatings({});
+              setIntroductionRating({ rating: null, comment: '' });
+              setEpilogueRating({ rating: null, comment: '' });
               setError(null);
             } else {
               alert("Het geüploade bestand heeft niet de verwachte structuur.");
@@ -688,19 +711,22 @@
           }, []);
 
           const handleLoadNew = useCallback(() => {
-            if (
-              Object.keys(ratings).length > 0 &&
-              Object.values(ratings).some(r => r.rating || r.comment)
-            ) {
+            const hasVerseRatings = Object.keys(ratings).length > 0 && Object.values(ratings).some(r => r.rating || r.comment);
+            const hasIntroRating = introductionRating.rating || introductionRating.comment;
+            const hasEpilogueRating = epilogueRating.rating || epilogueRating.comment;
+
+            if (hasVerseRatings || hasIntroRating || hasEpilogueRating) {
               if (!confirm("Je hebt beoordelingen die niet zijn opgeslagen. Weet je zeker dat je een nieuw bestand wilt laden?")) {
                 return;
               }
             }
             setBibleData(null);
             setRatings({});
+            setIntroductionRating({ rating: null, comment: '' });
+            setEpilogueRating({ rating: null, comment: '' });
             setFileName(null);
             setError(null);
-          }, [ratings]);
+          }, [ratings, introductionRating, epilogueRating]);
 
           const handleRate = useCallback((verseNumber, rating, comment) => {
             setRatings(prevRatings => ({
@@ -709,8 +735,16 @@
             }));
           }, []);
 
+          const handleIntroductionRate = useCallback((rating, comment) => {
+            setIntroductionRating({ rating, comment });
+          }, []);
+
+          const handleEpilogueRate = useCallback((rating, comment) => {
+            setEpilogueRating({ rating, comment });
+          }, []);
+
           const handleDownload = useCallback(() => {
-            if (!bibleData || Object.keys(ratings).length === 0) {
+            if (!bibleData) {
               alert("Geen beoordelingen om te downloaden.");
               return;
             }
@@ -722,7 +756,11 @@
                 return obj;
               }, {});
 
-            if (Object.keys(ratingsToDownload).length === 0) {
+            const hasVerseRatings = Object.keys(ratingsToDownload).length > 0;
+            const hasIntroRating = introductionRating.rating || introductionRating.comment;
+            const hasEpilogueRating = epilogueRating.rating || epilogueRating.comment;
+
+            if (!hasVerseRatings && !hasIntroRating && !hasEpilogueRating) {
               alert("Geen beoordelingen of opmerkingen ingevuld om te downloaden.");
               return;
             }
@@ -736,6 +774,20 @@
               ratings: ratingsToDownload,
             };
 
+            if (hasIntroRating) {
+              downloadData.introduction_rating = {
+                rating: introductionRating.rating,
+                comment: introductionRating.comment,
+              };
+            }
+
+            if (hasEpilogueRating) {
+              downloadData.epilogue_rating = {
+                rating: epilogueRating.rating,
+                comment: epilogueRating.comment,
+              };
+            }
+
             const jsonString = JSON.stringify(downloadData, null, 2);
             const blob = new Blob([jsonString], { type: 'application/json' });
             const url = URL.createObjectURL(blob);
@@ -746,11 +798,11 @@
             a.click();
             document.body.removeChild(a);
             URL.revokeObjectURL(url);
-          }, [bibleData, ratings, currentBook]);
+          }, [bibleData, ratings, introductionRating, epilogueRating, currentBook]);
 
           const hasRatings = Object.values(ratings).some(
             r => r.rating !== null || r.comment !== ''
-          );
+          ) || introductionRating.rating || introductionRating.comment || epilogueRating.rating || epilogueRating.comment;
 
           return (
             <div className="min-h-screen bg-gray-100">
@@ -834,7 +886,7 @@
                             </div>
                             <div>
                               <h4 className="text-xs font-medium text-gray-500 uppercase tracking-wider mb-2">
-                                Hedendaagse Vertaling
+                                In hedendaagse taal
                               </h4>
                               <p
                                 className="text-base font-bold text-gray-900 italic"
@@ -846,6 +898,14 @@
                                 {bibleData.introduction.final}
                               </p>
                             </div>
+                          </div>
+                          <div className="mt-4 pt-4 border-t border-gray-100">
+                            <h4 className="text-sm font-medium text-gray-600 mb-2">Beoordeling</h4>
+                            <FeedbackControls
+                              ratingData={introductionRating}
+                              onRatingChange={(rating) => handleIntroductionRate(rating, introductionRating.comment)}
+                              onCommentChange={(e) => handleIntroductionRate(introductionRating.rating, e.target.value)}
+                            />
                           </div>
                         </div>
                       )}
@@ -872,7 +932,7 @@
                                 scope="col"
                                 className="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
                               >
-                                Hedendaagse Vertaling
+                                In hedendaagse taal
                               </th>
                               <th
                                 scope="col"
@@ -919,7 +979,7 @@
                           </div>
                           <div>
                             <h4 className="text-xs font-medium text-gray-500 uppercase tracking-wider mb-2">
-                              Hedendaagse Vertaling
+                              In hedendaagse taal
                             </h4>
                             <p
                               className="text-base font-bold text-gray-900 italic"
@@ -931,6 +991,14 @@
                               {bibleData.epilogue.final}
                             </p>
                           </div>
+                        </div>
+                        <div className="mt-4 pt-4 border-t border-gray-100">
+                          <h4 className="text-sm font-medium text-gray-600 mb-2">Beoordeling</h4>
+                          <FeedbackControls
+                            ratingData={epilogueRating}
+                            onRatingChange={(rating) => handleEpilogueRate(rating, epilogueRating.comment)}
+                            onCommentChange={(e) => handleEpilogueRate(epilogueRating.rating, e.target.value)}
+                          />
                         </div>
                       </div>
                     )}
