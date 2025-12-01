@@ -1,0 +1,290 @@
+{
+  "metadata": {
+    "book": "Markus",
+    "book_code": "MRK",
+    "chapter": 1,
+    "translation_policy": "Statenvertaling 1657 → Hedendaags Nederlands (redactie)",
+    "source_language": "Grieks (Textus Receptus)",
+    "notes": "Redactie voltooid door de virtuele editor, met de nadruk op trouw aan de brontekst."
+  },
+  "introduction": {
+    "original": "1 De predicatie des Euangeliums begint met den dienst Ioannis, die in de woestijne doopt ende predickt met grooten toeloop. 9 Christus wort van hem gedoopt, ende uyt den hemel betuyght te zijn de welgeliefde Sone Godts. 12 wort in de woestijne versocht. 14 predickt in Galilea. 16 ende beroept Simonem ende Andream. 19 als oock Iacobum ende Ioannem. 21 leert binnen Capernaum. 23 werpt eenen onreynen geest uyt. 29 geneest de schoonmoeder Petri van de kortse. 32 ende allerley krancke ende besetene menschen. 35 vertreckt in een woeste plaetse om te bidden. 38 gaet van daer prediken in de naeste steden. 40 reynight een melaetsche, den welcken hy gebiedt te swijgen, ende sich den Priester te vertoonen.",
+    "final": "1 De prediking van het Evangelie begint met de dienst van Johannes, die in de woestijn doopt en preekt met grote toeloop. 9 Christus wordt door hem gedoopt, en vanuit de hemel betuigd de welgeliefde Zoon van God te zijn. 12 Wordt in de woestijn verzocht. 14 Preekt in Galilea. 16 En roept Simon en Andreas. 19 Alsook Jakobus en Johannes. 21 Leert in Kafarnaüm. 23 Werpt een onreine geest uit. 29 Geneest de schoonmoeder van Petrus van de koorts. 32 En allerlei zieke en bezeten mensen. 35 Vertrekt naar een woeste plaats om te bidden. 38 Gaat vandaar preken in de nabijgelegen steden. 40 Reinigt een melaatse, die hij gebiedt te zwijgen, en zich aan de priester te vertonen."
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "original_text": "<Marcus begint sijn Euangelium, daer Malachias sijne prophetie eyndight, namelick van de komste des voorloopers Christi, om alsoo het Oude ende het Nieuwe Testament gelijck als aen malkanderen te hechten. Want alle de Propheten hebben tot op Ioannem gepropheteert, Matth. 11. vers 13. die de eerste prediker des Euangeliums in den Nieuwen Testamente geweest is.> HET begin des Euangeliums JESU CHRISTI des Soons Godts.",
+      "final_text": "<Markus begint zijn Evangelie waar Maleachi zijn profetie eindigt, namelijk over de komst van de voorloper van Christus, om zo het Oude en het Nieuwe Testament als het ware aan elkaar te hechten. Want al de profeten hebben tot op Johannes geprofeteerd, $Mt. 11:13$ die de eerste prediker van het Evangelie in het Nieuwe Testament is geweest.> Het begin van het Evangelie van Jezus Christus, de Zoon van God.",
+      "source_text": "Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ Χριστοῦ, Υἱοῦ τοῦ Θεοῦ·"
+    },
+    {
+      "verse_number": 2,
+      "original_text": "Gelijck geschreven is <Nam. Ies. 40.3. ende Mal. 3. vers 1. want dese beyde prophetien worden hier by een gevoeght.> in de Propheten, $Malach. 3.1. Matth. 11.10. Luce 7.27.$ Siet, ick sende mijnen <Of, Sentbode. Want het Griecks woort Angelos beteeckent een Sentbode, Luce 7.24. ende wort gemeenlick den Engelen des hemels toegeschreven. Doch somwijlen oock den Kerckendienaren, om datse van Godt als boden uytgesonden worden, om den menschen Godts wille ende geboden voor te dragen, Mal. 2.7. Apocal. 2.1, 8.> Engel voor <Hier spreeckt Godt de Vader tot sijnen Soon, ende by Malachiam spreeckt de Sone selve tot de gemeente, ende seght daerom voor mijnen aengesichte, D. voor mijne komste, die daer op terstont volgen sal.> uw’ aengesichte, die uwen wegh voor u henen bereyden sal.",
+      "final_text": "Zoals geschreven is <Namelijk Jes. 40:3 en Mal. 3:1. Want deze beide profetieën worden hier bijeengevoegd.> in de Profeten: $Mal. 3:1; Mt. 11:10; Lc. 7:27$ Zie, ik zend mijn <Of: gezant. Want het Griekse woord Angelos betekent een gezant, Lc. 7:24, en wordt gewoonlijk aan de engelen van de hemel toegeschreven. Maar soms ook aan de kerkdienaren, omdat zij door God als boden uitgezonden worden, om aan de mensen Gods wil en geboden voor te houden, Mal. 2:7; Op. 2:1, 8.> engel voor <Hier spreekt God de Vader tot zijn Zoon, en bij Maleachi spreekt de Zoon Zelf tot de gemeente, en zegt daarom: voor mijn aangezicht, dat is, voor mijn komst, die daarop direct zal volgen.> uw aangezicht, die uw weg voor u uit zal bereiden.",
+      "source_text": "Ὡς γέγραπται ἐν τοῖς προφήταις, Ἰδού, ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου, ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου."
+    },
+    {
+      "verse_number": 3,
+      "original_text": "$Iesa. 40.3. Matth. 3.3. Luce 3.4. Ioan. 1.23.$ De stemme des roependen in de woestijne, Bereyt den wegh des Heeren, maeckt sijne paden <Ofte, effen.> recht.",
+      "final_text": "$Jes. 40:3; Mt. 3:3; Lc. 3:4; Joh. 1:23$ De stem van hem die roept in de woestijn: Bereid de weg van de Heere, maak zijn paden <Of: effen.> recht.",
+      "source_text": "φωνὴ βοῶντος ἐν τῇ ἐρήμῳ, Ἑτοιμάσατε τὴν ὁδὸν Κυρίου· εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ."
+    },
+    {
+      "verse_number": 4,
+      "original_text": "$Matth. 3.1. Luce 3.3. Ioan. 3 23.$ Ioannes was doopende in de woestijne, ende predikende den Doop <De doop wort alsoo genaemt om datse bedient wiert aen de gene, die hare sonden beleden ende bekeeringe beloofden, ende om haer te wesen een teecken ende verzegelinge, dat haer hare sonden van Godt om Christi wille vergeven waren, Actor. cap. 19. vers 4. Rom. 4.11.> der bekeeringe tot vergevinge der sonden.",
+      "final_text": "$Mt. 3:1; Lc. 3:3; Joh. 3:23$ Johannes doopte in de woestijn, en predikte de doop <De doop wordt zo genoemd omdat hij bediend werd aan degenen die hun zonden beleden en bekering beloofden, en om voor hen een teken en verzegeling te zijn dat hun zonden hun door God omwille van Christus vergeven waren, Hnd. 19:4; Rm. 4:11.> van de bekering tot vergeving van de zonden.",
+      "source_text": "ἐγένετο Ἰωάννης βαπτίζων ἐν τῇ ἐρήμῳ, καὶ κηρύσσων βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν."
+    },
+    {
+      "verse_number": 5,
+      "original_text": "$Matth. 3.5. Luce 3.7.$ Ende alle het Ioodsche lant gingh tot hem uyt, ende die van Ierusalem: ende wierden alle van hem gedoopt in de riviere de Iordaen, belijdende hare sonden.",
+      "final_text": "$Mt. 3:5; Lc. 3:7$ En heel het Joodse land en de inwoners van Jeruzalem trokken naar hem uit; en zij werden allen door hem gedoopt in de rivier de Jordaan, terwijl zij hun zonden beleden.",
+      "source_text": "καὶ ἐξεπορεύετο πρὸς αὐτὸν πᾶσα ἡ Ἰουδαία χώρα, καὶ οἱ Ἱεροσολυμῖται, καὶ ἐβαπτίζοντο πάντες ἐν τῷ Ἰορδάνῃ ποταμῷ ὑπ’ αὐτοῦ, ἐξομολογούμενοι τὰς ἁμαρτίας αὐτῶν."
+    },
+    {
+      "verse_number": 6,
+      "original_text": "$2.Reg. 1.8. Matth. 3.4.$ Ende <De verklaringe van dese historie Ioannis siet in de aent. op het 3. cap. Matt. alwaer die by na met deselve woorden verhaelt staet.> Ioannes was gekleet met kemels hayr, ende met eenen lederen gordel om sijne lenden, ende at $Levit. 11.22.$ sprinckhanen ende <D. die in ’t wilde, ofte velt gevonden wiert.> wilden honigh.",
+      "final_text": "$2 Kon. 1:8; Mt. 3:4$ En <Zie voor de verklaring van deze geschiedenis van Johannes de aantekeningen op het 3e hst. van Mattheüs, waar die bijna met dezelfde woorden verhaald staat.> Johannes was gekleed in kameelhaar, en met een leren gordel om zijn lendenen, en hij at $Lv. 11:22$ sprinkhanen en <Dat is, die in het wild, of in het veld gevonden werd.> wilde honing.",
+      "source_text": "ἦν δὲ Ἰωάννης ἐνδεδυμένος τρίχας καμήλου, καὶ ζώνην δερματίνην περὶ τὴν ὀσφὺν αὐτοῦ, καὶ ἐσθίων ἀκρίδας καὶ μέλι ἄγριον."
+    },
+    {
+      "verse_number": 7,
+      "original_text": "$Matth. 3.11. Luce 3.16. Ioan. 1.27.$ Ende hy predickte, seggende, Na my komt die stercker is dan ick, wien ick niet <Gr. bequaem, ofte genoeghsaem.> weerdigh en ben nederbuckende den riem sijner schoenen te ontbinden.",
+      "final_text": "$Mt. 3:11; Lc. 3:16; Joh. 1:27$ En hij predikte en zei: Na mij komt hij die sterker is dan ik, van wie ik het niet <Grieks: bekwaam, of genoegzaam.> waard ben om te bukken en de riem van zijn schoenen los te maken.",
+      "source_text": "καὶ ἐκήρυσσε, λέγων, Ἔρχεται ὁ ἰσχυρότερός μου ὀπίσω μου, οὗ οὐκ εἰμὶ ἱκανὸς κύψας λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ."
+    },
+    {
+      "verse_number": 8,
+      "original_text": "$Matth. 3.11. Actor. 1.5. ende 11.16. ende 19.4.$ Ick hebbe u-lieden wel gedoopt met water, maer hy sal u doopen $Iesa. 44.3. Ioël 2.28. Act. 2.4. ende 11.15.$ met den Heyligen Geest.",
+      "final_text": "$Mt. 3:11; Hnd. 1:5; 11:16; 19:4$ Ik heb u wel gedoopt met water, maar hij zal u dopen $Jes. 44:3; Joël 2:28; Hnd. 2:4; 11:15$ met de Heilige Geest.",
+      "source_text": "ἐγὼ μὲν ἐβάπτισα ὑμᾶς ἐν ὕδατι· αὐτὸς δὲ βαπτίσει ὑμᾶς ἐν Πνεύματι Ἁγίῳ."
+    },
+    {
+      "verse_number": 9,
+      "original_text": "Ende het geschiedde in die selve dagen, dat Iesus quam van <Namel. daer hy opgevoedt was, ende tot dien tijt toe gewoont hadde. siet Luce 2.51. ende 4.16.> Nazareth [gelegen] in Galilea, ende wiert van Ioanne gedoopt in de Iordaen.",
+      "final_text": "En het gebeurde in die dagen dat Jezus kwam van <Namelijk waar hij opgevoed was, en tot die tijd gewoond had. Zie Lc. 2:51; 4:16.> Nazaret [gelegen] in Galilea, en door Johannes gedoopt werd in de Jordaan.",
+      "source_text": "Καὶ ἐγένετο ἐν ἐκείναις ταῖς ἡμέραις, ἦλθεν Ἰησοῦς ἀπὸ Ναζαρὲθ τῆς Γαλιλαίας, καὶ ἐβαπτίσθη ὑπὸ Ἰωάννου εἰς τὸν Ἰορδάνην."
+    },
+    {
+      "verse_number": 10,
+      "original_text": "$Matth. 3.16. Luce 3.21. Ioan. 1.32.$ Ende terstont als hy uyt het water opklam, sagh <Namel. Ioannes de Dooper.> hy de hemelen <Gr. gescheurt, ofte, gekloven.> open gaen, ende den geest gelijck een duyve <Namelick, op Iesum. Siet Ioan. 1.32, 33.> op hem neder dalen.",
+      "final_text": "$Mt. 3:16; Lc. 3:21; Joh. 1:32$ En meteen toen hij uit het water omhoogkwam, zag <Namelijk Johannes de Doper.> hij de hemelen <Grieks: gescheurd, of: gekloven.> opengaan, en de geest als een duif <Namelijk op Jezus. Zie Joh. 1:32, 33.> op hem neerdalen.",
+      "source_text": "καὶ εὐθέως ἀναβαίνων ἀπὸ τοῦ ὕδατος, εἶδε σχιζομένους τοὺς οὐρανούς, καὶ τὸ Πνεῦμα ὡσεὶ περιστερὰν καταβαῖνον ἐπ’ αὐτόν·"
+    },
+    {
+      "verse_number": 11,
+      "original_text": "Ende daer geschiedde eene stemme uyt de hemelen, $Psalm 2.7. Iesa. 42.1. Matth. 3.17. ende 17.5. Marc. 9.7. Luce 3.22. ende 9.35. Coloss. cap. 1. vers 13 2.Petr. 1.17.$ Ghy zijt mijn geliefde Soon, in den welcken ick mijn welbehagen hebbe.",
+      "final_text": "En er klonk een stem uit de hemelen: $Ps. 2:7; Jes. 42:1; Mt. 3:17; 17:5; Mk. 9:7; Lc. 3:22; 9:35; Kol. 1:13; 2 Pt. 1:17$ U bent mijn geliefde Zoon, in Wie ik mijn welbehagen heb.",
+      "source_text": "καὶ φωνὴ ἐγένετο ἐκ τῶν οὐρανῶν, Σὺ εἶ ὁ Υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα."
+    },
+    {
+      "verse_number": 12,
+      "original_text": "$Matth. 4.1. Luce 4.1.$ Ende terstont dreef hem de <Namel. den H. Geest. siet Luce 4.1.> Geest uyt in de woestijne.",
+      "final_text": "$Mt. 4:1; Lc. 4:1$ En meteen dreef de <Namelijk de H. Geest. Zie Lc. 4:1.> Geest hem de woestijn in.",
+      "source_text": "Καὶ εὐθὺς τὸ Πνεῦμα αὐτὸν ἐκβάλλει εἰς τὴν ἔρημον."
+    },
+    {
+      "verse_number": 13,
+      "original_text": "Ende hy was aldaer in de woestijne veertigh dagen, <Voornamelick na dat hy veertigh dagen ende nachten gevast hadde. Siet Matth. 4.2.> versocht van den satan: ende was by de wilde gedierten, ende de Engelen dienden hem.",
+      "final_text": "En hij was daar in de woestijn veertig dagen, <Voornamelijk nadat hij veertig dagen en nachten gevast had. Zie Mt. 4:2.> verzocht door de satan; en hij was bij de wilde dieren, en de engelen dienden hem.",
+      "source_text": "καὶ ἦν ἐκεῖ ἐν τῇ ἐρήμῳ ἡμέρας τεσσαράκοντα πειραζόμενος ὑπὸ τοῦ Σατανᾶ, καὶ ἦν μετὰ τῶν θηρίων, καὶ οἱ ἄγγελοι διηκόνουν αὐτῷ."
+    },
+    {
+      "verse_number": 14,
+      "original_text": "$Matth. 4.12. Luce 4.14. Ioan. 4.43.$ Ende na dat Ioannis <Namel. in de gevangenisse. Waer van siet breeder Matth. 14.3.> overgelevert was, quam Iesus in Galileen, <Hoewel hy te voren al hadde begonnen te prediken, Ioan. 3.24. soo heeft hy na Ioannis gevangenisse sijn predick-ampt solemnelick ende volkomelick met sijne Apostelen aengevangen.> predikende het Euangelium des Koninckrijcks Godts:",
+      "final_text": "$Mt. 4:12; Lc. 4:14; Joh. 4:43$ En nadat Johannes <Namelijk in de gevangenis. Zie hierover uitgebreider Mt. 14:3.> overgeleverd was, kwam Jezus naar Galilea, <Hoewel hij tevoren al was begonnen te prediken, Joh. 3:24, zo heeft hij na Johannes' gevangenschap zijn predikambt plechtig en volkomen met zijn apostelen begonnen.> en predikte het Evangelie van het Koninkrijk van God:",
+      "source_text": "Μετὰ δὲ τὸ παραδοθῆναι τὸν Ἰωάννην, ἦλθεν ὁ Ἰησοῦς εἰς τὴν Γαλιλαίαν, κηρύσσων τὸ εὐαγγέλιον τῆς βασιλείας τοῦ Θεοῦ,"
+    },
+    {
+      "verse_number": 15,
+      "original_text": "Ende seggende, De <Namel. die van Godt bestemt, ende van de Propheten voorseght was, Galat. 4.4.> tijt is vervult, ende ’t Koninckrijck Godts na by gekomen: $Iesai. 56.1.$ Bekeert u, ende gelooft den Euangelio.",
+      "final_text": "En hij zei: De <Namelijk die door God bestemd, en door de profeten voorzegd was, Gal. 4:4.> tijd is vervuld, en het Koninkrijk van God is nabijgekomen. $Jes. 56:1$ Bekeer u, en geloof het Evangelie.",
+      "source_text": "καὶ λέγων ὅτι Πεπλήρωται ὁ καιρός, καὶ ἤγγικεν ἡ βασιλεία τοῦ Θεοῦ· μετανοεῖτε, καὶ πιστεύετε ἐν τῷ εὐαγγελίῳ."
+    },
+    {
+      "verse_number": 16,
+      "original_text": "$Matth. 4.18.$ Ende wandelende by de Galileesche zee, sagh hy <Die van Christo toegenaemt wiert Petrus, siet Matth. 4.18.> Simonem ende Andream sij-nen broeder, werpende het net in de zee (want sy waren visschers)",
+      "final_text": "$Mt. 4:18$ En toen hij langs de zee van Galilea liep, zag hij <Die door Christus Petrus genoemd werd, zie Mt. 4:18.> Simon en Andreas, zijn broer, terwijl zij het net in de zee wierpen (want zij waren vissers).",
+      "source_text": "Περιπατῶν δὲ παρὰ τὴν θάλασσαν τῆς Γαλιλαίας εἶδε Σίμωνα καὶ Ἀνδρέαν τὸν ἀδελφὸν αὐτοῦ, βάλλοντας ἀμφίβληστρον ἐν τῇ θαλάσσῃ ἦσαν γὰρ ἁλιεῖς."
+    },
+    {
+      "verse_number": 17,
+      "original_text": "Ende Iesus seyde tot haer, Volght my na, ende ick sal maken dat ghy <De predicatie des Euangeliums wort by het visschen vergeleken, Matth. cap. 13. vers 47. dewijle de menschen daer door uyt de werelt getrocken, ende Christo toegebracht worden.> visschers $Ierem. 16.16. Ezech. 47.10.$ der menschen sult worden.",
+      "final_text": "En Jezus zei tegen hen: 'Volg mij, en ik zal u <De prediking van het Evangelie wordt met het vissen vergeleken, Mt. 13:47, omdat de mensen daardoor uit de wereld getrokken en tot Christus gebracht worden.> vissers $Jr. 16:16; Ez. 47:10$ van mensen maken.'",
+      "source_text": "καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς, Δεῦτε ὀπίσω μου, καὶ ποιήσω ὑμᾶς γενέσθαι ἁλιεῖς ἀνθρώπων."
+    },
+    {
+      "verse_number": 18,
+      "original_text": "$Matth. 19.27. Marc. 10.28. Luce 5.11. ende 18.28.$ Ende sy terstont hare netten verlatende zijn hem gevolght.",
+      "final_text": "$Mt. 19:27; Mk. 10:28; Lc. 5:11; 18:28$ En zij verlieten meteen hun netten en volgden hem.",
+      "source_text": "καὶ εὐθέως ἀφέντες τὰ δίκτυα αὐτῶν, ἠκολούθησαν αὐτῷ."
+    },
+    {
+      "verse_number": 19,
+      "original_text": "$Matth. 4.21.$ Ende van daer een weynigh voort gegaen zijnde, sagh hy Iacobum den [sone] Zebedei, ende Ioannem sijnen broeder, ende deselve in ’t schip hare netten vermakende.",
+      "final_text": "$Mt. 4:21$ En toen hij vandaar iets verder gegaan was, zag hij Jakobus, de [zoon] van Zebedeüs, en Johannes, zijn broer, terwijl zij in het schip hun netten aan het herstellen waren.",
+      "source_text": "καὶ προβὰς ἐκεῖθεν ὀλίγον, εἶδεν Ἰάκωβον τὸν τοῦ Ζεβεδαίου, καὶ Ἰωάννην τὸν ἀδελφὸν αὐτοῦ, καὶ αὐτοὺς ἐν τῷ πλοίῳ καταρτίζοντας τὰ δίκτυα."
+    },
+    {
+      "verse_number": 20,
+      "original_text": "Ende terstont riep hyse, ende sy latende haren vader Zebedeum in het schip, met de huerlingen, zijn hem na gevolght.",
+      "final_text": "En meteen riep hij hen; en zij lieten hun vader Zebedeüs achter in het schip, met de dagloners, en volgden hem.",
+      "source_text": "καὶ εὐθέως ἐκάλεσεν αὐτούς· καὶ ἀφέντες τὸν πατέρα αὐτῶν Ζεβεδαῖον ἐν τῷ πλοίῳ μετὰ τῶν μισθωτῶν ἀπῆλθον ὀπίσω αὐτοῦ."
+    },
+    {
+      "verse_number": 21,
+      "original_text": "$Matth. 4.13. Luce 4.31.$ Ende sy quamen binnen <Daer hy was komen woonen, na dat hy van Nazareth gescheyden was, Matth. 4.13.> Capernaum: ende terstont op den <Gr. Sabbathen.> Sabbathdagh in de Synagoge gegaen zijnde, leerde hy.",
+      "final_text": "$Mt. 4:13; Lc. 4:31$ En zij kwamen in <Waar hij was komen wonen, nadat hij uit Nazaret vertrokken was, Mt. 4:13.> Kafarnaüm; en meteen op de <Grieks: sabbatten.> Sabbatdag ging hij de Synagoge binnen en gaf onderwijs.",
+      "source_text": "Καὶ εἰσπορεύονται εἰς Καπερναούμ· καὶ εὐθέως τοῖς σάββασιν εἰσελθὼν εἰς τὴν συναγωγήν, ἐδίδασκε."
+    },
+    {
+      "verse_number": 22,
+      "original_text": "$Matth. 7.28. Luce 4.32.$ Ende sy versloegen haer over sijne leere: want hy leerde haer als <Siet Matth. 7. vers 29.> macht hebbende, ende niet als de Schriftgeleerde.",
+      "final_text": "$Mt. 7:28; Lc. 4:32$ En zij stonden versteld van zijn leer, want hij onderwees hen als iemand met <Zie Mt. 7:29.> gezag, en niet zoals de Schriftgeleerden.",
+      "source_text": "καὶ ἐξεπλήσσοντο ἐπὶ τῇ διδαχῇ αὐτοῦ· ἦν γὰρ διδάσκων αὐτοὺς ὡς ἐξουσίαν ἔχων, καὶ οὐχ ὡς οἱ γραμματεῖς."
+    },
+    {
+      "verse_number": 23,
+      "original_text": "$Luce 4.33.$ Ende daer was in hare Synagoge een mensche met eenen onreynen geest, ende hy riep uyt,",
+      "final_text": "$Lc. 4:33$ En er was in hun Synagoge een man met een onreine geest, en hij riep uit:",
+      "source_text": "καὶ ἦν ἐν τῇ συναγωγῇ αὐτῶν ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ, καὶ ἀνέκραξε,"
+    },
+    {
+      "verse_number": 24,
+      "original_text": "Seggende, <Of, Ey, Ach.> Laet af, wat hebben wy met u [te doen] ghy Iesu Nazarener? Zijt ghy gekomen om ons te <Nam. voor den tijt. siet Matth. 8. vers 29.> verderven? Ick kenne u, wie ghy zijt, <Of, ghy Heylige Godts, D. de ware Messias, want de Hoogepriester droegh desen tijtel de heyligheyt des Heeren aen sijn voorhooft als een voorbeelt Christi. siet Exod. 28.36. Siet oock Luce 4.34.> [namelick] de Heylige Godts.",
+      "final_text": "En hij zei: <Of: Ei! Ach!> Ga weg, wat hebben wij met u [te maken], Jezus van Nazaret? Bent u gekomen om ons te <Namelijk: voor de tijd. Zie Mt. 8:29.> vernietigen? Ik weet wie u bent, <Of: u Heilige van God, Dat is, de ware Messias, want de hogepriester droeg deze titel, de heiligheid van de HEERE, op zijn voorhoofd als een voorbeeld van Christus. Zie Ex. 28:36. Zie ook Lc. 4:34.> [namelijk] de Heilige van God.",
+      "source_text": "λέγων, Ἔα, τί ἡμῖν καὶ σοί, Ἰησοῦ Ναζαρηνέ; ἦλθες ἀπολέσαι ἡμᾶς; οἶδά σε τίς εἶ, ὁ ἅγιος τοῦ Θεοῦ."
+    },
+    {
+      "verse_number": 25,
+      "original_text": "Ende Iesus bestrafte hem, seggende, <Gr. wort gemuylbant. Siet van dit woort Matth. 22. vers 12. Dit seght Christus om dat hy door het getuygenisse des duyvels, die een vader der leugenen is, de waerheyt niet en wil verbreyt ofte bevestight hebben: gelijck oock Paulus doet Actor. 16.18.> Swijght stil, ende gaet uyt van hem.",
+      "final_text": "En Jezus bestrafte hem en zei: <Grieks: word gemuilband. Zie over dit woord Mt. 22:12. Dit zegt Christus omdat hij door het getuigenis van de duivel, die een vader van de leugens is, de waarheid niet wil laten verbreiden of bevestigen; zoals ook Paulus doet, Hnd. 16:18.> Zwijg, en ga uit hem weg.",
+      "source_text": "καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς, λέγων, Φιμώθητι, καὶ ἔξελθε ἐξ αὐτοῦ."
+    },
+    {
+      "verse_number": 26,
+      "original_text": "Ende de onreyne geest hem <D. herwaerts ende derwaerts treckende ende werpende, als of hy hem wilde verscheuren, sonder hem nochtans te konnen quetsen. siet Luce 4.35.> scheurende, ende roepende met een groote stemme, gingh uyt van hem.",
+      "final_text": "En toen de onreine geest hem <Dat is, heen en weer trekkende en werpende, alsof hij hem wilde verscheuren, zonder hem echter te kunnen kwetsen. Zie Lc. 4:35.> heen en weer geschud en met luide stem geroepen had, ging hij uit hem weg.",
+      "source_text": "καὶ σπαράξαν αὐτὸν τὸ πνεῦμα τὸ ἀκάθαρτον καὶ κράξαν φωνῇ μεγάλῃ, ἐξῆλθεν ἐξ αὐτοῦ."
+    },
+    {
+      "verse_number": 27,
+      "original_text": "Ende sy wierden alle verbaest, soo dat sy onder malkanderen vraeghden, seggende, Wat is dit? Wat nieuwe leere is dese, dat hy met macht oock den onreynen geesten gebiedt, ende sy hem gehoorsaem zijn?",
+      "final_text": "En zij waren allen verbaasd, zodat zij elkaar vroegen en zeiden: Wat is dit? Wat voor nieuwe leer is dit, dat hij met macht ook de onreine geesten gebiedt, en zij hem gehoorzamen?",
+      "source_text": "καὶ ἐθαμβήθησαν πάντες, ὥστε συζητεῖν πρὸς αὐτούς, λέγοντας, Τί ἐστι τοῦτο; τίς ἡ διδαχὴ ἡ καινὴ αὕτη, ὅτι κατ’ ἐξουσίαν καὶ τοῖς πνεύμασι τοῖς ἀκαθάρτοις ἐπιτάσσει, καὶ ὑπακούουσιν αὐτῷ;"
+    },
+    {
+      "verse_number": 28,
+      "original_text": "Ende <D. het geruchte van hem.> sijn geruchte gingh terstont uyt in’t geheel omliggende lant van Galilea.",
+      "final_text": "En <Dat is, het gerucht over hem.> het gerucht over hem verspreidde zich meteen in de hele omgeving van Galilea.",
+      "source_text": "ἐξῆλθε δὲ ἡ ἀκοὴ αὐτοῦ εὐθὺς εἰς ὅλην τὴν περίχωρον τῆς Γαλιλαίας."
+    },
+    {
+      "verse_number": 29,
+      "original_text": "$Matth. 8.14. Luce 4.38.$ Ende van stonden aen uyt de Synagoge gegaen zijnde, quamen sy in ’t huys Simonis ende Andree met Iacobo ende Ioanne.",
+      "final_text": "$Mt. 8:14; Lc. 4:38$ En toen zij meteen uit de synagoge gegaan waren, kwamen zij in het huis van Simon en Andreas, met Jakobus en Johannes.",
+      "source_text": "Καὶ εὐθέως ἐκ τῆς συναγωγῆς ἐξελθόντες, ἦλθον εἰς τὴν οἰκίαν Σίμωνος καὶ Ἀνδρέου, μετὰ Ἰακώβου καὶ Ἰωάννου."
+    },
+    {
+      "verse_number": 30,
+      "original_text": "Ende Simons <Soo heeft dan Petrus een huysvrouwe gehadt, dewelcke hy Apostel geworden zijnde niet en heeft verlaten, gelijck hier blijckt, ende 1.Corinth. 9.5.> wijfs moeder lagh met de kortse: ende terstont seyden sy hem van haer.",
+      "final_text": "En de <Zo heeft dan Petrus een vrouw gehad, die hij, toen hij Apostel geworden was, niet heeft verlaten, zoals hier blijkt, en 1 Ko. 9:5.> schoonmoeder van Simon lag met koorts; en meteen vertelden zij hem over haar.",
+      "source_text": "ἡ δὲ πενθερὰ Σίμωνος κατέκειτο πυρέσσουσα, καὶ εὐθέως λέγουσιν αὐτῷ περὶ αὐτῆς·"
+    },
+    {
+      "verse_number": 31,
+      "original_text": "Ende hy tot haer gaende vattede hare hant, ende rechtedese op, ende terstont verliet haer de kortse, ende sy diende haerlieden.",
+      "final_text": "En toen hij naar haar toe ging, nam hij haar hand en richtte haar op. En meteen verliet de koorts haar, en zij diende hen.",
+      "source_text": "καὶ προσελθὼν ἤγειρεν αὐτήν, κρατήσας τῆς χειρὸς αὐτῆς· καὶ ἀφῆκεν αὐτὴν ὁ πυρετὸς εὐθέως, καὶ διηκόνει αὐτοῖς."
+    },
+    {
+      "verse_number": 32,
+      "original_text": "$Matth. 8.16. Luce 4.40.$ Als het nu avont geworden was, doe de <Om dattet op eenen Sabbath was, gelijck blijckt uyt vers 21. daerom sy wachten tot den ondergangh der sonne, met welcke de Sabbath eyndighde.> sonne onder gingh, brachten sy tot hem alle die qualick gestelt, ende van den duyvel beseten waren.",
+      "final_text": "$Mt. 8:16; Lc. 4:40$ Toen het nu avond geworden was en de <Omdat het op een Sabbat was, zoals blijkt uit vers 21; daarom wachtten zij tot de ondergang van de zon, waarmee de Sabbat eindigde.> zon onderging, brachten zij tot hem allen die ernstig ziek waren, en die door de duivel bezeten waren.",
+      "source_text": "Ὀψίας δὲ γενομένης, ὅτε ἔδυ ὁ ἥλιος, ἔφερον πρὸς αὐτὸν πάντας τοὺς κακῶς ἔχοντας καὶ τοὺς δαιμονιζομένους·"
+    },
+    {
+      "verse_number": 33,
+      "original_text": "Ende de geheele stadt was by een vergadert ontrent de deure.",
+      "final_text": "En de hele stad was bij de deur verzameld.",
+      "source_text": "καὶ ἡ πόλις ὅλη ἐπισυνηγμένη ἦν πρὸς τὴν θύραν."
+    },
+    {
+      "verse_number": 34,
+      "original_text": "Ende hy genas’er vele, die door verscheyden sieckten qualick gestelt waren: ende wierp vele duyvelen uyt, ende en <Of, liet haer niet seggen dat sy hem kenden, Namel. om dat hy van dese leugenachtige geesten geen getuygenisse hebben en wilde.> liet de duyvelen niet toe te spreken, om dat sy hem kenden.",
+      "final_text": "En hij genas er velen die aan allerlei ziekten leden; en wierp vele duivelen uit, en <Of: liet hen niet zeggen dat zij hem kenden. Namelijk: omdat hij van deze leugenachtige geesten geen getuigenis wilde hebben.> stond de duivelen niet toe te spreken, omdat zij hem kenden.",
+      "source_text": "καὶ ἐθεράπευσε πολλοὺς κακῶς ἔχοντας ποικίλαις νόσοις, καὶ δαιμόνια πολλὰ ἐξέβαλε, καὶ οὐκ ἤφιε λαλεῖν τὰ δαιμόνια, ὅτι ᾔδεισαν αὐτόν."
+    },
+    {
+      "verse_number": 35,
+      "original_text": "$Luce 4.42.$ Ende ’s morgens vroegh, als het noch diep in den nacht was, opgestaen zijnde gingh hy uyt, ende gingh henen in een <Ofte, eensame plaetse.> woeste plaetse, $Matth. 14.23.$ ende badt aldaer.",
+      "final_text": "$Lc. 4:42$ En 's morgens vroeg, toen het nog diep in de nacht was, stond hij op, ging naar buiten, en vertrok naar een <Of: eenzame plaats.> woeste plaats, $Mt. 14:23$ en bad daar.",
+      "source_text": "Καὶ πρωῒ ἔννυχον λίαν ἀναστὰς ἐξῆλθε, καὶ ἀπῆλθεν εἰς ἔρημον τόπον, κἀκεῖ προσηύχετο."
+    },
+    {
+      "verse_number": 36,
+      "original_text": "Ende Simon, ende <Namel. de andere drie Apostelen, die genaemt worden vers 29. met noch vele uyt den volcke, als blijckt Luce 4.42.> die met hem [waren,] zijn hem na gevolght.",
+      "final_text": "En Simon, en <Namelijk: de andere drie apostelen, die genoemd worden in vers 29, met nog velen uit het volk, zoals blijkt uit Lc. 4:42.> zij die met hem [waren,] gingen hem achterna.",
+      "source_text": "καὶ κατεδίωξαν αὐτὸν ὁ Σίμων καὶ οἱ μετ’ αὐτοῦ·"
+    },
+    {
+      "verse_number": 37,
+      "original_text": "Ende sy hem gevonden hebbende seyden tot hem, Sy soecken u alle.",
+      "final_text": "En toen zij hem gevonden hadden, zeiden zij tegen hem: Iedereen zoekt u.",
+      "source_text": "καὶ εὑρόντες αὐτὸν λέγουσιν αὐτῷ ὅτι Πάντες ζητοῦσί σε."
+    },
+    {
+      "verse_number": 38,
+      "original_text": "Ende hy seyde tot haer, $Luce 4.42.$ Laet ons in de byliggende <Gr. dorpsteden, D. opene onbemuerde steden, hoedanige vele in Galilea waren, waer van Iosephus getuyght dat in elcke van deselve niet min als tien duysent menschen waren.> vlecken gaen, op dat ick oock daer predike, $Iesa. 61.1. Luce 4.18.$ want daer toe ben ick uytgegaen.",
+      "final_text": "En hij zei tegen hen: $Lc. 4:42$ Laten wij naar de omliggende <Grieks: dorpsteden, Dat is, open onbemuurde steden, zoals er vele in Galilea waren, waarvan Josephus getuigt dat in elk van deze niet minder dan tienduizend mensen waren.> dorpen gaan, om ook daar te prediken; $Jes. 61:1; Lc. 4:18$ want daartoe ben ik uitgegaan.",
+      "source_text": "καὶ λέγει αὐτοῖς, Ἄγωμεν εἰς τὰς ἐχομένας κωμοπόλεις, ἵνα κἀκεῖ κηρύξω· εἰς τοῦτο γὰρ ἐξελήλυθα."
+    },
+    {
+      "verse_number": 39,
+      "original_text": "Ende hy predickte in hare Synagogen, door geheel Galileen, ende wierp de duyvelen uyt.",
+      "final_text": "En hij predikte in hun synagogen, door heel Galilea, en dreef de demonen uit.",
+      "source_text": "καὶ ἦν κηρύσσων ἐν ταῖς συναγωγαῖς αὐτῶν εἰς ὅλην τὴν Γαλιλαίαν, καὶ τὰ δαιμόνια ἐκβάλλων."
+    },
+    {
+      "verse_number": 40,
+      "original_text": "$Matth. 8.2. Luce 5.12.$ Ende tot hem quam een melaetsche, biddende hem, ende vallende voor hem op de knijen, ende tot hem seggende, Indien ghy wilt, ghy kondt my reynigen.",
+      "final_text": "$Mt. 8:2; Lc. 5:12$ En er kwam een melaatse naar hem toe, die hem smeekte en voor hem op de knieën viel, en tegen hem zei: Als u wilt, kunt u mij reinigen.",
+      "source_text": "Καὶ ἔρχεται πρὸς αὐτὸν λεπρός, παρακαλῶν αὐτὸν καὶ γονυπετῶν αὐτόν, καὶ λέγων αὐτῷ ὅτι Ἐὰν θέλῃς, δύνασαί με καθαρίσαι."
+    },
+    {
+      "verse_number": 41,
+      "original_text": "Ende Iesus met barmhertigheyt innerlick beweeght zijnde streckte de hant uyt, ende raeckte hem aen, ende seyde tot hem, Ick wil, wort gereynight.",
+      "final_text": "En Jezus, innerlijk met barmhartigheid bewogen, strekte zijn hand uit, en raakte hem aan, en zei tegen hem: Ik wil het, word gereinigd.",
+      "source_text": "ὁ δὲ Ἰησοῦς σπλαγχνισθείς, ἐκτείνας τὴν χεῖρα, ἥψατο αὐτοῦ, καὶ λέγει αὐτῷ, Θέλω, καθαρίσθητι."
+    },
+    {
+      "verse_number": 42,
+      "original_text": "Ende als hy [dit] geseght hadde, gingh de melaetsheyt terstont van hem, ende hy wiert gereynight.",
+      "final_text": "En toen hij [dit] gezegd had, week de melaatsheid meteen van hem, en hij werd gereinigd.",
+      "source_text": "καὶ εἰπόντος αὐτοῦ εὐθέως ἀπῆλθεν ἀπ’ αὐτοῦ ἡ λέπρα, καὶ ἐκαθαρίσθη."
+    },
+    {
+      "verse_number": 43,
+      "original_text": "Ende als hy hem <Of, met dreygementen scherpelick verboden, namelick sulcks te openbaren.> strengelick verboden hadde, <Gr. dreef hem uyt, D. dede hem haestelick van hem wech gaen.> dede hy hem terstont van hem gaen.",
+      "final_text": "En toen hij hem <Of: met dreigementen scherp verboden, namelijk dit te openbaren.> streng verboden had, <Grieks: dreef hem uit, Dat is, deed hem haastig van hem weggaan.> stuurde hij hem meteen weg.",
+      "source_text": "καὶ ἐμβριμησάμενος αὐτῷ, εὐθέως ἐξέβαλεν αὐτόν,"
+    },
+    {
+      "verse_number": 44,
+      "original_text": "Ende seyde tot hem, <Siet de oorsake hier van Matth. 12. vers 16.> Siet, dat ghy niemant yet en segget: maer gaet henen ende vertoont u selven den Priester, ende offert voor uwe reyniginge het gene $Levit. 13.2. ende 14.1.$ Moses geboden heeft, haer tot een getuygenisse.",
+      "final_text": "En zei tegen hem: <Zie de oorzaak hiervan Mt. 12:16.> Zie erop toe dat u tegen niemand iets zegt; maar ga heen en laat uzelf aan de priester zien, en offer voor uw reiniging wat <$Lv. 13:2; 14:1$> Mozes geboden heeft, tot een getuigenis voor hen.",
+      "source_text": "καὶ λέγει αὐτοῖς, Ὅρα, μηδενὶ μηδὲν εἴπῃς· ἀλλ’ ὕπαγε, σεαυτὸν δεῖξον τῷ ἱερεῖ, καὶ προσένεγκε περὶ τοῦ καθαρισμοῦ σου ἃ προσέταξε Μωσῆς, εἰς μαρτύριον αὐτοῖς."
+    },
+    {
+      "verse_number": 45,
+      "original_text": "Maer hy uytgegaen zijnde begon <Namelick, wat hem geschiet was, ende wat hy van Christo gehoort ende gesien hadde.> vele dingen te verkondigen, ende <D. dese sake.> dat woort te verbreyden: alsoo dat <Namel. Iesus. siet Luce 5.15, 16.> hy niet meer en konde openbaerlick <Namel. Capernaum, gelijck blijckt uyt het beginsel van het volgende Capittel, namelick om den grooten toeloop des volcks.> in de stadt komen, maer was buyten in de woeste plaetsen, ende sy quamen tot hem van alle kanten.",
+      "final_text": "Maar toen hij naar buiten gegaan was, begon hij <Namelijk wat hem gebeurd was, en wat hij van Christus gehoord en gezien had.> vele dingen te verkondigen, en <Dat is, deze zaak.> dat bericht te verbreiden, zodat <Namelijk Jezus. Zie Lc. 5:15, 16.> hij niet meer openlijk <Namelijk Kapernaüm, zoals blijkt uit het begin van het volgende hoofdstuk, namelijk vanwege de grote toeloop van het volk.> in de stad kon komen; maar hij was buiten in de afgelegen plaatsen, en zij kwamen van alle kanten naar hem toe.",
+      "source_text": "ὁ δὲ ἐξελθὼν ἤρξατο κηρύσσειν πολλὰ καὶ διαφημίζειν τὸν λόγον, ὥστε μηκέτι αὐτὸν δύνασθαι φανερῶς εἰς πόλιν εἰσελθεῖν, ἀλλ’ ἔξω ἐν ἐρήμοις τόποις ἦν· καὶ ἤρχοντο πρὸς αὐτὸν πανταχόθεν."
+    }
+  ],
+  "epilogue": {
+    "original": "",
+    "final": ""
+  }
+}

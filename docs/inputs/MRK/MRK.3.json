@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "book": "Markus",
+    "book_code": "MARC",
+    "chapter": 3,
+    "translation_policy": "Statenvertaling 1657 → Hedendaags Nederlands (redactie)",
+    "source_language": "Grieks (Textus Receptus)",
+    "notes": "Redactie voltooid door de virtuele editor, met de nadruk op trouw aan de brontekst."
+  },
+  "introduction": {
+    "original": "1 Christus geneest een mensche die een verdorde hant hadde, ende bewijst dat den Sabbath daer mede niet en wort ontheylight. 6 De Pharizeen ende Herodianen houden tegen hem raet, welcker lagen hy ontwijckt, ende heeft eenen grooten toeloop des volcks van alle kanten, onder welcke hy vele geneest, gebiedende de duyvelen, die hy uytwerpt, hem niet openbaer te maken. 13 Verkiest twaelf Apostelen. 16 Welcker namen verhaelt worden. 21 Sijne magen houden hem voor uytsinnigh. 22 De Schriftgeleerde lasteren sijne wonderwercken, dat hy die door Beelzebul soude doen: welcke lasteringe hy met verscheyden gelijckenissen wederleght. 28 Leert dat de lasteringe tegen den Heyligen Geest nimmermeer en wort vergeven. 31 ende verklaert wie sijn moeder, broeder, ende suster is.",
+    "final": "1 Christus geneest een mens die een verdorde hand had, en bewijst dat de sabbat daarmee niet wordt ontheiligd. 6 De Farizeeën en Herodianen houden raad tegen hem, van wie hij de listen ontwijkt, en hij heeft een grote toeloop van het volk van alle kanten, onder wie hij velen geneest, en hij gebiedt de duivelen, die hij uitwerpt, hem niet openbaar te maken. 13 Hij verkiest twaalf apostelen. 16 Waarvan de namen genoemd worden. 21 Zijn verwanten houden hem voor buiten zinnen. 22 De schriftgeleerden lasteren zijn wonderwerken, dat hij die door Beëlzebul zou doen; welke lastering hij met verscheidene gelijkenissen weerlegt. 28 Hij leert dat de lastering tegen de Heilige Geest nooit meer wordt vergeven. 31 En verklaart wie zijn moeder, broeder en zuster zijn."
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "original_text": "$Matth. 12.9. Luce 6.6.$ ENde hy gingh wederom in de <Want de Ioden op alle Sabbathen in hare Synagogen vergaderden om de wet te hooren verklaren. Siet Actor. 15.21.> Synagoge, ende aldaer was een mensche hebbende een verdorrede <Luce 6.6. blijckt dattet sijn rechterhant was.> hant.",
+      "final_text": "$Mt. 12:9; Lc. 6:6$ En hij ging weer de <Want de Joden vergaderden op alle sabbatten in hun synagogen om de wet te horen verklaren. Zie Hand. 15:21.> synagoge in, en daar was een mens die een verdorde <Uit Lc. 6:6 blijkt dat het zijn rechterhand was.> hand had.",
+      "source_text": "Καὶ εἰσῆλθε πάλιν εἰς τὴν συναγωγήν, καὶ ἦν ἐκεῖ ἄνθρωπος ἐξηραμμένην ἔχων τὴν χεῖρα."
+    },
+    {
+      "verse_number": 2,
+      "original_text": "Ende <Namelick, de Schriftgeleerde ende Pharizeen, Luce 6. vers 7.> sy namen hem waer, of hy op den <Gr. Sabbathen.> Sabbath hem genesen soude, op dat sy hem beschuldigen mochten.",
+      "final_text": "En <Namelijk de schriftgeleerden en Farizeeën, Lc. 6:7.> zij hielden hem in de gaten, of hij hem op de <Grieks: sabbatten.> sabbat genezen zou, opdat zij hem konden beschuldigen.",
+      "source_text": "καὶ παρετήρουν αὐτὸν εἰ τοῖς σάββασι θεραπεύσει αὐτόν, ἵνα κατηγορήσωσιν αὐτοῦ."
+    },
+    {
+      "verse_number": 3,
+      "original_text": "Ende hy seyde tot den mensche, die de verdorrede hant hadde, Staet op in ’t midden.",
+      "final_text": "En hij zei tegen de man die de verdorde hand had: Ga in het midden staan.",
+      "source_text": "καὶ λέγει τῷ ἀνθρώπῳ τῷ ἐξηραμμένην ἔχοντι τὴν χεῖρα, Ἔγειραι εἰς τὸ μέσον."
+    },
+    {
+      "verse_number": 4,
+      "original_text": "Ende hy seyde tot haer, Is het geoorloft op Sabbathdagen goet te doen, ofte quaet te doen? <Gr. een ziele, het welck oock somtijts voor het leven, somtijts voor den geheelen mensch genomen wort.> een mensche te behouden, ofte te dooden? Ende sy swegen stille.",
+      "final_text": "En hij zei tegen hen: Is het geoorloofd op sabbatdagen goed te doen, of kwaad te doen? <Grieks: een ziel, wat ook soms voor het leven, soms voor de gehele mens gebruikt wordt.> Een mens te redden, of te doden? En zij zwegen.",
+      "source_text": "καὶ λέγει αὐτοῖς, Ἔξεστι τοῖς σάββασιν ἀγαθοποιῆσαι, ἢ κακοποιῆσαι; ψυχὴν σῶσαι, ἢ ἀποκτεῖναι; οἱ δὲ ἐσιώπων."
+    },
+    {
+      "verse_number": 5,
+      "original_text": "Ende als hyse <Dese toorne is geweest een yverige beweginge des gemoedts tegen de sonde, ende verhardinge deses volcks: welcke in haer selven goet is, blijvende binnen de behoorlicke palen, Eph. 4.26.> met toorne rontom aengesien hadde, met eenen bedroeft zijnde over de <Het Griecksch woort beteeckent eygentlick, sulck een hardigheyt, als aen handen ende voeten komt, door weer ofte eelt, waer doorse hardt ende ongevoeligh worden.> verhardinge van haer herte, seyde hy tot den mensche, Streckt uwe hant uyt. Ende hy strecktese uyt, $1.Reg. 13.6.$ ende sijne hant wiert herstelt, gesont gelijck de andere.",
+      "final_text": "En toen hij hen <Deze toorn is een ijverige beweging van het gemoed tegen de zonde en verharding van dit volk geweest; die in zichzelf goed is, als deze binnen de behoorlijke perken blijft, Ef. 4:26.> met toorn de kring rond aangekeken had, terwijl hij tegelijk bedroefd was over de <Het Griekse woord betekent eigenlijk zulk een hardheid als aan handen en voeten komt, door het weer of eelt, waardoor ze hard en ongevoelig worden.> verharding van hun hart, zei hij tegen de man: Strek uw hand uit. En hij strekte die uit, $1Kn. 13:6$ en zijn hand werd hersteld, gezond zoals de andere.",
+      "source_text": "καὶ περιβλεψάμενος αὐτοὺς μετ’ ὀργῆς, συλλυπούμενος ἐπὶ τῇ πωρώσει τῆς καρδίας αὐτῶν, λέγει τῷ ἀνθρώπῳ, Ἔκτεινον τὴν χεῖρά σου. καὶ ἐξέτεινε, καὶ ἀποκατεστάθη ἡ χεὶρ αὐτοῦ ὑγιὴς ὡς ἡ ἄλλη."
+    },
+    {
+      "verse_number": 6,
+      "original_text": "$Matth. 12.14. Ioan. 10.39. ende 11.53.$ Ende de Pharizeen uytgegaen zijnde, hebben terstont met den <Van de Herodianen, siet Matth. 22. vers 16.> Herodianen t’samen raet gehouden tegen hem, hoe sy hem souden dooden.",
+      "final_text": "$Mt. 12:14; Joh. 10:39; 11:53$ En toen de Farizeeën naar buiten waren gegaan, hielden zij meteen met de <Van de Herodianen, zie Mt. 22:16.> Herodianen raad tegen hem, hoe zij hem zouden doden.",
+      "source_text": "καὶ ἐξελθόντες οἱ Φαρισαῖοι εὐθέως μετὰ τῶν Ἡρωδιανῶν συμβούλιον ἐποίουν κατ’ αὐτοῦ, ὅπως αὐτὸν ἀπολέσωσι."
+    },
+    {
+      "verse_number": 7,
+      "original_text": "Ende Iesus <Namel. om hare lagen te ontgaen, Matth. 12.15.> vertrock met sijne discipelen na de zee, $Matth. 4.25. Luce 6.17.$ ende hem volghde een groote menighte van Galilea, ende van Iudea.",
+      "final_text": "En Jezus <Namelijk om hun valstrikken te ontgaan, Mt. 12:15.> vertrok met zijn discipelen naar de zee, $Mt. 4:25; Lc. 6:17$ en een grote menigte uit Galilea en uit Judea volgde hem.",
+      "source_text": "Καὶ ὁ Ἰησοῦς ἀνεχώρησε μετὰ τῶν μαθητῶν αὐτοῦ πρὸς τὴν θάλασσαν· καὶ πολὺ πλῆθος ἀπὸ τῆς Γαλιλαίας ἠκολούθησαν αὐτῷ, καὶ ἀπὸ τῆς Ἰουδαίας,"
+    },
+    {
+      "verse_number": 8,
+      "original_text": "Ende van Ierusalem, ende van <Daer de nakomelingen van Esau, ofte de Edomiten woonden, Num. 20. vers 14.> Idumea, ende [van] over den Iordaen: ende die [van] ontrent <Van dese twee steden siet Matt. 11. vers 21.> Tyrus ende Sidon, <Of, met groote menighte, ofte makende te samen een groote menighte.> een groote menighte, gehoort hebbende hoe groote dingen hy dede, quamen tot hem.",
+      "final_text": "En uit Jeruzalem, en uit <Waar de nakomelingen van Esau, of de Edomieten woonden, Nu. 20:14.> Idumea, en [van] over de Jordaan; en zij [van] rondom <Van deze twee steden zie Mt. 11:21.> Tyrus en Sidon, <Of: met een grote menigte, of: vormende tezamen een grote menigte.> een grote menigte, kwamen naar hem toe, toen zij hoorden welke grote dingen hij deed.",
+      "source_text": "καὶ ἀπὸ Ἱεροσολύμων, καὶ ἀπὸ τῆς Ἰδουμαίας, καὶ πέραν τοῦ Ἰορδάνου, καὶ οἱ περὶ Τύρον καὶ Σιδῶνα, πλῆθος πολύ, ἀκούσαντες ὅσα ἐποίει, ἦλθον πρὸς αὐτόν."
+    },
+    {
+      "verse_number": 9,
+      "original_text": "Ende hy <D. beval, gelijck Matth. 8.8.> seyde tot sijne discipelen, dat een schipken stedes ontrent hem blijven soude, om der scharen wille, op dat sy hem niet en souden verdringen.",
+      "final_text": "En hij <Dat is: beval, zoals Mt. 8:8.> zei tegen zijn discipelen dat er steeds een scheepje bij hem gereed moest blijven, vanwege de menigte, opdat zij hem niet zouden verdringen.",
+      "source_text": "καὶ εἶπε τοῖς μαθηταῖς αὐτοῦ ἵνα πλοιάριον προσκαρτερῇ αὐτῷ διὰ τὸν ὄχλον, ἵνα μὴ θλίβωσιν αὐτόν."
+    },
+    {
+      "verse_number": 10,
+      "original_text": "Want hy hadder vele genesen, alsoo dat hem alle de gene die [eenige] <Gr. geessels, met welck woort de sieckten ende gebreken der menschen genaemt worden, om dat Godt door deselve de menschen straft ofte tuchtight, Marc. cap. 5. vers 29. Hebr. 12.6.> qualen hadden, overvielen: op dat sy hem mochten aenraken.",
+      "final_text": "Want hij had er velen genezen, zodat allen die [enige] <Grieks: gesels, met welk woord de ziekten en gebreken van de mensen genoemd worden, omdat God door deze de mensen straft of tuchtigt, Mc. 5:29; Heb. 12:6.> kwalen hadden, op hem aandrongen, opdat zij hem mochten aanraken.",
+      "source_text": "πολλοὺς γὰρ ἐθεράπευσεν, ὥστε ἐπιπίπτειν αὐτῷ, ἵνα αὐτοῦ ἅψωνται, ὅσοι εἶχον μάστιγας."
+    },
+    {
+      "verse_number": 11,
+      "original_text": "Ende de onreyne geesten als sy hem sagen, <Namelick, in de menschen die sy beseten hadden.> vielen voor hem neder ende riepen, seggende, Ghy zijt de Sone Godts.",
+      "final_text": "En de onreine geesten, telkens als zij hem zagen <Namelijk in de mensen die zij bezeten hadden.>, vielen voor hem neer en riepen: U bent de Zoon van God.",
+      "source_text": "καὶ τὰ πνεύματα τὰ ἀκάθαρτα, ὅταν αὐτὸν ἐθεώρει, προσέπιπτεν αὐτῷ, καὶ ἔκραζε, λέγοντα ὅτι Σὺ εἶ ὁ Υἱὸς τοῦ Θεοῦ."
+    },
+    {
+      "verse_number": 12,
+      "original_text": "Ende hy <De reden hier van siet te voren Cap. 1. vers 25.> geboodt haer scherpelick, dat sy hem niet en souden openbaer maken.",
+      "final_text": "En hij <De reden hiervan: zie eerder Mc. 1:25.> gebood hun streng dat zij hem niet bekend zouden maken.",
+      "source_text": "καὶ πολλὰ ἐπετίμα αὐτοῖς ἵνα μὴ αὐτὸν φανερὸν ποιήσωσι."
+    },
+    {
+      "verse_number": 13,
+      "original_text": "$Matth. 10.1. Marc. 6.7. Luce 6.13. ende 9.1.$ Ende hy <Namel. om te bidden, ende daer na sijne Apostelen te kiesen.> klam op den bergh, ende riep tot hem die hy wilde, ende sy quamen tot hem.",
+      "final_text": "$Mt. 10:1; Mc. 6:7; Lc. 6:13; 9:1$ En hij <Namelijk om te bidden, en daarna zijn apostelen te kiezen.> klom de berg op, en riep tot zich wie hij wilde, en zij kwamen naar hem toe.",
+      "source_text": "Καὶ ἀναβαίνει εἰς τὸ ὄρος, καὶ προσκαλεῖται οὓς ἤθελεν αὐτός· καὶ ἀπῆλθον πρὸς αὐτόν."
+    },
+    {
+      "verse_number": 14,
+      "original_text": "Ende hy <Gr. maeckte, namelick tot sijne Apostelen, Luce 6.13.> stelder twaelve, op datse met hem souden zijn, ende op dat hy deselve soude uytsenden om te prediken:",
+      "final_text": "En hij <Grieks: maakte, namelijk tot zijn apostelen, Lc. 6:13.> stelde er twaalf aan, opdat zij bij hem zouden zijn, en opdat hij hen zou uitzenden om te prediken:",
+      "source_text": "καὶ ἐποίησε δώδεκα, ἵνα ὦσι μετ’ αὐτοῦ, καὶ ἵνα ἀποστέλλῃ αὐτοὺς κηρύσσειν"
+    },
+    {
+      "verse_number": 15,
+      "original_text": "Ende om macht te hebben, de sieckten te genesen, ende de duyvelen uyt te werpen.",
+      "final_text": "En om macht te hebben ziekten te genezen en duivelen uit te drijven.",
+      "source_text": "καὶ ἔχειν ἐξουσίαν θεραπεύειν τὰς νόσους, καὶ ἐκβάλλειν τὰ δαιμόνια·"
+    },
+    {
+      "verse_number": 16,
+      "original_text": "Ende <Sommige hebben, namelick, Simon, dien hy den toenaem gaf van Petrus.> Simoni gaf hy den [toe-]naem <Dat is, steen, Ioan. 1.43. De reden hier van wort verklaert Matth. 16. vers 18.> Petrus.",
+      "final_text": "En <Sommige hebben: namelijk Simon, die hij de toenaam Petrus gaf.> aan Simon gaf hij de [toe]naam <Dat is, steen, Jh. 1:43. De reden hiervan wordt verklaard Mt. 16:18.> Petrus.",
+      "source_text": "καὶ ἐπέθηκε τῷ Σίμωνι ὄνομα Πέτρον·"
+    },
+    {
+      "verse_number": 17,
+      "original_text": "Ende Iacobum den [sone] Zebedei, ende Ioannem den broeder Iacobi, ende gaf haer [toe]namen <Dit is een gebroken Hebreeusch ofte Syrisch woort, beteeckenende, gelijck hier verklaert wort, sonen des donders: ende wort haer desen name gegeven van wegen haren bysonderen yver ende doordringende kracht in ’t prediken, gelijck men noch sien kan in de schriften Ioannis.> Boanerges, het welck is, sonen des donders.",
+      "final_text": "En Jakobus, de [zoon] van Zebedeüs, en Johannes, de broer van Jakobus; en hij gaf hun [toe]namen <Dit is een gebroken Hebreeuws of Syrisch woord, dat betekent, zoals hier verklaard wordt: zonen van de donder; en deze naam wordt hun gegeven vanwege hun bijzondere ijver en doordringende kracht in het prediken, zoals men nog zien kan in de geschriften van Johannes.> Boanerges, dat is: zonen van de donder.",
+      "source_text": "καὶ Ἰάκωβον τὸν τοῦ Ζεβεδαίου, καὶ Ἰωάννην τὸν ἀδελφὸν τοῦ Ἰακώβου· καὶ ἐπέθηκεν αὐτοῖς ὀνόματα Βοανεργές, ὅ ἐστιν, Υἱοὶ βροντῆς·"
+    },
+    {
+      "verse_number": 18,
+      "original_text": "Ende Andream ende Philippum, ende Bartholomeum, ende Mattheum, ende Thomam, ende Iacobum, den [sone] Alphei, ende <Anders genaemt Lebbeus. siet Matth. 10.3.> Thaddeum, ende Simonem <Siet Matth. 10. vers 4. gelijck oock van de andere.> Cananiten:",
+      "final_text": "En Andreas, en Filippus, en Bartolomeüs, en Matteüs, en Tomas, en Jakobus, de [zoon] van Alfeüs, en <Anders genoemd Lebbeüs. Zie Mt. 10:3.> Taddeüs, en Simon <Zie Mt. 10:4, zoals ook bij de anderen.> Kananeüs:",
+      "source_text": "καὶ Ἀνδρέαν, καὶ Φίλιππον, καὶ Βαρθολομαῖον, καὶ Ματθαῖον, καὶ Θωμᾶν, καὶ Ἰάκωβον τὸν τοῦ Ἀλφαίου, καὶ Θαδδαῖον, καὶ Σίμωνα τὸν Κανανίτην,"
+    },
+    {
+      "verse_number": 19,
+      "original_text": "Ende Iudam Iscarioth, die hem oock verraden heeft.",
+      "final_text": "En Judas Iskariot, die hem ook verraden heeft.",
+      "source_text": "καὶ Ἰούδαν Ἰσκαριώτην, ὃς καὶ παρέδωκεν αὐτόν."
+    },
+    {
+      "verse_number": 20,
+      "original_text": "Ende sy quamen <Namel. te Capernaum, daer hy woonde, Matth. 4. vers 13. om voortaen hem te volgen, ende hem ten dienste te staen.> in huys, ende daer vergaderde wederom een schare, alsoo dat sy oock selfs $Marc. 6.31.$ niet en konden <D. hare spijse ofte nootdruft op sijnen tijt nemen.> broot eten.",
+      "final_text": "En zij kwamen <Namelijk te Kapernaüm, waar hij woonde, Mt. 4:13, om hem voortaan te volgen en hem van dienst te zijn.> thuis, en daar verzamelde zich weer een menigte, zodat zij zelfs $Mk. 6:31$ geen <Dat is, hun voedsel of levensbehoeften op zijn tijd nemen.> brood konden eten.",
+      "source_text": "Καὶ ἔρχονται εἰς οἶκον· καὶ συνέρχεται πάλιν ὄχλος, ὥστε μὴ δύνασθαι αὐτοὺς μήτε ἄρτον φαγεῖν."
+    },
+    {
+      "verse_number": 21,
+      "original_text": "Ende als de gene <Gr. die van hem, of, van de sijne waren. Want oock vele van sijne bloetverwanten in hem niet en geloofden, Ioan. 7.5.> die hem bestonden, [dit] hoorden, gingen sy uyt om hem vast te houden, want sy seyden, Hy is <Gr. buyten hemselven gestelt.> buyten sijne sinnen.",
+      "final_text": "En toen zijn verwanten <Grieks: die van hem, of: van de zijnen waren. Want ook velen van zijn bloedverwanten geloofden niet in hem, Joh. 7:5.> [dit] hoorden, gingen zij op weg om hem vast te grijpen, want zij zeiden: Hij is <Grieks: buiten zichzelf gesteld.> buiten zinnen.",
+      "source_text": "καὶ ἀκούσαντες οἱ παρ’ αὐτοῦ ἐξῆλθον κρατῆσαι αὐτόν· ἔλεγον γὰρ ὅτι Ἐξέστη."
+    },
+    {
+      "verse_number": 22,
+      "original_text": "Ende <Siet hier van Matth. cap. 10. vers 25.> de Schriftgeleerde, die van Ierusalem afgekomen waren, seyden, $Matth. 9.34. ende 12.24. Luce 11.15. Ioan. 8.48.$ Hy heeft Beelzebul, ende door den Oversten der duyvelen werpt hy de duyvelen uyt.",
+      "final_text": "En <Zie hiervan Mt. 10:25> de schriftgeleerden, die uit Jeruzalem gekomen waren, zeiden: $Mt. 9:34; 12:24; Lc. 11:15; Joh. 8:48$ Hij heeft Beëlzebul, en door de aanvoerder van de duivelen drijft hij de duivelen uit.",
+      "source_text": "καὶ οἱ γραμματεῖς οἱ ἀπὸ Ἱεροσολύμων καταβάντες ἔλεγον ὅτι Βεελζεβοὺλ ἔχει, καὶ ὅτι Ἐν τῷ ἄρχοντι τῶν δαιμονίων ἐκβάλλει τὰ δαιμόνια."
+    },
+    {
+      "verse_number": 23,
+      "original_text": "Ende haer tot hem geroepen hebbende, $Matth. 12.25.$ seyde hy tot haer in gelijckenissen, Hoe kan de satan den satan uytwerpen?",
+      "final_text": "En nadat hij hen bij zich geroepen had, $Mt. 12:25$ zei hij in gelijkenissen tegen hen: Hoe kan de satan de satan uitdrijven?",
+      "source_text": "καὶ προσκαλεσάμενος αὐτούς, ἐν παραβολαῖς ἔλεγεν αὐτοῖς, Πῶς δύναται Σατανᾶς Σατανᾶν ἐκβάλλειν;"
+    },
+    {
+      "verse_number": 24,
+      "original_text": "Ende indien een Koninckrijck tegen hemselven verdeelt is, soo en kan dat Koninckrijck niet bestaen.",
+      "final_text": "En als een koninkrijk tegen zichzelf verdeeld is, dan kan dat koninkrijk niet standhouden.",
+      "source_text": "καὶ ἐὰν βασιλεία ἐφ’ ἑαυτὴν μερισθῇ, οὐ δύναται σταθῆναι ἡ βασιλεία ἐκείνη."
+    },
+    {
+      "verse_number": 25,
+      "original_text": "Ende indien een huys tegen hemselven verdeelt is, soo en kan dat huys niet bestaen.",
+      "final_text": "En als een huis tegen zichzelf verdeeld is, dan kan dat huis niet standhouden.",
+      "source_text": "καὶ ἐὰν οἰκία ἐφ’ ἑαυτὴν μερισθῇ, οὐ δύναται σταθῆναι ἡ οἰκία ἐκείνη."
+    },
+    {
+      "verse_number": 26,
+      "original_text": "Ende indien de satan tegen hemselven opstaet, ende verdeelt is, soo en kan hy niet bestaen, maer <D. het is met hem ende met sijn Rijck gedaen.> heeft een eynde.",
+      "final_text": "En als de satan tegen zichzelf opstaat en verdeeld is, dan kan hij niet standhouden, maar komt hij aan zijn einde. <Dat is, het is met hem en met zijn rijk gedaan.>",
+      "source_text": "καὶ εἰ ὁ Σατανᾶς ἀνέστη ἐφ’ ἑαυτὸν καὶ μεμέρισται, οὐ δύναται σταθῆναι, ἀλλὰ τέλος ἔχει."
+    },
+    {
+      "verse_number": 27,
+      "original_text": "$Matth. 12.29.$ Daer en kan niemant in <Siet de verklaringe Matth. c. 12. vers 29.> eens stercken huys ingaen ende sijne vaten ontrooven, $Coloss. 2.15.$ indien hy niet eerst den stercken binde: ende alsdan sal hy sijn huys berooven.",
+      "final_text": "$Mt. 12:29$ Niemand kan <Zie de verklaring bij Mt. 12:29.> het huis van een sterke binnengaan en zijn huisraad roven, $Kol. 2:15$ tenzij hij eerst de sterke bindt; en dan zal hij zijn huis beroven.",
+      "source_text": "οὐ δύναται οὐδεὶς τὰ σκεύη τοῦ ἰσχυροῦ, εἰσελθὼν εἰς τὴν οἰκίαν αὐτοῦ, διαρπάσαι, ἐὰν μὴ πρῶτον τὸν ἰσχυρὸν δήσῃ, καὶ τότε τὴν οἰκίαν αὐτοῦ διαρπάσει."
+    },
+    {
+      "verse_number": 28,
+      "original_text": "Voorwaer ick segge u, $1.Sam. 2.25. Matth. 12.31. Luce 12.10. 1.Ioan. 5.16.$ dat alle de sonden <Dat is, den menschen. Een maniere van spreken by de Hebreen seer gebruyckelick.> den kinderen der menschen sullen vergeven worden, ende allerley lasteringen daer mede sy sullen gelastert hebben:",
+      "final_text": "Voorwaar, ik zeg u, $1Sm. 2:25; Mt. 12:31; Lc. 12:10; 1Jh. 5:16$ dat alle zonden <Dat is, de mensen. Een manier van spreken die bij de Hebreeën zeer gebruikelijk is.> aan de kinderen van de mensen vergeven zullen worden, en allerlei lasteringen waarmee zij gelasterd hebben:",
+      "source_text": "ἀμὴν λέγω ὑμῖν, ὅτι πάντα ἀφεθήσεται τὰ ἁμαρτήματα τοῖς υἱοῖς τῶν ἀνθρώπων, καὶ βλασφημίαι ὅσας ἂν βλασφημήσωσιν·"
+    },
+    {
+      "verse_number": 29,
+      "original_text": "$1.Ioan. 5.16.$ Maer soo wie gelastert sal hebben <Van dese lasteringe tegen den Heyligen Geest, siet Matth. 12.31.> tegen den Heyligen Geest, die en heeft geen vergevinge in der eeuwigheyt, maer hy is schuldigh des eeuwigen <D. verdoemenisse, die hy niet alleen verdient heeft, maer oock sekerlick sal onderworpen zijn.> oordeels.",
+      "final_text": "$1Jh. 5:16$ Maar wie gelasterd heeft <Over deze lastering tegen de Heilige Geest, zie Mt. 12:31.> tegen de Heilige Geest, die heeft geen vergeving tot in eeuwigheid, maar hij is schuldig aan het eeuwige <Dat is, verdoemenis, die hij niet alleen verdiend heeft, maar ook zeker onderworpen zal zijn.> oordeel.",
+      "source_text": "ὃς δ’ ἂν βλασφημήσῃ εἰς τὸ Πνεῦμα τὸ Ἅγιον, οὐκ ἔχει ἄφεσιν εἰς τὸν αἰῶνα, ἀλλ’ ἔνοχός ἐστιν αἰωνίου κρίσεως."
+    },
+    {
+      "verse_number": 30,
+      "original_text": "Want sy seyden, Hy heeft eenen onreynen geest.",
+      "final_text": "Want zij zeiden: Hij heeft een onreine geest.",
+      "source_text": "ὅτι ἔλεγον, Πνεῦμα ἀκάθαρτον ἔχει."
+    },
+    {
+      "verse_number": 31,
+      "original_text": "$Matth. 12.46. Luce 8.19.$ Soo quamen dan sijne <D. bloetverwanten. Siet in d’aent. Matth. 12. vers 46. ende 13.55.> broeders ende sijne moeder: ende buyten staende sonden sy tot hem, ende riepen hem.",
+      "final_text": "$Mt. 12:46; Lc. 8:19$ Toen kwamen zijn <Dat is, bloedverwanten. Zie in de aantekeningen bij Mt. 12:46 en 13:55.> broers en zijn moeder; en terwijl zij buiten stonden, stuurden zij iemand naar hem toe en riepen hem.",
+      "source_text": "Ἔρχονται οὖν οἱ ἀδελφοὶ καὶ ἡ μήτηρ αὐτοῦ, καὶ ἔξω ἑστῶτες ἀπέστειλαν πρὸς αὐτόν, φωνοῦντες αὐτόν."
+    },
+    {
+      "verse_number": 32,
+      "original_text": "Ende de schare sat rontom hem: ende sy seyden tot hem, Siet, uwe moeder ende uwe broeders daer buyten soecken u.",
+      "final_text": "En de menigte zat rondom hem; en zij zeiden tegen hem: Zie, uw moeder en uw broers daarbuiten zoeken u.",
+      "source_text": "καὶ ἐκάθητο ὄχλος περὶ αὐτόν· εἶπον δὲ αὐτῷ, Ἰδού, ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου ἔξω ζητοῦσί σε."
+    },
+    {
+      "verse_number": 33,
+      "original_text": "Ende hy antwoordde haer, seggende, <Christus en wil hier mede sijn moeder niet verachten, maer toonen dat het geestelick maeghschap in saken der saligheyt gestelt moet worden voor ’t vleeschelick.> Wie is mijne moeder, ofte mijne broeders?",
+      "final_text": "En hij antwoordde hun en zei: <Christus wil hiermee zijn moeder niet geringschatten, maar tonen dat de geestelijke verwantschap in zaken van de zaligheid gesteld moet worden boven de lichamelijke.> Wie is mijn moeder, of wie zijn mijn broers?",
+      "source_text": "καὶ ἀπεκρίθη αὐτοῖς λέγων, Τίς ἐστιν ἡ μήτηρ μου ἢ οἱ ἀδελφοί μου;"
+    },
+    {
+      "verse_number": 34,
+      "original_text": "Ende rontom oversien hebbende die om hem saten, seyde hy, Siet mijne moeder, ende mijne broeders.",
+      "final_text": "En toen hij rondgekeken had naar hen die om hem heen zaten, zei hij: Zie, mijn moeder en mijn broers.",
+      "source_text": "καὶ περιβλεψάμενος κύκλῳ τοὺς περὶ αὐτὸν καθημένους, λέγει, Ἴδε ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου."
+    },
+    {
+      "verse_number": 35,
+      "original_text": "$Ioan. 15.14. 2.Cor. 5.16, 17.$ Want soo wie <Den wille Godts doen, is in 1.Thess. 4.3.> den wille Godts doet, die is mijn broeder, ende mijne suster, ende moeder.",
+      "final_text": "$Joh. 15:14; 2Ko. 5:16-17$ Want wie <De wil van God doen, is in 1Ts. 4:3.> de wil van God doet, die is mijn broer, en mijn zuster, en moeder.",
+      "source_text": "ὃς γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ Θεοῦ, οὗτος ἀδελφός μου καὶ ἀδελφή μου καὶ μήτηρ ἐστί."
+    }
+  ],
+  "epilogue": {
+    "original": "",
+    "final": ""
+  }
+}

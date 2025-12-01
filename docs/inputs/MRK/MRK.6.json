@@ -1,0 +1,356 @@
+{
+  "metadata": {
+    "book": "Markus",
+    "book_code": "MARC",
+    "chapter": 6,
+    "translation_policy": "Statenvertaling 1657 → Hedendaags Nederlands (redactie)",
+    "source_language": "Grieks (Textus Receptus)",
+    "notes": "Redactie voltooid door de virtuele editor, met de nadruk op trouw aan de brontekst."
+  },
+  "introduction": {
+    "original": "1 Christus leert in sijn vaderlant, alwaer hy veracht wort. 7 Sendt sijne Apostelen uyt om te prediken, ende mirakelen te doen. 14 Verscheyden gevoelen van Christo, soo der Ioden, als Herodis, die hem houdt voor Ioannis den Dooper. 17 wiens gevangenisse, onthoofdinge, ende begraeffenisse by die gelegentheyt verhaelt wort. 30 De Apostelen komen weder tot Christum, die met haer vertreckt in een woeste plaetse. 33 Waer hem een groote schare volght, van ontrent vijf duysent mannen, welke hy spijsight met vijf brooden ende twee visschen. 45 Doet sijne discipelen wech varen, ende bidt ondertusschen op den bergh. 48 Komt daer na des nachts tot haer, wandelende op de zee, ende stilt den wint. 54 Ende aen lant gekomen zijnde geneest allerley sieckten.",
+    "final": "1 Christus leert in zijn vaderstad, waar hij veracht wordt. 7 Zendt zijn apostelen uit om te prediken, en wonderen te doen. 14 Verschillende meningen over Christus, zowel van de Joden, als van Herodes, die hem voor Johannes de Doper houdt. 17 Zijn gevangenis, onthoofding en begrafenis wordt bij die gelegenheid verteld. 30 De apostelen komen weer bij Christus, die met hen vertrekt naar een woeste plaats. 33 Waar hem een grote menigte volgt, van ongeveer vijfduizend mannen, die hij voedt met vijf broden en twee vissen. 45 Laat zijn discipelen wegvaren, en bidt ondertussen op de berg. 48 Komt daarna 's nachts naar hen toe, wandelend op de zee, en stilt de wind. 54 En toen zij aan land gekomen waren, geneest hij allerlei ziekten."
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "original_text": "$Matth. 13.53. Luce 4.16.$ ENde hy gingh van daer wech, ende quam in sijn <Namel. tot Nazareth, ’t welck sijn vaderlant genoemt wort, om dat hy daer opgevoedt was, ende met sijne ouders lange gewoont hadde. siet Matth. 13.54. ende Luce 4.16.> vaderlant, ende sijne discipelen volghden hem.",
+      "final_text": "$Mt. 13:53; Lc. 4:16$ En hij vertrok daarvandaan, en kwam in zijn <Namelijk Nazareth, dat zijn vaderstad genoemd wordt, omdat hij daar opgevoed was, en lang met zijn ouders gewoond had. Zie Mt. 13:54; Lc. 4:16.> vaderstad, en zijn discipelen volgden hem.",
+      "source_text": "Καὶ ἐξῆλθεν ἐκεῖθεν, καὶ ἦλθεν εἰς τὴν πατρίδα αὐτοῦ· καὶ ἀκολουθοῦσιν αὐτῷ οἱ μαθηταὶ αὐτοῦ."
+    },
+    {
+      "verse_number": 2,
+      "original_text": "Ende als het Sabbath geworden was, begon hy in de Synagoge te leeren, ende vele die [hem] hoorden <Gr. wierden verslagen.> ontsetteden haer, seggende, Van waer [komen] desen dese dingen? ende wat wijsheyt is dit die hem gegeven is, dat oock sulcke <D. mirakelen ofte wonderteeckenen. siet Matth. 7.22.> krachten <D. door hem: een Hebreeusche maniere van spreken.> door sijne handen geschieden?",
+      "final_text": "En toen het sabbat geworden was, begon hij in de synagoge te leren, en velen die [hem] hoorden <Grieks: werden verslagen.> stonden versteld en zeiden: Hoe komt deze man aan deze dingen? En wat voor wijsheid is dit die hem gegeven is, dat er ook zulke <Dat is, mirakelen of wondertekenen. Zie Mt. 7:22.> krachten <Dat is, door hem: een Hebreeuwse manier van spreken.> door zijn handen gedaan worden?",
+      "source_text": "καὶ γενομένου σαββάτου, ἤρξατο ἐν τῇ συναγωγῇ διδάσκειν· καὶ πολλοὶ ἀκούοντες ἐξεπλήσσοντο, λέγοντες, Πόθεν τούτῳ ταῦτα; καὶ τίς ἡ σοφία ἡ δοθεῖσα αὐτῷ, ὅτι καὶ δυνάμεις τοιαῦται διὰ τῶν χειρῶν αὐτοῦ γίνονται;"
+    },
+    {
+      "verse_number": 3,
+      "original_text": "$Ioan. 6.42.$ En is dese niet de <Dewijle Ioseph een timmerman was, Matth. 13.55. soo is ’t waerschijnelick dat Christus hem in dit hantwerck geholpen heeft, tot dat hy sijn leer-ampt heeft aengevangen: het welck oock een deel sijner vernederinge geweest is, Luce 2. vers 51.> timmerman, de sone Marie, ende de <D. neve, siet de aent. Matth. 13.55.> broeder Iacobi ende Iose, ende Iude ende Simonis? ende en zijn sijne susters niet hier by ons? Ende sy wierden aen hem ge-ergert.",
+      "final_text": "$Joh. 6:42$ Is dit niet de <Terwijl Jozef een timmerman was, Mt. 13:55, zo is het waarschijnlijk dat Christus hem in dit handwerk geholpen heeft, totdat hij met zijn leraarsambt begonnen is: wat ook een deel van zijn vernedering geweest is, Lc. 2:51.> timmerman, de zoon van Maria, en de <Dat is, neef, zie de aantekening bij Mt. 13:55.> broer van Jakobus en Joses, en van Judas en Simon? En zijn zijn zusters niet hier bij ons? En zij namen aanstoot aan hem.",
+      "source_text": "οὐχ οὗτός ἐστιν ὁ τέκτων, ὁ Υἱὸς Μαρίας, ἀδελφὸς δὲ Ἰακώβου καὶ Ἰωσῆ καὶ Ἰούδα καὶ Σίμωνος; καὶ οὐκ εἰσὶν αἱ ἀδελφαὶ αὐτοῦ ὧδε πρὸς ἡμᾶς; καὶ ἐσκανδαλίζοντο ἐν αὐτῷ."
+    },
+    {
+      "verse_number": 4,
+      "original_text": "Ende Iesus seyde tot haer, $Matth. 13.57. Luce 4.24. Ioan. 4.44.$ Een Propheet en is niet onge-eert dan in sijn vaderlant, ende onder [sijne] magen, ende in sijn huys.",
+      "final_text": "En Jezus zei tegen hen: $Mt. 13:57; Lc. 4:24; Joh. 4:44$ Een profeet is niet ongeëerd, behalve in zijn vaderstad, en onder [zijn] verwanten, en in zijn huis.",
+      "source_text": "ἔλεγε δὲ αὐτοῖς ὁ Ἰησοῦς ὅτι Οὐκ ἔστι προφήτης ἄτιμος, εἰ μὴ ἐν τῇ πατρίδι αὐτοῦ, καὶ ἐν τοῖς συγγενέσι καὶ ἐν τῇ οἰκίᾳ αὐτοῦ."
+    },
+    {
+      "verse_number": 5,
+      "original_text": "$Matth. 13.58.$ Ende hy en <Hoe dit te verstaen is, siet d’aent. op Matth. 13.58.> konde aldaer geene kracht doen: dan hy leyde weynige siecken de handen op, ende genas’se.",
+      "final_text": "$Mt. 13:58$ En hij <Hoe dit te verstaan is, zie de aantekening op Mt. 13:58.> kon daar geen wonder doen; behalve dat hij enkele zieken de handen oplegde, en hen genas.",
+      "source_text": "καὶ οὐκ ἠδύνατο ἐκεῖ οὐδεμίαν δύναμιν ποιῆσαι, εἰ μὴ ὀλίγοις ἀρρώστοις ἐπιθεὶς τὰς χεῖρας, ἐθεράπευσε."
+    },
+    {
+      "verse_number": 6,
+      "original_text": "Ende hy verwonderde hem over haer ongeloove, $Matth. 9.35. Luce 13.22.$ ende omgingh de vlecken [daer] rontom, leerende.",
+      "final_text": "En hij verwonderde zich over hun ongeloof, $Mt. 9:35; Lc. 13:22$ en trok rond door de dorpen [daar] in de omgeving en gaf onderwijs.",
+      "source_text": "καὶ ἐθαύμαζε διὰ τὴν ἀπιστίαν αὐτῶν. Καὶ περιῆγε τὰς κώμας κύκλῳ διδάσκων."
+    },
+    {
+      "verse_number": 7,
+      "original_text": "$Matth. 10.1. Luce 6.13. ende 9.1.$ Ende hy riep tot hem <Namel. die hy tot sijne Apostelen hadde verkoren, Cap. 3. vers 13.> de twaelve, ende begon haer uyt te senden twee en twee, ende gaf haer macht <Namelick, om deselve te konnen uytdrijven uyt de besetene.> over de onreyne geesten.",
+      "final_text": "$Mt. 10:1; Lc. 6:13; 9:1$ En hij riep de twaalf bij zich <Namelijk: die hij tot zijn apostelen had verkozen, hst. 3:13.> en begon hen twee aan twee uit te zenden, en gaf hun macht <Namelijk: om die uit de bezetenen te kunnen uitdrijven.> over de onreine geesten.",
+      "source_text": "Καὶ προσκαλεῖται τοὺς δώδεκα, καὶ ἤρξατο αὐτοὺς ἀποστέλλειν δύο δύο, καὶ ἐδίδου αὐτοῖς ἐξουσίαν τῶν πνευμάτων τῶν ἀκαθάρτων."
+    },
+    {
+      "verse_number": 8,
+      "original_text": "Ende hy geboodt haer, dat sy niets en souden nemen tot den wegh, dan alleenlick <Namelick, om in ’t gaen op te steunen: maer geenen die u soude beswaren op den wegh, gelijck Matth. 10.10. te sien is.> eenen staf, geen male, geen broot, geen <Gr. koper, om dat eertijts het gelt van koper veel plach te wesen, ende kan daer door hier oock selfs de minste voorraet van geldt verstaen worden.> gelt in den gordel.",
+      "final_text": "En hij gebood hun dat zij niets voor onderweg zouden meenemen dan alleen <Namelijk: om tijdens het lopen op te steunen, maar geen die u zou bezwaren onderweg, zoals in Mt. 10:10 te zien is.> een staf: geen reistas, geen brood, geen <Grieks: koper, omdat vroeger het geld vaak van koper was, en daardoor kan hier ook zelfs de kleinste hoeveelheid geld bedoeld worden.> geld in de gordel.",
+      "source_text": "καὶ παρήγγειλεν αὐτοῖς ἵνα μηδὲν αἴρωσιν εἰς ὁδόν, εἰ μὴ ῥάβδον μόνον· μὴ πήραν, μὴ ἄρτον, μὴ εἰς τὴν ζώνην χαλκόν·"
+    },
+    {
+      "verse_number": 9,
+      "original_text": "$Actor. 12.8.$ Maer datse <Gr. Sandalia, welcke waren lichte schoenen, bestaende alleen uyt solen met banden, om aen de voeten vast te maken, welcke in die heete landen seer gebruyckelick waren, Actor. 12.8.> schoensolen souden <Namelick, niet meer als een paer om te reysen: want meer schoenen op den wegh mede te nemen wort haer oock verboden, Matth. 10.10.> aenbinden, ende met <D. geen meer als ghy sult aen hebben, sonder noch eenen rock mede te dragen tot veranderinge.> geen twee rocken gekleet zijn.",
+      "final_text": "$Hnd. 12:8$ Maar dat zij <Grieks: Sandalia, wat lichte schoenen waren, bestaande alleen uit zolen met banden om aan de voeten vast te maken, die in die hete landen zeer gebruikelijk waren, Hnd. 12:8.> sandalen zouden <Namelijk: niet meer dan één paar om te reizen, want meer schoenen voor onderweg meenemen wordt hun ook verboden, Mt. 10:10.> aanbinden, en niet <Dat is: niet meer dan u aan zult hebben, zonder nog een hemd mee te dragen ter verwisseling.> twee hemden zouden dragen.",
+      "source_text": "ἀλλ’ ὑποδεδεμένους σανδάλια· καὶ μὴ ἐνδύσασθαι δύο χιτῶνας."
+    },
+    {
+      "verse_number": 10,
+      "original_text": "Ende hy seyde tot haer, Soo waer ghy in een huys sult ingaen, blijft daer tot dat ghy van daer uyt gaet.",
+      "final_text": "En hij zei tegen hen: Waar u ook maar een huis binnengaat, blijf daar totdat u vandaar vertrekt.",
+      "source_text": "καὶ ἔλεγεν αὐτοῖς, Ὅπου ἐὰν εἰσέλθητε εἰς οἰκίαν, ἐκεῖ μένετε ἕως ἂν ἐξέλθητε ἐκεῖθεν."
+    },
+    {
+      "verse_number": 11,
+      "original_text": "$Matth. 10.14. Luce 9.5.$ Ende soo wie u niet en sullen ontfangen, noch u hooren, vertreckende van daer, $Actor. 13.51. ende 18.6.$ schudt <De reden hier van siet Matth. 10. vers 14.> het stof af, dat onder aen uwe voeten is, haer tot een getuygenisse. $Matth. 10.15. Luce 10.12.$ Voorwaer segge ick u, het sal Sodoma oft Gomorra verdraeghlicker zijn in den dagh des oordeels, dan deselve stadt.",
+      "final_text": "$Mt. 10:14; Lc. 9:5$ En wie u niet zullen ontvangen, noch naar u luisteren: als u daarvandaan vertrekt, $Hnd. 13:51; 18:6$ schud het stof af dat onder aan uw voeten is, <Zie voor de reden hiervan Mt. 10:14.> hun tot een getuigenis. $Mt. 10:15; Lc. 10:12$ Voorwaar, ik zeg u: het zal voor Sodom of Gomorra verdraaglijker zijn op de dag van het oordeel, dan voor die stad.",
+      "source_text": "καὶ ὅσοι ἂν μὴ δέξωνται ὑμᾶς, μηδὲ ἀκούσωσιν ὑμῶν, ἐκπορευόμενοι ἐκεῖθεν, ἐκτινάξατε τὸν χοῦν τὸν ὑποκάτω τῶν ποδῶν ὑμῶν εἰς μαρτύριον αὐτοῖς. ἀμὴν λέγω ὑμῖν, ἀνεκτότερον ἔσται Σοδόμοις ἢ Γομόρροις ἐν ἡμέρᾳ κρίσεως, ἢ τῇ πόλει ἐκείνῃ."
+    },
+    {
+      "verse_number": 12,
+      "original_text": "Ende uytgegaen zijnde predickten sy, dat sy haer souden bekeeren.",
+      "final_text": "En toen zij vertrokken waren, predikten zij dat zij zich zouden bekeren.",
+      "source_text": "καὶ ἐξελθόντες ἐκήρυσσον ἵνα μετανοήσωσι·"
+    },
+    {
+      "verse_number": 13,
+      "original_text": "Ende sy wierpen vele duyvelen uyt, $Iacob. 5.14.$ ende <Dese salvinge, gelijck oock de oplegginge der handen, aenraken, ende dergelijcke wijsen van doen, die Christus ende de Apostelen hebben gebruyckt, in het genesen der sieckten, en gaven de gesontheyt niet, maer waren uyterlicke teeckenen, dat dese mirakeleuse genesinge door de Godtlicke kracht Christi, ende den dienst der Apostelen geschiedde. Welcke teeckenen gebruyckt zijn, soo lange de gave der mirakeleuse genesinge heeft geduert. siet Marc. c. 16. vers 18. Iacob. 5.14. ende na dat deselve gave heeft opgehouden, soo hebben dese teeckenen, als nu nergens meer toe dienende, oock moeten ophouden.> salfden vele krancke met olie, ende maecktense gesont.",
+      "final_text": "En zij wierpen vele duivelen uit, $Jak. 5:14$ en <Deze zalving, zoals ook de oplegging van de handen, aanraking, en dergelijke handelwijzen die Christus en de apostelen hebben gebruikt bij het genezen van de ziekten, gaven de gezondheid niet, maar waren uiterlijke tekenen dat deze wonderbaarlijke genezing door de Goddelijke kracht van Christus en de dienst van de apostelen gebeurde. Deze tekenen zijn gebruikt zolang de gave van de wonderbaarlijke genezing heeft geduurd; zie Mk. 16:18; Jak. 5:14; en nadat diezelfde gave heeft opgehouden, zo hebben deze tekenen, als nu nergens meer toe dienende, ook moeten ophouden.> zalfden vele zieken met olie en genazen hen.",
+      "source_text": "καὶ δαιμόνια πολλὰ ἐξέβαλλον, καὶ ἤλειφον ἐλαίῳ πολλοὺς ἀρρώστους καὶ ἐθεράπευον."
+    },
+    {
+      "verse_number": 14,
+      "original_text": "$Matth. 14.1. Luce 9.7.$ Ende de Koningh <Siet van desen Herodes, ende van dese geheele historie, Matth. 14.1, etc.> Herodes hoorde het ( <Namel. de name Iesu.> want sijnen naem was openbaer geworden) ende seyde, Ioannis, die daer doopte, is van den dooden opgeweckt, ende daerom <D. nu komt hy met meerder kracht, als te voren: want Ioannes en hadde selve geen mirakelen gedaen, Ioan. 10.41.> wercken die krachten in hem.",
+      "final_text": "$Mt. 14:1; Lc. 9:7$ En koning <Zie over deze Herodes, en over deze hele geschiedenis, Mt. 14:1, enz.> Herodes hoorde het (<Namelijk de naam van Jezus.> want zijn naam was bekend geworden) en zei: Johannes, die doopte, is uit de doden opgewekt, en daarom <Dat is, nu komt hij met meer kracht dan tevoren, want Johannes had zelf geen wonderen gedaan, Joh. 10:41.> werken die krachten in hem.",
+      "source_text": "Καὶ ἤκουσεν ὁ βασιλεὺς Ἡρώδης φανερὸν γὰρ ἐγένετο τὸ ὄνομα αὐτοῦ, καὶ ἔλεγεν ὅτι Ἰωάννης ὁ βαπτίζων ἐκ νεκρῶν ἠγέρθη, καὶ διὰ τοῦτο ἐνεργοῦσιν αἱ δυνάμεις ἐν αὐτῷ."
+    },
+    {
+      "verse_number": 15,
+      "original_text": "Andere seyden, hy is Elias: ende andere seyden, hy is een Propheet, ofte als een <D. der oude afgestorvene Propheten.> der Propheten.",
+      "final_text": "Anderen zeiden: hij is Elia; en anderen zeiden: hij is een profeet, of als een <Dat is, van de oude gestorven profeten.> van de profeten.",
+      "source_text": "ἄλλοι ἔλεγον ὅτι Ἠλίας ἐστίν· ἄλλοι δὲ ἔλεγον ὅτι Προφήτης ἐστίν, ἢ ὡς εἷς τῶν προφητῶν."
+    },
+    {
+      "verse_number": 16,
+      "original_text": "Maer als het Herodes hoorde, seyde hy, Dese is Ioannes, dien ick onthooft hebbe: die is van de dooden opgeweckt.",
+      "final_text": "Maar toen Herodes dit hoorde, zei hij: Dit is Johannes, die ik onthoofd heb; die is uit de dood opgewekt.",
+      "source_text": "ἀκούσας δὲ ὁ Ἡρώδης εἶπεν ὅτι Ὃν ἐγὼ ἀπεκεφάλισα Ἰωάννην, οὗτός ἐστιν· αὐτὸς ἠγέρθη ἐκ νεκρῶν."
+    },
+    {
+      "verse_number": 17,
+      "original_text": "$Matth. 14.3. Luce 3.19. ende 9.9.$ Want deselve Herodes [eenige] uytgesonden hebbende, hadde Ioannem gevangen genomen, ende hem in de gevangenisse gebonden, uyt oorsake van Herodias de huysvrouwe sijns broeders Philippi, om dat hy haer getrouwt hadde.",
+      "final_text": "$Mt. 14:3; Lc. 3:19; 9:9$ Want Herodes had zelf [enkelen] uitgezonden, Johannes gevangengenomen en hem in de gevangenis geboeid, vanwege Herodias, de vrouw van zijn broer Filippus, omdat hij met haar getrouwd was.",
+      "source_text": "αὐτὸς γὰρ ὁ Ἡρώδης ἀποστείλας ἐκράτησε τὸν Ἰωάννην, καὶ ἔδησεν αὐτὸν ἐν τῇ φυλακῇ, διὰ Ἡρωδιάδα τὴν γυναῖκα Φιλίππου τοῦ ἀδελφοῦ αὐτοῦ, ὅτι αὐτὴν ἐγάμησεν."
+    },
+    {
+      "verse_number": 18,
+      "original_text": "Want Ioannes seyde tot Herodes, $Levit. cap. 18. ende 20, 21.$ Het en is u niet geoorloft de huysvrouwe uwes broeders te hebben.",
+      "final_text": "Want Johannes zei tegen Herodes: $Lv. 18; 20:21$ Het is u niet geoorloofd de vrouw van uw broer te hebben.",
+      "source_text": "ἔλεγε γὰρ ὁ Ἰωάννης τῷ Ἡρώδῃ ὅτι Οὐκ ἔξεστί σοι ἔχειν τὴν γυναῖκα τοῦ ἀδελφοῦ σου."
+    },
+    {
+      "verse_number": 19,
+      "original_text": "Ende Herodias leyde op hem toe, ende wilde hem dooden, ende en konde niet.",
+      "final_text": "En Herodias had het op hem gemunt en wilde hem doden, maar zij kon het niet.",
+      "source_text": "ἡ δὲ Ἡρωδιὰς ἐνεῖχεν αὐτῷ, καὶ ἤθελεν αὐτὸν ἀποκτεῖναι· καὶ οὐκ ἠδύνατο·"
+    },
+    {
+      "verse_number": 20,
+      "original_text": "Want Herodes vreesde Ioannem, wetende dat hy een $Matth. 14.5. ende 21.26.$ rechtveerdigh ende heyligh man was, ende <Ofte, bewaerde hem.> hielt hem in weerde: ende als hy hem hoorde, dede hy vele dingen, ende <Namel. in het eerste: want daer na opgemaeckt zijnde door Herodias socht hy hem te dooden, hoewel hy sulcks liet uyt vreese des volcks, tot dat dese gelegentheyt voor quam, Matth. 14.5.> hoorde hem geerne.",
+      "final_text": "Want Herodes vreesde Johannes, omdat hij wist dat hij een $Mt. 14:5; 21:26$ rechtvaardig en heilig man was, en <Of: bewaarde hem.> hield hem in ere. En wanneer hij hem hoorde, deed hij vele dingen, en <Namelijk in het begin; want nadat hij daarna door Herodias was opgehitst, zocht hij hem te doden, hoewel hij dit naliet uit vrees voor het volk, totdat deze gelegenheid zich voordeed, Mt. 14:5.> hoorde hem graag.",
+      "source_text": "ὁ γὰρ Ἡρώδης ἐφοβεῖτο τὸν Ἰωάννην, εἰδὼς αὐτὸν ἄνδρα δίκαιον καὶ ἅγιον, καὶ συνετήρει αὐτόν· καὶ ἀκούσας αὐτοῦ, πολλὰ ἐποίει, καὶ ἡδέως αὐτοῦ ἤκουε."
+    },
+    {
+      "verse_number": 21,
+      "original_text": "Ende als’er <D. bequame tijt: daer Herodias op toeleyde, om tot haer voornemen te komen.> een welgelegen dagh gekomen was, doe Herodes $Genes. 40.20. Matth. 14.6.$ op den dagh sijner geboorte een maeltijt aenrichtede voor sijne Groote, ende de Overste over duysent, ende de voornaemste van Galilea:",
+      "final_text": "En toen er <Dat is, geschikte tijd: waar Herodias op loerde, om tot haar voornemen te komen.> een geschikte dag gekomen was, richtte Herodes $Gn. 40:20; Mt. 14:6$ op zijn verjaardag een maaltijd aan voor zijn groten, en de oversten over duizend, en de voornaamsten van Galilea:",
+      "source_text": "καὶ γενομένης ἡμέρας εὐκαίρου, ὅτε Ἡρώδης τοῖς γενεσίοις αὐτοῦ δεῖπνον ἐποίει τοῖς μεγιστᾶσιν αὐτοῦ καὶ τοῖς χιλιάρχοις καὶ τοῖς πρώτοις τῆς Γαλιλαίας,"
+    },
+    {
+      "verse_number": 22,
+      "original_text": "Ende als de dochter van deselve Herodias <Namelick, in de zale, daer de maeltijt gehouden wiert: want het en was by den Ouden niet veel gebruyckelick, dat de vrouwen met de mans in groote maeltijden aensaten. Siet Esth. 1.11.> in quam, ende danste, ende Herodi ende den genen die mede aensaten behaeghde, soo seyde de Koningh tot het dochterken, Eyscht van my wat ghy oock wilt, ende ick sal ’t u geven.",
+      "final_text": "En toen de dochter van diezelfde Herodias <Namelijk, in de zaal, waar de maaltijd gehouden werd: want het was bij de ouden niet erg gebruikelijk, dat de vrouwen met de mannen bij grote maaltijden aanzaten. Zie Est. 1:11.> binnenkwam, en danste, en het Herodes en zijn tafelgenoten behaagde, zei de koning tegen het meisje: Vraag mij wat u ook wilt, en ik zal het u geven.",
+      "source_text": "καὶ εἰσελθοῦσα εὐθέως μετὰ σπουδῆς πρὸς τὸν βασιλέα, ᾐτήσατο, λέγουσα, Θέλω ἵνα μοι δῷς ἐξαυτῆς ἐπὶ πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ Βαπτιστοῦ."
+    },
+    {
+      "verse_number": 23,
+      "original_text": "$Iudic. 11.30.$ Ende hy swoer haer, Soo wat ghy van my sult eyschen sal ick u geven, [oock] tot de helft mijns Koninckrijcks.",
+      "final_text": "$Ri. 11:30$ En hij zwoer haar: Wat u ook van mij zult vragen, zal ik u geven, [ook] tot de helft van mijn koninkrijk.",
+      "source_text": "καὶ ὤμοσεν αὐτῇ ὅτι Ὃ ἐάν με αἰτήσῃς, δώσω σοί, ἕως ἡμίσους τῆς βασιλείας μου."
+    },
+    {
+      "verse_number": 24,
+      "original_text": "Ende sy uytgegaen zijnde seyde tot hare moeder, Wat sal ick eyschen? ende die seyde, Het hooft Ioannis des Doopers.",
+      "final_text": "En toen zij naar buiten ging, zei ze tegen haar moeder: Wat zal ik vragen? En zij zei: Het hoofd van Johannes de Doper.",
+      "source_text": "ἡ δὲ ἐξελθοῦσα εἶπε τῇ μητρὶ αὐτῆς, Τί αἰτήσομαι; ἡ δὲ εἶπε, Τὴν κεφαλὴν Ἰωάννου τοῦ Βαπτιστοῦ."
+    },
+    {
+      "verse_number": 25,
+      "original_text": "Ende sy terstont met haeste ingaende tot den Koningh, heeft’et ge-eyscht, seggende, Ick wil dat ghy my nu terstont in een schotel geeft het hooft Ioannis des Doopers.",
+      "final_text": "En toen zij meteen met spoed bij de koning binnenging, deed zij haar verzoek en zei: Ik wil dat u mij nu direct op een schaal het hoofd van Johannes de Doper geeft.",
+      "source_text": "καὶ εἰσελθοῦσα εὐθέως μετὰ σπουδῆς πρὸς τὸν βασιλέα, ᾐτήσατο, λέγουσα, Θέλω ἵνα μοι δῷς ἐξαυτῆς ἐπὶ πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ Βαπτιστοῦ."
+    },
+    {
+      "verse_number": 26,
+      "original_text": "Ende de Koningh seer bedroeft geworden zijnde, [nochtans] om de eeden, ende de gene die mede aensaten, en wilde hy haer [’t selve] niet <Gr. haer niet afsetten: D. haer versoeck verwerpen.> afslaen.",
+      "final_text": "En hoewel de koning zeer bedroefd was geworden, wilde hij haar [dat] [toch] niet <Grieks: haar niet afzetten: Dat is, haar verzoek verwerpen.> afslaan, vanwege de eden en degenen die mee aan tafel zaten.",
+      "source_text": "καὶ περίλυπος γενόμενος ὁ βασιλεύς, διὰ τοὺς ὅρκους καὶ τοὺς συνανακειμένους οὐκ ἠθέλησεν αὐτὴν ἀθετῆσαι."
+    },
+    {
+      "verse_number": 27,
+      "original_text": "$Matth. 14.10.$ Ende de Koningh sondt terstont ee-nen <Ofte, trauwant, hellebardier, lijfwacht.> scherprechter, ende geboodt sijn hooft daer te brengen. Dese nu gingh henen, ende onthoofde hem in de gevangenisse.",
+      "final_text": "$Mt. 14:10$ En de koning stuurde onmiddellijk een <Of: trawant, hellebaardier, lijfwacht.> scherprechter en beval om zijn hoofd daar te brengen. Hij vertrok en onthoofdde hem in de gevangenis.",
+      "source_text": "καὶ εὐθέως ἀποστείλας ὁ βασιλεὺς σπεκουλάτωρα ἐπέταξεν ἐνεχθῆναι τὴν κεφαλὴν αὐτοῦ. ὁ δὲ ἀπελθὼν ἀπεκεφάλισεν αὐτὸν ἐν τῇ φυλακῇ,"
+    },
+    {
+      "verse_number": 28,
+      "original_text": "Ende bracht sijn hooft in een schotel, ende gaf het selve het dochterken, ende het dochterken gaf het selve hare moeder.",
+      "final_text": "En hij bracht zijn hoofd op een schotel, en gaf het aan het meisje, en het meisje gaf het aan haar moeder.",
+      "source_text": "καὶ ἤνεγκε τὴν κεφαλὴν αὐτοῦ ἐπὶ πίνακι, καὶ ἔδωκεν αὐτὴν τῷ κορασίῳ· καὶ τὸ κοράσιον ἔδωκεν αὐτὴν τῇ μητρὶ αὐτῆς."
+    },
+    {
+      "verse_number": 29,
+      "original_text": "Ende als sijne discipelen [dit] hoorden, gingen sy ende namen sijn doot lichaem wech, ende leyden dat in een graf.",
+      "final_text": "En toen zijn discipelen [dit] hoorden, gingen zij erheen en namen zijn dode lichaam weg, en legden het in een graf.",
+      "source_text": "καὶ ἀκούσαντες οἱ μαθηταὶ αὐτοῦ ἦλθον, καὶ ἦραν τὸ πτῶμα αὐτοῦ, καὶ ἔθηκαν αὐτὸ ἐν μνημείῳ."
+    },
+    {
+      "verse_number": 30,
+      "original_text": "$Luce 9.10.$ Ende de Apostelen <Namel. weder komende van hare reyse, die sy, na de uytsendinge, twee ende twee gedaen hadden door het Ioodsche lant.> quamen [weder] te samen tot Iesum, ende boodtschapten hem alles, beyde wat sy gedaen hadden, ende wat sy geleert hadden.",
+      "final_text": "$Lc. 9:10$ En de apostelen <Namelijk: terugkomend van hun reis, die zij, na de uitzending, twee aan twee gemaakt hadden door het Joodse land.> kwamen [weer] samen bij Jezus en vertelden Hem alles, zowel wat zij gedaan hadden als wat zij onderwezen hadden.",
+      "source_text": "Καὶ συνάγονται οἱ ἀπόστολοι πρὸς τὸν Ἰησοῦν, καὶ ἀπήγγειλαν αὐτῷ πάντα, καὶ ὅσα ἐποίησαν καὶ ὅσα ἐδίδαξαν."
+    },
+    {
+      "verse_number": 31,
+      "original_text": "Ende hy seyde tot haer, Komt ghylieden in <Ofte, eensame. Dese was by Bethsaida, Matth. 14.13. Luce 9.10.> een woeste plaetse <Of, bezijden.> hier alleen, ende rust een weynigh: want daer waren vele die quamen ende die gingen, $Marc. 3.20.$ ende sy en hadden selfs geenen gelegenen tijt om te eten.",
+      "final_text": "En hij zei tegen hen: Kom mee naar <Of: eenzame. Deze was bij Betsaida, Mt. 14:13; Lc. 9:10.> een eenzame plaats <Of: opzij.> hier alleen, en rust wat uit; want er waren velen die kwamen en gingen, $Mk. 3:20$ en zij hadden zelfs geen gelegenheid om te eten.",
+      "source_text": "καὶ εἶπεν αὐτοῖς, Δεῦτε ὑμεῖς αὐτοὶ κατ’ ἰδίαν εἰς ἔρημον τόπον, καὶ ἀναπαύεσθε ὀλίγον. ἦσαν γὰρ οἱ ἐρχόμενοι καὶ οἱ ὑπάγοντες πολλοί, καὶ οὐδὲ φαγεῖν ηὐκαίρουν."
+    },
+    {
+      "verse_number": 32,
+      "original_text": "$Matth. 14.13. Luce 9.10. Ioan. 6.1.$ Ende sy vertrocken in een schip, na een woeste plaetse alleen.",
+      "final_text": "$Mt. 14:13; Lc. 9:10; Joh. 6:1$ En zij voeren weg met het schip naar een eenzame plaats alleen.",
+      "source_text": "καὶ ἀπῆλθον εἰς ἔρημον τόπον τῷ πλοίῳ κατ’ ἰδίαν."
+    },
+    {
+      "verse_number": 33,
+      "original_text": "Ende de scharen sagense henen varen, ende vele wierden hem kennende, ende liepen gesamelick te voete van alle steden derwaerts, ende quamen haer voor, ende gingen te samen tot hem.",
+      "final_text": "En de menigten zagen hen wegvaren, en velen herkenden hem; en zij liepen samen te voet uit alle steden daarheen, en kwamen er eerder aan, en kwamen samen bij hem.",
+      "source_text": "καὶ εἶδον αὐτοὺς ὑπάγοντας οἱ ὄχλοι, καὶ ἐπέγνωσαν αὐτὸν πολλοί, καὶ πεζῇ ἀπὸ πασῶν τῶν πόλεων συνέδραμον ἐκεῖ, καὶ προῆλθον αὐτούς, καὶ συνῆλθον πρὸς αὐτόν."
+    },
+    {
+      "verse_number": 34,
+      "original_text": "<Siet van dit geheel mirakel de aent. op Matth. 14. vers 15, etc.> Ende Iesus uytgaende $Matth. 9.36. ende 14.14.$ sagh een groote schare, ende wiert innerlick met ontferminge beweeght over haer: $Ierem. 23.1. Ezech. 34.2.$ want sy waren als schapen die geenen herder en hebben, $Luce 9.11.$ ende hy begon haer vele dingen te leeren.",
+      "final_text": "<Zie van dit hele wonder de aantekeningen op Mt. 14:15, enz.> En toen Jezus uitging, $Mt. 9:36; 14:14$ zag hij een grote menigte, en kreeg diep medelijden met hen; $Jr. 23:1; Ez. 34:2$ want zij waren als schapen die geen herder hebben; $Lc. 9:11$ en hij begon hun veel te leren.",
+      "source_text": "καὶ ἐξελθὼν εἶδεν ὁ Ἰησοῦς πολὺν ὄχλον, καὶ ἐσπλαγχνίσθη ἐπ’ αὐτοῖς, ὅτι ἦσαν ὡς πρόβατα μὴ ἔχοντα ποιμένα· καὶ ἤρξατο διδάσκειν αὐτοὺς πολλά."
+    },
+    {
+      "verse_number": 35,
+      "original_text": "$Matth. 14.15. Luce 9.12. Ioan. 6.5.$ Ende <Gr. als nu de ure veel was geworden. Want de Ioden rekenden de uren van den opgangh der sonne, ende eyndighden die met den avont, Matth. 20.6.> als het nu late op den dagh geworden was, quamen sijne discipelen tot hem, ende seyden, Dese plaetse is woest, ende het is nu late op den dagh.",
+      "final_text": "$Mt. 14:15; Lc. 9:12; Joh. 6:5$ En <Grieks: toen nu het uur veel was geworden. Want de Joden rekenden de uren vanaf de opgang van de zon, en eindigden die met de avond, Mt. 20:6.> toen het inmiddels laat geworden was, kwamen zijn discipelen naar hem toe en zeiden: Deze plaats is eenzaam en het is nu laat op de dag.",
+      "source_text": "καὶ ἤδη ὥρας πολλῆς γενομένης, προσελθόντες αὐτῷ οἱ μαθηταὶ αὐτοῦ λέγουσιν ὅτι Ἔρημός ἐστιν ὁ τόπος, καὶ ἤδη ὥρα πολλή·"
+    },
+    {
+      "verse_number": 36,
+      "original_text": "Laetse van u, op datse henen gaen in de omliggende <Gr. velden, D. lanthuysen, ofte dorpen.> dorpen, ende vlecken, ende brooden voor haer selven mogen koopen: want sy en hebben niet wat sy eten sullen.",
+      "final_text": "Stuur hen weg, zodat zij naar de omliggende <Grieks: velden, Dat is: landhuizen, of dorpen.> dorpen en gehuchten kunnen gaan om brood voor zichzelf te kopen; want zij hebben niets te eten.",
+      "source_text": "ἀπόλυσον αὐτούς, ἵνα ἀπελθόντες εἰς τοὺς κύκλῳ ἀγροὺς καὶ κώμας ἀγοράσωσιν ἑαυτοῖς ἄρτους. τί γὰρ φάγωσιν οὐκ ἔχουσιν."
+    },
+    {
+      "verse_number": 37,
+      "original_text": "Maer hy antwoordende seyde tot haer, Geeft ghy haer te eten. Ende sy seyden tot hem, Sullen wy henen gaen, ende koopen voor twee <Gr. Denarien. Siet de weerde hier van Matth. 18.28.> hondert penningen broot, ende haer te eten geven?",
+      "final_text": "Maar hij antwoordde en zei tegen hen: Geef hun te eten. En zij zeiden tegen hem: Zullen wij erheen gaan en voor twee <Grieks: denariën. Zie de waarde hiervan Mt. 18:28.> honderd penningen brood kopen, en hun te eten geven?",
+      "source_text": "ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς, Δότε αὐτοῖς ὑμεῖς φαγεῖν. καὶ λέγουσιν αὐτῷ, Ἀπελθόντες ἀγοράσωμεν διακοσίων δηναρίων ἄρτους, καὶ δῶμεν αὐτοῖς φαγεῖν;"
+    },
+    {
+      "verse_number": 38,
+      "original_text": "Ende hy seyde tot haer, Hoe veel brooden hebt ghy? Gaet henen ende besiet [het.] $Matth. 14.17. Luce 9.13. Ioan. 6.9.$ Ende doe sy het <Gr. verstaen hadden, ofte, wisten.> vernomen hadden, seyden sy, vijve, ende twee visschen.",
+      "final_text": "En hij zei tegen hen: Hoeveel broden heeft u? Ga kijken [het]. $Mt. 14:17; Lc. 9:13; Joh. 6:9$ En toen zij het <Grieks: verstaan hadden, of: wisten.> te weten waren gekomen, zeiden zij: Vijf, en twee vissen.",
+      "source_text": "ὁ δὲ λέγει αὐτοῖς, Πόσους ἄρτους ἔχετε; ὑπάγετε καὶ ἴδετε. καὶ γνόντες λέγουσι, Πέντε, καὶ δύο ἰχθύας."
+    },
+    {
+      "verse_number": 39,
+      "original_text": "Ende hy geboodt haer dat syse alle souden doen neder sitten, <Gr. weerdschappen, weerdschappen, of, maeltijden, maeltijden, een Hebreeusche wijse van spreken: D. in verscheydene geselschappen, gelijck in groote maeltijden ofte bruyloften het volck aen verscheyden tafelen plagh verdeelt te worden.> by weerdschappen, op het groene gras.",
+      "final_text": "En hij gebood hun dat zij iedereen moesten laten gaan zitten, <Grieks: drinkgelagen, drinkgelagen, of: maaltijden, maaltijden, een Hebreeuwse wijze van spreken. Dat is: in verscheidene gezelschappen, zoals bij grote maaltijden of bruiloften het volk aan verscheidene tafels placht verdeeld te worden.> in gezelschappen, op het groene gras.",
+      "source_text": "καὶ ἐπέταξεν αὐτοῖς ἀνακλῖναι πάντας συμπόσια συμπόσια ἐπὶ τῷ χλωρῷ χόρτῳ."
+    },
+    {
+      "verse_number": 40,
+      "original_text": "Ende sy <Gr. vielen.> saten neder <Gr. hofbedden, hofbedden, D. onderscheyden gelijck de kruytbedden in de hoven zijn: waer uyt lichtelick het getal konde afgereeckent worden.> in gedeelten by hondert t’samen, ende by vijftigh t’samen.",
+      "final_text": "En zij <Grieks: vielen.> gingen zitten <Grieks: tuinbedden, tuinbedden, Dat is: onderscheiden zoals de kruidenbedden in de tuinen zijn: waaruit gemakkelijk het getal berekend kon worden.> in groepen van honderd, en van vijftig.",
+      "source_text": "καὶ ἀνέπεσον πρασιαὶ πρασιαί, ἀνὰ ἑκατὸν καὶ ἀνὰ πεντήκοντα."
+    },
+    {
+      "verse_number": 41,
+      "original_text": "Ende als hy de vijf brooden ende twee visschen genomen hadde, $Ioan. 17.1.$ sagh hy op na den hemel, <Namelick, met dancksegginge. siet Matth. 14. vers 19. Ioan. 6.11.> $1.Sam. 9.13.$ zegende, ende brack de brooden, ende gafse sijnen discipelen, op dat syse haer souden voorleggen: ende de twee visschen deylde hy voor allen.",
+      "final_text": "En toen hij de vijf broden en twee vissen genomen had, $Joh. 17:1$ keek hij op naar de hemel, <Namelijk, met dankzegging. Zie Mt. 14:19; Joh. 6:11.> $1Sm. 9:13$ sprak hij de zegen uit, en brak de broden, en gaf ze aan zijn discipelen, om ze hun voor te zetten; en de twee vissen verdeelde hij onder allen.",
+      "source_text": "καὶ λαβὼν τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας, ἀναβλέψας εἰς τὸν οὐρανόν, εὐλόγησε, καὶ κατέκλασε τοὺς ἄρτους, καὶ ἐδίδου τοῖς μαθηταῖς αὐτοῦ ἵνα παραθῶσιν αὐτοῖς· καὶ τοὺς δύο ἰχθύας ἐμέρισε πᾶσι."
+    },
+    {
+      "verse_number": 42,
+      "original_text": "Ende sy aten alle, ende zijn verzadight geworden.",
+      "final_text": "En zij aten allen, en werden verzadigd.",
+      "source_text": "καὶ ἔφαγον πάντες, καὶ ἐχορτάσθησαν·"
+    },
+    {
+      "verse_number": 43,
+      "original_text": "Ende sy namen op twaelf volle korven brocken, ende van de visschen.",
+      "final_text": "En zij raapten twaalf volle manden met brokken op, en ook van de vissen.",
+      "source_text": "καὶ ἦραν κλασμάτων δώδεκα κοφίνους πλήρεις, καὶ ἀπὸ τῶν ἰχθύων."
+    },
+    {
+      "verse_number": 44,
+      "original_text": "Ende die daer de brooden gegeten hadden, waren ontrent vijf duysent mannen.",
+      "final_text": "En zij die de broden gegeten hadden, waren ongeveer vijfduizend mannen.",
+      "source_text": "καὶ ἦσαν οἱ φαγόντες τοὺς ἄρτους ὡσεὶ πεντακισχίλιοι ἄνδρες."
+    },
+    {
+      "verse_number": 45,
+      "original_text": "$Matth. 14.22. Ioan. 6.17.$ Ende terstont dwangh hy sijne discipelen in ’t schip te gaen, ende voor henen te varen aen d’ander zijde <Want Ioan. 6. vers 17. staet datse na Capernaum voeren, het welck tegen over Bethsaida lagh.> tegen [over] Bethsaida, terwijlen hy de schare van hem soude laten.",
+      "final_text": "$Mt. 14:22; Joh. 6:17$ En meteen dwong hij zijn discipelen in het schip te gaan, en vooruit te varen naar de overkant, <Want Joh. 6:17 staat dat zij naar Kapernaüm voeren, hetgeen tegenover Betsaïda lag.> tegen[over] Betsaïda, terwijl hij de menigte weg zou sturen.",
+      "source_text": "Καὶ εὐθέως ἠνάγκασε τοὺς μαθητὰς αὐτοῦ ἐμβῆναι εἰς τὸ πλοῖον, καὶ προάγειν εἰς τὸ πέραν πρὸς Βηθσαϊδάν, ἕως αὐτὸς ἀπολύσῃ τὸν ὄχλον."
+    },
+    {
+      "verse_number": 46,
+      "original_text": "$Matth. 14.23. Luce 6.12.$ Ende als hy deselve <Ofte, van haer sijn afscheyt genomen hadde, gelijck Actor. 18.21.> haer afscheydt gegeven hadde, gingh hy op den bergh om te bidden.",
+      "final_text": "$Mt. 14:23; Lc. 6:12$ En toen hij <Of: van hen zijn afscheid genomen had, zoals Hnd. 18:21.> afscheid van hen genomen had, ging hij de berg op om te bidden.",
+      "source_text": "καὶ ἀποταξάμενος αὐτοῖς, ἀπῆλθεν εἰς τὸ ὄρος προσεύξασθαι."
+    },
+    {
+      "verse_number": 47,
+      "original_text": "$Matth. 14.23. Ioan. 6.16.$ Ende als het nu avont was geworden, soo was het schip in ’t midden van de zee, ende hy was alleen op het lant.",
+      "final_text": "$Mt. 14:23; Joh. 6:16$ En toen het nu avond geworden was, was het schip in het midden van de zee, en hij was alleen op het land.",
+      "source_text": "καὶ ὀψίας γενομένης, ἦν τὸ πλοῖον ἐν μέσῳ τῆς θαλάσσης, καὶ αὐτὸς μόνος ἐπὶ τῆς γῆς."
+    },
+    {
+      "verse_number": 48,
+      "original_text": "Ende hy sagh <Ofte, dat sy in noot waren in het roeijen.> dat sy haer seer pijnighden om [’t schip] voort te krijgen. (Want de wint was haer tegen) ende ontrent de <Welcke was de laetste. siet Matth. cap. 14. vers 25.> vierde wake des nachts, quam hy tot haer, wandelende op de zee, ende wilde haer voorby gaen.",
+      "final_text": "En hij zag <Of: dat zij in nood waren bij het roeien.> dat zij zwoegden om [het schip] vooruit te krijgen (want de wind was hun tegen). En omstreeks de <Welke de laatste was. Zie Mt. 14:25.> vierde wake van de nacht kwam hij naar hen toe, wandelend op de zee, en wilde hen voorbijgaan.",
+      "source_text": "καὶ εἶδεν αὐτοὺς βασανιζομένους ἐν τῷ ἐλαύνειν ἦν γὰρ ὁ ἄνεμος ἐναντίος αὐτοῖς· καὶ περὶ τετάρτην φυλακὴν τῆς νυκτὸς ἔρχεται πρὸς αὐτούς, περιπατῶν ἐπὶ τῆς θαλάσσης· καὶ ἤθελε παρελθεῖν αὐτούς."
+    },
+    {
+      "verse_number": 49,
+      "original_text": "Ende sy siende hem wandelen op de zee, meynden dat het een <D. een geest verschijnende in lichamelicke gedaente.> spoocksel was, ende schreeuwden seer.",
+      "final_text": "En toen zij hem op de zee zagen wandelen, dachten zij dat het een <Dat is, een geest die in lichamelijke gedaante verschijnt.> spook was, en schreeuwden luid.",
+      "source_text": "οἱ δέ, ἰδόντες αὐτὸν περιπατοῦντα ἐπὶ τῆς θαλάσσης, ἔδοξαν φάντασμα εἶναι, καὶ ἀνέκραξαν·"
+    },
+    {
+      "verse_number": 50,
+      "original_text": "Want sy sagen hem alle, ende wierden ontroert: ende terstont sprack hy met haer, ende seyde tot haer, Zijt wel gemoedt, Ick ben ’t, en vreest u niet.",
+      "final_text": "Want zij zagen hem allen en raakten ontsteld; en meteen sprak hij met hen en zei tegen hen: Heb goede moed, Ik ben het, en wees niet bevreesd.",
+      "source_text": "πάντες γὰρ αὐτὸν εἶδον, καὶ ἐταράχθησαν. καὶ εὐθέως ἐλάλησε μετ’ αὐτῶν, καὶ λέγει αὐτοῖς, Θαρσεῖτε· ἐγώ εἰμι, μὴ φοβεῖσθε."
+    },
+    {
+      "verse_number": 51,
+      "original_text": "Ende hy klam tot haer in het schip, ende de wint stilde, ende sy ontsetteden haer <Gr. seer overvloedelick.> boven maten seer in haer selven, ende waren verwondert.",
+      "final_text": "En hij klom bij hen in het schip, en de wind ging liggen. En zij waren in zichzelf <Grieks: zeer overvloedig.> bovenmate ontzet en verwonderd.",
+      "source_text": "καὶ ἀνέβη πρὸς αὐτοὺς εἰς τὸ πλοῖον, καὶ ἐκόπασεν ὁ ἄνεμος· καὶ λίαν ἐκ περισσοῦ ἐν ἑαυτοῖς ἐξίσταντο, καὶ ἐθαύμαζον."
+    },
+    {
+      "verse_number": 52,
+      "original_text": "Want sy en hadden <Gr. niet verstaen van, ofte, door de brooden, D. sy en waren niet verstandiger geworden door het gene met de vijf brooden geschiet was: namelijck, om daer door van Christi Goddelicke kracht ende sorge voor haer, versekert te zijn. siet Marc. 8.17, 20, 21.> niet gelet op [het mirakel] der brooden: want haer herte was <Gr. vereelt, of, verweert: het welck niet en is te verstaen van sulcke hardigheyt ofte verstocktheyt des herten, gelijck in de hardtneckige Ioden te voren aengewesen ende bestraft is, cap. 3. vers 5. maer van haer onverstant ende traegheyt om geestelicke dingen wel te begrijpen ende gelooven. Siet dergelijcke Marc.cap. 8. vers 17. ende 16.14. Luce cap. 24. vers 25.> verhardt.",
+      "final_text": "Want zij hadden <Grieks: niet verstaan van, of: door de broden, Dat is: zij waren niet verstandiger geworden door wat er met de vijf broden gebeurd was, namelijk om daardoor van de goddelijke kracht en zorg van Christus voor hen verzekerd te zijn. Zie Mk. 8:17, 20, 21.> niet gelet op [het wonder] van de broden, want hun hart was <Grieks: vereelt, of: verweerd. Dit moet niet verstaan worden van zo'n hardheid of verstoktheid van het hart, zoals in de hardnekkige Joden tevoren aangewezen en bestraft is, Mk. 3:5, maar van hun onverstand en traagheid om geestelijke dingen goed te begrijpen en te geloven. Zie soortgelijke teksten in Mk. 8:17 en 16:14; Lc. 24:25.> verhard.",
+      "source_text": "οὐ γὰρ συνῆκαν ἐπὶ τοῖς ἄρτοις· ἦν γὰρ ἡ καρδία αὐτῶν πεπωρωμένη."
+    },
+    {
+      "verse_number": 53,
+      "original_text": "$Matth. 14.34.$ Ende als sy over gevaren waren, quamen sy in ’t lant Genesaret, ende havenden aldaer.",
+      "final_text": "$Mt. 14:34$ En toen zij overgevaren waren, kwamen zij in het land Gennesaret en legden daar aan.",
+      "source_text": "Καὶ διαπεράσαντες ἦλθον ἐπὶ τὴν γῆν Γενησαρέτ, καὶ προσωρμίσθησαν."
+    },
+    {
+      "verse_number": 54,
+      "original_text": "Ende als sy uyt het schip gegaen waren, terstont wierden <Namel. de lieden van dat lant.> sy hem kennende.",
+      "final_text": "En toen zij uit het schip gegaan waren, herkenden zij <Namelijk: de mensen van dat land.> hem meteen.",
+      "source_text": "καὶ ἐξελθόντων αὐτῶν ἐκ τοῦ πλοίου, εὐθέως ἐπιγνόντες αὐτόν,"
+    },
+    {
+      "verse_number": 55,
+      "original_text": "[Ende] het geheel omliggende lant doorloopende, begonden sy op beddekens, de gene die qualick gestelt waren, om te dragen, ter plaetsen daer sy hoorden dat hy was.",
+      "final_text": "[En] zij doorkruisten de hele streek en begonnen de zieken op bedden rond te dragen, naar de plaats waar zij hoorden dat hij was.",
+      "source_text": "περιδραμόντες ὅλην τὴν περίχωρον ἐκείνην, ἤρξαντο ἐπὶ τοῖς κραββάτοις τοὺς κακῶς ἔχοντας περιφέρειν, ὅπου ἤκουον ὅτι ἐκεῖ ἐστι."
+    },
+    {
+      "verse_number": 56,
+      "original_text": "Ende soo waer hy quam in vlecken ofte steden, ofte <Gr. velden.> dorpen, daer leyden sy de krancke op de merckten, ende baden hem, dat sy maer den zoom sijns kleets <Van dit aenraken siet de reden in d’aenteeckeninge op Matth. 14.36.> aenraken mochten. Ende soo vele als’er hem aenraeckten wierden gesont.",
+      "final_text": "En waar hij ook kwam, in dorpen, steden of <Grieks: velden.> gehuchten, legden zij de zieken op de markten en smeekten hem of zij alleen maar de zoom van zijn mantel <Zie voor de reden van dit aanraken de aantekening bij Mt. 14:36.> mochten aanraken. En allen die hem aanraakten, werden gezond.",
+      "source_text": "καὶ ὅπου ἂν εἰσεπορεύετο εἰς κώμας ἢ πόλεις ἢ ἀγρούς, ἐν ταῖς ἀγοραῖς ἐτίθουν τοὺς ἀσθενοῦντας, καὶ παρεκάλουν αὐτὸν ἵνα κἂν τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ ἅψωνται· καὶ ὅσοι ἂν ἥπτοντο αὐτοῦ ἐσώζοντο."
+    }
+  ],
+  "epilogue": {
+    "original": "",
+    "final": ""
+  }
+}

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="nl" class="dark">
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -66,7 +66,7 @@
         color: #f97316;
       }
       .font-bold sup {
-        font-weight: 600;
+        font-weight: normal;
       }
 
       /* table cells stay top-aligned */
@@ -415,6 +415,11 @@
               parts.push(`<sup>${counter}</sup>`);
 
               lastIndex = regex.lastIndex;
+
+              // Skip a single space after the marker if present
+              if (lastIndex < text.length && text[lastIndex] === ' ') {
+                lastIndex++;
+              }
             }
 
             parts.push(text.substring(lastIndex));
@@ -474,7 +479,7 @@
                             className="flex items-start text-sm text-gray-600 dark:text-gray-300"
                           >
                             <span
-                              className="w-5 flex-shrink-0 text-left"
+                              className="w-3 flex-shrink-0 text-right mr-1"
                               style={{ color: '#f97316' }}
                             >
                               {item.id}
@@ -498,7 +503,7 @@
                                 className="flex items-start text-sm text-gray-600 dark:text-gray-300"
                               >
                                 <span
-                                  className="w-5 flex-shrink-0 text-left"
+                                  className="w-3 flex-shrink-0 text-right mr-1"
                                   style={{ color: '#f97316' }}
                                 >
                                   {ref.id}
@@ -521,7 +526,7 @@
                                 className="flex items-start text-sm text-gray-600 dark:text-gray-300"
                               >
                                 <span
-                                  className="w-5 flex-shrink-0 text-left"
+                                  className="w-3 flex-shrink-0 text-right mr-1"
                                   style={{ color: '#f97316' }}
                                 >
                                   {note.id}
@@ -636,7 +641,7 @@
           const [error, setError] = useState(null);
           const [darkMode, setDarkMode] = useState(() => {
             const saved = localStorage.getItem('darkMode');
-            return saved ? JSON.parse(saved) : false;
+            return saved ? JSON.parse(saved) : true;
           });
 
           useEffect(() => {
