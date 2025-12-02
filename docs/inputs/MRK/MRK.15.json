@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "book": "Markus",
+    "book_code": "MARC",
+    "chapter": 15,
+    "translation_policy": "Statenvertaling 1657 → Hedendaags Nederlands (redactie)",
+    "source_language": "Grieks (Textus Receptus)",
+    "notes": "Redactie voltooid door de virtuele editor, met de nadruk op trouw aan de brontekst."
+  },
+  "introduction": {
+    "original": "1 Christus wort van de Ioden Pilato overgelevert, ende voor hem beschuldight: waer van ondervraeght zijnde, swijght stille. 6 Pilatus tracht hem los te laten, maer op het aendringen des volcks laet hy Barabbam los, ende geeft Christum over om gekruyst te worden. 16 welcken de krijghsknechten bespotten ende mishandelen. 21 Simon van Cyrenen wort gedwongen sijn kruys te dragen. 23 Hem wort myrrhenwijn aengeboden. 24 hy wort gekruyst met twee moordenaren. 29 ende van de voorby gaende gelastert. 33 Duysternisse komt op der aerden. 34 Christus roept tot sijnen Vader, ende wort daer over bespot. 36 ende als hem edick toegereyckt was, geeft hy sijnen geest. 38 De voorhangh des tempels scheurt. 40 Eenige vrouwen sien van verre toe. 42 Christus wort van Ioseph van Arimathea begraven.",
+    "final": "1 Christus wordt door de Joden aan Pilatus overgeleverd, en voor hem beschuldigd: en toen Hij daarover ondervraagd werd, zwijgt Hij. 6 Pilatus tracht Hem los te laten, maar op het aandringen van het volk laat hij Barabbas los, en geeft Christus over om gekruisigd te worden. 16 De krijgsknechten bespotten en mishandelen Hem. 21 Simon van Cyrene wordt gedwongen Zijn kruis te dragen. 23 Hem wordt mirrewijn aangeboden. 24 Hij wordt gekruisigd met twee moordenaars. 29 En door de voorbijgangers gelasterd. 33 Duisternis komt op de aarde. 34 Christus roept tot Zijn Vader, en wordt daarover bespot. 36 En toen Hem zure wijn toegereikt was, geeft Hij Zijn geest. 38 Het voorhangsel van de tempel scheurt. 40 Enige vrouwen zien van verre toe. 42 Christus wordt door Jozef van Arimathea begraven."
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "original_text": "ENde $Psalm 2.2. Matth. 27.1. Luce 22.66. ende 23.1. Ioan. 18.28.$ terstont des morgens vroegh hielden de Overpriesters te samen raet, met de Ouderlingen ende Schriftgeleerde, ende den geheelen Raet, ende Iesum gebonden hebbende, brachten sy [hem] henen, ende <D’oorsake waerom sy hem Pilato overleverden, siet Matth. 27.2.> gaven [hem] $Actor. 3.13.$ aen Pilatum over.",
+      "final_text": "En $Ps. 2:2; Mt. 27:1; Lk. 22:66; 23:1; Jh. 18:28$ meteen 's morgens vroeg hielden de Overpriesters gezamenlijk raad, met de Ouderlingen en Schriftgeleerden, en de gehele Raad; en nadat zij Jezus geboeid hadden, brachten zij [Hem] weg, en <De oorzaak waarom zij Hem aan Pilatus overleverden, zie Mt. 27:2.> gaven [Hem] $Hd. 3:13$ aan Pilatus over.",
+      "source_text": "Καὶ εὐθέως ἐπὶ τὸ πρωῒ συμβούλιον ποιήσαντες οἱ ἀρχιερεῖς μετὰ τῶν πρεσβυτέρων καὶ γραμματέων, καὶ ὅλον τὸ συνέδριον, δήσαντες τὸν Ἰησοῦν ἀπήνεγκαν καὶ παρέδωκαν τῷ Πιλάτῳ."
+    },
+    {
+      "verse_number": 2,
+      "original_text": "$Matth. 27.11. Luce 23.3. Ioan. 18.33.$ Ende Pilatus vraeghde hem, Zijt ghy de Koningh der Ioden? Ende hy antwoordende seyde tot hem, <Van dese wijse van spreken siet de aenteeck. Matt. 26. vers 25.> Ghy seght het.",
+      "final_text": "$Mt. 27:11; Lk. 23:3; Jh. 18:33$ En Pilatus vroeg Hem: Bent u de Koning van de Joden? En hij antwoordde en zei tegen hem: <Over deze wijze van spreken, zie de aantekening bij Mt. 26:25.> U zegt het.",
+      "source_text": "καὶ ἐπηρώτησεν αὐτὸν ὁ Πιλάτος, Σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων; ὁ δὲ ἀποκριθεὶς εἶπεν αὐτῷ, Σὺ λέγεις."
+    },
+    {
+      "verse_number": 3,
+      "original_text": "Ende de Overpriesters beschuldighden hem van vele [saken:] maer hy en antwoorde niets.",
+      "final_text": "En de Overpriesters beschuldigden hem van vele [zaken,] maar hij antwoordde niets.",
+      "source_text": "καὶ κατηγόρουν αὐτοῦ οἱ ἀρχιερεῖς πολλά· αὐτὸς δὲ οὐδὲν ἀπεκρίνατο."
+    },
+    {
+      "verse_number": 4,
+      "original_text": "$Matth. 27.13. Ioan. 19.10.$ Ende Pilatus vraeghde hem wederom, seggende, En antwoort ghy niet? Siet, hoe vele [saken] sy tegen u getuygen.",
+      "final_text": "$Mt. 27:13; Jh. 19:10$ En Pilatus vroeg hem opnieuw, en zei: Antwoordt u niet? Zie, hoeveel [zaken] zij tegen u getuigen.",
+      "source_text": "ὁ δὲ Πιλάτος πάλιν ἐπηρώτησεν αὐτόν, λέγων, Οὐκ ἀποκρίνῃ οὐδέν; ἴδε, πόσα σου καταμαρτυροῦσιν."
+    },
+    {
+      "verse_number": 5,
+      "original_text": "Ende Iesus en heeft <Gr. niet meer yet. De reden van dit swijgen siet Matth. cap. 27. vers 14.> niet meer geantwoort, soo dat Pilatus hem verwonderde.",
+      "final_text": "En Jezus heeft <Grieks: niet meer iets. De reden van dit zwijgen, zie Mt. 27:14.> niets meer geantwoord, zodat Pilatus zich verwonderde.",
+      "source_text": "ὁ δὲ Ἰησοῦς οὐκέτι οὐδὲν ἀπεκρίθη, ὥστε θαυμάζειν τὸν Πιλάτον."
+    },
+    {
+      "verse_number": 6,
+      "original_text": "$Matth. 27.15. Luce 23.17. Ioan. 18.39.$ Ende <Of, op elck feest, namelick van Paesschen. siet Ioan. 18. vers 39.> op het feest liet hy haer eenen gevangenen los, wien sy oock begeerden.",
+      "final_text": "$Mt. 27:15; Lk. 23:17; Jh. 18:39$ En <Of: op elk feest, namelijk van Pasen. Zie Jh. 18:39.> op het feest liet hij voor hen een gevangene los, wie zij ook maar wensten.",
+      "source_text": "Κατὰ δὲ ἑορτὴν ἀπέλυεν αὐτοῖς ἕνα δέσμιον, ὅνπερ ᾐτοῦντο."
+    },
+    {
+      "verse_number": 7,
+      "original_text": "$Matth. 27.16. Luce 23.19. Ioan. 18.40.$ Ende daer was een, genaemt Barabbas, gevangen met [andere] mede-oproermakers, die in den oproer eenen dootslagh gedaen hadde.",
+      "final_text": "$Mt. 27:16; Lk. 23:19; Jh. 18:40$ En er was iemand, genaamd Barabbas, gevangen met [andere] mede-oproermakers, die in het oproer een doodslag gepleegd hadden.",
+      "source_text": "ἦν δὲ ὁ λεγόμενος Βαραββᾶς μετὰ τῶν συστασιαστῶν δεδεμένος, οἵτινες ἐν τῇ στάσει φόνον πεποιήκεισαν."
+    },
+    {
+      "verse_number": 8,
+      "original_text": "Ende de schare riep uyt, ende begon te begeeren, [dat hy dede] <Namelick, dat hy haer eenen gevangenen los liete.> gelijck hy haer altijt gedaen hadde.",
+      "final_text": "En de menigte riep, en begon te vragen [dat hij zou doen] <Namelijk: dat hij voor hen een gevangene zou loslaten.> zoals hij altijd voor hen gedaan had.",
+      "source_text": "καὶ ἀναβοήσας ὁ ὄχλος ἤρξατο αἰτεῖσθαι καθὼς ἀεὶ ἐποίει αὐτοῖς."
+    },
+    {
+      "verse_number": 9,
+      "original_text": "Ende Pilatus antwoordde haer, seggende, Wilt ghy dat ick u den Koningh der Ioden los late?",
+      "final_text": "En Pilatus antwoordde hun, en zei: Wilt u dat ik voor u de Koning van de Joden loslaat?",
+      "source_text": "ὁ δὲ Πιλάτος ἀπεκρίθη αὐτοῖς, λέγων, Θέλετε ἀπολύσω ὑμῖν τὸν βασιλέα τῶν Ἰουδαίων;"
+    },
+    {
+      "verse_number": 10,
+      "original_text": "(Want hy wist, dat hem de Overpriesters door nijdt overgelevert hadden)",
+      "final_text": "(Want hij wist dat de Overpriesters Hem uit afgunst overgeleverd hadden)",
+      "source_text": "ἐγίνωσκε γὰρ ὅτι διὰ φθόνον παραδεδώκεισαν αὐτὸν οἱ ἀρχιερεῖς."
+    },
+    {
+      "verse_number": 11,
+      "original_text": "$Matth. 27.20. Luce 23.18. Ioan. 18.40. Actor. 3.14.$ Maer de Overpriesters beweeghden de schare, dat hy haer liever Barabbam soude los laten.",
+      "final_text": "$Mt. 27:20; Lk. 23:18; Jh. 18:40; Hd. 3:14$ Maar de Overpriesters hitsten de menigte op, dat hij liever Barabbas voor hen zou loslaten.",
+      "source_text": "οἱ δὲ ἀρχιερεῖς ἀνέσεισαν τὸν ὄχλον, ἵνα μᾶλλον τὸν Βαραββᾶν ἀπολύσῃ αὐτοῖς."
+    },
+    {
+      "verse_number": 12,
+      "original_text": "Ende Pilatus antwoordende seyde wederom tot haer, Wat wilt ghy dan dat ick [met hem] doen sal, dien ghy een Koningh der Ioden noemt?",
+      "final_text": "En Pilatus antwoordde en zei opnieuw tegen hen: Wat wilt u dan dat ik [met Hem] zal doen, die u Koning van de Joden noemt?",
+      "source_text": "ὁ δὲ Πιλάτος ἀποκριθεὶς πάλιν εἶπεν αὐτοῖς, Τί οὖν θέλετε ποιήσω ὃν λέγετε βασιλέα τῶν Ἰουδαίων;"
+    },
+    {
+      "verse_number": 13,
+      "original_text": "Ende sy riepen wederom, Kruyst hem.",
+      "final_text": "En zij riepen opnieuw: Kruisig hem.",
+      "source_text": "οἱ δὲ πάλιν ἔκραξαν, Σταύρωσον αὐτόν."
+    },
+    {
+      "verse_number": 14,
+      "original_text": "Doch Pilatus seyde tot haer, Wat heeft hy dan quaets gedaen? Ende sy riepen te meer, Kruyst hem.",
+      "final_text": "Maar Pilatus zei tegen hen: Wat heeft Hij dan voor kwaad gedaan? En zij riepen des te meer: Kruisig hem.",
+      "source_text": "ὁ δὲ Πιλάτος ἔλεγεν αὐτοῖς, Τί γὰρ κακὸν ἐποίησεν; οἱ δὲ περισσοτέρως ἔκραξαν, Σταύρωσον αὐτόν."
+    },
+    {
+      "verse_number": 15,
+      "original_text": "$Matth. 27.26. Ioan. 19.1.$ Pilatus nu willende de schare genoegh doen, heeft haer Barabbam los gelaten, ende <Namelick, aen den Hooftman ende krijghsknechten.> gaf Iesum over, als hy [hem] gegeesselt hadde, om gekruyst te worden.",
+      "final_text": "$Mt. 27:26; Jh. 19:1$ Pilatus nu, die de menigte tevreden wilde stellen, liet Barabbas voor hen los, en <Namelijk: aan de Hoofdman en krijgsknechten.> gaf Jezus over, nadat hij [Hem] gegeseld had, om gekruisigd te worden.",
+      "source_text": "ὁ δὲ Πιλάτος βουλόμενος τῷ ὄχλῳ τὸ ἱκανὸν ποιῆσαι, ἀπέλυσεν αὐτοῖς τὸν Βαραββᾶν· καὶ παρέδωκε τὸν Ἰησοῦν, φραγελλώσας, ἵνα σταυρωθῇ."
+    },
+    {
+      "verse_number": 16,
+      "original_text": "$Matth. 27.27. Ioan. 19.2.$ Ende de krijghsknechten leydden hem binnen in de zale, welck is <Gr. Praitorion, waer mede uytgedruckt wort het Latijnsch woort Praetorium: het welck beteeckent de plaetse daer de Romeynsche Stadthouders woonden, ende haer vyerschare hielden.> het rechthuys, ende riepen de gantsche bende te samen.",
+      "final_text": "$Mt. 27:27; Jh. 19:2$ En de soldaten leidden hem binnen in de zaal, dat is <Grieks: Praitorion, waarmee uitgedrukt wordt het Latijnse woord Praetorium: wat betekent de plaats waar de Romeinse stadhouders woonden, en hun rechtzitting hielden.> het rechthuis, en riepen de hele afdeling bijeen.",
+      "source_text": "Οἱ δὲ στρατιῶται ἀπήγαγον αὐτὸν ἔσω τῆς αὐλῆς, ὅ ἐστι πραιτώριον, καὶ συγκαλοῦσιν ὅλην τὴν σπεῖραν."
+    },
+    {
+      "verse_number": 17,
+      "original_text": "Ende <Gr. bekleedden hem met purper, D. met eenen purperen mantel, siet hier van breeder de aenteeck. op Matth. 27.28.> deden hem eenen purperen mantel aen, ende eene doorne kroone gevlochten hebbende, setteden hem [die] op.",
+      "final_text": "En <Grieks: bekleedden hem met purper, dat is, met een purperen mantel, zie hiervan breder de aantekening bij Mt. 27:28.> deden hem een purperen mantel aan, en nadat zij een doornenkroon gevlochten hadden, zetten zij hem [die] op.",
+      "source_text": "καὶ ἐνδύουσιν αὐτὸν πορφύραν, καὶ περιτιθέασιν αὐτῷ πλέξαντες ἀκάνθινον στέφανον,"
+    },
+    {
+      "verse_number": 18,
+      "original_text": "Ende begonden hem te groeten, [seggende,] Weest gegroet, [ghy] Koningh der Ioden.",
+      "final_text": "En begonnen hem te groeten, [zeggende]: Wees gegroet, [u] Koning van de Joden.",
+      "source_text": "καὶ ἤρξαντο ἀσπάζεσθαι αὐτόν, Χαῖρε, βασιλεῦ τῶν Ἰουδαίων·"
+    },
+    {
+      "verse_number": 19,
+      "original_text": "Ende sloegen sijn hooft met eenen rietstock ende bespogen hem, ende vallende op de knijen <Spotswijse hem eerende, gelijck de Heydenen met ernst plachten hare Koningen te eeren.> aenbaden hem.",
+      "final_text": "En sloegen op zijn hoofd met een rietstok en bespuwden hem, en vielen op de knieën <Op spottende wijze hem erende, zoals de Heidenen met ernst gewoon waren hun Koningen te eren.> en aanbaden hem.",
+      "source_text": "καὶ ἔτυπτον αὐτοῦ τὴν κεφαλὴν καλάμῳ, καὶ ἐνέπτυον αὐτῷ, καὶ τιθέντες τὰ γόνατα προσεκύνουν αὐτῷ."
+    },
+    {
+      "verse_number": 20,
+      "original_text": "Ende als sy hem bespottet hadden, deden sy hem den purperen mantel af, ende deden hem sijne eygene kleederen aen, ende leydden hem uyt om hem te kruycigen.",
+      "final_text": "En toen zij hem bespot hadden, deden zij hem de purperen mantel af, en deden hem zijn eigen kleren aan, en leidden hem naar buiten om hem te kruisigen.",
+      "source_text": "καὶ ὅτε ἐνέπαιξαν αὐτῷ, ἐξέδυσαν αὐτὸν τὴν πορφύραν, καὶ ἐνέδυσαν αὐτὸν τὰ ἱμάτια τὰ ἴδια. Καὶ ἐξάγουσιν αὐτὸν ἵνα σταυρώσωσιν αὐτόν."
+    },
+    {
+      "verse_number": 21,
+      "original_text": "$Matt. 27.32. Luce 23.26.$ Ende sy dwongen eenen Simon van Cyrenen, die [daer] voorby gingh, komende van den acker, den vader <Deser namen worden hier uytgedruckt, om datse daer na in de Kercke Godts vermaerde lieden zijn geweest, van welcke schijnt oock gewagh gemaeckt te worden Rom. 16.13.> Alexandri ende Rufi, dat hy <Namel. Christi. D’oorsake siet op de aent. Matt. 27.32.> sijn kruyce droege.",
+      "final_text": "$Mt. 27:32; Lk. 23:26$ En zij dwongen een Simon van Cyrene, die [daar] voorbijging, terwijl hij van de akker kwam, de vader <Hun namen worden hier uitgedrukt, omdat zij daarna in de Kerk van God beroemde lieden zijn geweest, over wie ook melding gemaakt schijnt te worden Rm. 16:13.> van Alexander en Rufus, om <Namelijk: van Christus. Zie de oorzaak bij de aantekening bij Mt. 27:32.> zijn kruis te dragen.",
+      "source_text": "καὶ ἀγγαρεύουσι παράγοντά τινα Σίμωνα Κυρηναῖον, ἐρχόμενον ἀπ’ ἀγροῦ, τὸν πατέρα Ἀλεξάνδρου καὶ Ῥούφου, ἵνα ἄρῃ τὸν σταυρὸν αὐτοῦ."
+    },
+    {
+      "verse_number": 22,
+      "original_text": "$Matth. 27.33. Luce 23.33. Ioan. 19.17.$ Ende sy brachten hem tot de plaetse Golgotha, het welck is, overgeset zijnde, <Siet Matt. 27. vers 33.> Hooftscheel plaetse.",
+      "final_text": "$Mt. 27:33; Lk. 23:33; Jh. 19:17$ En zij brachten hem naar de plaats Golgota, wat vertaald is: <Zie Mt. 27:33.> Hoofdschedelplaats.",
+      "source_text": "καὶ φέρουσιν αὐτὸν ἐπὶ Γολγοθᾶ τόπον, ὅ ἐστι μεθερμηνευόμενον, κρανίου τόπος."
+    },
+    {
+      "verse_number": 23,
+      "original_text": "Ende sy gaven hem <Hier van siet Matth. 27.34.> gemyrrheden wijn te drincken: maer hy en nam [dien] niet.",
+      "final_text": "En zij gaven hem <Zie hiervan Mt. 27:34.> met mirre gemengde wijn te drinken; maar hij nam [die] niet.",
+      "source_text": "καὶ ἐδίδουν αὐτῷ πιεῖν ἐσμυρνισμένον οἶνον· ὁ δὲ οὐκ ἔλαβε."
+    },
+    {
+      "verse_number": 24,
+      "original_text": "$Matth. 27.35. Luce 23.34. Ioan. 19.23.$ Ende als sy hem gekruycight hadden $Psalm 22.19.$ verdeelden sy sijne kleederen, werpende het lot over deselve, wat een yegelick wech nemen soude.",
+      "final_text": "$Mt. 27:35; Lk. 23:34; Jh. 19:23$ En toen zij hem gekruisigd hadden, $Ps. 22:19$ verdeelden zij zijn kleren, en wierpen het lot erover, wat ieder wegnemen zou.",
+      "source_text": "καὶ σταυρώσαντες αὐτόν, διεμέριζον τὰ ἱμάτια αὐτοῦ, βάλλοντες κλῆρον ἐπ’ αὐτά, τίς τί ἄρῃ."
+    },
+    {
+      "verse_number": 25,
+      "original_text": "Ende het was <Dese uren moeten na der Ioden wijse gereeckent worden, van den opgangh der sonne tot den nedergangh. siet Matth. 20.3. ende Ioan. 11.9. Ende alsoo Paesschen doen quam ontrent den tijt, dat de dagen ende nachten even langh zijn, soo komt de derde ure over een met onse negende, de seste met onse twaelfste, ende de negende met onse derde na den middagh. Ioannes seght cap. 19. vers 14. dat het was ontrent de seste ure als hy hem voort bracht. Hoe dit over een komt siet de aenteeck. aldaer.> de derde ure, ende sy kruycighden hem.",
+      "final_text": "En het was <Deze uren moeten op de wijze van de Joden gerekend worden, van de opgang van de zon tot de ondergang. Zie Mt. 20:3 en Jh. 11:9. En aangezien Pasen toen kwam rond de tijd, dat de dagen en nachten even lang zijn, zo komt het derde uur overeen met ons negende, het zesde met ons twaalfde, en het negende met ons derde na de middag. Johannes zegt hfdst. 19 vers 14 dat het was rond het zesde uur toen hij hem voortbracht. Hoe dit overeenkomt, zie de aantekening daar.> het derde uur, en zij kruisigden hem.",
+      "source_text": "ἦν δὲ ὥρα τρίτη, καὶ ἐσταύρωσαν αὐτόν."
+    },
+    {
+      "verse_number": 26,
+      "original_text": "$Matth. 27.37. Luce 23.38. Ioan. 19.19.$ Ende het opschrift sijner beschuldinge was boven hem geschreven, DE KONINGH DER JODEN.",
+      "final_text": "$Mt. 27:37; Lk. 23:38; Jh. 19:19$ En het opschrift van zijn beschuldiging stond boven hem geschreven: DE KONING VAN DE JODEN.",
+      "source_text": "καὶ ἦν ἡ ἐπιγραφὴ τῆς αἰτίας αὐτοῦ ἐπιγεγραμμένη, Ὁ βασιλεὺς τῶν Ἰουδαίων."
+    },
+    {
+      "verse_number": 27,
+      "original_text": "Ende sy kruycighden met hem twee <Of, straetschenders.> moordenaers, eenen aen [sijn] rechter, ende eenen aen sijn slincker [zijde.]",
+      "final_text": "En zij kruisigden met hem twee <Of: straatschenners.> moordenaars, een aan [zijn] rechter- en een aan zijn linker[zijde.]",
+      "source_text": "καὶ σὺν αὐτῷ σταυροῦσι δύο λῃστάς, ἕνα ἐκ δεξιῶν καὶ ἕνα ἐξ εὐωνύμων αὐτοῦ."
+    },
+    {
+      "verse_number": 28,
+      "original_text": "$Iesa. 53.12. Luce 22.37.$ Ende de Schrift is vervult geworden, die daer seght, Ende hy is met de misdadige gereeckent:",
+      "final_text": "$Js. 53:12; Lk. 22:37$ En de Schrift is vervuld, die zegt: En hij is met de misdadigers gerekend.",
+      "source_text": "καὶ ἐπληρώθη ἡ γραφὴ ἡ λέγουσα, Καὶ μετὰ ἀνόμων ἐλογίσθη."
+    },
+    {
+      "verse_number": 29,
+      "original_text": "$Psalm 22.8. ende 69.21. ende 109.25. Matth. 27.39. Luce 23.35.$ Ende die voorby gingen lasterden hem, schuddende hare hoofden, ende seggende, Ha! $Ioan. 2.19.$ ghy die den tempel afbreeckt, ende in drie dagen opbouwt.",
+      "final_text": "$Ps. 22:8; Ps. 69:21; Ps. 109:25; Mt. 27:39; Lk. 23:35$ En zij die voorbijgingen lasterden hem, terwijl zij hun hoofden schudden, en zeiden: Ha! $Jh. 2:19$ u die de tempel afbreekt en in drie dagen opbouwt,",
+      "source_text": "καὶ οἱ παραπορευόμενοι ἐβλασφήμουν αὐτόν, κινοῦντες τὰς κεφαλὰς αὐτῶν, καὶ λέγοντες, Οὐά, ὁ καταλύων τὸν ναόν, καὶ ἐν τρισὶν ἡμέραις οἰκοδομῶν,"
+    },
+    {
+      "verse_number": 30,
+      "original_text": "Behoudt u selven, ende komt af van het kruys.",
+      "final_text": "Red uzelf, en kom af van het kruis.",
+      "source_text": "σῶσον σεαυτόν, καὶ κατάβα ἀπὸ τοῦ σταυροῦ."
+    },
+    {
+      "verse_number": 31,
+      "original_text": "Ende insgelijcks oock de Overpriesters met de Schriftgeleerde, seyden tot malkanderen, al spottende, Hy heeft andere verlost, <And. en kan hy hemselven niet behouden?> hemselven en kan hy niet verlossen.",
+      "final_text": "En evenzo zeiden ook de Overpriesters met de Schriftgeleerden tegen elkaar, spottend: Hij heeft anderen verlost, <Andere vertaling: en kan hij zichzelf niet behouden?> zichzelf kan hij niet verlossen.",
+      "source_text": "ὁμοίως δὲ καὶ οἱ ἀρχιερεῖς ἐμπαίζοντες πρὸς ἀλλήλους μετὰ τῶν γραμματέων ἔλεγον, Ἄλλους ἔσωσεν, ἑαυτὸν οὐ δύναται σῶσαι."
+    },
+    {
+      "verse_number": 32,
+      "original_text": "De Christus, de Koningh Israëls kome nu af van het kruys, op dat wy het sien ende gelooven mogen. Oock <Namelick, Een van deselve. Siet Matth. 27.44. ende Luce 23.39.> die met hem gekruyst waren, smadeden hem.",
+      "final_text": "De Christus, de Koning van Israël, laat die nu afkomen van het kruis, opdat wij het zien en geloven mogen. Ook <Namelijk: één van dezen. Zie Mt. 27:44 en Lk. 23:39.> zij die met Hem gekruisigd waren, beschimpten hem.",
+      "source_text": "ὁ Χριστὸς ὁ βασιλεὺς τοῦ Ἰσραὴλ καταβάτω νῦν ἀπὸ τοῦ σταυροῦ, ἵνα ἴδωμεν καὶ πιστεύσωμεν. καὶ οἱ συνεσταυρωμένοι αὐτῷ ὠνείδιζον αὐτόν."
+    },
+    {
+      "verse_number": 33,
+      "original_text": "$Matth. 27.45. Luce 23.44.$ Ende als de seste ure gekomen was, wiert’er <Van dese duysternisse siet Matth. cap. 27. vers 45. gelijck oock van al het volgende.> duysternisse over de geheele aerde, tot de negende ure toe.",
+      "final_text": "$Mt. 27:45; Lk. 23:44$ En toen het zesde uur gekomen was, kwam er <Van deze duisternis zie Mt. 27:45; evenals ook van al het volgende.> duisternis over de hele aarde, tot het negende uur toe.",
+      "source_text": "Γενομένης δὲ ὥρας ἕκτης, σκότος ἐγένετο ἐφ’ ὅλην τὴν γῆν ἕως ὥρας ἐννάτης."
+    },
+    {
+      "verse_number": 34,
+      "original_text": "Ende ter negender ure, riep Iesus met grooter stemme, seggende, $Psalm 22.2. Matth. 27.46.$ ELOI, ELOI, LAMMA SABACHTHANI, ’t Welck is, overgeset zijnde, Mijn Godt, Mijn Godt, waerom hebt ghy my verlaten?",
+      "final_text": "En op het negende uur riep Jezus met luide stem: $Ps. 22:2; Mt. 27:46$ ELOI, ELOI, LAMMA SABACHTHANI, wat vertaald is: Mijn God, Mijn God, waarom hebt U Mij verlaten?",
+      "source_text": "καί τινες τῶν παρεστηκότων ἀκούσαντες ἔλεγον, Ἰδού, Ἠλίαν φωνεῖ."
+    },
+    {
+      "verse_number": 35,
+      "original_text": "Ende sommige van die daer by stonden, [dit] hoorende seyden, Siet, hy roept Eliam.",
+      "final_text": "En sommigen van hen die erbij stonden, zeiden, toen zij [dit] hoorden: Zie, hij roept Elia.",
+      "source_text": "καί τινες τῶν παρεστηκότων ἀκούσαντες ἔλεγον, Ἰδού, Ἠλίαν φωνεῖ."
+    },
+    {
+      "verse_number": 36,
+      "original_text": "$Psalm 69.22. Ioan. 19.29.$ Ende daer liep een, ende vulde een spongie met edick, ende <Ofte, leydense om.> stackse op eenen rietstock, ende gaf hem te drincken, seggende, Houdt stil: Laet ons sien of Elias komt, om hem af te nemen.",
+      "final_text": "$Ps. 69:22; Jh. 19:29$ En er liep iemand heen, vulde een spons met azijn, stak die <Of: legde ze om.> op een rietstok, en gaf hem te drinken, en zei: Wacht, laten wij zien of Elia komt om hem eraf te nemen.",
+      "source_text": "δραμὼν δὲ εἷς, καὶ γεμίσας σπόγγον ὄξους, περιθείς τε καλάμῳ, ἐπότιζεν αὐτόν, λέγων, Ἄφετε, ἴδωμεν εἰ ἔρχεται Ἠλίας καθελεῖν αὐτόν."
+    },
+    {
+      "verse_number": 37,
+      "original_text": "Ende Iesus een groote stemme van [hem] gegeven hebbende, gaf den geest.",
+      "final_text": "En nadat Jezus met luide stem geroepen had, gaf Hij de geest.",
+      "source_text": "ὁ δὲ Ἰησοῦς ἀφεὶς φωνὴν μεγάλην ἐξέπνευσε."
+    },
+    {
+      "verse_number": 38,
+      "original_text": "$2.Paral. 3.14. Matth. 27.51. Luce 23.45.$ Ende <Siet hier van Matth. 27.51.> ’t voorhanghsel des tempels scheurde in tween, van boven tot beneden.",
+      "final_text": "$2Kr. 3:14; Mt. 27:51; Lk. 23:45$ En <Zie hiervoor Mt. 27:51.> het voorhangsel van de tempel scheurde in tweeën, van boven tot beneden.",
+      "source_text": "καὶ τὸ καταπέτασμα τοῦ ναοῦ ἐσχίσθη εἰς δύο ἀπὸ ἄνωθεν ἕως κάτω."
+    },
+    {
+      "verse_number": 39,
+      "original_text": "$Matth. 27.54. Luce 23.47.$ Ende de Hooftman over hondert, die daer by tegen over hem stont, siende dat hy <Nam. met sulcken stercken stemme, Hebr. 5.7. ende dat hy daer op soo terstont gestorven was. Ende daer by siende de mirakelen, die daer op geschiedden, gelijck verhaelt wort Matth. 27.54.> alsoo roepende den geest gegeven hadde, seyde, Waerlick dese mensche was Godts Sone.",
+      "final_text": "$Mt. 27:54; Lk. 23:47$ En de Hoofdman over honderd, die daar tegenover hem stond, toen hij zag dat hij <Namelijk met zo'n sterke stem, Hb. 5:7; en dat hij daarop zo direct gestorven was. En daarbij de wonderen zag, die daarop gebeurden, zoals verhaald wordt in Mt. 27:54.> zo roepend de geest gegeven had, zei: Waarlijk, deze mens was Gods Zoon.",
+      "source_text": "ἰδὼν δὲ ὁ κεντυρίων ὁ παρεστηκὼς ἐξ ἐναντίας αὐτοῦ ὅτι οὕτω κράξας ἐξέπνευσεν, εἶπεν, Ἀληθῶς ὁ ἄνθρωπος οὗτος Υἱὸς ἦν Θεοῦ."
+    },
+    {
+      "verse_number": 40,
+      "original_text": "$Matth. 27.55. Luce 23.49.$ Ende daer waren oock vrouwen $Psalm 38.12.$ van verre [dit] aenschouwende, onder welcke oock was Maria Magdalene, ende <De huysvrouwe Alphei. siet Matth. cap. 10. vers 3. ende cap. 27. vers 56.> Maria Iacobi <D. des jongeren, die alsoo toegenaemt wiert tot onderscheyt van een ander Iacobus die Zebedei sone was: ofte van sijnen oom, de broeder Alphei, gelijck sommige meynen.> des kleynen, ende Iose moeder, ende <Dese is geweest de huysvrouwe van Zebedeus, gelijck blijckt uyt dese plaetse, vergeleecken met Matth. 27.56.> Salome.",
+      "final_text": "$Mt. 27:55; Lk. 23:49$ En daar waren ook vrouwen die $Ps. 38:12$ van verre [dit] aanschouwden, onder wie ook Maria Magdalena was, en <De vrouw van Alfeüs. Zie Mt. 10:3 en 27:56.> Maria van Jakobus <Dat is: van de jongere, die zo genoemd werd tot onderscheid van een andere Jakobus die de zoon van Zebedeüs was: of van zijn oom, de broeder van Alfeüs, zoals sommigen menen.> de kleine, en de moeder van Joses, en <Deze is geweest de vrouw van Zebedeüs, zoals blijkt uit deze plaats, vergeleken met Mt. 27:56.> Salome.",
+      "source_text": "ἦσαν δὲ καὶ γυναῖκες ἀπὸ μακρόθεν θεωροῦσαι, ἐν αἷς ἦν καὶ Μαρία ἡ Μαγδαληνή, καὶ Μαρία ἡ τοῦ Ἰακώβου τοῦ μικροῦ καὶ Ἰωσῆ μήτηρ, καὶ Σαλώμη,"
+    },
+    {
+      "verse_number": 41,
+      "original_text": "Welcke oock, doe hy in Galilea was, hem waren gevolght, ende $Luce 8.2, 3.$ hem gedient hadden, ende vele andere [vrouwen,] die met hem na Ierusalem opgekomen waren.",
+      "final_text": "Die ook, toen Hij in Galilea was, hem waren gevolgd, en $Lk. 8:2, 3$ hem gediend hadden; en vele andere [vrouwen] die met hem naar Jeruzalem waren gekomen.",
+      "source_text": "αἳ καί, ὅτε ἦν ἐν τῇ Γαλιλαίᾳ, ἠκολούθουν αὐτῷ, καὶ διηκόνουν αὐτῷ, καὶ ἄλλαι πολλαὶ αἱ συναναβᾶσαι αὐτῷ εἰς Ἱεροσόλυμα."
+    },
+    {
+      "verse_number": 42,
+      "original_text": "$Matth. 27.57. Luce 23.50. Ioan. 19 38.$ Ende als het nu <Namel. op den dagh voor den Sabbath.> avont was geworden, dewijle het <Namelick, van het Pascha, ’t welck de Ioden op die reyse hadden uytgestelt tot op den Sabbath. De redenen hier van worden verhaelt in d’aenteeckeninge op Matth. 26.20.> de voorbereydinge was, welcke is de voor-Sabbath,",
+      "final_text": "$Mt. 27:57; Lk. 23:50; Jh. 19:38$ En toen het nu <Namelijk op de dag voor de sabbat.> avond was geworden, omdat het <Namelijk van het Pascha, wat de Joden bij die gelegenheid hadden uitgesteld tot op de sabbat. De redenen hiervan worden vermeld in de aantekening bij Mt. 26:20.> de voorbereiding was, dat is de voorsabbat,",
+      "source_text": "Καὶ ἤδη ὀψίας γενομένης, ἐπεὶ ἦν Παρασκευή, ὅ ἐστι προσάββατον,"
+    },
+    {
+      "verse_number": 43,
+      "original_text": "Quam Ioseph, die van Arimathea [was,] een eerlick Raetsheer, die oock selve <Namelick, dat door den Messiam soude opgerecht worden, Luce 2.25, 38.> het Koninckrijcke Godts was verwachtende, ende hem verstoutende gingh hy in tot Pilatum, ende begeerde het lichaem Iesu.",
+      "final_text": "kwam Jozef van Arimatea, een aanzienlijk raadsheer, die ook zelf <Namelijk, dat door de Messias zou worden opgericht, Lk. 2:25, 38.> het Koninkrijk van God verwachtte; en hij vatte moed, ging naar binnen bij Pilatus, en vroeg om het lichaam van Jezus.",
+      "source_text": "ἦλθεν Ἰωσὴφ ὁ ἀπὸ Ἀριμαθαίας, εὐσχήμων βουλευτής, ὃς καὶ αὐτὸς ἦν προσδεχόμενος τὴν βασιλείαν τοῦ Θεοῦ· τολμήσας εἰσῆλθε πρὸς Πιλάτον, καὶ ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ."
+    },
+    {
+      "verse_number": 44,
+      "original_text": "Ende Pilatus verwonderde hem, dat <Gr. Of, indien.> hy alreede gestorven was: ende den Hooftman over hondert tot hem geroepen hebbende vraeghde hem, of hy lange gestorven was.",
+      "final_text": "En Pilatus verwonderde zich dat <Grieks: Of, indien.> hij al gestorven was; en nadat hij de Hoofdman over honderd bij zich geroepen had, vroeg hij hem of hij al lang gestorven was.",
+      "source_text": "ὁ δὲ Πιλάτος ἐθαύμασεν εἰ ἤδη τέθνηκε· καὶ προσκαλεσάμενος τὸν κεντυρίωνα, ἐπηρώτησεν αὐτὸν εἰ πάλαι ἀπέθανε."
+    },
+    {
+      "verse_number": 45,
+      "original_text": "Ende als hy het van den Hooftman over hondert verstaen hadde, schonck hy Ioseph het lichaem.",
+      "final_text": "En toen hij het van de Hoofdman over honderd vernomen had, schonk hij Jozef het lichaam.",
+      "source_text": "καὶ γνοὺς ἀπὸ τοῦ κεντυρίωνος, ἐδωρήσατο τὸ σῶμα τῷ Ἰωσήφ."
+    },
+    {
+      "verse_number": 46,
+      "original_text": "Ende hy kocht fijn lijnwaet, ende hem afgenomen hebbende, wandt [hem] in dat fijn lijnwaet, ende $Matth. 12.40. ende 26.12. ende 27.60. Luce 23.53.$ leyde hem in een graf, het welck <Dat is, uytgehouwen in een steenrotze, gelijck staet Matth. 27.60.> uyt een steenrotze gehouwen was: ende hy wentelde eenen steen tegen de deure des grafs.",
+      "final_text": "En hij kocht fijn linnen, en toen hij hem afgenomen had, wikkelde hij [hem] in dat fijne linnen, en $Mt. 12:40; 26:12; 27:60; Lk. 23:53$ legde hem in een graf, dat <Dat is, uitgehouwen in een rots, zoals staat in Mt. 27:60.> uit een rots gehouwen was; en hij wentelde een steen voor de ingang van het graf.",
+      "source_text": "καὶ ἀγοράσας σινδόνα, καὶ καθελὼν αὐτόν, ἐνείλησε τῇ σινδόνι, καὶ κατέθηκεν αὐτὸν ἐν μνημείῳ, ὃ ἦν λελατομημένον ἐκ πέτρας· καὶ προσεκύλισε λίθον ἐπὶ τὴν θύραν τοῦ μνημείου."
+    },
+    {
+      "verse_number": 47,
+      "original_text": "Ende <Siet het voorgaende 40 vers> Maria Magdalene, ende Maria [de moeder] Iose aenschouwden, waer hy geleght wiert.",
+      "final_text": "En <Zie het voorgaande vers 40> Maria Magdalena en Maria, [de moeder] van Joses, keken toe waar hij gelegd werd.",
+      "source_text": "ἡ δὲ Μαρία ἡ Μαγδαληνὴ καὶ Μαρία Ἰωσῆ ἐθεώρουν ποῦ τίθεται."
+    }
+  ],
+  "epilogue": {
+    "original": "",
+    "final": ""
+  }
+}
