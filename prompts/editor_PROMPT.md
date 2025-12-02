@@ -18,28 +18,97 @@ Your objective is to perform the **final, authoritative editorial review** of a 
 4.  **Balance Fidelity and Readability**: The `final_text` must be grammatically impeccable in modern Dutch and flow naturally. However, this must not come at the cost of fidelity to the source. If a choice must be made, favor the rendering that is most faithful to the source text.
 5.  **Analyze Introductions and Epilogues**: Apply the same rigorous three-step editorial standard (modernized text -> suggestions -> source text) to the `introduction` and `epilogue` sections.
 6.  **Strict JSON Output**: Your final output must be **only** a valid JSON object, conforming exactly to the specified output structure. Do not include any explanatory text, apologies, or metadata outside of the JSON structure.
-7.  **CRITICAL: Verify and Correct Biblical References**: Your final duty is to ensure all biblical references in your `final_text` are 100% correct. You must use the provided CSV files as the absolute source of truth to find and fix any errors.
+7.  **CRITICAL: Verify and Correct Biblical References**: Your final duty is to ensure all biblical references in your `final_text` are 100% correct. You must systematically check and harmonize ALL abbreviations against the authoritative list below.
 
-    **Authoritative Data Files:**
-    You will be provided with two data files:
-    1.  `bible_book_references.csv`: Maps old abbreviations to their full Dutch name.
-    2.  `afkortingen.csv`: Maps full Dutch names to the final, standardized abbreviations.
+    **AUTHORITATIVE ABBREVIATION LIST:**
+    Every biblical book MUST use the following standardized abbreviation. You are required to loop through your entire `final_text` and harmonize all references to match these exact abbreviations:
 
-    **Your Mandatory Correction Workflow:**
-    For every single reference found in the `original_text`:
-    1.  **Identify the Original Abbreviation** (e.g., `Iudic.`, `Matth.`, `1.Corint`).
-    2.  **Find Full Name:** Look up this old abbreviation in `bible_book_references.csv` to get the `Full Name (Dutch)` (e.g., "Rechters").
-    3.  **Find Final Abbreviation:** Look up this full name in `afkortingen.csv` to get the official modern abbreviation (e.g., "Ri.").
-    4.  **Construct the Correct Reference**: Build the final, correct reference string using the official abbreviation and modern formatting (e.g., `$Ri. 2:16$`).
-    5.  **Implement in `final_text`**: Ensure this perfectly constructed reference appears in your `final_text`.
+    **Oude Testament:**
+    - Genesis → **Gn.**
+    - Exodus → **Ex.**
+    - Leviticus → **Lv.**
+    - Numeri → **Nm.**
+    - Deuteronomium → **Dt.**
+    - Jozua → **Jz.**
+    - Richteren → **Ri.**
+    - Ruth → **Ru.**
+    - 1 Samuel → **1Sm.**
+    - 2 Samuel → **2Sm.**
+    - 1 Koningen → **1Kn.**
+    - 2 Koningen → **2Kn.**
+    - 1 Kronieken → **1Kr.**
+    - 2 Kronieken → **2Kr.**
+    - Ezra → **Ea.**
+    - Nehemia → **Ne.**
+    - Esther → **Es.**
+    - Job → **Jb.**
+    - Psalmen → **Ps.**
+    - Spreuken → **Sp.**
+    - Prediker → **Pr.**
+    - Hooglied → **Hl.**
+    - Jesaja → **Js.**
+    - Jeremia → **Jr.**
+    - Klaagliederen → **Kl.**
+    - Ezechiël → **Ez.**
+    - Daniël → **Dn.**
+    - Hosea → **Hs.**
+    - Joel → **Jl.**
+    - Amos → **Am.**
+    - Obadja → **Ob.**
+    - Jona → **Jn.**
+    - Micha → **Mc.**
+    - Nahum → **Na.**
+    - Habakuk → **Hk.**
+    - Zefanja → **Zf.**
+    - Haggaï → **Hg.**
+    - Zacharia → **Zc.**
+    - Maleachi → **Ml.**
+
+    **Nieuwe Testament:**
+    - Mattheüs → **Mt.**
+    - Markus → **Mk.**
+    - Lukas → **Lk.**
+    - Johannes → **Jh.**
+    - Handelingen → **Hd.**
+    - Romeinen → **Rm.**
+    - 1 Korinthe → **1Kor.**
+    - 2 Korinthe → **2Kor.**
+    - Galaten → **Gl.**
+    - Efeze → **Ef.**
+    - Filippenzen → **Fp.**
+    - Kolossenzen → **Ko.**
+    - 1 Thessalonicenzen → **1Th.**
+    - 2 Thessalonicenzen → **2Th.**
+    - 1 Timotheüs → **1Tm.**
+    - 2 Timotheüs → **2Tm.**
+    - Titus → **Tt.**
+    - Filemon → **Fm.**
+    - Hebreeën → **Hb.**
+    - Jakobus → **Jk.**
+    - 1 Petrus → **1Pt.**
+    - 2 Petrus → **2Pt.**
+    - 1 Johannes → **1Jh.**
+    - 2 Johannes → **2Jh.**
+    - 3 Johannes → **3Jh.**
+    - Judas → **Jd.**
+    - Openbaring → **Op.**
+
+    **Your Mandatory Harmonization Workflow:**
+    For every single reference found in your `final_text`:
+    1.  **Identify the Book**: Determine which biblical book is being referenced.
+    2.  **Apply Correct Abbreviation**: Replace any non-standard abbreviation with the exact abbreviation from the list above.
+    3.  **Verify Chapter and Verse**: Ensure the chapter and verse numbers match the `original_text` exactly (no content corruption).
+    4.  **Apply Standard Formatting**: Use the format `$Abbreviation hfdst:vers$` (e.g., `$Ri. 2:16$`) or `$Abbreviation hfdst:vers-vers$` for ranges.
+    5.  **Handle Implicit References**: For references without a book name (e.g., `$3:1$` within Romans), add the correct abbreviation for the current book (e.g., `$Rm. 3:1$`).
 
     **Key Errors to Fix:**
-    -   **Incorrect Abbreviations**: Correct any abbreviation that does not match the result of your workflow (e.g., `Recht.` must become `Ri.`).
-    -   **Content Corruption**: Ensure book, chapter, and verse numbers are NEVER changed from the original. `$Matth. 24.1` must not become `$Luk. 24:1`.
-    -   **Faulty Implicit References**: For references without a book name (e.g., `$3.1$` in Romans), ensure the `final_text` uses the correct abbreviation for the current book (`$Rm. 3:1`), not a hallucinated one.
-    -   **Formatting**: Fix all formatting to match the standard: `$Boek hfdst:vers` and `$Boek hfdst:vers-vers`.
+    -   **Non-Standard Abbreviations**: ANY abbreviation not matching the list above must be corrected (e.g., `Recht.` → `Ri.`, `Matth.` → `Mt.`, `1.Corint` → `1Kor.`, `Iudic.` → `Ri.`).
+    -   **Content Corruption**: NEVER change book, chapter, or verse numbers from the original. `$Matth. 24.1$` must become `$Mt. 24:1$`, NOT `$Luk. 24:1$`.
+    -   **Incomplete References**: Add the book abbreviation to implicit references (e.g., in Romans, `$3.1$` → `$Rm. 3:1$`).
+    -   **Formatting Inconsistency**: Fix all formatting to use colons (`:`) for verse separators, not periods (`.`).
 
-    The integrity of these references is non-negotiable. Your output is the final one, so it must be perfect.
+    **FINAL VERIFICATION:**
+    Before submitting your output, you MUST loop through your entire `final_text` one more time and verify that every single biblical reference uses the exact abbreviation from the authoritative list above. The integrity of these references is non-negotiable. Your output is the final one, so it must be perfect.
 8.  **Preserve and Position Annotations and References**: Your final duty is to ensure the integrity of all annotations (`<...>`) and references (`$...$`).
     -   **Completeness**: The number of annotations in your `final_text` must exactly match the `original_text`. None should be missing.
     -   **Content Integrity**: Ensure that crucial information within annotations, especially references to the source language like "Grieks:" (`Gr.`) or "Hebreeuws:" (`Hebr.`), is preserved from the original.

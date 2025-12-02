@@ -208,14 +208,24 @@ Gebruik deze categorieën voor het `type`-veld in `changes`:
 - **Rationale**: Dit is belangrijke metatekst die de keuzes van de oorspronkelijke vertalers documenteert en moet behouden blijven.
 
 #### 1.5 Respecteer Originele Hoofdletters
-**BELANGRIJK**: Respecteer het hoofdlettergebruik van de SV1657 PRECIES.
-- **Actie**: Introduceer geen 'eerbiedshoofdletters'. Moderniseer `sijn` naar `zijn` (niet `Zijn`), `hy` naar `hij` (niet `Hij`), enzovoort, tenzij het woord in de originele tekst expliciet een hoofdletter heeft.
-- **KRITISCH - Behoud van bestaande hoofdletters**: Als een woord in de originele tekst een hoofdletter heeft, moet de gemoderniseerde versie ook een hoofdletter hebben.
-  - **Voorbeeld**: `Antichrist` → `Antichrist` (NIET `antichrist`)
-  - **Voorbeeld**: `Antichristen` → `Antichristen` (NIET `antichristen`)
-  - Dit geldt voor ALLE woorden, inclusief theologische termen, eigennamen, en andere zelfstandige naamwoorden.
-- **Uitzondering**: Theologische kerntermen zoals `HEERE` en `Heere` moeten ongewijzigd blijven zoals gespecificeerd in sectie 2.4. Deze regel is primair van toepassing op voornaamwoorden en andere zelfstandige naamwoorden waar de originele tekst geen hoofdletter gebruikt.
-- **Rationale**: Het verwijderen van hoofdletters is een inhoudelijke wijziging die de keuzes van de oorspronkelijke vertalers niet respecteert. Hoofdletters hebben vaak theologische of tekstuele betekenis.
+**KRITISCH BELANGRIJK**: Respecteer het hoofdlettergebruik van de SV1657 PRECIES. Dit is een absolute vereiste.
+
+**TWEE REGELS:**
+
+1. **GEEN nieuwe hoofdletters toevoegen**: Introduceer geen 'eerbiedshoofdletters'. Moderniseer `sijn` naar `zijn` (niet `Zijn`), `hy` naar `hij` (niet `Hij`), `god` naar `god` (niet `God`), enzovoort, tenzij het woord in de originele tekst expliciet een hoofdletter heeft.
+
+2. **BEHOUD bestaande hoofdletters**: Als een woord in de originele tekst een hoofdletter heeft, MOET de gemoderniseerde versie OOK een hoofdletter hebben. Dit geldt voor ALLE woorden zonder uitzondering.
+   - **Voorbeeld**: `Apostel` → **`Apostel`** (NOOIT `apostel`)
+   - **Voorbeeld**: `Antichrist` → **`Antichrist`** (NOOIT `antichrist`)
+   - **Voorbeeld**: `Antichristen` → **`Antichristen`** (NOOIT `antichristen`)
+   - **Voorbeeld**: `Woord` → **`Woord`** (NOOIT `woord`)
+   - **Voorbeeld**: `Profeet` → **`Profeet`** (NOOIT `profeet`)
+
+**CONTROLE VEREIST**: Controleer bij IEDER zelfstandig naamwoord in de originele tekst of het een hoofdletter heeft. Zo ja, behoud deze hoofdletter in de modernisering.
+
+**UITZONDERING**: Theologische kerntermen zoals `HEERE` en `Heere` moeten volledig ongewijzigd blijven zoals gespecificeerd in sectie 2.4.
+
+**RATIONALE**: Het verwijderen van hoofdletters is een inhoudelijke wijziging die de keuzes van de oorspronkelijke vertalers niet respecteert. Hoofdletters hebben vaak theologische of tekstuele betekenis. De SV1657-vertalers gebruikten bewust hoofdletters om bepaalde concepten te benadrukken.
 
 ---
 
@@ -263,6 +273,18 @@ Gebruik deze categorieën voor het `type`-veld in `changes`:
 
 **LET OP:** Vervang deze woorden consistent door het hele hoofdstuk.
 
+#### 2.1.1 Voorzetsels moderniseren
+
+Moderniseer ook archaïsche voorzetsels naar hedendaags gebruik:
+
+| Archaïsch gebruik | Hedendaags |
+|-------------------|------------|
+| de aantekening op [bijbelplaats] | de aantekening bij [bijbelplaats] |
+| op [bijbelvers] (in verwijzingen) | bij [bijbelvers] |
+
+**Voorbeeld:**
+- "Zie de aantekening op Joh. 1:1" → "Zie de aantekening bij Joh. 1:1"
+
 #### 2.2 Gebruik NBV21 voor hedendaagse klankkleur
 
 Raadpleeg de NBV21-vertaling om te zien hoe moderne, natuurlijke formuleringen eruit zien. De NBV21 kan inspiratie bieden voor:
@@ -306,17 +328,21 @@ Raadpleeg de NBV21-vertaling om te zien hoe moderne, natuurlijke formuleringen e
 
 #### 2.4 Theologische kerntermen (NIET wijzigen)
 
-Behoud de volgende termen **exact** zoals in SV1657:
+Behoud de volgende termen **exact** zoals in SV1657, **inclusief hoofdlettergebruik**:
 - HEERE (met hoofdletters, voor JHWH)
 - Heere (voor Adonai)
 - Almachtige / Schaddai
 - Namen van God (God, Elohim, enz.)
 - Messias, Christus, Antichrist, Satan
-- Apostel, discipel
-- Evangelie
-- Genade, heil, verlossing, rechtvaardigheid
-- Verbond, wet, gebod
+- Apostel, discipel (behoud hoofdletters: `Apostel` blijft `Apostel`, `Discipel` blijft `Discipel`)
+- Evangelie (behoud hoofdletter indien aanwezig)
+- Genade, heil, verlossing, rechtvaardigheid (behoud hoofdletters indien aanwezig)
+- Verbond, wet, gebod (behoud hoofdletters indien aanwezig)
 - Vlees (als theologische term, Gr. sarx)
+- Profeet, Profeten (behoud hoofdletters indien aanwezig)
+- Woord (als verwijzing naar Logos/Schrift, behoud hoofdletter indien aanwezig)
+
+**LET OP**: Als deze termen in de originele tekst met een hoofdletter geschreven zijn, MOET je de hoofdletter behouden in de modernisering. Bijvoorbeeld: `Apostel` → `Apostel` (NOOIT `apostel`).
 
 ---
 
@@ -497,7 +523,7 @@ Moderniseer **alle kanttekeningen** volledig volgens dezelfde principes:
 
 Behoud en moderniseer consistentie:
 
-- `D.` → "Dat is,"
+- `D.` → "dat is," (lowercase, tenzij aan het begin van een zin)
 - `Gr.` → "Grieks:"
 - `Hebr.` → "Hebreeuws:"
 - `Ofte` → "Of:"
@@ -608,6 +634,7 @@ Voer de volgende controles uit voordat je de JSON terugstuurt:
 - [ ] Spelling volgens moderne regels
 - [ ] Interpunctie volgens hedendaagse normen
 - [ ] Zinnen begrijpelijk en niet overlang
+- [ ] **KRITISCH**: Alle hoofdletters uit originele tekst behouden (bijv. `Apostel` blijft `Apostel`, NIET `apostel`)
 
 ### 4. Technische validatie
 - [ ] JSON syntactisch correct (geen afsluitende komma's)
@@ -701,7 +728,7 @@ Als de invoer ongeldig is, stuur dan een foutmelding in JSON-formaat:
     {
       "verse_number": 1,
       "original_text": "In de dagen, als de <Siet Iudic. 2. op vers 16.> Richters richteden, soo geschiedde 't, datter honger in den <Canaan. Vergel. Iudic. 6.4, 6.> lande was: daerom toogh een man van <Siet Iudic. 12. op vers 8.> Bethlehem Iuda, om als vreemdelingh te verkeeren in de <D. in't lant der Moabiten, die van Lot afkomstigh waren, Deut. 2.9.> velden Moabs, hy, ende sijne huysvrouwe, ende sijne twee sonen.",
-      "modernized_text": "In de tijd dat de <Zie Ri. 2:16> rechters het volk leidden, zo gebeurde het dat er honger in het <Kanaän. Vergelijk Ri. 6:4, 6.> land was. Daarom vertrok een man uit <Zie Ri. 12:8> Betlehem in Juda, om als vreemdeling te verblijven in de <Dat is, in het land van de Moabieten, die van Lot afkomstig waren, Dt. 2:9.> vlakte van Moab, hij, en zijn vrouw, en zijn twee zonen.",
+      "modernized_text": "In de tijd dat de <Zie Ri. 2:16> rechters het volk leidden, zo gebeurde het dat er honger in het <Kanaän. Vergelijk Ri. 6:4, 6.> land was. Daarom vertrok een man uit <Zie Ri. 12:8> Betlehem in Juda, om als vreemdeling te verblijven in de <dat is, in het land van de Moabieten, die van Lot afkomstig waren, Dt. 2:9.> vlakte van Moab, hij, en zijn vrouw, en zijn twee zonen.",
       "source_text": "וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ...",
       "changes": [
         {"type": "reference", "from": "Iudic.", "to": "Ri.", "reason": "Gestandaardiseerde afkorting volgens lijst"},
@@ -716,7 +743,7 @@ Als de invoer ongeldig is, stuur dan een foutmelding in JSON-formaat:
         {"type": "lexicon", "from": "vreemdelingh", "to": "vreemdeling", "reason": "Moderne spelling"},
         {"type": "lexicon", "from": "verkeeren", "to": "verblijven", "reason": "Hedendaags lexicon"},
         {"type": "lexicon", "from": "velden Moabs", "to": "vlakte van Moab", "reason": "NBV21-terminologie voor geografische term"},
-        {"type": "annotation", "from": "D. in't lant der Moabiten", "to": "Dat is, in het land van de Moabieten", "reason": "Afkorting uitgeschreven, moderne spelling en naamval"},
+        {"type": "annotation", "from": "D. in't lant der Moabiten", "to": "dat is, in het land van de Moabieten", "reason": "Afkorting uitgeschreven, moderne spelling en naamval"},
         {"type": "lexicon", "from": "afkomstigh", "to": "afkomstig", "reason": "Moderne spelling"},
         {"type": "reference", "from": "Deut. 2.9.", "to": "Dt. 2:9.", "reason": "Gestandaardiseerde afkorting en notatie"},
         {"type": "lexicon", "from": "hy", "to": "hij", "reason": "Moderne spelling"},
