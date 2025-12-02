@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "book": "Markus",
+    "book_code": "MARC",
+    "chapter": 7,
+    "translation_policy": "Statenvertaling 1657 → Hedendaags Nederlands (redactie)",
+    "source_language": "Grieks (Textus Receptus)",
+    "notes": "Redactie voltooid door de virtuele editor, met de nadruk op trouw aan de brontekst."
+  },
+  "introduction": {
+    "original": "1 De Pharizeen ende Schriftgeleerde berispen de discipelen Christi, datse met ongewasschen handen aten. 6 Welcke Christus verantwoort, ende bestraft der Pharizeen geveynstheyt in hare uytwendige wasschingen. 9 Ende verwerpt hare menschelicke insettingen, insonderheyt in de verklaringe van het vijfde gebodt. 14 Leert wat den mensche eygentlick ontreynight, ofte niet. 24 Werpt eenen duyvel uyt de dochter van een vrouwe uyt Syrophenicien. 31 Geneest eenen dooven ende stommen. 37 Ende wort daer over seer gepresen.",
+    "final": "1 De Farizeeën en Schriftgeleerden berispen de discipelen van Christus, dat zij met ongewassen handen aten. 6 Waarop Christus antwoordt, en de huichelarij van de Farizeeën in hun uitwendige wassingen bestraft. 9 En verwerpt hun menselijke instellingen, in het bijzonder in de verklaring van het vijfde gebod. 14 Leert wat de mens eigenlijk verontreinigt, of niet. 24 Drijft een duivel uit de dochter van een vrouw uit Syro-Fenicië. 31 Geneest een dove en stomme. 37 En wordt daarover zeer geprezen."
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "original_text": "$Matth. 15.1.$ ENde tot hem vergaderden de Pharizeen, ende sommige der Schriftgeleerde, <Namelick, van de kloeckste ende bitterste, daer toe van Ierusalem uytgesonden, om op sijne leere ende wercken te letten, ende die te berispen, ende by het volck verdacht te maken.> die van Ierusalem gekomen waren.",
+      "final_text": "$Mt. 15:1$ En de Farizeeën en sommigen van de Schriftgeleerden, die uit Jeruzalem gekomen waren, verzamelden zich bij hem <Namelijk, van de bekwaamste en felste, daartoe vanuit Jeruzalem uitgezonden, om op zijn leer en werken te letten, en die te berispen, en bij het volk verdacht te maken.>.",
+      "source_text": "Καὶ συνάγονται πρὸς αὐτὸν οἱ Φαρισαῖοι, καί τινες τῶν γραμματέων, ἐλθόντες ἀπὸ Ἱεροσολύμων·"
+    },
+    {
+      "verse_number": 2,
+      "original_text": "Ende siende dat sommige van sijne discipelen met <Gr. gemeyne: alsoo wort doorgaens genaemt het gene onreyn ofte onheyligh is. siet Act. 10. vers 14. Want de Pharizeen meenden als sy yet gemeyns mochten aengetast hebben, hoewel het in de wet niet en was voor onreyn verklaert, datse evenwel onreyn ofte onheyligh waren, soo lange sy niet weder gewasschen en waren, het welck Christus hier bestraft, niet om de burgerlicke eerbaerheyt in het wasschen van de handen voor ’t eten, maer om hare superstitien ende geveynstheyt te wederspreken.> onreyne, dat is, met ongewasschen handen <D. spijse.> broot aten, <Ofte, klaeghden daer over.> berispten sy [haer.]",
+      "final_text": "En toen zij zagen dat sommigen van zijn discipelen met <Grieks: gemene; zo wordt doorgaans genoemd wat onrein of onheilig is. Zie Hd. 10:14. Want de Farizeeën meenden als zij iets gemeens mochten aangeraakt hebben, hoewel het in de wet niet voor onrein verklaard was, dat zij toch onrein of onheilig waren, zolang zij niet weer gewassen waren, hetgeen Christus hier bestraft, niet om de burgerlijke eerbaarheid in het wassen van de handen voor het eten, maar om hun bijgeloof en huichelarij te weerspreken.> onreine, dat is met ongewassen handen <dat is, voedsel.> brood aten, <Of: klaagden daarover.> berispten zij [hen].",
+      "source_text": "καὶ ἰδόντες τινὰς τῶν μαθητῶν αὐτοῦ κοιναῖς χερσί, τοῦτ’ ἔστιν ἀνίπτοις, ἐσθίοντας ἄρτους ἐμέμψαντο."
+    },
+    {
+      "verse_number": 3,
+      "original_text": "Want de Pharizeen ende alle de Ioden en eten niet, ’t en zy dat sy [eerst] de handen <Of, met de vuyst, gelijck de gene die hare handen wel schoon willen wasschen, met de vuyst in de hant plachten te wrijven. Ofte, neerstelick, ofte, tot den elleboge toe, gelijck sommige getuygen der Ioden gewoonte geweest te zijn.> dickmael wasschen, <Gr. vasthoudende de overleveringe.> houdende de insettinge der <Of, der Ouderlingen.> Ouden.",
+      "final_text": "Want de Farizeeën en alle Joden eten niet, tenzij zij [eerst] de handen <Of: met de vuist, zoals degenen die hun handen heel schoon willen wassen, met de vuist in de hand plachten te wrijven. Of: naarstig, of: tot de elleboog toe, zoals sommigen getuigen de gewoonte van de Joden geweest te zijn.> dikwijls wassen, <Grieks: vasthoudende de overlevering.> terwijl zij vasthouden aan de overlevering van de oudsten.",
+      "source_text": "οἱ γὰρ Φαρισαῖοι καὶ πάντες οἱ Ἰουδαῖοι, ἐὰν μὴ πυγμῇ νίψωνται τὰς χεῖρας, οὐκ ἐσθίουσι, κρατοῦντες τὴν παράδοσιν τῶν πρεσβυτέρων·"
+    },
+    {
+      "verse_number": 4,
+      "original_text": "Ende van de <Om datse daer met allerley soorten van menschen als Heydenen ende andere handelden, ende andere dingen aenraeckten, waer door sy meynden ontreynight te zijn.> merckt [komende] en eten sy niet, ’t en zy datse [eerst] <Gr. gedoopt, het welck indoopen in het water, ende oock afwasschen beteeckent, waer van den Heyligen Doop sijnen naem heeft.> gewasschen zijn. Ende vele andere dingen zijnder, die sy aengenomen hebben te houden, [als namelick] de wasschingen der drinckbekeren, <Het Griecks woort Xestes, beteeckent het seste part van een Congius, Dat is, ontrent ander half pinte na onse mate.> ende kannen, ende kopere vaten, ende <Dat is, de bedsteden, ofte de sponden van de beddekens, daer op de oude om te eten aen de tafel lagen ofte leenden, in plaetse dat wy aensitten.> bedden.",
+      "final_text": "En als zij van de markt [komen], eten zij niet, tenzij zij [eerst] <Grieks: gedoopt, hetgeen indopen in het water, en ook afwassen betekent, waarvan de Heilige Doop zijn naam heeft.> gewassen zijn. En vele andere dingen zijn er, die zij aangenomen hebben om te onderhouden, [als namelijk] de wassing van de kannen en drinkbekers, <Het Griekse woord Xestes betekent het zesde deel van een Congius. Dat is ongeveer anderhalve pint naar onze maat.> en kannen, en koperen vaten, en <Dat is, de bedsteden, of de randen van de bedjes, waarop de ouden om te eten aan de tafel lagen of leunden, in plaats dat wij aanzitten.> bedden.",
+      "source_text": "καὶ ἀπὸ ἀγορᾶς, ἐὰν μὴ βαπτίσωνται, οὐκ ἐσθίουσι· καὶ ἄλλα πολλά ἐστιν ἃ παρέλαβον κρατεῖν, βαπτισμοὺς ποτηρίων καὶ ξεστῶν καὶ χαλκίων καὶ κλινῶν."
+    },
+    {
+      "verse_number": 5,
+      "original_text": "Daer na vraeghden hem de Pharizeen ende de Schriftgeleerde, Waerom en <Dat is, leven: een Hebreeusche maniere van spreken, gelijck Psalm 1. vers 1. ende doorgaens.> wandelen uwe discipelen niet na de insettinge der <Ofte, der Ouderlingen.> Ouden, maer eten het broot met ongewasschen handen?",
+      "final_text": "Daarna vroegen de Farizeeën en de Schriftgeleerden hem: Waarom <Dat is, leven: een Hebreeuwse manier van spreken, zoals Ps. 1:1 en doorgaans.> wandelen uw discipelen niet volgens de overlevering van de oudsten, maar eten het brood met ongewassen handen?",
+      "source_text": "ἔπειτα ἐπερωτῶσιν αὐτὸν οἱ Φαρισαῖοι καὶ οἱ γραμματεῖς, Διατί οἱ μαθηταί σου οὐ περιπατοῦσι κατὰ τὴν παράδοσιν τῶν πρεσβυτέρων, ἀλλὰ ἀνίπτοις χερσὶν ἐσθίουσι τὸν ἄρτον;"
+    },
+    {
+      "verse_number": 6,
+      "original_text": "Maer hy antwoordde ende seyde tot haer, <Siet van dese geheele antwoorde de aenteeck. op Matth. 15. vers 7, etc.> Wel heeft Esaias van u geveynsde gepropheteert, gelijck geschreven is, $Iesa. 29.13. Ezech. 33.31.$ Dit volck eert my met de lippen, maer haer herte <Dat is, is verre van my.> houdt hem verre van my.",
+      "final_text": "Maar hij antwoordde en zei tegen hen: <Zie van dit gehele antwoord de aantekening bij Mt. 15:7, enz.> Terecht heeft Jesaja over u, huichelaars, geprofeteerd, zoals geschreven is: $Js. 29:13; Ez. 33:31$ Dit volk eert mij met de lippen, maar hun hart <Dat is, is ver van mij.> houdt zich ver van mij.",
+      "source_text": "ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς ὅτι Καλῶς προεφήτευσεν Ἠσαΐας περὶ ὑμῶν τῶν ὑποκριτῶν, ὡς γέγραπται, Οὗτος ὁ λαὸς τοῖς χείλεσί με τιμᾷ, ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ’ ἐμοῦ."
+    },
+    {
+      "verse_number": 7,
+      "original_text": "$Matth. cap. 15. vers 9. Coloss. 2.18, 20. Tit. 1.14.$ Doch te <Dat is, sonder vrucht, alsoo sulcken dienst den Heere niet aengenaem en is.> vergeefs <Ofte, dienen.> eeren sy my leerende leeringen, [die] geboden [zijn] der menschen.",
+      "final_text": "$Mt. 15:9; Ko. 2:18, 20; Tt. 1:14$ Maar tevergeefs <Dat is, zonder vrucht, aangezien zo'n dienst de Heere niet aangenaam is.> eren zij mij, <Of: dienen.> terwijl zij leringen onderwijzen [die] geboden van mensen [zijn].",
+      "source_text": "μάτην δὲ σέβονταί με, διδάσκοντες διδασκαλίας ἐντάλματα ἀνθρώπων."
+    },
+    {
+      "verse_number": 8,
+      "original_text": "Want nalatende het gebodt Godts, houdt ghy de insettingen der menschen, [als namelick] wasschinge der kannen, ende drinckbekers, ende andere diergelijcke dingen doet ghy vele.",
+      "final_text": "Want terwijl u het gebod van God nalaat, houdt u vast aan de overlevering van de mensen, [als namelijk] de wassing van de kannen en drinkbekers; en veel andere dergelijke dingen doet u.",
+      "source_text": "ἀφέντες γὰρ τὴν ἐντολὴν τοῦ Θεοῦ, κρατεῖτε τὴν παράδοσιν τῶν ἀνθρώπων, βαπτισμοὺς ξεστῶν καὶ ποτηρίων· καὶ ἄλλα παρόμοια τοιαῦτα πολλὰ ποιεῖτε."
+    },
+    {
+      "verse_number": 9,
+      "original_text": "Ende hy seyde tot haer, Ghy doet [seker] Godts gebodt wel te niete, op dat ghy uwe insettinge soudet onderhouden.",
+      "final_text": "En hij zei tegen hen: U doet [zeker] Gods gebod wel teniet, opdat u uw overlevering zou onderhouden.",
+      "source_text": "καὶ ἔλεγεν αὐτοῖς, Καλῶς ἀθετεῖτε τὴν ἐντολὴν τοῦ Θεοῦ, ἵνα τὴν παράδοσιν ὑμῶν τηρήσητε."
+    },
+    {
+      "verse_number": 10,
+      "original_text": "Want Moses heeft geseght, $Exod. 20.13. Deuter. 5.16. Ephes. 6.2.$ Eert uwen vader ende uwe moeder. Ende, $Exod. 21.17. Levit. 20.9. Deuter. 27.16. Proverb. 20.20.$ Wie vader ofte moeder <D. met quade woorden aengaet, scheldende ofte dreygende.> vloeckt, die sal den doot sterven.",
+      "final_text": "Want Mozes heeft gezegd: $Ex. 20:13; Dt. 5:16; Ef. 6:2$ Eer uw vader en uw moeder. En: $Ex. 21:17; Lv. 20:9; Dt. 27:16; Spr. 20:20$ Wie vader of moeder <Dat is, met kwade woorden bejegent, scheldende of dreigende.> vloekt, die zal de dood sterven.",
+      "source_text": "Μωσῆς γὰρ εἶπε, Τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου· καί, Ὁ κακολογῶν πατέρα ἢ μητέρα θανάτῳ τελευτάτω·"
+    },
+    {
+      "verse_number": 11,
+      "original_text": "Maer ghylieden seght, Soo een mensche tot vader ofte moeder seght, <Of, de Corban, D. gave die van my geoffert wort, sal u te nutte komen. Siet hier van de aent. op Matth. 15.5. Of, ’t zy Corban, ’t gene u van my soude mogen te nutte komen.> [het is] Corban (dat is [te seggen] een gave) soo wat u van my soude konnen te nutte komen, [die voldoet,]",
+      "final_text": "Maar u zegt: Als een mens tegen vader of moeder zegt: <Of: de Korban, dat is, gave die door mij geofferd wordt, zal u ten goede komen. Zie hiervan de aantekening bij Mt. 15:5. Of: hetzij Korban, hetgeen u van mij zou mogen ten goede komen.> [het is] Korban (dat wil zeggen een gave), wat u van mij ten goede zou kunnen komen, [die voldoet,]",
+      "source_text": "ὑμεῖς δὲ λέγετε, Ἐὰν εἴπῃ ἄνθρωπος τῷ πατρὶ ἢ τῇ μητρί, Κορβᾶν ὅ ἐστι, δῶρον, ὃ ἐὰν ἐξ ἐμοῦ ὠφεληθῇς·"
+    },
+    {
+      "verse_number": 12,
+      "original_text": "Ende ghy en laet hem niet meer toe, yet aen sijnen vader ofte sijne moeder te doen.",
+      "final_text": "En u laat hem niet meer toe, iets voor zijn vader of zijn moeder te doen.",
+      "source_text": "καὶ οὐκέτι ἀφίετε αὐτὸν οὐδὲν ποιῆσαι τῷ πατρὶ αὐτοῦ ἢ τῇ μητρὶ αὐτοῦ,"
+    },
+    {
+      "verse_number": 13,
+      "original_text": "$Matth. 15.6. 1.Timoth. 4.3. 2.Timoth. 3.2.$ <Gr. afkeurende, ofte, sijn aensien ende kracht benemende.> Makende [alsoo] Godts woort krachteloos door uwe insettinge, die ghy ingeset hebt, ende diergelijcke dingen doet ghy vele.",
+      "final_text": "$Mt. 15:6; 1Tm. 4:3; 2Tm. 3:2$ <Grieks: afkeurende, of: zijn aanzien en kracht benemende.> Zo maakt u [aldus] Gods Woord krachteloos door uw overlevering, die u overgeleverd hebt; en dergelijke dingen doet u veel.",
+      "source_text": "ἀκυροῦντες τὸν λόγον τοῦ Θεοῦ τῇ παραδόσει ὑμῶν ᾗ παρεδώκατε· καὶ παρόμοια τοιαῦτα πολλὰ ποιεῖτε."
+    },
+    {
+      "verse_number": 14,
+      "original_text": "$Matth. 15.10.$ Ende tot hem de gantsche schare geroepen hebbende, seyde hy tot haer, Hoort my alle ende verstaet:",
+      "final_text": "$Mt. 15:10$ En toen hij de hele menigte bij zich geroepen had, zei hij tegen hen: Luister allen naar mij en begrijp:",
+      "source_text": "καὶ προσκαλεσάμενος πάντα τὸν ὄχλον, ἔλεγεν αὐτοῖς, Ἀκούετέ μου πάντες, καὶ συνίετε."
+    },
+    {
+      "verse_number": 15,
+      "original_text": "$Actor. 10.15. Rom. 14.17, 20. Tit. 1.15.$ Daer en is <Nam. van spijse ofte dranck, matelick ende met dancksegginge gebruyckt zijnde, 1.Tim. 4.4.> niet van buyten den mensche in hem ingaende, ’t welck hem kan <Gr. gemeyn maken.> ontreynigen. Maer de dingen die van hem uytgaen, die zijn het welcke den mensche ontreynigen.",
+      "final_text": "$Hd. 10:15; Rm. 14:17, 20; Tt. 1:15$ Er is <Namelijk van voedsel of drank, als het met mate en met dankzegging gebruikt wordt, 1Tm. 4:4.> niets dat van buiten de mens in hem komt, wat hem kan <Grieks: gemeen maken.> verontreinigen. Maar de dingen die uit hem komen, die zijn het die de mens verontreinigen.",
+      "source_text": "οὐδέν ἐστιν ἔξωθεν τοῦ ἀνθρώπου εἰσπορευόμενον εἰς αὐτόν, ὃ δύναται αὐτὸν κοινῶσαι· ἀλλὰ τὰ ἐκπορευόμενα ἀπ’ αὐτοῦ, ἐκεῖνά ἐστι τὰ κοινοῦντα τὸν ἄνθρωπον."
+    },
+    {
+      "verse_number": 16,
+      "original_text": "<Siet Matth. 11. vers 15.> Soo yemant ooren heeft om te hooren, die hoore.",
+      "final_text": "<Zie Mt. 11:15> Als iemand oren heeft om te horen, laat hij horen.",
+      "source_text": "εἴ τις ἔχει ὦτα ἀκούειν ἀκουέτω."
+    },
+    {
+      "verse_number": 17,
+      "original_text": "$Matth. 15.15.$ Ende doe hy van de schare in huys gekomen was, vraeghden hem sijne discipelen van de <Gr. Parabel, welck woort beteeckent niet alleen eene gelijckenisse, maer oock eene bysondere leeringe ofte spreucke.> gelijckenisse.",
+      "final_text": "$Mt. 15:15$ En toen hij bij de menigte vandaan in huis gekomen was, vroegen zijn discipelen hem naar de <Grieks: Parabel, welk woord niet alleen een gelijkenis betekent, maar ook een bijzondere lering of spreuk.> gelijkenis.",
+      "source_text": "καὶ ὅτε εἰσῆλθεν εἰς οἶκον ἀπὸ τοῦ ὄχλου, ἐπηρώτων αὐτὸν οἱ μαθηταὶ αὐτοῦ περὶ τῆς παραβολῆς."
+    },
+    {
+      "verse_number": 18,
+      "original_text": "Ende hy seyde tot haer, Zijt oock ghy alsoo onwetende? En verstaet ghy niet, dat al wat van buyten in den mensche ingaet, hem niet en kan ontreynigen?",
+      "final_text": "En hij zei tegen hen: Bent u ook zo onwetend? Begrijpt u niet dat alles wat van buiten in de mens komt, hem niet kan verontreinigen?",
+      "source_text": "καὶ λέγει αὐτοῖς, Οὕτω καὶ ὑμεῖς ἀσύνετοί ἐστε; οὐ νοεῖτε ὅτι πᾶν τὸ ἔξωθεν εἰσπορευόμενον εἰς τὸν ἄνθρωπον οὐ δύναται αὐτὸν κοινῶσαι,"
+    },
+    {
+      "verse_number": 19,
+      "original_text": "Want het en gaet niet in sijn herte, maer in den buyck, ende gaet in de heymelickheyt uyt, <D. ’t gene onbequaem is tot voedsel, wort daer door als onreyn uytgeworpen, ende wort het blijvende voedsel daer door gereynight.> reynigende alle de spijsen.",
+      "final_text": "Want het gaat niet in zijn hart, maar in de buik, en gaat uit in het privaat, <dat is, hetgeen ongeschikt is tot voedsel, wordt daardoor als onrein uitgeworpen, en wordt het blijvende voedsel daardoor gereinigd.> en reinigt zo al het voedsel.",
+      "source_text": "ὅτι οὐκ εἰσπορεύεται αὐτοῦ εἰς τὴν καρδίαν, ἀλλ’ εἰς τὴν κοιλίαν· καὶ εἰς τὸν ἀφεδρῶνα ἐκπορεύεται, καθαρίζον πάντα τὰ βρώματα."
+    },
+    {
+      "verse_number": 20,
+      "original_text": "Ende hy seyde, Het gene uytgaet uyt den mensche, dat ontreynight den mensche.",
+      "final_text": "En hij zei: Wat uit de mens komt, dat verontreinigt de mens.",
+      "source_text": "ἔλεγε δὲ ὅτι Τὸ ἐκ τοῦ ἀνθρώπου ἐκπορευόμενον, ἐκεῖνο κοινοῖ τὸν ἄνθρωπον."
+    },
+    {
+      "verse_number": 21,
+      "original_text": "$Genes. 6.5. ende 8.21. Ierem. 17.9. Proverb. 6.14.$ Want van binnen uyt het herte der menschen komen voort, quade <Of, overleggingen, overdenckingen, of, t’samensprekingen.> gedachten, overspelen, hoererijen, dootslagen,",
+      "final_text": "$Gn. 6:5; Gn. 8:21; Jr. 17:9; Spr. 6:14$ Want van binnenuit, uit het hart van de mensen, komen voort: kwade <Of: overleggingen, overdenkingen, of: samensprekingen.> gedachten, overspel, hoererij, doodslag,",
+      "source_text": "ἔσωθεν γάρ, ἐκ τῆς καρδίας τῶν ἀνθρώπων, οἱ διαλογισμοὶ οἱ κακοὶ ἐκπορεύονται, μοιχεῖαι, πορνεῖαι, φόνοι,"
+    },
+    {
+      "verse_number": 22,
+      "original_text": "Dieverijen, <Ofte, begeerten van altijt meer ende meer te hebben.> gierigheden, boosheden, bedrogh, <Of, dertelheyt, geyligheyt.> ontuchtigheyt, <D. nijdigheyt, ofte afgunstigheyt. siet Matth. 20.15.> boose ooge, lasteringe, hoovaerdije, <Of, dwaesheyt.> onverstant.",
+      "final_text": "Diefstal, <Of: begeerten om altijd meer en meer te hebben.> hebzucht, slechtheid, bedrog, <Of: dertelheid, geiligheid.> ontucht, <dat is, nijdigheid of afgunstigheid; zie Mt. 20:15.> een boos oog, laster, hoogmoed, <Of: dwaasheid.> onverstand.",
+      "source_text": "κλοπαί, πλεονεξίαι, πονηρίαι, δόλος, ἀσέλγεια, ὀφθαλμὸς πονηρός, βλασφημία, ὑπερηφανία, ἀφροσύνη·"
+    },
+    {
+      "verse_number": 23,
+      "original_text": "Alle dese boose dingen <Dat is, hebben haren oorspronck in het herte, ende worden daer na uyterlick volbracht. Siet Iacob. 1.15.> komen voort van binnen, ende ontreynigen den mensche.",
+      "final_text": "Al deze slechte dingen <Namelijk: hebben hun oorsprong in het hart, en worden daarna uiterlijk volbracht. Zie Jk. 1:15.> komen van binnenuit voort, en verontreinigen de mens.",
+      "source_text": "πάντα ταῦτα τὰ πονηρὰ ἔσωθεν ἐκπορεύεται, καὶ κοινοῖ τὸν ἄνθρωπον."
+    },
+    {
+      "verse_number": 24,
+      "original_text": "$Matth. 15.21.$ Ende van daer opstaende gingh hy wech <D. tot ontrent. Want Christus en schijnt selve noyt in de steden der Heydenen gepredickt te hebben. Siet vers 27, ende 31. Matth. 15. vers 24.> na de lantpalen van Tyrus ende Sidon: ende in een huys gegaen zijnde, en wilde hy niet dat het yemant wiste, ende hy en konde [nochtans] niet verborgen zijn.",
+      "final_text": "$Mt. 15:21$ En hij stond op en vertrok vandaar <dat is, tot in de buurt. Want Christus schijnt zelf nooit in de steden van de heidenen gepreekt te hebben. Zie vers 27 en 31; Mt. 15:24.> naar het grensgebied van Tyrus en Sidon. En toen hij een huis was binnengegaan, wilde hij niet dat iemand het wist, maar hij kon [toch] niet verborgen blijven.",
+      "source_text": "Καὶ ἐκεῖθεν ἀναστὰς ἀπῆλθεν εἰς τὰ μεθόρια Τύρου καὶ Σιδῶνος. καὶ εἰσελθὼν εἰς τὴν οἰκίαν, οὐδένα ἤθελε γνῶναι, καὶ οὐκ ἠδυνήθη λαθεῖν."
+    },
+    {
+      "verse_number": 25,
+      "original_text": "Want een vrouwe, welckers dochterken eenen onreynen geest hadde, van hem gehoort hebbende, quam ende viel neder aen sijne voeten.",
+      "final_text": "Want een vrouw van wie het dochtertje een onreine geest had, die van hem gehoord had, kwam en viel aan zijn voeten neer.",
+      "source_text": "ἀκούσασα γὰρ γυνὴ περὶ αὐτοῦ, ἧς εἶχε τὸ θυγάτριον αὐτῆς πνεῦμα ἀκάθαρτον, ἐλθοῦσα προσέπεσε πρὸς τοὺς πόδας αὐτοῦ·"
+    },
+    {
+      "verse_number": 26,
+      "original_text": "Dese nu was een <D. Heydensche: gelijck de Ioden ende Griecken doorgaens tegen malkanderen gestelt worden.> Griecksche vrouwe, <D. van afkomste.> van geboorte uyt <Want Tyrus ende Sidon waren gelegen in Phenicien, welck een deel van Syrien was, gelegen aen de Middelantsche zee.> Syrophenicien, ende sy badt hem, dat hy den duyvel uytwierpe uyt hare dochter.",
+      "final_text": "Deze nu was een <dat is, heidense: zoals de Joden en Grieken doorgaans tegenover elkaar gesteld worden.> Griekse vrouw, <dat is, van afkomst.> van geboorte uit <Want Tyrus en Sidon lagen in Fenicië, wat een deel van Syrië was, gelegen aan de Middellandse Zee.> Syro-Fenicië; en zij bad hem dat hij de duivel uit haar dochter zou uitwerpen.",
+      "source_text": "ἦν δὲ ἡ γυνὴ Ἑλληνίς, Συροφοίνισσα τῷ γένει· καὶ ἠρώτα αὐτὸν ἵνα τὸ δαιμόνιον ἐκβάλλῃ ἐκ τῆς θυγατρὸς αὐτῆς."
+    },
+    {
+      "verse_number": 27,
+      "original_text": "Maer Iesus seyde tot haer, Laet eerst de kinderen verzadight worden: Want het en is niet <Gr. eerlick, ofte, goet.> betamelick, dat men het broot der kinderen neme, ende den <Siet Matth. cap. 15. vers 26.> hondekens [voor] werpe.",
+      "final_text": "Maar Jezus zei tegen haar: Laat eerst de kinderen verzadigd worden; want het is niet <Grieks: eerlijk, of: goed.> betamelijk dat men het brood van de kinderen neemt en het de <Zie Mt. 15:26> hondjes [voor]werpt.",
+      "source_text": "ὁ δὲ Ἰησοῦς εἶπεν αὐτῇ, Ἄφες πρῶτον χορτασθῆναι τὰ τέκνα· οὐ γὰρ καλόν ἐστι λαβεῖν τὸν ἄρτον τῶν τέκνων καὶ βαλεῖν τοῖς κυναρίοις."
+    },
+    {
+      "verse_number": 28,
+      "original_text": "Maer sy antwoordde ende seyde tot hem, Ia Heere, doch oock de hondekens eten onder de tafel van de kruymkens der kinderen.",
+      "final_text": "Maar zij antwoordde en zei tegen hem: Ja, Heere, toch eten ook de hondjes onder de tafel van de kruimels van de kinderen.",
+      "source_text": "ἡ δὲ ἀπεκρίθη καὶ λέγει αὐτῷ, Ναί, Κύριε· καὶ γὰρ τὰ κυνάρια ὑποκάτω τῆς τραπέζης ἐσθίει ἀπὸ τῶν ψιχίων τῶν παιδίων."
+    },
+    {
+      "verse_number": 29,
+      "original_text": "Ende hy seyde tot haer, Om deses <Namel. waer mede ghy u geloove ende betrouwen op my betuyght hebt.> woorts wille gaet henen, de duyvel is uyt uwe dochter uytgevaren.",
+      "final_text": "En hij zei tegen haar: Omwille van dit <Namelijk: waarmee u uw geloof en vertrouwen op mij betuigd hebt.> woord, ga heen; de duivel is uit uw dochter uitgegaan.",
+      "source_text": "καὶ εἶπεν αὐτῇ, Διὰ τοῦτον τὸν λόγον ὕπαγε· ἐξελήλυθε τὸ δαιμόνιον ἐκ τῆς θυγατρός σου."
+    },
+    {
+      "verse_number": 30,
+      "original_text": "Ende als sy in haer huys quam, vondt sy dat de duyvel <Gr. uytgegaen.> uytgevaren was, ende de dochter <Gr. geworpen.> liggende op het bedde.",
+      "final_text": "En toen zij in haar huis kwam, vond zij dat de duivel <Grieks: uitgegaan.> uitgegaan was, en de dochter <Grieks: geworpen.> op het bed lag.",
+      "source_text": "καὶ ἀπελθοῦσα εἰς τὸν οἶκον αὐτῆς, εὗρε τὸ δαιμόνιον ἐξεληλυθός, καὶ τὴν θυγατέρα βεβλημένην ἐπὶ τῆς κλίνης."
+    },
+    {
+      "verse_number": 31,
+      "original_text": "$Matth. 15.29.$ Ende hy wederom wech gegaen zijnde van de lantpalen Tyri ende Sidonis, quam aen de zee van Galilea, door het midden der lantpalen van <Siet van dit lant Matth. 4.25.> Decapolis.",
+      "final_text": "$Mt. 15:29$ En toen hij weer weggegaan was uit het gebied van Tyrus en Sidon, kwam hij aan de zee van Galilea, dwars door het gebied van <Zie over dit land Mt. 4:25.> Dekapolis.",
+      "source_text": "Καὶ πάλιν ἐξελθὼν ἐκ τῶν ὁρίων Τύρου καὶ Σιδῶνος, ἦλθε πρὸς τὴν θάλασσαν τῆς Γαλιλαίας, ἀνὰ μέσον τῶν ὁρίων Δεκαπόλεως."
+    },
+    {
+      "verse_number": 32,
+      "original_text": "$Matth. 9.32. Luce 11.14.$ Ende sy brachten tot hem eenen dooven, die swaerlick sprack, ende baden hem dat hy <Namelick, om hem te genesen: alsoo hy gewoon was sulcks met oplegginge sijner handen, aenraken, ende andere uytwendige teeckenen te doen.> de hant op hem leyde.",
+      "final_text": "$Mt. 9:32; Lk. 11:14$ En zij brachten een dove die moeilijk sprak bij hem, en smeekten hem dat hij <Namelijk, om hem te genezen: zoals hij gewend was zoiets met oplegging van zijn handen, aanraken, en andere uitwendige tekenen te doen.> de hand op hem legde.",
+      "source_text": "καὶ φέρουσιν αὐτῷ κωφὸν μογιλάλον, καὶ παρακαλοῦσιν αὐτὸν ἵνα ἐπιθῇ αὐτῷ τὴν χεῖρα."
+    },
+    {
+      "verse_number": 33,
+      "original_text": "Ende hem van der schare <Ofte, bezijden.> alleen genomen hebbende, <Dese teeckenen heeft Christus gebruyckt, om dat tusschen deselve, ende de kracht Godts, in het doorbooren van de ooren, ende losmakinge van de tonge eenige gelijckenisse is.> stack hy sijne vingeren in sijne ooren, ende gespogen hebbende raeckte hy sijne tonge aen.",
+      "final_text": "En nadat hij hem uit de menigte <Of: opzij.> apart genomen had, <Deze tekenen heeft Christus gebruikt, omdat er tussen deze en de kracht van God, in het doorboren van de oren en het losmaken van de tong enige gelijkenis is.> stak hij zijn vingers in zijn oren, en nadat hij gespuugd had, raakte hij zijn tong aan.",
+      "source_text": "καὶ ἀπολαβόμενος αὐτὸν ἀπὸ τοῦ ὄχλου κατ’ ἰδίαν, ἔβαλε τοὺς δακτύλους αὐτοῦ εἰς τὰ ὦτα αὐτοῦ, καὶ πτύσας ἥψατο τῆς γλώσσης αὐτοῦ,"
+    },
+    {
+      "verse_number": 34,
+      "original_text": "Ende <Namelick, om sijnen Vader te bidden, gelijck te sien is Ioan. 11.41.> opwaerts siende na den hemel, <Namelick, uyt medelijden over de elende der menschen, waer van dese man als een spiegel was.> suchtede hy, ende seyde tot hem, Ephphatha, dat is, wort geopent.",
+      "final_text": "En terwijl hij <Namelijk, om zijn Vader te bidden, zoals te zien is in Jh. 11:41.> opkeek naar de hemel, <Namelijk, uit medelijden over de ellende van de mensen, waarvan deze man als een spiegel was.> zuchtte hij, en zei tegen hem: \"Effata\", dat is: \"Word geopend!\"",
+      "source_text": "καὶ ἀναβλέψας εἰς τὸν οὐρανόν, ἐστέναξε, καὶ λέγει αὐτῷ, Ἐφφαθά, ὅ ἐστι, Διανοίχθητι."
+    },
+    {
+      "verse_number": 35,
+      "original_text": "Ende terstont wierden sijne ooren geopent, ende de bandt sijner tonge wiert los, ende hy sprack recht.",
+      "final_text": "En onmiddellijk werden zijn oren geopend, en de band van zijn tong raakte los, en hij sprak goed.",
+      "source_text": "καὶ εὐθέως διηνοίχθησαν αὐτοῦ αἱ ἀκοαί· καὶ ἐλύθη ὁ δεσμὸς τῆς γλώσσης αὐτοῦ, καὶ ἐλάλει ὀρθῶς."
+    },
+    {
+      "verse_number": 36,
+      "original_text": "Ende hy geboodt henlieden dat sy het <De reden hier van siet Matth. 12. vers 16.> niemant seggen en souden: maer wat hy haer oock geboodt, soo verkondighden sy het des te <Gr. overvloediger.> meer.",
+      "final_text": "En hij gebood hun dat zij het <De reden hiervan zie Mt. 12:16.> niemand zouden zeggen; maar hoeveel hij hun ook gebood, zij verkondigden het des te <Grieks: overvloediger.> meer.",
+      "source_text": "καὶ διεστείλατο αὐτοῖς ἵνα μηδενὶ εἴπωσιν· ὅσον δὲ αὐτὸς αὐτοῖς διεστέλλετο, μᾶλλον περισσότερον ἐκήρυσσον."
+    },
+    {
+      "verse_number": 37,
+      "original_text": "Ende sy ontsetteden haer boven maten seer, seggende, $Genes. 1.31.$ Hy heeft alles wel gedaen, ende hy maeckt dat de doove hooren, ende de stomme spreken.",
+      "final_text": "En zij stonden bovenmate versteld en zeiden: \"$Gn. 1:31$ Hij heeft alles goed gedaan; en hij laat de doven horen en de stommen spreken.\"",
+      "source_text": "καὶ ὑπερπερισσῶς ἐξεπλήσσοντο, λέγοντες, Καλῶς πάντα πεποίηκε· καὶ τοὺς κωφοὺς ποιεῖ ἀκούειν, καὶ τοὺς ἀλάλους λαλεῖν."
+    }
+  ],
+  "epilogue": {
+    "original": "",
+    "final": ""
+  }
+}
