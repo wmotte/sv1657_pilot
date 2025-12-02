@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "book": "Markus",
+    "book_code": "MRK",
+    "chapter": 12,
+    "translation_policy": "Statenvertaling 1657 → Hedendaags Nederlands (redactie)",
+    "source_language": "Grieks (Textus Receptus)",
+    "notes": "Redactie voltooid door de virtuele editor, met de nadruk op trouw aan de brontekst."
+  },
+  "introduction": {
+    "original": "1 Door de gelijckenisse van eenen wijngaert verhuert aen de lantlieden, die haers heeren dienstknechten ende sone mishandelden ende doodden, verkondight Christus den Ioden hare verwerpinge ende ondergangh. 13 Beantwoort de vrage, of ’t geoorloft is den Keyser schattinge te geven. 18 Gelijck oock de vrage der Sadduceen van een vrouwe die seven mans gehadt hadde, ende bewijst tegen henlieden de opstandinge uyt den dooden. 28 Verklaert welck het grootste gebodt is. 35 Leert dat de Messias beyde een Heere ende een sone Davids is. 38 Waerschouwt sijne toehoorders voor de eergierigheyt ende geveynstheyt der Schriftgeleerde. 41 Prijst de geringe aelmoesse van een arme weduwe.",
+    "final": "1 Door de gelijkenis van een wijngaard, verhuurd aan de landbouwers die de dienstknechten en zoon van hun heer mishandelden en doodden, verkondigt Christus aan de Joden hun verwerping en ondergang. 13 Beantwoordt de vraag of het geoorloofd is de Keizer belasting te geven. 18 Evenzo ook de vraag van de Sadduceeën over een vrouw die zeven mannen had gehad, en bewijst tegenover hen de opstanding uit de doden. 28 Verklaart wat het grootste gebod is. 35 Leert dat de Messias zowel een Heere als een zoon van David is. 38 Waarschuwt zijn toehoorders voor de eerzucht en huichelarij van de Schriftgeleerden. 41 Prijst de geringe aalmoes van een arme weduwe."
+  },
+  "verses": [
+    {
+      "verse_number": 1,
+      "original_text": "$Matth. 21.33. Luce 20.9.$ ENde hy begon door <Gr. parabelen. siet daer van de verklaringe Matth. 13.3.> gelijckenissen tot haer te seggen, <Van dese gelijckenisse siet de verklaringe Matth. 21.33.> Een mensche $Psalm 80.9. Iesa. 5.1. Ierem. 2.21. ende 12.10.$ plantede eenen wijngaert, ende settede eenen <Ofte, heyninge, hegge.> tuyn daer om, ende groef eenen <Namel. daer de wijn onder de persse in loopt, ende vergadert wort.> wijnparsback, ende bouwde eenen toren, ende <Gr. gaf uyt.> verhuerde dien aen <Of, lantbouwers, waer door hier voornamelick wijngaerdeniers verstaen worden.> de lantlieden, ende reysde buyten lants.",
+      "final_text": "$Mt. 21:33; Lc. 20:9$ En hij begon door <Grieks: parabels. Zie daarvan de verklaring bij Mt. 13:3.> gelijkenissen tegen hen te zeggen: <Van deze gelijkenis zie de verklaring bij Mt. 21:33.> Een mens `$Ps. 80:9; Js. 5:1; Jr. 2:21; Jr. 12:10$` plantte een wijngaard, en zette er een <Of: heining, heg.> omheining omheen, en groef een <Namelijk waar de wijn onder de pers in loopt, en verzameld wordt.> wijnpersbak, en bouwde een toren, en <Grieks: gaf uit.> verhuurde die aan <Of: landbouwers, waardoor hier voornamelijk wijngaardeniers verstaan worden.> de landbouwers, en ging naar het buitenland.",
+      "source_text": "Καὶ ἤρξατο αὐτοῖς ἐν παραβολαῖς λέγειν, Ἀμπελῶνα ἐφύτευσεν ἄνθρωπος, καὶ περιέθηκε φραγμόν, καὶ ὤρυξεν ὑπολήνιον, καὶ ᾠκοδόμησε πύργον, καὶ ἐξέδοτο αὐτὸν γεωργοῖς, καὶ ἀπεδήμησε."
+    },
+    {
+      "verse_number": 2,
+      "original_text": "Ende als de <D. ter bequamer ofte rechter tijt, als de vruchten rijp zijnde ingesamelt waren.> tijt was, sondt hy eenen dienstknecht tot de lantlieden, op dat hy van de lantlieden ontfinge van de vrucht des wijngaert.",
+      "final_text": "En toen het de <dat is, op de geschikte of juiste tijd, toen de vruchten rijp waren en ingezameld werden.> tijd was, zond hij een dienstknecht naar de landbouwers, opdat hij van de landbouwers van de vrucht van de wijngaard zou ontvangen.",
+      "source_text": "καὶ ἀπέστειλε πρὸς τοὺς γεωργοὺς τῷ καιρῷ δοῦλον, ἵνα παρὰ τῶν γεωργῶν λάβῃ ἀπὸ τοῦ καρποῦ τοῦ ἀμπελῶνος."
+    },
+    {
+      "verse_number": 3,
+      "original_text": "Maer sy namen ende sloegen hem, ende sonden [hem] ledigh henen.",
+      "final_text": "Maar zij grepen en sloegen hem, en zonden [hem] met lege handen weg.",
+      "source_text": "οἱ δὲ λαβόντες αὐτὸν ἔδειραν, καὶ ἀπέστειλαν κενόν."
+    },
+    {
+      "verse_number": 4,
+      "original_text": "Ende hy sondt wederom eenen anderen dienstknecht tot haer, ende dien steenighden sy, ende wondeden hem ’t hooft, ende sonden [hem] henen <Gr. onteert.> schandelick gehandelt zijnde.",
+      "final_text": "En hij zond opnieuw een andere dienstknecht naar hen toe; en die stenigden zij, en verwondden hem aan het hoofd, en zonden [hem] weg, <Grieks: onteerd.> schandelijk behandeld.",
+      "source_text": "καὶ πάλιν ἀπέστειλε πρὸς αὐτοὺς ἄλλον δοῦλον· κἀκεῖνον λιθοβολήσαντες ἐκεφαλαίωσαν, καὶ ἀπέστειλαν ἠτιμωμένον."
+    },
+    {
+      "verse_number": 5,
+      "original_text": "Ende wederom sondt hy eenen anderen, ende dien doodden sy: ende vele andere, [waer van] sy de sommige sloegen, ende de sommige doodden.",
+      "final_text": "En opnieuw zond hij een ander, en die doodden zij; en vele anderen, [waarvan] zij er sommigen sloegen, en sommigen doodden.",
+      "source_text": "καὶ πάλιν ἄλλον ἀπέστειλε· κἀκεῖνον ἀπέκτειναν· καὶ πολλοὺς ἄλλους, τοὺς μὲν δέροντες, τοὺς δὲ ἀποκτείνοντες."
+    },
+    {
+      "verse_number": 6,
+      "original_text": "Als hy dan noch eenen sone hadde, die hem lief was, soo heeft hy oock dien <Gr. den laetsten.> ten laetsten tot haer gesonden, seggende, Sy sullen immers mijnen sone ontsien.",
+      "final_text": "Omdat hij dan nog een zoon had, die hem lief was, heeft hij ook die <Grieks: de laatste.> als laatste naar hen toe gezonden, en zei: Zij zullen immers mijn zoon ontzien.",
+      "source_text": "ἔτι οὖν ἕνα υἱὸν ἔχων ἀγαπητὸν αὐτοῦ, ἀπέστειλε καὶ αὐτὸν πρὸς αὐτοὺς ἔσχατον, λέγων ὅτι Ἐντραπήσονται τὸν υἱόν μου."
+    },
+    {
+      "verse_number": 7,
+      "original_text": "Maer die lantlieden seyden onder malkanderen, $Psalm 2.8.$ Dese is d’erfgenaem, $Genes. 37.18. Matth. 26.3. Ioan. 11.53.$ komt, laet ons hem dooden, ende d’erfenisse sal onse zijn.",
+      "final_text": "Maar die landbouwers zeiden tegen elkaar: `$Ps. 2:8$` Dit is de erfgenaam; `$Gn. 37:18; Mt. 26:3; Jh. 11:53$` kom, laten wij hem doden, en de erfenis zal van ons zijn.",
+      "source_text": "ἐκεῖνοι δὲ οἱ γεωργοὶ εἶπον πρὸς ἑαυτοὺς ὅτι Οὗτός ἐστιν ὁ κληρονόμος· δεῦτε, ἀποκτείνωμεν αὐτόν, καὶ ἡμῶν ἔσται ἡ κληρονομία."
+    },
+    {
+      "verse_number": 8,
+      "original_text": "Ende sy namen ende doodden hem, ende wierpen [hem] uyt buyten den wijngaert.",
+      "final_text": "En zij grepen en doodden hem, en wierpen [hem] buiten de wijngaard.",
+      "source_text": "καὶ λαβόντες αὐτὸν ἀπέκτειναν, καὶ ἐξέβαλον ἔξω τοῦ ἀμπελῶνος."
+    },
+    {
+      "verse_number": 9,
+      "original_text": "Wat sal dan de heere des wijngaerts doen? <Dit antwoorden de Pharizeen selve op de vrage Christi by Matth. 21.41. ende wort hier Christo toegeschreven, om dat hy deselve antwoorde verhaelde, ende voor goet kende.> Hy sal komen ende de lantlieden verderven, ende den wijngaert aen andere geven.",
+      "final_text": "Wat zal dan de heer van de wijngaard doen? <Dit antwoordden de Farizeeën zelf op de vraag van Christus bij Mt. 21:41, en wordt hier aan Christus toegeschreven, omdat Hij hetzelfde antwoord herhaalde, en goedkeurde.> Hij zal komen en de landbouwers ombrengen, en de wijngaard aan anderen geven.",
+      "source_text": "τί οὖν ποιήσει ὁ κύριος τοῦ ἀμπελῶνος; ἐλεύσεται καὶ ἀπολέσει τοὺς γεωργούς, καὶ δώσει τὸν ἀμπελῶνα ἄλλοις."
+    },
+    {
+      "verse_number": 10,
+      "original_text": "En hebt ghy oock dese Schrift niet gelesen? <Siet hier van de verklaringe Matth. cap. 21. vers 42.> De $Psalm 118.22. Iesa. 28.16. Matth. 21.42. Luce 20.17. Actor. 4.11. Rom. 9.33. 1.Petr. 2.6.$ steen, dien de bouwlieden verworpen hebben, dese is geworden tot een hooft des hoecks.",
+      "final_text": "En hebt u ook deze Schriftplaats niet gelezen? <Zie hiervan de verklaring bij Mt. 21:42.> De `$Ps. 118:22; Js. 28:16; Mt. 21:42; Lc. 20:17; Hd. 4:11; Rm. 9:33; 1Pt. 2:6$` steen die de bouwers verworpen hebben, die is tot een hoeksteen geworden.",
+      "source_text": "οὐδὲ τὴν γραφὴν ταύτην ἀνέγνωτε, Λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες, οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας·"
+    },
+    {
+      "verse_number": 11,
+      "original_text": "Van den Heere is <And. dese sake, ofte, dit, namelick, hooft des hoecks, is van den Heere geworden.> dit geschiet, ende het is wonderlick in onse oogen.",
+      "final_text": "Van de Heere is <Anders: deze zaak, of: dit, namelijk hoeksteen, is van de Heere geworden.> dit geschied, en het is wonderbaarlijk in onze ogen.",
+      "source_text": "παρὰ Κυρίου ἐγένετο αὕτη, καὶ ἔστι θαυμαστὴ ἐν ὀφθαλμοῖς ἡμῶν;"
+    },
+    {
+      "verse_number": 12,
+      "original_text": "Ende sy sochten hem te vangen, maer sy vreesden de schare: want sy verstonden dat hy die gelijckenisse op haer sprack: ende sy verlieten hem ende gingen wech.",
+      "final_text": "En zij probeerden hem te grijpen, maar zij vreesden de menigte; want zij begrepen dat hij die gelijkenis tegen hen sprak; en zij verlieten hem en gingen weg.",
+      "source_text": "καὶ ἐζήτουν αὐτὸν κρατῆσαι, καὶ ἐφοβήθησαν τὸν ὄχλον· ἔγνωσαν γὰρ ὅτι πρὸς αὐτοὺς τὴν παραβολὴν εἶπε· καὶ ἀφέντες αὐτὸν ἀπῆλθον."
+    },
+    {
+      "verse_number": 13,
+      "original_text": "$Matth. 22.15. Luce 20.20.$ Ende sy sonden tot hem eenige der Pharizeen ende <Van de Herodianen siet de verklaringe op Matth. 22. vers 16.> der Herodianen, op dat sy hem <Ofte, met haren woorde, Dat is, met hare vrage.> in [sijne] reden <’t Griecks woort is genomen van de gelijckenisse van jagers, ende oock van visschers, die door stricken, netten, ende lagen het wildt, ofte de visschen vangen.> vangen souden.",
+      "final_text": "$Mt. 22:15; Lc. 20:20$ En zij zonden naar hem toe enkelen van de Farizeeën en <Van de Herodianen zie de verklaring bij Mt. 22:16.> van de Herodianen, opdat zij hem <Of: met hun woord, dat is, met hun vraag.> op [zijn] woorden <Het Griekse woord is ontleend aan het beeld van jagers, en ook van vissers, die door strikken, netten, en lagen het wild, of de vissen vangen.> zouden vangen.",
+      "source_text": "Καὶ ἀποστέλλουσι πρὸς αὐτόν τινας τῶν Φαρισαίων καὶ τῶν Ἡρωδιανῶν, ἵνα αὐτὸν ἀγρεύσωσι λόγῳ."
+    },
+    {
+      "verse_number": 14,
+      "original_text": "Dese nu quamen ende seyden tot hem, Meester, wy weten dat ghy waerachtigh zijt, ende na niemant en vraeght, want ghy en siet den <Gr. het aengesicht. Siet hier van Matth. 22.16.> persoon der menschen niet aen, maer ghy leert <Dat is, de leere, die Godt voorschrijft om tot de saligheyt te komen.> den wegh Godts in der waerheyt: Is’t geoorloft den Keyser schattinge te geven ofte niet? Sullen wy geven, ofte niet geven?",
+      "final_text": "Toen zij gekomen waren, zeiden zij tegen hem: Meester, wij weten dat u waarachtig bent, en u door niemand laat beïnvloeden; want u ziet de <Grieks: het aangezicht. Zie hiervan Mt. 22:16.> mensen niet naar de ogen, maar u leert <Dat is, de leer, die God voorschrijft om tot de zaligheid te komen.> de weg van God in waarheid. Is het geoorloofd de Keizer belasting te geven of niet? Zullen wij geven, of niet geven?",
+      "source_text": "οἱ δὲ ἐλθόντες λέγουσιν αὐτῷ, Διδάσκαλε, οἴδαμεν ὅτι ἀληθὴς εἶ, καὶ οὐ μέλει σοι περὶ οὐδενός· οὐ γὰρ βλέπεις εἰς πρόσωπον ἀνθρώπων, ἀλλ’ ἐπ’ ἀληθείας τὴν ὁδὸν τοῦ Θεοῦ διδάσκεις· ἔξεστι κῆνσον Καίσαρι δοῦναι ἢ οὔ; δῶμεν, ἢ μὴ δῶμεν;"
+    },
+    {
+      "verse_number": 15,
+      "original_text": "Ende hy wetende hare geveynstheyt seyde tot haer, Wat versoeckt ghy my? brenght my eenen <Gr. Denarius, daer van siet Matth. cap. 18. vers 28.> penningh, dat ick [hem] sie.",
+      "final_text": "En hij, die hun huichelarij kende, zei tegen hen: Waarom stelt u mij op de proef? Breng mij een <Grieks: Denarius, zie daarvan Mt. 18:28.> penning, opdat ik [hem] zie.",
+      "source_text": "ὁ δὲ εἰδὼς αὐτῶν τὴν ὑπόκρισιν εἶπεν αὐτοῖς, Τί με πειράζετε; φέρετέ μοι δηνάριον, ἵνα ἴδω."
+    },
+    {
+      "verse_number": 16,
+      "original_text": "Ende sy brachten [eenen.] Ende hy seyde tot haer, Wiens is dit beelt, ende ’t opschrift? ende sy seyden tot hem, Des Keysers.",
+      "final_text": "En zij brachten [een.] En hij zei tegen hen: Van wie is dit beeld en het opschrift? En zij zeiden tegen hem: Van de Keizer.",
+      "source_text": "οἱ δὲ ἤνεγκαν. καὶ λέγει αὐτοῖς, Τίνος ἡ εἰκὼν αὕτη καὶ ἡ ἐπιγραφή; οἱ δὲ εἶπον αὐτῷ, Καίσαρος."
+    },
+    {
+      "verse_number": 17,
+      "original_text": "Ende Iesus antwoordende seyde tot haer, $Matth. 17.25. ende 22.21. Rom. 13.7.$ Geeft dan den Keyser dat des Keysers is, ende Gode dat Godes is. Ende sy verwonderden haer over hem.",
+      "final_text": "En Jezus antwoordde en zei tegen hen: $Mt. 17:25; Mt. 22:21; Rm. 13:7$ Geef dan aan de Keizer wat van de Keizer is, en aan God wat van God is. En zij verwonderden zich over hem.",
+      "source_text": "καὶ ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν αὐτοῖς, Ἀπόδοτε τὰ Καίσαρος Καίσαρι, καὶ τὰ τοῦ Θεοῦ τῷ Θεῷ. καὶ ἐθαύμασαν ἐπ’ αὐτῷ."
+    },
+    {
+      "verse_number": 18,
+      "original_text": "$Matth. 22.23. Luce 20.27. Actor. 23.8.$ Ende de <Van de secte der Sadduceen siet Actor. 23.8.> Sadduceen quamen tot hem, welcke seggen, datter geen opstandinge en is, ende vraeghden hem, seggende,",
+      "final_text": "$Mt. 22:23; Lc. 20:27; Hd. 23:8$ En de <Over de sekte van de Sadduceeën, zie Hd. 23:8.> Sadduceeën, die zeggen dat er geen opstanding is, kwamen naar hem toe en vroegen hem:",
+      "source_text": "Καὶ ἔρχονται Σαδδουκαῖοι πρὸς αὐτόν, οἵτινες λέγουσιν ἀνάστασιν μὴ εἶναι· καὶ ἐπηρώτησαν αὐτόν, λέγοντες,"
+    },
+    {
+      "verse_number": 19,
+      "original_text": "$Deuter. 25.5, 6.$ Meester, <Dese wet behoorde tot de Politijcke wetten der Ioden, ende hadde oock yet ceremoniaels, ende heeft daerom met der Ioden Politie opgehouden.> Moses heeft ons geschreven, indien yemants broeder sterft, ende een wijf achter laet, ende geene kinderen na en laet, dat sijn broeder des selfs wijf nemen sal, ende sijnen broeder <D. eenen sone, die des afgestorvenen name voerde, ende sijn erfgenaem was.> zaet verwecken.",
+      "final_text": "$Dt. 25:5-6$ Meester, <Deze wet behoorde tot de burgerlijke wetten van de Joden, en had ook iets ceremonieels, en is daarom met de Joodse staat opgehouden.> Mozes heeft ons geschreven: als iemands broer sterft en een vrouw achterlaat, en geen kinderen nalaat, dat zijn broer diens vrouw zal nemen, en voor zijn broer <dat is, een zoon, die de naam van de overledene voerde, en zijn erfgenaam was.> nageslacht zal verwekken.",
+      "source_text": "Διδάσκαλε, Μωσῆς ἔγραψεν ἡμῖν, ὅτι ἐάν τινος ἀδελφὸς ἀποθάνῃ, καὶ καταλίπῃ γυναῖκα, καὶ τέκνα μὴ ἀφῇ, ἵνα λάβῃ ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα αὐτοῦ, καὶ ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ·"
+    },
+    {
+      "verse_number": 20,
+      "original_text": "Daer waren nu seven broeders, ende de eerste nam een wijf, ende stervende en liet geen zaet na.",
+      "final_text": "Er waren nu zeven broers; en de eerste nam een vrouw, en toen hij stierf, liet hij geen nageslacht na.",
+      "source_text": "ἑπτὰ οὖν ἀδελφοὶ ἦσαν· καὶ ὁ πρῶτος ἔλαβε γυναῖκα, καὶ ἀποθνήσκων οὐκ ἀφῆκε σπέρμα·"
+    },
+    {
+      "verse_number": 21,
+      "original_text": "De tweede nam haer oock, ende is gestorven, ende oock dese en liet geen zaet na: ende de derde desgelijcks.",
+      "final_text": "De tweede nam haar ook, en stierf, en ook deze liet geen nageslacht na; en de derde evenzo.",
+      "source_text": "καὶ ὁ δεύτερος ἔλαβεν αὐτήν, καὶ ἀπέθανε, καὶ οὐδὲ αὐτὸς ἀφῆκε σπέρμα· καὶ ὁ τρίτος ὡσαύτως."
+    },
+    {
+      "verse_number": 22,
+      "original_text": "Ende [alle] de seven namen deselve, ende en lieten geen zaet na: de laetste van allen is oock het wijf gestorven.",
+      "final_text": "En [alle] zeven namen haar, en lieten geen nageslacht na; als laatste van allen stierf ook de vrouw.",
+      "source_text": "καὶ ἔλαβον αὐτὴν οἱ ἑπτά, καὶ οὐκ ἀφῆκαν σπέρμα. ἐσχάτη πάντων ἀπέθανε καὶ ἡ γυνή."
+    },
+    {
+      "verse_number": 23,
+      "original_text": "In de opstandinge dan, wanneer sy sullen opgestaen zijn, wiens wijf sal sy van dese zijn? want die seven hebben haer tot een wijf gehadt.",
+      "final_text": "In de opstanding dan, wanneer zij opgestaan zullen zijn, van wie van hen zal zij de vrouw zijn? Want die zeven hebben haar tot vrouw gehad.",
+      "source_text": "ἐν τῇ οὖν ἀναστάσει, ὅταν ἀναστῶσι, τίνος αὐτῶν ἔσται γυνή; οἱ γὰρ ἑπτὰ ἔσχον αὐτὴν γυναῖκα."
+    },
+    {
+      "verse_number": 24,
+      "original_text": "Ende Iesus antwoordende seyde tot haer, En dwaelt ghy niet, daerom dat ghy de Schriften niet en weet, noch de kracht Godts?",
+      "final_text": "En Jezus antwoordde en zei tegen hen: Dwaalt u niet, omdat u de Schriften niet kent, en ook de kracht van God niet?",
+      "source_text": "καὶ ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν αὐτοῖς, Οὐ διὰ τοῦτο πλανᾶσθε, μὴ εἰδότες τὰς γραφάς, μηδὲ τὴν δύναμιν τοῦ Θεοῦ;"
+    },
+    {
+      "verse_number": 25,
+      "original_text": "Want als sy uyt den dooden sullen opgestaen zijn, soo en trouwen sy niet, noch en worden niet ten houwelicke gegeven: maer sy zijn $Matth. 22.30. 1.Ioan. 3.2.$ gelijck Engelen, die in de hemelen [zijn.]",
+      "final_text": "Want als zij uit de doden zullen zijn opgestaan, dan trouwen zij niet, en worden ook niet ten huwelijk gegeven, maar zij zijn $Mt. 22:30; 1Jh. 3:2$ als Engelen die in de hemelen [zijn.]",
+      "source_text": "ὅταν γὰρ ἐκ νεκρῶν ἀναστῶσιν, οὔτε γαμοῦσιν, οὔτε γαμίσκονται, ἀλλ’ εἰσὶν ὡς ἄγγελοι οἱ ἐν τοῖς οὐρανοῖς."
+    },
+    {
+      "verse_number": 26,
+      "original_text": "Doch aengaende de doode, dat sy opgeweckt sullen worden, hebt ghy niet gelesen in ’t boeck Mosis, hoe Godt in <Ofte, braembosch, ofte, braem, gelijck Luce 6.44.> den doornenbosch tot hem gesproken heeft, seggende, $Exod. 3.6. Matth. 22.31, 32. Actor. 7.32. Hebr. 11.16.$ Ick ben de Godt Abrahams, ende de Godt Isaacs, ende de Godt Iacobs?",
+      "final_text": "Maar aangaande de doden, dat zij opgewekt zullen worden, hebt u niet gelezen in het boek van Mozes, hoe God in <Of: braambos, of: braam, zoals Lc. 6:44.> het doornbos tot hem gesproken heeft, door te zeggen: $Ex. 3:6; Mt. 22:31-32; Hd. 7:32; Hb. 11:16$ Ik ben de God van Abraham, en de God van Izaäk, en de God van Jakob?",
+      "source_text": "περὶ δὲ τῶν νεκρῶν, ὅτι ἐγείρονται, οὐκ ἀνέγνωτε ἐν τῇ βίβλῳ Μωσέως, ἐπὶ τῆς βάτου, ὡς εἶπεν αὐτῷ ὁ Θεός, λέγων, Ἐγὼ ὁ Θεὸς Ἀβραάμ, καὶ ὁ Θεὸς Ἰσαάκ, καὶ ὁ Θεὸς Ἰακώβ;"
+    },
+    {
+      "verse_number": 27,
+      "original_text": "<Van den sin ende kracht van dit bewijs siet Matth. cap. 22. vers 32.> Godt en is niet een [Godt] der doode, maer een Godt der levende. Ghy dwaelt dan <Gr. veel.> seer.",
+      "final_text": "<Over de zin en kracht van dit bewijs, zie Mt. 22:32.> God is niet een [God] van de doden, maar een God van de levenden. U dwaalt dan <Grieks: veel.> zeer.",
+      "source_text": "οὐκ ἔστιν ὁ Θεὸς νεκρῶν, ἀλλὰ Θεὸς ζώντων· ὑμεῖς οὖν πολὺ πλανᾶσθε."
+    },
+    {
+      "verse_number": 28,
+      "original_text": "$Matth. 22.34. Luce 10.25.$ Ende een der Schriftgeleerde hoorende dat sy <D. te samen disputeerden met onderlinge vragen ende antwoorden.> te samen in woorden waren, [ende] wetende dat hy haer wel geantwoort hadde, quam tot hem, ende vraeghde hem, Welcke is het <Dat is, ’t voornaemste ende grootste van de geheele wet Godts.> eerste gebodt van allen?",
+      "final_text": "$Mt. 22:34; Lc. 10:25$ En een van de Schriftgeleerden, die hoorde dat zij <dat is, samen redetwistten met onderlinge vragen en antwoorden.> met elkaar aan het redetwisten waren, [en] wist dat hij hun goed geantwoord had, kwam naar hem toe en vroeg hem: Wat is het <Dat is, het voornaamste en grootste van de gehele wet van God.> eerste gebod van alle?",
+      "source_text": "Καὶ προσελθὼν εἷς τῶν γραμματέων, ἀκούσας αὐτῶν συζητούντων, εἰδὼς ὅτι καλῶς αὐτοῖς ἀπεκρίθη, ἐπηρώτησεν αὐτόν, Ποία ἐστὶ πρώτη πασῶν ἐντολή;"
+    },
+    {
+      "verse_number": 29,
+      "original_text": "Ende Iesus antwoordde hem, Het eerste van alle de geboden is, $Deuter. 6.4. ende 10.12. Luce 10.27.$ Hoort Israël, <Met het woort Heere wort overgeset het Hebreeusch woort Iehova, het welck beteeckent het Godtlick wesen, dat van eeuwigheyt in ende van hemselven bestaet, ende allen dingen haer wesen geeft.> De Heere onse Godt is een eenigh Heere.",
+      "final_text": "En Jezus antwoordde hem: Het eerste van alle geboden is: $Dt. 6:4; Dt. 10:12; Lc. 10:27$ Hoor, Israël! <Met het woord Heere wordt vertaald het Hebreeuwse woord Jehova, hetwelk betekent het Goddelijk wezen, dat van eeuwigheid in en van zichzelf bestaat, en alle dingen hun wezen geeft.> De Heere onze God is één enige Heere.",
+      "source_text": "ὁ δὲ Ἰησοῦς ἀπεκρίθη αὐτῷ ὅτι Πρώτη πασῶν τῶν ἐντολῶν, Ἄκουε, Ἰσραήλ· Κύριος ὁ Θεὸς ἡμῶν, Κύριος εἷς ἐστί·"
+    },
+    {
+      "verse_number": 30,
+      "original_text": "Ende ghy sult den Heere uwen Godt lief hebben uyt geheel uw’ herte, ende uyt geheel uwe ziele, ende uyt geheel uwen <Ofte, gedachte, Dat is, overlegginge des verstants.> verstande, ende uyt geheel uwe kracht. Dit is het eerste gebodt.",
+      "final_text": "En u zult de Heere uw God liefhebben met heel uw hart, en met heel uw ziel, en met heel uw <Of: gedachte. Dat is, overlegging van het verstand.> verstand, en met heel uw kracht. Dit is het eerste gebod.",
+      "source_text": "καὶ ἀγαπήσεις Κύριον τὸν Θεόν σου ἐξ ὅλης τῆς καρδίας σου, καὶ ἐξ ὅλης τῆς ψυχῆς σου, καὶ ἐξ ὅλης τῆς διανοίας σου, καὶ ἐξ ὅλης τῆς ἰσχύος σου. αὕτη πρώτη ἐντολή."
+    },
+    {
+      "verse_number": 31,
+      "original_text": "Ende het tweede [desen] gelijck, [is] dit, $Levit. 19.18. Matth. 22.39. Rom. 13.9. Galat. 5.14. Iacob. 2.8.$ Ghy sult uwen naesten lief hebben als u selven. Daer en is geen ander gebodt grooter dan <Namelick, dese twee voornaemste geboden.> dese.",
+      "final_text": "En het tweede [hieraan] gelijk, [is] dit: $Lv. 19:18; Mt. 22:39; Rm. 13:9; Gl. 5:14; Jk. 2:8$ U zult uw naaste liefhebben als uzelf. Er is geen ander gebod groter dan <Namelijk, deze twee voornaamste geboden.> deze.",
+      "source_text": "καὶ δευτέρα ὁμοία αὕτη, Ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν. μείζων τούτων ἄλλη ἐντολὴ οὐκ ἔστι."
+    },
+    {
+      "verse_number": 32,
+      "original_text": "Ende de Schriftgeleerde seyde tot hem, Meester, ghy hebt wel in der waerheyt geseght, datter een eenigh Godt is, ende daer en is geen ander dan hy.",
+      "final_text": "En de Schriftgeleerde zei tegen hem: Meester, u hebt terecht naar waarheid gezegd dat er één enige God is, en er is geen ander dan hij.",
+      "source_text": "καὶ εἶπεν αὐτῷ ὁ γραμματεύς, Καλῶς, διδάσκαλε, ἐπ’ ἀληθείας εἶπας ὅτι εἷς ἐστι Θεός, καὶ οὐκ ἔστιν ἄλλος πλὴν αὐτοῦ."
+    },
+    {
+      "verse_number": 33,
+      "original_text": "Ende, hem lief te hebben uyt geheel het herte, ende uyt geheel het verstant, ende uyt geheel de ziele, ende uyt geheel de kracht: ende den naesten lief te hebben als hemselven, is meer dan alle de <Brand-offers waren offeranden, die op den altaer geleght, ende aldaer geheel verbrant wierden. Slacht-offers, daer van maer een deel op den altaer verbrant wiert, ende de andere stucken, soo van de Priesters ende Leviten, als van de gene die offerden, gegeten wierden. siet. Lev. capp. 1.2, etc. Hoewel somwijlen dit woort oock breeder genomen wort.> brand-offeren ende de slacht-offeren.",
+      "final_text": "En hem lief te hebben met heel het hart, en met heel het verstand, en met heel de ziel, en met heel de kracht; en de naaste lief te hebben als zichzelf, is meer dan alle <Brandoffers waren offeranden, die op het altaar gelegd en daar geheel verbrand werden. Slachtoffers, waarvan maar een deel op het altaar verbrand werd, en de andere stukken, zowel door de Priesters en Levieten, als door degenen die offerden, gegeten werden. Zie Lv. hfdst. 1:2, enz. Hoewel dit woord soms ook ruimer genomen wordt.> brandoffers en slachtoffers.",
+      "source_text": "καὶ τὸ ἀγαπᾷν αὐτὸν ἐξ ὅλης τῆς καρδίας, καὶ ἐξ ὅλης τῆς συνέσεως, καὶ ἐξ ὅλης τῆς ψυχῆς, καὶ ἐξ ὅλης τῆς ἰσχύος, καὶ τὸ ἀγαπᾷν τὸν πλησίον ὡς ἑαυτόν, πλεῖόν ἐστι πάντων τῶν ὁλοκαυτωμάτων καὶ τῶν θυσιῶν."
+    },
+    {
+      "verse_number": 34,
+      "original_text": "Ende Iesus siende dat hy verstandelick geantwoort hadde seyde tot hem, Ghy en zijt <Overmits dese sijne belijdenisse uyt een leersaem gemoedt scheen voort te komen, vers 32. ende met de leere Christi dus verre over een quam: ende de bekentenisse van de wet een middel konde zijn om hem verder te brengen tot kennisse van hemselven, ende alsoo voorts tot Christum, Gal. 3.19.> niet verre van het Koninckrijcke Godts. Ende niemant en durfde hem meer vragen.",
+      "final_text": "En toen Jezus zag dat hij verstandig geantwoord had, zei hij tegen hem: U bent <Omdat deze belijdenis van hem uit een leerzaam gemoed scheen voort te komen, vers 32, en met de leer van Christus zover overeenkwam; en de bekentenis van de wet een middel kon zijn om hem verder te brengen tot kennis van zichzelf, en zo verder tot Christus, Gl. 3:19.> niet ver van het Koninkrijk van God. En niemand durfde hem meer iets te vragen.",
+      "source_text": "καὶ ὁ Ἰησοῦς ἰδὼν αὐτὸν ὅτι νουνεχῶς ἀπεκρίθη, εἶπεν αὐτῷ, Οὐ μακρὰν εἶ ἀπὸ τῆς βασιλείας τοῦ Θεοῦ. καὶ οὐδεὶς οὐκέτι ἐτόλμα αὐτὸν ἐπερωτῆσαι."
+    },
+    {
+      "verse_number": 35,
+      "original_text": "$Matth. 22.41. Luce 20.41.$ Ende Iesus antwoordde ende seyde, leerende in den tempel, Hoe seggen de Schriftgeleerde, dat de Christus een Sone Davids is?",
+      "final_text": "$Mt. 22:41; Lc. 20:41$ En Jezus antwoordde en zei, terwijl hij onderwijs gaf in de tempel: Hoe zeggen de Schriftgeleerden dat de Christus een Zoon van David is?",
+      "source_text": "Καὶ ἀποκριθεὶς ὁ Ἰησοῦς ἔλεγε, διδάσκων ἐν τῷ ἱερῷ, Πῶς λέγουσιν οἱ γραμματεῖς ὅτι ὁ Χριστὸς Υἱός ἐστι Δαβίδ;"
+    },
+    {
+      "verse_number": 36,
+      "original_text": "Want $Psalm 110.1. Actor. 2.34. 1.Corinth. 15.25. Hebr. 1.13. ende 10.13.$ David selve heeft door den Heyligen Geest geseght, De Heere heeft geseght tot mijnen Heere, <Siet hier van breeder Matth. 22. vers 44.> Sit aen mijne rechter [hant,] tot dat ick uwe vyanden sal geset hebben tot een voetbanck uwer voeten.",
+      "final_text": "Want $Ps. 110:1; Hd. 2:34; 1Kor. 15:25; Hb. 1:13; Hb. 10:13$ David zelf heeft door de Heilige Geest gezegd: De Heere heeft gezegd tegen mijn Heere: <Zie hiervan uitvoeriger Mt. 22:44.> Zit aan mijn rechter[hand], totdat Ik uw vijanden gemaakt zal hebben tot een voetbank voor uw voeten.",
+      "source_text": "αὐτὸς γὰρ Δαβὶδ εἶπεν ἐν τῷ Πνεύματι τῷ Ἁγίῳ, Εἶπεν ὁ Κύριος τῷ Κυρίῳ μου, Κάθου ἐκ δεξιῶν μου, ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου."
+    },
+    {
+      "verse_number": 37,
+      "original_text": "David dan selve noemt hem [sijnen] Heere: ende <Gr. van waer.> hoe is hy sijne sone? Ende de menighte der schare hoorde hem geerne.",
+      "final_text": "David zelf noemt hem dan [zijn] Heere; en <Grieks: vanwaar.> hoe is hij zijn zoon? En de grote menigte hoorde hem graag.",
+      "source_text": "Αὐτὸς οὖν Δαβὶδ λέγει αὐτὸν Κύριον· καὶ πόθεν Υἱὸς αὐτοῦ ἐστι; καὶ ὁ πολὺς ὄχλος ἤκουεν αὐτοῦ ἡδέως."
+    },
+    {
+      "verse_number": 38,
+      "original_text": "$Matth. 23.5, 6. Luce 11.43. ende 20.46.$ Ende hy seyde tot haer in sijne leere, <Gr. siet voor u, Namelick, dat ghy door hare schijnheyligheyt niet bedrogen, ofte door haer exempel tot diergelijcke geveynstheyt niet gebracht en wort.> Wacht u voor de Schriftgeleerde, die daer geerne willen wandelen in <Gr. Stolais, het welck beteeckent lange rocken ofte tabbaerden tot de voeten toe, om daer door te aensienlicker by de menschen te wesen: Soo dat Christus hier niet en verwerpt de kleederen, maer de eergierigheyt, die daer onder schuylde.> lange kleederen, ende <Gr. de groetenissen, Namelick, hebben.> gegroet zijn op de marckten.",
+      "final_text": "$Mt. 23:5-6; Lc. 11:43; Lc. 20:46$ En hij zei tegen hen in zijn onderwijs: <Grieks: zie voor u, Namelijk, dat u door hun schijnheiligheid niet bedrogen, of door hun voorbeeld tot dergelijke geveinsdheid niet gebracht wordt.> Pas op voor de Schriftgeleerden, die graag willen rondlopen in <Grieks: Stolais, wat betekent lange rokken of tabberds tot de voeten toe, om daardoor des te aanzienlijker bij de mensen te zijn: Zodat Christus hier niet de kleding verwerpt, maar de eerzucht, die daaronder school.> lange gewaden, en <Grieks: de groetenissen, Namelijk, hebben.> gegroet willen worden op de markten.",
+      "source_text": "Καὶ ἔλεγεν αὐτοῖς ἐν τῇ διδαχῇ αὐτοῦ, Βλέπετε ἀπὸ τῶν γραμματέων, τῶν θελόντων ἐν στολαῖς περιπατεῖν, καὶ ἀσπασμοὺς ἐν ταῖς ἀγοραῖς,"
+    },
+    {
+      "verse_number": 39,
+      "original_text": "Ende de voorgestoelten [hebben] in de Synagogen, ende de vooraensittingen in de <Gr. avontmalen.> maeltijden.",
+      "final_text": "En de voorste plaatsen [willen hebben] in de Synagogen, en de ereplaatsen bij de <Grieks: avondmalen.> maaltijden.",
+      "source_text": "καὶ πρωτοκαθεδρίας ἐν ταῖς συναγωγαῖς, καὶ πρωτοκλισίας ἐν τοῖς δείπνοις·"
+    },
+    {
+      "verse_number": 40,
+      "original_text": "$Matth. 23.14. Luce 20.47. 2.Timoth. 3.6. Titum 1.11.$ Welcke de huysen der weduwen op eten, ende [dat] onder den schijn van lange te bidden. Dese sullen <Gr. overvloediger.> swaerder <D. swaerder straffe in het oordeel.> oordeel ontfangen.",
+      "final_text": "$Mt. 23:14; Lc. 20:47; 2Tm. 3:6; Tt. 1:11$ Die de huizen van de weduwen opeten, en [dat] onder de schijn van lang bidden. Zij zullen <Grieks: overvloediger.> zwaarder <dat is, zwaardere straf in het oordeel.> oordeel ontvangen.",
+      "source_text": "οἱ κατεσθίοντες τὰς οἰκίας τῶν χηρῶν, καὶ προφάσει μακρὰ προσευχόμενοι· οὗτοι λήψονται περισσότερον κρίμα."
+    },
+    {
+      "verse_number": 41,
+      "original_text": "$Luce 21.1.$ Ende Iesus geseten zijnde tegen over $2.Reg. 12.9.$ de <Van dese schatkiste siet 2.Reg. cap. 12. vers 9. ende Matth. cap. 27. vers 6.> schatkiste, sagh hoe de schare <Gr. koper.> gelt wierp in de schatkiste, ende vele rijcke wierpen vele [daer in.]",
+      "final_text": "$Lc. 21:1$ En toen Jezus tegenover $2Kn. 12:9$ de <Over deze schatkist zie 2Kn. hfdst. 12:9 en Mt. hfdst. 27:6.> schatkist zat, zag hij hoe de menigte <Grieks: koper.> geld in de schatkist wierp; en veel rijken wierpen [er] veel [in].",
+      "source_text": "Καὶ καθίσας ὁ Ἰησοῦς κατέναντι τοῦ γαζοφυλακίου ἐθεώρει πῶς ὁ ὄχλος βάλλει χαλκὸν εἰς τὸ γαζοφυλάκιον· καὶ πολλοὶ πλούσιοι ἔβαλλον πολλά."
+    },
+    {
+      "verse_number": 42,
+      "original_text": "Ende daer quam een arme weduwe, die wierp twee kleyne [penninghskens daer in,] welck is een <Gr. Kodrantes: Van het Latijnsch Quadrans, Dat is, een vierde part van een obolus, welcke was ’t seste deel van een drachma silvers, welck seste deel, na onse reeckeninge, is ontrent een stuyver, soo dat een quadrans, na onse reeckeninge is ontrent een oortjen.> oort.",
+      "final_text": "En er kwam een arme weduwe, die wierp twee kleine [penningjes erin,] wat een <Grieks: Kodrantes: Van het Latijnse Quadrans, Dat is, een vierde deel van een obolus, wat het zesde deel van een drachme zilver was, welk zesde deel, naar onze rekening, ongeveer een stuiver is, zodat een quadrans, naar onze rekening ongeveer een oortje is.> oort is.",
+      "source_text": "καὶ ἐλθοῦσα μία χήρα πτωχὴ ἔβαλε λεπτὰ δύο, ὅ ἐστι κοδράντης."
+    },
+    {
+      "verse_number": 43,
+      "original_text": "Ende [Iesus] sijne discipelen tot hem geroepen hebbende, seyde tot haer, Voorwaer ick segge u, dat $2.Corinth. 8.12.$ dese arme weduwe meer ingeworpen heeft, dan alle die in de schatkiste geworpen hebben.",
+      "final_text": "En toen [Jezus] zijn discipelen bij zich geroepen had, zei hij tegen hen: Voorwaar, ik zeg u dat $2Kor. 8:12$ deze arme weduwe er meer in heeft geworpen dan allen die in de schatkist geworpen hebben.",
+      "source_text": "καὶ προσκαλεσάμενος τοὺς μαθητὰς αὐτοῦ, λέγει αὐτοῖς, Ἀμὴν λέγω ὑμῖν ὅτι ἡ χήρα αὕτη ἡ πτωχὴ πλεῖον πάντων βέβληκε τῶν βαλόντων εἰς τὸ γαζοφυλάκιον·"
+    },
+    {
+      "verse_number": 44,
+      "original_text": "Want sy alle hebben van haren overvloet [daer in] geworpen: maer dese heeft van <Ofte, van ’t gene sy selve gebreck hadde.> haer gebreck, al wat sy hadde [daer in] geworpen, haren gantschen <Gr. leven, D. wat sy overigh, ende van doen hadden om te leven.> leeftocht.",
+      "final_text": "Want zij allen hebben van hun overvloed [erin] geworpen; maar deze heeft van <Of: van wat zij zelf tekort kwam.> haar armoede, alles wat zij had [erin] geworpen, haar hele <Grieks: leven, dat is, wat zij over had, en nodig had om te leven.> levensonderhoud.",
+      "source_text": "πάντες γὰρ ἐκ τοῦ περισσεύοντος αὐτοῖς ἔβαλον· αὕτη δὲ ἐκ τῆς ὑστερήσεως αὐτῆς πάντα ὅσα εἶχεν ἔβαλεν, ὅλον τὸν βίον αὐτῆς."
+    }
+  ],
+  "epilogue": {
+    "original": "",
+    "final": ""
+  }
+}
