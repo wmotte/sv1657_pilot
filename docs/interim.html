@@ -388,12 +388,14 @@
             document.getElementById('file-badge').classList.remove('hidden');
 
             // Display introduction
-            if (data.introduction.original || data.introduction.modernized) {
+            const introOriginal = data.introduction.original || data.introduction.original_text;
+            const introModernized = data.introduction.modernized || data.introduction.corrected_text || data.introduction.final;
+            if (introOriginal || introModernized) {
                 document.getElementById('introduction-section').classList.remove('hidden');
-                document.getElementById('intro-original').innerHTML = 
-                    formatText(data.introduction.original);
-                document.getElementById('intro-modernized').innerHTML = 
-                    formatText(data.introduction.modernized);
+                document.getElementById('intro-original').innerHTML =
+                    formatText(introOriginal);
+                document.getElementById('intro-modernized').innerHTML =
+                    formatText(introModernized);
                 
                 if (data.introduction.language_review.has_suggestions) {
                     document.getElementById('intro-suggestions').classList.remove('hidden');
@@ -430,12 +432,14 @@
             }).join('');
 
             // Display epilogue
-            if (data.epilogue.original || data.epilogue.modernized) {
+            const epilogueOriginal = data.epilogue.original || data.epilogue.original_text;
+            const epilogueModernized = data.epilogue.modernized || data.epilogue.corrected_text || data.epilogue.final;
+            if (epilogueOriginal || epilogueModernized) {
                 document.getElementById('epilogue-section').classList.remove('hidden');
-                document.getElementById('epilogue-original').innerHTML = 
-                    formatText(data.epilogue.original);
-                document.getElementById('epilogue-modernized').innerHTML = 
-                    formatText(data.epilogue.modernized);
+                document.getElementById('epilogue-original').innerHTML =
+                    formatText(epilogueOriginal);
+                document.getElementById('epilogue-modernized').innerHTML =
+                    formatText(epilogueModernized);
                 
                 if (data.epilogue.language_review.has_suggestions) {
                     document.getElementById('epilogue-suggestions').classList.remove('hidden');
