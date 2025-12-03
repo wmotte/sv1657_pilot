@@ -557,7 +557,8 @@
         =================================================*/
         const VerseDisplay = ({ verse, sourceLanguage }) => {
           const original = useMemo(() => parseTextWithMarkers(verse.original_text), [verse.original_text]);
-          const final = useMemo(() => parseTextWithMarkers(verse.final_text), [verse.final_text]);
+          const finalText = verse.corrected_text || verse.final_text;
+          const final = useMemo(() => parseTextWithMarkers(finalText), [finalText]);
 
           // Detecteer of het Grieks of Hebreeuws is via regex
           const isGreek = /Grieks/i.test(sourceLanguage);
@@ -769,6 +770,7 @@
                       </div>
 
                       {(bibleData.introduction?.original ||
+                        bibleData.introduction?.corrected_text ||
                         bibleData.introduction?.final) && (
                         <div className="mt-6 pt-6 border-t border-gray-200 dark:border-gray-700">
                           <h3 className="text-center text-lg font-semibold text-gray-700 dark:text-gray-300 mb-4">
@@ -800,7 +802,7 @@
                                   lineHeight: 1.6,
                                 }}
                               >
-                                {bibleData.introduction.final}
+                                {bibleData.introduction.corrected_text || bibleData.introduction.final}
                               </p>
                             </div>
                           </div>
@@ -853,6 +855,7 @@
                     </div>
 
                     {(bibleData.epilogue?.original ||
+                      bibleData.epilogue?.corrected_text ||
                       bibleData.epilogue?.final) && (
                       <div className="mt-8 p-6 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg">
                         <h3 className="text-center text-lg font-semibold text-gray-700 dark:text-gray-300 mb-4">
@@ -884,7 +887,7 @@
                                 lineHeight: 1.6,
                               }}
                             >
-                              {bibleData.epilogue.final}
+                              {bibleData.epilogue.corrected_text || bibleData.epilogue.final}
                             </p>
                           </div>
                         </div>
