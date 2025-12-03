@@ -968,6 +968,7 @@
                       </div>
 
                       {(bibleData.introduction?.original ||
+                        bibleData.introduction?.original_text ||
                         bibleData.introduction?.corrected_text ||
                         bibleData.introduction?.corrected ||
                         bibleData.introduction?.final) && (
@@ -987,7 +988,7 @@
                                   lineHeight: 1.6,
                                 }}
                               >
-                                {bibleData.introduction.original}
+                                {bibleData.introduction.original_text || bibleData.introduction.original}
                               </p>
                             </div>
                             <div>
@@ -1064,6 +1065,7 @@
                     </div>
 
                     {(bibleData.epilogue?.original ||
+                      bibleData.epilogue?.original_text ||
                       bibleData.epilogue?.corrected_text ||
                       bibleData.epilogue?.corrected ||
                       bibleData.epilogue?.final) && (
@@ -1083,7 +1085,7 @@
                                 lineHeight: 1.6,
                               }}
                             >
-                              {bibleData.epilogue.original}
+                              {bibleData.epilogue.original_text || bibleData.epilogue.original}
                             </p>
                           </div>
                           <div>
